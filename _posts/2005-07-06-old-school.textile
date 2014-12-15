@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Old School"
+date:   2005-07-06 20:00:00
+author: "Jody"
+avatar: "wayne_happy"
+---
+Wow, we're old school today. I swear I did a backup of the site since we upgraded to DM 2.0. Fear not, not all is lost. We got moved to another server (and I won't say it's the last time) and I don't have my old box in my hands, so it might be a little while before I can get everything the way it was.
+
+ As you may have noticed, the message board is down. I _did_ back up the database just before we went down, but importing it has not worked so well. I blame it on phpMyAdmin.
+
+ Anyway, all your message posts are safe. In the meantime I'll try to set up a temporary message board that I'll later merge with the old one once it's alive again.
+
+ Sorry!

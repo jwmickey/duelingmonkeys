@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<div class="content-box">
+    <h3 class="news-title">{{ page.title }}</h3>
+    <p>
+        <img src="{{ page.thumbnail }}" class="game-thumbnail" width="64" height="64">
+        <span style="font-style:italic;">Date: </span>{{ page.date }}<br>
+        <span style="font-style:italic;">Contributors: </span>{{ page.contributors | join:', ' }}<br>
+        <span style="font-style:italic;">Download: </span>
+        <a href="{{ page.download }}">{{ page.download }}</a>
+    </p>
+    <hr class="divider">
+    <div class="news-body">
+        {{ content }}
+    </div>
+</div>
+

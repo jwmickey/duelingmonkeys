@@ -1,0 +1,42 @@
+---
+title:        "Karma Riot v2"
+date:         "2010"
+download:     "/downloads/games/karmariot_100712.zip"
+contributors: 
+  - "Mike Daly"
+  - " Paul Spychala"
+thumbnail:    "/images/games/karmariotv2/karmariotv2_thumb.png"
+images: 
+  - "/images/games/karmariotv2/karmariotbeta1.png"
+  - "/images/games/karmariotv2/karmariotbeta2.png"
+  - "/images/games/karmariotv2/karmariotbeta3.png"
+  - "/images/games/karmariotv2/karmariotbeta4.png"
+  - "/images/games/karmariotv2/karmariotbeta5.png"
+  - "/images/games/karmariotv2/karmariotbeta6.png"
+  - "/images/games/karmariotv2/karmariotbeta7.png"
+summary: "An old school Kart racing game with a few twists, phase 2"
+---
+Karma Riot is a multiplayer Kart Racing game heavily inspired by Super Mario Kart for the SNES. I spent the last quarter of 2009 working on a prototype for the game, which can be found here: "Karma Riot phase 1":/games/karmariot.
+
+The "phase 1":/games/karmariot page has a description of the game's design intentions so I'll just briefly summarize here. Karma Riot is like Mario Kart in that every player has a chance to catch up, but instead of doing so via random gifts, they do so using simple skill-based maneuvers. There are no random items in Karma Riot.
+
+The game requires a 360 controller for each player. There is a capable AI driver as well. The controls are:
+
+* Right Trigger: Gas
+* Left Trigger: Brake
+* Left Thumbstick: Steer
+* A: Shield
+* X: Bump Left
+* B: Bump Right
+* Y: Fireball
+
+h3. Requirements:
+
+* One or more Wired Xbox 360 controllers
+* Shader Model 2.0+ capable graphics hardware
+* "Microsoft XNA Framework Redistributable 3.1":http://www.microsoft.com/downloads/details.aspx?FamilyID=53867a2a-e249-4560-8011-98eb3e799ef2&displaylang=en
+* ".NET Framework Version 2.0 Redistributable Package (x86)":http://www.microsoft.com/downloads/details.aspx?FamilyID=0856eacb-4362-4b0d-8edd-aab15c5e04f5
+* "DirectX 9.0c Redistributable":http://go.microsoft.com/fwlink/?LinkID=56513&clcid=0x409
+
+
+

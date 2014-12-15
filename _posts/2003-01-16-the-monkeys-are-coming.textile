@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "The monkeys are coming!"
+date:   2003-01-16 19:00:00
+author: "Mike Daly"
+avatar: "willow_calm"
+---
+This semester's schedule seems to be pretty slack, which is a radical change from last, one which was desperately needed. Anyway, because of that, hopefully I will find time to do some cool webpage stuff.
+
+ The first of these things I found myself doing was creating a little icon for the webpage. I wanted it to be curvy, but getting photoshop to cooperate was a pain, so I ended up scanning the sketch I did in class and using it. Unfortunately, it turned out a little rough. I will have to re-work that later. If I can get my hands on 3D Studio Max any time soon, I will create a nifty intro logo animation. Cool, huh?
+
+ In other news, because of my free time, I am trying to play with all the stuff I got for christmas, like my drafting table for drawing, Splinter Cell, Onimusha (I got that one for myself), and Unreal Tournament 2003. I was hoping to develop some stuff for UT, but the editor refuses to work on my computer. Additionally, I don't have 3D Studio Max, so I can't work on character models or static meshes either.

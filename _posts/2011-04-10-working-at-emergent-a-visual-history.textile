@@ -1,0 +1,79 @@
+---
+layout: post
+title:  "Working at Emergent - a visual history"
+date:   2011-04-10 00:00:00
+author: "Mike Daly"
+avatar: "willow_calm2"
+---
+Since August 31 2005 I've been keeping daily logs of the stuff I do at work. This was exactly one year after I started work at NDL, which would later merge with Emergent. Pretty much any day between then and now I can look up what I got done that day and what I was planning on doing next. About halfway through 2007 I started tracking time breakdowns too. Now that my time at "Emergent Game Technologies":http://www.joystiq.com/2010/11/13/emergent-to-sell-gamebryo-and-the-rest-of-its-assets/ has ended, I figured it would be fun to see if I can mine some fun facts out of the files. Enjoy this visual tour of my career at Emergent!
+
+h3. Word clouds
+
+There's a neat toy on the internet called "Wordle":http://www.wordle.net/ that will create word clouds for you. I wrote a quick c# program that composites and filters all of my log files for a particular time range into a format that Wordle supports and generated a few clouds. They do a decent job of approximately representing the sorts of things I was concerned with.
+
+"!/filespace/mike/wordcloud_egt_500.png!":/filespace/mike/wordcloud_egt.png
+_The cloud for my entire career at Emergent. Click to see bigger version_
+
+"!/filespace/mike/wordcloud_2005_500.png!":/filespace/mike/wordcloud_2005.png
+_The 2005 cloud - I did a lot more support before we hired full time support people. Also, words like axis, grid, gizmo, euler, bezier, orthographic, camera remind me that this was the time I was doing viewport and interaction controls for our first level editor called Scene Designer_
+
+"!/filespace/mike/wordcloud_2006_500.png!":/filespace/mike/wordcloud_2006.png
+_2006 - This year a few things showed up - PS3, Jonathan, Katie, PhysX, I started working on the Maya plug-in (shudder), and I still did a ton of support (especially for "Breakaway Games":http://www.breakawaygames.com/ and "King's Isle Entertainment":http://www.kingsisle.com/)_
+
+"!/filespace/mike/wordcloud_2007_500.png!":/filespace/mike/wordcloud_2007.png
+_2007 - not actually much interesting stuff here. I guess I started testing more. Still lots of support and Maya work_
+
+"!/filespace/mike/wordcloud_2008_500.png!":/filespace/mike/wordcloud_2008.png
+_2008 - now that I was tracking time all year, a few words showed up in every day's log, which kind of bias them. Looks like Rob, Brian, Gabe, and Nate showed up this year, started talking about demos and game jams. &quot;MM&quot; shows up - short for Mangled Metal (our GDC 2009 demo that debuted with Gamebryo LightSpeed_
+
+"!/filespace/mike/wordcloud_2009_500.png!":/filespace/mike/wordcloud_2009.png
+_2009 - even though MM was finished in March, it still had a huge presence in my logs. Implemented whiteboxing and was consultant for an ill-fated full screen effects project. Hooray for relatively little Maya_
+
+"!/filespace/mike/wordcloud_2010_500.png!":/filespace/mike/wordcloud_2010.png
+_2010 - started work on Glide, lots of talk going on about prototyping, had to start dealing with Kickstart and Daydreamer_
+
+h3. Career calendar images
+
+I made another quick c# app that generates a chart where every day that I worked is represented by a cell. I used this to make charts out of a bunch of different parameters that I wanted to learn about. I think you can actually draw some pretty interesting conclusions from these charts, mainly by looking at a significant disruptive event in my career - the 2009 GDC demo Mangled Metal. Looking back at my news posts here around that time, I can tell I was pretty miserable and the charts kind of hint at that too. For context, here are some related DM posts: "The New Dueling Monkeys! GDC! Shotguns! Lightning! Complaining!":/news/archive/2009/03/31/281, and "Triangle Game Conference, Taiwan, Mangled Metal, and Gamebryo LightSpeed":/news/archive/2009/05/05/283.
+
+Here's a quick explanation of what you are going to be looking at: each cell is one day, each column of cells is a month, and each year is divided by a thick line. Empty spaces mean that I did not have a log file for that day (weekends, vacations, business travel, etc). A grey space means that I have a log, but it didn't meet the cirteria for that chart. A white cell means that the log for that day did meet the condition for the chart. The short year at the beginning is 2005, the short year at the end is 2010.
+
+For the ones that are based off of time, I didn't start tracking time until mid-2007 so all days before then will show up as grey for all time-based charts. Also, my working time is computed using my start and end times on a day minus any time spent doing things non-work related. I tracked the time I spent on things like lunch, games, or long unrelated conversations so they do not count as work time. Ok now, on with the pictures!
+
+!/filespace/mike/careercalendar_inbefore9.png!
+_Each white day is a day that I got to work before 9 AM. Can you see where I suddenly lost interest in getting to work early? (hint: look at the end of February 2009)_
+
+!/filespace/mike/careercalendar_outafter6.png!
+_These are days that I left work after 6 PM. It stayed pretty consistent except for a 3-month block where I stayed late almost every day: January - March 2009. Also, days stayed late started falling off at the end._
+
+!/filespace/mike/careercalendar_weekends.png!
+_Days that I worked that were weekend days. Generally, I didn't mind coming in on weekends that much, but the 9 or so that I lost working on our GDC demo was pretty terrible (the chart doesn't show all of the missing weekends at that time due to weeks spent in China and at GDC._
+
+!/filespace/mike/careercalendar_workedover85hours.png!
+_Days that I did more than 8.5 hours of actual work (not counting lunch/breaks/etc). Prior to the huge clump at the beginning of 2009 I worked overtime pretty regularly without being asked. After the demo, my interest in working overtime dropped off pretty quick and never recovered, especially towards the end of my time at Emergent._
+
+!/filespace/mike/careercalendar_workedover12hours.png!
+_These are days that I worked over 12 hours. They did not show up that often. More than half of them were due to the GDC demo_
+
+!/filespace/mike/careercalendar_workedunder7hours.png!
+_Days that I worked less than 7 hours. They used to be mostly on weekends, but obviously I was losing interest in what I was doing right before I left._
+
+!/filespace/mike/careercalendar_maya.png!
+_Days that I mentioned Maya. I was not supposed to be the primary engineer working on Maya, but I ended up dedicating a ton of time to it anyway - it was a troubled plug-in and Emergent didn't have much luck with the people that were the primary Maya engineers._
+
+!/filespace/mike/careercalendar_max.png!
+_Days that I mentioned Max. I was the primary engineer on our 3ds Max plug-in so any extended periods where I didn't mention it were times when Emergent was basically neglecting the plug-in._
+
+!/filespace/mike/careercalendar_moreoverheadthanengineering.png!
+_Days where I spent less time doing engineering work than doing other non-engineering work. Non engineering work includes meetings, support, testing, general communication, and internal support. This is something Emergent got better about over time until close to the end when we lost a lot of people._
+
+!/filespace/mike/careercalendar_morethan2overhead.png!
+_Days that I spent more than 2 hours on overhead._
+
+!/filespace/mike/careercalendar_morethan2support.png!
+_Days that I spent more than 2 hours on support. This would have been lit up in 2005-2006 if I had tracked time during that period. Support load also ramped up as we lost people_
+
+!/filespace/mike/careercalendar_badwords.png!
+_Days that I felt the need to write bad words in my log. The streak towards the middle of 2010 was when I first moved into my home office._
+
+Well, that was fun. It was really interesting to see all this stuff visualized and made me nostalgic for a lot of things. It also reminded me of a bunch of not so happy things. Later!

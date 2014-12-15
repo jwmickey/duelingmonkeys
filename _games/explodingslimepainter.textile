@@ -1,0 +1,29 @@
+---
+title:        "ExplodingSlimePainter"
+date:         "2012"
+download:     "/downloads/games/explodingslimepainter_121111.zip"
+contributors: 
+  - "Mike Daly"
+  - " Michael Noland"
+  - " Frank Voelker"
+thumbnail:    "/images/games/explodingslimepainter/explodingslimepainter_thumb.png"
+images: 
+  - "/images/games/explodingslimepainter/explodingslimepainter_1.jpg"
+  - "/images/games/explodingslimepainter/explodingslimepainter_2.jpg"
+  - "/images/games/explodingslimepainter/explodingslimepainter_3.jpg"
+  - "/images/games/explodingslimepainter/explodingslimepainter_4.jpg"
+  - "/images/games/explodingslimepainter/explodingslimepainter_5.jpg"
+summary: "Slam slimes into things to make them explode color everywhere."
+---
+Exploding Slime Painter was made for the 2012 "Triangle Game Jam":http://www.trianglegamejam.com/. The theme of the Jam was Mad Libs (we did this theme back in "2008":/games/doublebeerblaster as well). The idea was that everyone came with a list of 5 adjectives, 5 nouns, and 5 verbs, we put them all together in a database and had a simple program generate game titles out of them. We had to pitch game concepts based off of the generated titles. This year is actually the first out of 8 game jams that I've attended where I didn't make a game based off of my own proposal (excluding the one where I didn't make a game, but that doesn't count).
+
+In any case, we started out with a pretty vague idea of what we wanted the main game mechanics to be, and honestly, didn't clarify it a whole lot over the course of development. In the end, there was a valid game system in place where you could get points and stuff, but really the reward for playing all along comes in the visceral feedback you get when you stomp on slam a slime into a wall and they explode goo everywhere. It's pretty fun, you should try it.
+
+We had a small team, so I kind of bounced around between doing random programming tasks (probably the biggest one I worked on was getting the painting mechanics in place) and integrating (and modifying as needed) the random internet art we used for the game. Overall, I feel like it felt pretty polished for a game jam game, especially considering how close to the wire we were for submitting it, and that the first time we played the game competitively was when we were giving the post-jam presentation.
+
+h3. Requirements:
+
+* "Microsoft XNA Framework Redistributable 4.0":http://www.microsoft.com/download/en/details.aspx?id=20914
+
+
+

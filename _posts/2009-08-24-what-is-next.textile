@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "What is next?"
+date:   2009-08-24 21:49:53
+author: "Mike Daly"
+avatar: "willow_calm2"
+---
+So as you might have noticed, I just finished a few projects. I made the prototype for "Comic Game":/games/comicgame, I worked on "Sunny Day":/games/sunnyday at the "Triangle Game Jam":http://www.trianglegamejam.com, and I made "Daly Homes inc":/games/dalyhomesinc for my dad's birthday. Now it is time to choose what to work on next. However, I've been trying to decide what to work on next for a few weeks, and there are just too many good options. Allow me to enumerate.
+
+h3. Start a new project
+
+One option is to start a new game project. I've got quite a long list of ideas that I'm excited about working on, but the one that comes to the front of the list would be a game simiar to the SNES Mario Kart. Here are the reasons I'm interested in a nutshell:
+
+* The mechanics of the original Mario Kart are really simple and I don't think it would take long to reproduce the experience
+* Mario Kart was a really fun party game; the Xbox 360 needs games like that
+* I'd like to experiment with an idea I had of a friction gauge that makes the mechanics of when you turn, skid, slide, etc a little more obvious to the player
+* I'd like to take the random stage hazards and random items out of the game - these just kept making newer Mario Kart games worse
+* I'd like to experiment with an idea I had for auto-balancing gameplay in which the further behind you are, the easier it is to perform skill-based maneuvers to catch up
+* If I used bitmap files and XML as the level editor, I could make it really easy to mod so anyone could easily add their own track
+
+h3. Release an old project on Xbox Indie Games
+
+I've create a bunch of crappy games and posted them here. However, making those games is a lot of work and not that many people visit this webpage or subscribe to this blog. It would be nice to have more people appreciate what I work on by actually releasing it in a way that lots of people will be aware of it. However, given the state of my current projects, I would want to polish them up a little more before doing this. This is what I'm thinking:
+
+* Add a puzzle mode, online multiplayer, a better tutorial, and a graphics overhaul to "Connexus":/games/connexus
+* Add the last few effects, a soundtrack, better AI, and online multiplayer to "Orbital":/games/orbital
+
+h3. Port Comic Game to the web
+
+A while back, I created the "Comic Game":/games/comicgame prototype. I could do a whole lot more with it:
+
+* Create an interactive comic editor so that anyone can create branching comic storylines
+* Create a library of re-useable art that anyone can use in the editor
+* Create a few more comic stories
+* Port the viewer and editor to the web so that anyone can view and create interactive comics from anywhere
+* Beg my favorite webcomic authors to create interactive comics for the webpage
+
+h3. Develop my skills of an artist
+
+I am not a talented artist. However, I like the idea of being one. I think it would be cool to take some time off from programming, and just practice drawing, digital painting, re-vitalize my knowledge of 3d modeling to make it current, and just generally do lots of study and practice. I've found that the limited set of art skills that I already have come in pretty handy on a regular basis so it couldn't hurt to expand that. I also spend a lot of my time browsing digital art; I really wish I could create some of the stuff I appreciate so much. I also have a theory that if I spend my free time doing art instead of programming, it will keep me from getting burned out as easily on programming, which I do for my day job already.
+
+h3. Slack off and play video games for a while
+
+This is what I've already been doing for the past few weeks. I've been playing Command &amp; conquer: Red Alert 3, Battlefield: Bad Company, Professor Layton and the Curious Village, and more Defense Grid: The Awakening. There are a handful of games out there that I'm interested in playing and it would be nice to be a little closer in touch with the state of the game industry. Plus, it would be easy and fun.
+
+This reminds me, I just recently finished the story for "Professor Layton and the Curious Village":http://professorlaytonds.com/. This game is super-awesome. I recommend it for anyone with access to a DS.
+
+h3. The Point
+
+Why am I going on and on about my hobby options? As I mentioned before, I've been having some trouble deciding. So I want your input. If you read this blog/news feed, I would like you to post a comment saying what you think I should work on. Jody just added a feature so that you don't have to be registered to submit a comment. I also want to figure out if anybody still ever reads news posts.
+
+For the sake of color, here is a picture that I drew/colored while trying to decide what to do next. It is a fanarts; do you recognize the character?
+
+!/filespace/mike/terrabranford500.png!
+_If you guess right, your vote counts twice_
+
+
+

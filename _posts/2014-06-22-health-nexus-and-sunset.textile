@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Health, Nexus, and Sunset"
+date:   2014-06-22 23:42:19
+author: "Mike Daly"
+avatar: "willow_calm2"
+---
+Hey folks, here's what's been going on in my life for the past few months (categorized for your convenience):
+
+h3. Health
+
+So going into my surgery last year I was told that there was actually a pretty significant chance of post-surgery complications (two likely complications had a 30% chance each) because it was such a major operation. I'm happy to report that I'm feeling great. I seem to have gotten away from the surgery without suffering any major complications. How my body behaves is a little different but talking about how often I get gas is boring so I'll just leave it as &quot;I'm fine&quot;.
+
+h3. Insomniac Games
+
+Did I mention that "Ratchet &amp; Clank: Into the Nexus":http://www.insomniacgames.com/games/ratchet-clank-into-the-nexus/ was released? It was. It seems to be well received. I think it turned out great, so pick it up if you have a chance! Here's some of the things I worked on for this game:
+
+* Coding some of the weapons ("Warmonger":http://ratchet.wikia.com/wiki/Warmonger, "Nightmare Box":http://ratchet.wikia.com/wiki/Nightmare_Box, and "Winterizer":http://ratchet.wikia.com/wiki/Winterizer)
+* Design contributions for weapons and weapon ability upgrades
+* Coding for the weapons upgrade system
+* Creation and balance for all weapons' upgrade grids
+* Coding for the Arena and some tuning/balance
+* Difficulty system and difficulty tuning/balance work
+* Challenge mode implementation and balance
+* Platinum Tier arena challenges design
+* Economy system implementation and economy tuning/balance work, including:
+
+** Setting Bolt values for enemies, crates, and weapon prices
+** Rubber banding system and thresholds
+** Hero XP and HP progression rate
+** Enemy attack strength (at each difficulty level)
+** Weapon XP and power progression
+** Raritanium acquisition rate and upgrade grid sizes
+** Telemetry analysis
+
+It was a super fun game to work on. There were a bunch of fun challenges in both programming and design that I'd never had to deal with before. I especially liked working on the weapons, where I got to try a bunch of crazy stuff to see what worked.
+
+I don't mean to make it sound like I was the only one doing a lot of the design and tuning/balancing mentioned above; a few other people were involved that made a huge contribution. I just wanted to make a list of the stuff I contributed to.
+
+h3. Promotion
+
+After Nexus shipped, we decided to adopt a new team structure which meant introducing team leads. The result of this process, to my surprise, was that I ended up in the role of *Design Team Lead*. So not just did I have to grapple what it meant to lead a team but also switch departments (I was previously a Gameplay Programmer).
+
+This was pretty intimidating at first because the designers I was leading all had a lot more design experience than I did. However, I'm feeling pretty good about it now. The team is very supportive in areas where I don't know much and I've found that there are some areas of design in which I bring a lot to the table. I think that organizing the team has helped take some pressure off of the directors and has resulted in more attention and thought getting put into decisions and a high and low level. So far I love being in the design department and I like being a team lead. I hesitate to say whether it is better than being a programmer until I've shipped a game in this role; you don't know a game dev job very well until you've gone through an end-cycle with it.
+
+Speaking of shipping a game, Sony announced that Insomniac will be bringing Ratchet &amp; Clank to the PS4 next year at their E3 press conference. I'm working on that, so I guess I don't have to wait long to see what that feels like! Did you know that there is also going to be a Ratchet &amp; Clank movie coming out next year? I think it's looking pretty good. Check out "the E3 trailer":https://www.youtube.com/watch?v=4Y_cY_miDxo.
+
+Although I haven't worked on "Sunset Overdrive":http://www.insomniacgames.com/games/sunset-overdrive/, I'm still proud just to be associated with it because it looks like it kicked some serious butt at E3! There's so much cool stuff about that game, I can't wait for it to come out later this year.
+
+I've done some hobby stuff too, but this is already running kind of long so I'll touch on that later.

@@ -1,0 +1,21 @@
+---
+title:  "Digiorno"
+author: "Mike Daly"
+cook_time: ""
+prep_time: ""
+cleanup_time: ""
+course: "Main Dishes"
+categories: 
+  - "Italian"
+---
+h3. Ingredients
+
+
+h3. Directions
+
+
+h3. Comments
+
+Digiorno is something no college student should be without. I see a lot of people have reservations about frozen foods, and righfully so. I have exparimented with other frozen pizza, and have found them to not really be worth the time. Digiorno, on the other hand is excellent and well worth the cost and time (especially if you are lazy).
+
+ The only downside is that you will have to fast for a week to work off the fat consumed in each bite.

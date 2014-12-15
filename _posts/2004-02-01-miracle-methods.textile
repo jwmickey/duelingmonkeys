@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Miracle Methods"
+date:   2004-02-01 19:00:00
+author: "Mike Daly"
+avatar: "willow_calm"
+---
+So, I was really going to do my update yesterday, but i was distracted by another one of the inevitable nights where I fail to do my homework ahead of time and was forced to spend the greater part of the day completing it.
+
+ This one was a real doozie. I had a big graphics program due at midnight (3 hours ago as of now), and I didn't start on it until roughly the midnight before. After about a dozen hours of &quot;binge programming&quot;, I realized that I hadn't been able to compile my program since I had started. Quite natrually, my program had over 100 errors, forcing the compile to abort.
+
+ Enter the &quot;binge debugging&quot; phase. Here I spent several hours continuously recompiling after changing one line at a time to find out where all these mysterious errors were coming from.
+
+ Next was the &quot;realizing that you have 2 homework assignments due in your first class&quot; phase. I managed to write a one-page summary of the semester's study so far in the 10 minutes between when I took a quick (and freezing cold) shower and ran out the door to catch the bus.
+
+ Returned home, passed out, awoke, realized desparity of situation.
+
+ So, it was then about 5 o'clock pm. I had a truckload of compile errors that I had not been able to fix after hours of effort, and even if the program compiled, the core of it was only about 1/3 complete. The cherry was that I'd only gotten tiny patches of sleep in the past 2 days. Despite the utter impossibility of my survival at this point, I pressed on, and that's when something strange happened.
+
+ Here's my theory: do you remember that old fairy tale about the elves that snuck into the cobblers shop at night and made lots of shoes for him? I figure those elves (or their decendants) hacked my computer to install a hypnotic screensaver. While I was entranced, they took up the keyboard, wrote the program, then let me wake back up. In my bumbling, exhausted state, I tried to keep writing the program, screwing up their program in the process resulting in the most shoddy looking miniature golf course displaying program ever.
+
+ Although my memory is pretty fuzzy of the last few hours of development, the conclusions of whatever actions I took during that time were clear: I had actually managed to get the program running by deadline.
+
+ I don't usually result to being really dorky, but I feel that the situation warrants the use of special language.
+
+ w00t, my friends. w00t.

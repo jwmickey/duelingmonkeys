@@ -1,0 +1,34 @@
+---
+title:        "Slither"
+date:         "2012"
+download:     "/downloads/games/slither_120129.zip"
+contributors: 
+  - "Mike Daly"
+  - " Shovaen Patel"
+  - " Lori Wilson"
+thumbnail:    "/images/games/slither/slither_thumb.png"
+images: 
+  - "/images/games/slither/slither7.jpg"
+  - "/images/games/slither/slither8.jpg"
+  - "/images/games/slither/slither9.jpg"
+  - "/images/games/slither/slither10.jpg"
+  - "/images/games/slither/slither11.jpg"
+summary: "As the Oroboros, enclose the right discs before eating your tail"
+---
+Slither was made for the 2012 "Global Game Jam":http://globalgamejam.org/jam. The theme was simply an image of the "Oroboros":http://en.wikipedia.org/wiki/Oroboros which I thought was pretty cool because it led to a lot of neat ideas.
+
+The game I pitched was that you control a snake who slithers around the stage until the head comes into contact with the end of the tail at which point it bites it and becomes a complete loop. There are two colors of puck scattered over the level, which correspond to the colors on either side of the snake. The idea is that once the connection is made the stage ends and you get points for which discs are enclosed by a segment of the snake that uses the appropriate bordering color. In other words, you generally want to encircle the yellow discs going clockwise and the blue discs counter clockwise.
+
+The game ended up with a nice balace of coordination, timing, and puzzle solving. For a 2-day game, I'm very pleased with the result - it's actually kind of fun! I'm glad that such a simple gameplay concept feels good to play and yet I haven't played other games like it so it feels pretty unique.
+
+My favorite part of development was just seeing the snake first slither around, it was very cool to see it in motion.
+
+The game requires an Xbox 360 controller to play. Just guide the snake around with the left thumbstick.
+
+h3. Requirements:
+
+* Xbox 360 controller for PC
+* "Microsoft XNA Framework Redistributable 4.0":http://www.microsoft.com/download/en/details.aspx?id=20914
+
+
+

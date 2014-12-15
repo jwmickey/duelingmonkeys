@@ -1,0 +1,48 @@
+---
+title:        "Beautiful Pixels"
+date:         "2007-2008"
+download:     "/downloads/games/beautifulpixels_090118.zip"
+contributors: 
+  - "Mike Daly"
+  - " Vince Scheib"
+  - " Nolan Walker"
+  - " Andy Jones"
+  - " Jody Mickey"
+thumbnail:    "/images/games/beautifulpixels/beautifulpixels_thumb.jpg"
+images: 
+  - "/images/games/beautifulpixels/beautifulpixels1mid.jpg"
+  - "/images/games/beautifulpixels/beautifulpixels2mid.jpg"
+  - "/images/games/beautifulpixels/beautifulpixels3mid.jpg"
+  - "/images/games/beautifulpixels/beautifulpixels4mid.jpg"
+  - "/images/games/beautifulpixels/beautifulpixels5mid.jpg"
+  - "/images/games/beautifulpixels/beautifulpixels6mid.jpg"
+summary: "My implementation of Vince's idea to make a game where you could mix and match game logic and game renderer."
+---
+The concept of Beautiful Pixels was to make a simple framework that has two extension points: a visualizer module and a game logic module. Both the game logic and the visualizer only have access to a common object that basically just holds a grid of integers, and a palette. The Game Logic has no way of displaying anything other than by changing the entries in the grid/palette and the visualizer has no idea what is going on in the game logic - it just reads from the grid and renders it however it chooses.
+
+There are a couple of aspects of this that are pretty neat:
+
+* Since output is so limited, any game running on the framework is forced to be simple - can't really display statistics or menus so they are restricted to being simple games
+* If you want to write a game, you don't have to worry about any framework code or rendering code, all the work you do is 100% game logic, which is the most fun part
+* If you want to experiment with some rendering technique, you don't have to worry about a framework or writing any gameplay or interaction logic
+* The game logics and visualizers can be mixed and matched arbitrarily making interesting combinations
+* Because of the above point, each new game logic and visualizer can potentially add something more to the whole that just itself - the more the better
+
+The name of the project comes from the idea that each grid entry basically represents a pixel on a relatively low-resolution grid. Instead of having a game made up of millions of tiny pixels, we want to make games made up of hundreds of large beautiful pixels. Some game concepts that map well to the framework would be things like old Atari games that were forced to be horribly low resolution, or board games that are based off of a grid (tic tac toe, checkers, etc).
+
+The goal of the framework is to have a platform that makes creating games super fast and easy. You could easily implement a functional game in less than a day. I would like to think that other people might be motivated to contribute their own game and/or visualizer modules. I'd like to have something fun for myself to work on as well as have something to encourage other people to try making games on their own so they can realize how much fun it can be.
+
+The concept behind Beautiful Pixels was Vince's idea. He came up with it when we were brainstorming possible themes for Triangle Game Jam 2008. The group of organizers ended up voting against it, but it still ended up being a fun project to work on. A lot of friends ended up contributing modules to it too. My favorite part was Nolan's game 'Platformer' where you play a character that is only 2 pixels that can run, jump, double jump, wall slide, wall kick, and die a horrible death.
+
+Out of the game logics that I put into it, I decided to pull Connexus out into its own game. I've also re-used some of the effects and UI code in other projects, so it ended up being very useful.
+
+h3. Requirements:
+
+* Shader Model 2.0+ capable graphics hardware
+* Xbox 360 controller (for some games)
+* "Microsoft XNA Framework Redistributable 2.0":http://www.microsoft.com/downloads/details.aspx?FamilyID=15fb9169-4a25-4dca-bf40-9c497568f102&displaylang=en
+* ".NET Framework Version 2.0 Redistributable Package (x86)":http://www.microsoft.com/downloads/details.aspx?FamilyID=0856eacb-4362-4b0d-8edd-aab15c5e04f5
+* "DirectX 9.0c Redistributable":http://go.microsoft.com/fwlink/?LinkID=56513&clcid=0x409
+
+
+

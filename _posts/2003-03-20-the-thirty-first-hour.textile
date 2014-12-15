@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "The thirty-first hour"
+date:   2003-03-20 19:00:00
+author: "Mike Daly"
+avatar: "willow_calm"
+---
+Is when it happened. It is not usual for the wall to arrive this late. I don't know how many of you are familiar with the physical effects of pulling an all nighter, but it has kind of become on of my hobbies lately. Usually around the 20th hour of consiousness, you &quot;hit the wall&quot;, that is, it suddenly becomes extremely difficult to stay awake, this lasts for an hour or two, then passes, and it is not difficult to stay up for the rest of the following day.
+
+ I didn't sleep last night (for no good reason), and I noticed an odd phenomenon: I didn't hit the wall. Throughout last night and most of today, I felt no sleepiness. Usually, when you hit the wall, you feel yourself getting very tired and it becomes a struggle to keep your head up and your eyes focused. This time it was different. I didn't notice it was here until I woke up. I was at a presentation on computer animation and art. I knew that sleeping in such a place would be very disrespectful, therefore, I made sure to keep my head up and pay attention. Then I woke up again. This is starting to get disorienting because I have no idea what he is talking about. After the third time I wake up, I start hoping the presentation ends soon so I don't embarass myself, but I know that I'd only been there about 20 or 30 minutes, and it was an hour and a half presentation. At least that is what if felt like. I was obviously misjudging the time I had been there.
+
+ I woke up a fourth time to the sound of applause, he had just shown his main movie. Hopefully he would be letting out early then. I checked my watch, it was 5:18; the presentation had already carried over by 18 minutes.
+
+ The fact that I had no warning that I was going to fall asleep was kind of new, and the total time disorientation is always fun. Staying up is awesome!
+
+ Oh yeah, last night, while not sleeping, I wrote a little php file for opening pictures all pretty like. If you head on over to the galleries you will see what I mean. Also, I started work on a new piece of art for the gallery, but I haven't completed it yet. You'll see it soon.

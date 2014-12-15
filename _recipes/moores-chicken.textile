@@ -1,0 +1,25 @@
+---
+title:  "Moore\'s Chicken"
+author: "Jody"
+cook_time: ""
+prep_time: ""
+cleanup_time: ""
+course: "Main Dishes"
+categories: 
+  - "American"
+---
+h3. Ingredients
+
+* 2 boneless skinless chicken breasts (either fresh cut or for a lot less money, the bagged chicken is pretty tasty too)
+* "Moore's Marinade":http://www.mooresmarinade.com
+
+h3. Directions
+
+# Soak thawed chicken breasts in marinade for 30 mintues to one hour. This marinade only needs this amount of time, so marinading for 8 hours or more is not neccessary and doesn't really help.
+# Cook chicken until center is no longer pink
+
+h3. Comments
+
+The marinade has a really good flavor. I got home from work, put the chicken in the marinade, took a shower, and by the time I got done, the chicken had soaked in plenty of flavor. Cleanup was a breeze.
+
+ We had it with "broccoli and cheese":cooking.php?view=specific&item=28 and applesauce.

@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Hello Kaylin! Hello San Francisco!"
+date:   2011-03-20 00:00:00
+author: "Mike Daly"
+avatar: "willow_calm2"
+---
+Exciting news; as of last month I have a new niece! Kaylin Lang Daly. This summer Amanda and I are planning on taking a trip out to Shanghai to see her, which I'm excited about.
+
+"!/filespace/mike/trevorandkaylin_640.jpg!":/filespace/mike/trevorandkaylin.jpg
+_She already understands cooties! - they grow up so fast_
+
+h3. San Francisco
+
+Also, I recently took a trip to San Francisco with Amanda. It was pretty awesome. We spent a few days walking around the city and saw lots of neat stuff. I've updated my "Vacation Gallery":/gallery/mike-vacations with a bunch of pictures. Cool stuff we did in San Francisco includes but is not limited to:
+
+* Eating tasty Dim Sum
+* Get a personal explanation of how Trolleys work from an operator
+* Walk around Fisherman's Wharf, including seeing the legendary boat &quot;Bojangles&quot;, clam chowder, and some sea lions
+* See an old penny arcade machine collection. The &quot;Opium Den&quot; was a highlight
+* Dining in the French Quarter
+* Drive over the Golden Gate Bridge
+* Hike through "Muir Woods":http://www.parksconservancy.org/visit/park-sites/muir-woods-national-monument.html?gclid=COay-66s3KcCFUpJ2godGnl4-g
+* The "California Academy of Sciences":http://www.calacademy.org/?gclid=CLn6j8us3KcCFcpQ2godCnxl_Q, which had a nice aquarium, indoor rainforest, and planetarium
+* Drive through the Mission District and eat at the Taqueria
+* Walk though "Golden Gate Park":http://www.golden-gate-park.com/, including a Japanese Tea Garden
+* Visit Japan Town and eat mochi ice cream and an adorable crepe
+* Visit a Tiki Bar
+* Spend some quality time at the "King George Hotel":http://greystonehotels.com/kinggeorge/
+* Eat some delicious deep dish pizza at "Little Star":http://www.littlestarpizza.com/
+* Eat at the fancy "House of Prime Rib":http://houseofprimerib.net/home.html
+* Ride around on the BART (Bay Area Rapid Transit)
+* Some clothes shopping
+
+!/filespace/mike/sanfran_5_640.jpg!
+_This picture isn't the most representative of San Francisco, but I can get very excited about dinosaurs_
+
+h3. GDC
+
+Another reason that I was in San Francisco was to attend the 2011 "Game Developers Conference":http://www.gdconf.com. I think this might have been the first time (out of maybe 4?) that I went there entirely for education - I didn't have to help run a booth, give demos, or do sales support! I went to a lot of really good sessions and learned a lot of stuff. Some of the stuff I learned about there:
+
+* Creating Game Trailers
+* Sony's Next Generation Portable
+* How not to fail
+* Player Driven Story
+* Encouraging Cooperation in Co-op Games
+* Minimizing Exposition in Games
+* Understing Cognitive Biases
+* Networking in Halo Reach
+* Automated LOD in Halo Reach
+* Halo Reach Effects Tech
+* Crytek and Epic tech demos
+* Played the 3DS a little
+
+I could tell you all about the stuff I learned in more detail but my notes were 15 pages so it's a bit much for a post here. If you are super curious you can just e-mail me. Anyway, that's it until next time!

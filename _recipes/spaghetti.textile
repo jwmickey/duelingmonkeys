@@ -1,0 +1,28 @@
+---
+title:  "Spaghetti"
+author: "Mike Daly"
+cook_time: ""
+prep_time: ""
+cleanup_time: ""
+course: "Main Dishes"
+categories: 
+  - "Italian"
+---
+h3. Ingredients
+
+* 1 lb. Ground Beef
+* 1 medium pack Spaghetti Noodles
+* 1 medium jar Ragu Sauce
+
+h3. Directions
+
+* Bring a half filled pot of water (big enough for your spaghetti of course) to a boil
+* Brown the ground beef in a frying pan
+* Once water is boiling, add noodles and boil for about 10 minutes or until noodles are soft and white
+* Once ground beef is browned, pour sauce in frying pan and simmer until noodles are ready
+
+h3. Comments
+
+There are a great variety of Ragu sauces to mix in with this. Our personal favorite is Super Chunky Mushroom. Don't forget to add some parmesean cheese for extra flavor.
+
+ We like to make up some "Garlic Bread":/recipes/garlic-bread.html to go along with the spaghetti.

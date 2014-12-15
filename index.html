@@ -1,0 +1,20 @@
+---
+layout: news
+---
+{% for post in site.posts limit:5 %}
+    <div class="content-box">
+        <img src="/images/icons/private/{{ post.avatar }}.jpg" style="float:left;margin-left:-8px;">
+        <h3 class="news-title">{{ post.title }}</h3>
+        <span style="font-style:italic;">
+            {% if post.author %}by {{ post.author }}<br>{% endif %}
+            {{ post.date | date: "%b %-d, %Y" }}
+        </span>
+        <hr class="divider">
+        <div class="news-body">
+            {{ post.excerpt }}
+        </div>
+        <p>
+            <a href="{{ post.url }}">Read More...</a>
+        </p>
+    </div>
+{% endfor %}

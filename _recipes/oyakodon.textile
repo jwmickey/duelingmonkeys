@@ -1,0 +1,33 @@
+---
+title:  "Oyakodon"
+author: "Wesley"
+cook_time: ""
+prep_time: ""
+cleanup_time: ""
+course: "Main Dishes"
+categories: 
+  - "Japanese"
+---
+h3. Ingredients
+
+* 2 chicken breasts, chopped into small chunks
+* 4 eggs, mixed together well
+* 1 onion, sliced thin(cut in half, then slice)
+* 3 tbls soy sauce
+* 2 tbls sake
+* 2 tbls sugar
+* 1/2 package of dashi (can be found at asian food store)
+
+h3. Directions
+
+# in large skillet add just enough water to cover the bottom of the pan, then add the dashi. heat on hi until the water begins to bubble
+# add the whole onion and let simmer until it becomes soft
+# add the chicken breast chunks
+# when the chickin is nearly cooked through, add the sake and sugar. stir well, then add the soy sauce.
+# add the egg evenly to the pan, turn the heat down a bit and cook for 1 to 2 min. DON'T MIX. the egg should be cooked on the bottom, but slightly undercooked on top.
+# divide and serve on white rice
+# the end
+
+h3. Comments
+
+this is one of my favorite dishes (thanks Hitomi!). its a bit difficult to get at first, you will probably have to make it a few times before you get it right. i guessed at the measurements, because i don't measure when i make it. you might have to play around with it and adjust the levels of water, soy sauce, or sake. i've made this many times and it takes me only about 15 min (the rice takes about 30). the end. (Wesley is the man)

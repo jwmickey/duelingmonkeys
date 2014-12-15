@@ -1,0 +1,116 @@
+---
+layout: post
+title:  "Hospital Time"
+date:   2013-10-23 00:00:00
+author: "Mike Daly"
+avatar: "willow_calm2"
+---
+So you may know that I've had problems dating back to 2005 with bouts of "pancreatits":http://en.wikipedia.org/wiki/Pancreatitis. In 2009, we discovered a small cyst in my pancreas that the doctors believed to be an "IPMN":http://en.wikipedia.org/wiki/Ipmn.
+
+Unfortunately, not enough is understood about the workings of the pancreas to know why I started getting pancreatitis, why it was recurring, or why I had an IPMN. What we do have are statistics correlating conditions with outcomes that can be used to inform how to respond. The suggested response in this case was to remove the larger part of my pancreas and re-attach the remainder in a major surgical operation called a "Whipple procedure":http://en.wikipedia.org/wiki/Whipple_procedure. The primary motivation behind taking this drastic step is to prevent the IPMN from getting a chance to become malignant, resulting in a very deadly "pancreatic cancer":http://en.wikipedia.org/wiki/Pancreatic_cancer.
+
+I was in the hospital from 10/14/13 through 10/21/13 for the operation and the recovery that followed. Expected hospitalization time for this was 7-10 days so I count myself lucky for escaping on the low end of the estimate. Here are some of the fun things I got to experience while I was there; apologies in advance for the very wordy post.
+
+h3. Operating table positioning
+
+I don't rememer anything from the procedure, but after I woke up, there were 3 apparent sources of pain; one from my wound , both elbows, and the back of my head.
+
+My arms were really sore the first time I bent them, which the nurses explained was probably due to them being hyperextended on the operating table over the entire course of surgery (this was about a 6-hour procedure, by the way). Even now, I feel lingering aches if I leave my arms straight for a minute. If they know that this causes problems, why can't they figure out a way to keep my arms out of the way in a way that allows them to rest natrually?
+
+I initially dismissed the stinging in the back of my head as the roots of my hair hurting because their direction got changed while my head was resting on the table. I should have probably realized that I was on some pretty significant painkillers at this point so something trivial like that probably wouldn't come through. It was only until a day or two later that I scratched my head and picked out a huge scab when I realized that I actually had a cut on the top of my head. Even now, 9 days after surgery, I can feel a scabbed bump. Did I get dropped on my head or something?
+
+h3. Tubes
+
+Coming out of the operation, I had a total of 7 tubes coming out of me:
+
+* "NG tube":http://en.wikipedia.org/wiki/Nasogastric_intubation going in my nose
+* 2x "IV tubes":http://en.wikipedia.org/wiki/IV_tube
+* 2x drainage tubes going into my guts near the surgery site (internally, they lead to the pancreas)
+* "Epidural":http://en.wikipedia.org/wiki/Epidural catheter in the middle of my back
+* "Foley":http://en.wikipedia.org/wiki/Foley_catheter catheter (warning, description link contains pictures of penis)
+
+The NG tube was vacuuming out any remaining stomach contents to prevent nausea. This is necessary because my entire digestive system was &quot;asleep&quot; at this point so nothing in my stomach would move through in the proper way, causing the body to react by vomitting it. Any time my throat made a swallowing motion, I felt things rub against the tube in the back of my throat, which causes a natural reaction to want to swallow again creating a cycle of discomfort. Fortunately, this thing came out after only a day of recovery. As a disgusting side-note, all of the stuff coming out of it looked like pesto.
+
+I also had a set of 5 "EKG":http://en.wikipedia.org/wiki/Electrocardiography leads attached to my chest that came out from a pocket in the front of my robe.
+
+While I was laying in bed, I also had a set of pumps strapped to my calves to help keep blood circulation high
+
+This made simple movement difficult. Getting in and out of bed was a multi-stage ordeal that took a few minutes. Since getting up and walking around is supposed to be one of the best things you can do for your recovery, it meant going through this process many times throughout the day, which ended up making time pass kind of quickly.
+
+h3. Coughing
+
+From very early on, the doctors told me that I'd need to practice coughing. This is a lot easier said than done considering there is a considerable wound in my abdomen. Coughing hurts quite a bit.
+
+One of the first few nights my nasal system starts producing a ton of phlegm. Since I lay back to sleep at an incline, all of this runs down and eventually forces an involuntary cough to prevent it from obstructing my airway. This regular super-painful involuntary coughing basically kept me up all night. At first, there was just a lot of coughing but eventually I got experimental with this vacuum tube they gave me and learned how I could suck most of the mucus out before it was a real problem. Unfortunately, my sinuses kept producing the stuff so it still kept me up all night sucking it out every minute or two with the occasional cough.
+
+h3. Itching
+
+I reported intense itching on my body ranging from above my knees to below my neck (including my arms). The itch was costantly popping up in new places, so trying to rub or scratch it was futile. To handle this, doctors added a medicine (that I forget the name of) to my IV. I couldn't really tell the difference, so after a while, they doubled the dosage.
+
+That night, the itching got so bad that it woke me up and I couldn't fall back asleep. I hit the nurse call button so they could help me get medication, the dispatcher said they'd send the nurse my way. I waited, after 20 or 30 minutes of intense itching, the nurse call light timed out and went off again. I called the dispatcher back, she said she'd send the nurse, and after another while the light timed out again.
+
+On the third time I called the dispatcher, I made it clear that the nurse was not coming and finally a different nurse came by to talk about what was going on and eventually give me some Benedryl. The whole episode took about an hour and a half.
+
+Later, when the nurse said that in order to combat the itching, they were thinking of increasing the medication dosage again, I told her about how I still couldn't tell the difference from the increased dosage of the anti-itching and that I didn't think it was going to work. When I asked if there were any alternate itch-supressing medications available, she said yes, we tried one, and it worked. Yay! A few hours later, the shift changed and the new nurse says she's working on getting the dosage increased for the original medication so I got to go through the whole process again. It still took a while for them to stop administering the original medication from my IV.
+
+h3. IV site
+
+One night, a doctor was administering Valium to help manage pain and help me sleep. My left hand IV was used for the steady stuff, and the right was typically for injections. I mentioned that as the Valium was being administered, there was a stinging sensation that originated from the IV site and traveled down my arm. It faded after a few minutes. At the time we wrote that off as a side effect of the medication, but the next morning when the nurse was flushing the IV with some saline the same stinging sensation occurred. In the light, I could see with only that small amount of saline my skin was swelling up; the IV needle had lost the vein.
+
+We had to take the IV out and put in a new one; now I had two in my left arm. It may be worth noting that I super hate needles, so this was very disappointing.
+
+h3. Foley catheter
+
+After a few days the doctor says that they were going to take out my foley catheter. This was good because the thing was quite cumbersome and occasionally caused spikes of discomfort when I move around.
+
+Getting the catheter taken out was highly unpleasant; that thing comes into contact with a lot of very sensitive stuff. The best analogy I can think of is; imagine what it's like to hit your funny bone, now imagine that instead of being instantaneously struck, someone is just rubbing the nerve and continually (yet still irregularly) activating it.
+
+After getting the catheter out, the doctor says I should start peeing on my own again. However, I don't feel like peeing. Later the doctor says that not being able to pee on my own is a pretty common side-effect of having an epidural and if I don't start peeing on my own, they will put the catheter back in! This was a very distressing development.
+
+So I try hard to pee. I try moving around into every position I can think of in case it helps. It turns out that scratching my butt also makes me need to pee more. Eventually a few drops come out, which is very exciting to me. I'm hopeful that if I keep it up, I can get used to peeing and won't have to get another foley catheter.
+
+I keep working at it, occasionally able to get a few drops out. However, it never gets any easier and this is a very slow process. After an hour and a half of trying to pee I was able to get 250ml out. We asked the nurse how much I would need to pee in order to avoid getting the catheter back in and she said that what I had done so far was fine. I was super relieved to stop trying to pee, but in order to avoid getting another catheter taken out, I would have tried to pee all day if I had to.
+
+Then the doctor gets back, measures that I have 1.5 liters of urine in my bladder and says the catheter goes back in. Now, when the first catheter went in, I was under general anasthesia so I didn't know how bad this was going to be. The doctor reassured me that it was very high tech and there were numbing agents involved.
+
+Getting a foley catheter put in without anasthesia was by far the worst experience of the entire trip. Similar nerves get fired off as having it removed, but more of them, over a longer duration, with much more intensity.
+
+Why did they think it was a good idea to take the thing out in the first place if they knew this was likely to happen!? This was the worst!
+
+h3. Nausea
+
+One of the goals within a few days of the surgery was to get my digestive system rebooted. To this end, they put me on a liquid diet. I ate 2 meals consisting of jello, juice, and a popsicle. I wasn't feeling nauseous after this, but there wasn't much indication of activity in my guts either. After sleeping that night, the doctors came in early the next morning to discuss how I was doing (doctors seemed to usually visit between 6 and 7 AM). They asked if I felt nauseous and I told them I didn't. About 30 seconds later, I felt a spike in nausea, requested a bucket, and threw up in front of all of the doctors. Another few minutes later, it happens again.
+
+For the same reason that coughing hurts a lot, throwing up hurts a lot worse. Turns out there are a lot of ways the abdomen can involuntarily react to things.
+
+h3. Leads
+
+A few times when getting back into bed after a walk, I forgot to plug the EKG leads back in to the monitor beside my bed and the nurse would stop by and ask me to plug it in; all of the vital monitors were connected to the dispatcher so they knew when I was disconnected.
+
+On one of the later days of my stay, someone comes in to perform an EKG using a different set of leads. When I ask why they can't use the ones that are already attached, they replied that I don't need those original leads anymore. We ask the nurse about this, who also seemed to think that I didn't need them but there was some confusion. I'm not sure if I was supposed to remove them or not, but we took them off and the dispatcher didn't complain about them being disconnected. A later nurse seemed to think that they still needed to be attached, but when we asked her to look into it I don't think we got a clear resolution.
+
+When we finally look the leads off there was some pretty serious skin irritation under the adhesive patches. I'm not sure if this was from some sort of alergic reaction, or just from being stuck to unclean skin for so long. Either way, it was pretty gross. Lots of whiteheads.
+
+h3. interruptions
+
+There's a lot of reasons you can't get a good night's sleep in the hospital. A set of reasons are the regularly scheduled interruptions that you need to wake up for. Here are the ones I can remember:
+
+* vital signs taken every 4 hours
+* A blood thinner shot administered to my abdomen every 8 hours (did I mention that I super hate shots?)
+* Status update with the new nurse every shift change (12 hours)
+* New lidocane patches (for numbing) every 12 hours (I later learned that this was optional
+* Daily doctor's visit, usually between 6 and 7 AM
+
+Also, once the epidural and second foley catheter were finally out, I was still getting administered fluids regularly via IV, which meant I had to get up every few hours to go pee.
+
+h3. Cleanliness
+
+Looking back on my time there, one of the things that surprises me most is how little the doctors and nurses had to say on the subject of keeping clean. Pretty much everything we did to keep me clean was self-initiated. Considering how oily and sweaty my skin got sometimes, it seems like the staff would have recommended how and how often to wash myself.
+
+h3. Special Thanks
+
+I got a lot of help throughout this process. My parents as well as Amanda's parents were both there the day of and the days following the operation. They were a huge help when it came to taking care of things, making me comfortable, giving Amanda relief to get out of the hospital from time to time, and most of all seeing some familiar loving faces to make me feel better.
+
+Amanda's sisters Stephanie and Jennifer also pitched in a lot, visiting regularly, bringing meals, and taking shifts watching after me so that Amanda could take a break when the parents weren't around.
+
+But most of all, Amanda was there for me in a way I feel like I can't do justice to. At a time when I'm the least fun to be around, the least funny or smart or even interactive and the most grumpy, when there's nothing to do but sit in a dark smelly room waiting for something to happen, when she couldn't get a full night's sleep for interruptions, when she was constantly exposed to and asked to get involved with gross unpleasant stuff, she was incredibly patient, caring, tolerant, enthusiastic, understanding, and loving. Having here there with me the whole time made such a huge difference. I can't thank her enough. Going through this experience with her highlights how lucky I am to have someone like that as my partner. I love you, wife!

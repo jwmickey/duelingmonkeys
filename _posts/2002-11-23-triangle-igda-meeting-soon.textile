@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Triangle IGDA meeting soon"
+date:   2002-11-23 19:00:00
+author: "Mike Daly"
+avatar: "willow_calm"
+---
+I guess this is pretty irrelevant to most of you, but the next meeting of the Raleigh/Triangle chapter of the International Game Developers Association meets December 4th. You can expect me to be there.

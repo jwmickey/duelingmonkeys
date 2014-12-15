@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Introducing the new unbelievable SEARCH!"
+date:   2003-08-17 20:00:00
+author: "Jody"
+avatar: "wayne_calm"
+---
+Ok actually the search feature sucks. It doesn't do any kind of sorting by relevance. All it does is look for the existance of the word you typed in. And I stress *the* word. If you search for two or more words you won't find much of what you're looking for.
+
+ Hopefully I'll improve it over time, but for the hour I put into it, it'll do. Right now you can only search for news items or for recipies. Like say if you are in the mood for chicken, you can search for 'chicken' under ingredients (or in the title of a food).
+
+ There is also a little bug with hitting the back button to go back to search results. I'll have to look into that when I care a little more.
+
+ Well folks, thats all I have for today. And be thankful for that. I had an eventfull weekend with hardly any time to come up with something for the webpage. It's no google, but it does the trick, for now.
+
+ Peace out homies

@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Rectangular sphere"
+date:   2011-08-31 00:00:00
+author: "Mike Daly"
+avatar: "willow_calm2"
+---
+So I've started on a new hobby project. I'm not far enough along to go into details, but I have come up with one bit of technology that I think is cool so I'll talk about it now.
+
+A lot of levels in games are rectangular (from above) - being a rectangle makes a lot of things easier. Rectangles correspond to the shape of textures and regular geometric grids that can be used for terrain height fields. It's easy to make a rectangular world wrap too by just making sure it is tileable and drawing a few extra copies of the world once you get within sight of borders. A rectangle lets you use euclidean coordinate space. If I wanted to create a world, it would be easy to draw a rectangular map.
+
+However, it would be cool if the world was really stylized, like you are walking/flying over the surface of a mini planet. You can percieve the curvature of the world - it falls off in your peripheral vision and things climb up over the horizon as you move. Well, if your map needs to be spherical, it suddenly becomes a lot harder to draw. You have to start using spherical coordinates too, which complicates things like finding distances or even moving at a consistent speed in any direction.
+
+The thing I came up with is a way to use a wrapping rectangular world, but give it the illusion that it is spherical - a spherical rectangle. It's not rocket science or anything, but I think it's a neat concept and can be kind of a brain teaser to figure out how everything can continue to line up as you move over its surface.
+
+!/filespace/mike/worldexplorer12.jpg!
+_View of the terrain from high above_
+
+!/filespace/mike/worldexplorer11.jpg!
+_Same perspective, but without the spherical illusion_
+
+Finally, I put together some animated gifs of the world spinning in a few directions; can you tell that the rectangular world is repeating in every direction? The world still retains its rectangular proportions despite how much you spin the sphere - mysterious!
+
+!/filespace/mike/worldexplorerhoriz.gif!    !/filespace/mike/worldexplorervert.gif!    !/filespace/mike/worldexplorerdiag.gif!

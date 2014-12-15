@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "There is no light"
+date:   2002-11-25 19:00:00
+author: "Mike Daly"
+avatar: "willow_calm"
+---
+As I mentioned last night, I got some work done on my game engine. I was trying to implement surface normals for use in lighting and physics. This, in itself, is not difficut. For some reason, however, when I add a light to the scene, the gpu still insists on not shading the terrain. Stupid computers. At least the normals exists so I can use them for physics.

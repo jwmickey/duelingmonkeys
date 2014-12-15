@@ -1,0 +1,76 @@
+---
+layout: post
+title:  "Tornados and Comics"
+date:   2009-06-01 00:16:28
+author: "Mike Daly"
+avatar: "willow_calm2"
+---
+Earlier this month I spent a weekend at my friend Jewel's river house. The purpose of this event was to see her off as she has now moved to Fiji where she will work for the Peace Corps for the next 27 months.
+
+!/filespace/mike/jewelgoingawayagain.jpg!
+_Good luck Jewel!_
+
+
+
+
+Around the same time my older younger brother (brother no. 3) just completed boot camp for the US Air Force.
+
+!/filespace/mike/chrisafterbootcamp.jpg!
+_Good luck Chris!_
+
+
+
+
+When I returned home, apparently a tornado had come through the area. There was lots of leaves and pine needles and stuff in the road, but generally no big deal. I didn't think much of it until I noticed that in my back yard some random tree landed on my grill. This is very mysterious; there was no debris this size anywhere else and I don't know of any trees of this type even remotely close to my back yard.
+
+!/filespace/mike/treevsgrill_mid.jpg!
+_WTF?!_
+
+
+
+
+h3. Games I'm playing
+
+I've recently found myself distracted by two great games; "Cogs":http://www.cogsgame.com/ and "Defense Grid: The Awakening":http://defensegrid.hiddenpath.com/. Defense grid should be coming to Xbox Live Arcade sometime soon. I should also mention I have an ulterior motive; it uses "Gamebryo":http://www.gamebryo.com. They both have free demos; try them out!.
+
+!/filespace/mike/cogstitle.jpg!
+_It is really good_
+
+
+
+
+!/filespace/mike/defensegridlogo.jpg!
+_Also really good_
+
+
+
+
+My younger younger brother (brother no. 4) recently got a DS and picked up Castlevania Order of Ecclesia. I would post a link, but Konami apparently can't make a decent webpage to save their life so it's not worth visiting. Anyway, the game is a lot of fun; I would recommend it. I have run into a few problems though:
+
+* I played it for a few hours and my eyes are now totally bloodshot (this isn't the game's fault but it still hurts it)
+* There are some mechanics and enemies that make it really frustrating at times
+* The official webpage is terrible
+
+Just in case you were wondering.
+
+h3. New project: Comic Game
+
+I've started work on a new hobby project. I told myself I would finish "Orbital":games/orbital first and maybe improve "Connexus":games/connexus as well, but a few weekends ago I caved and started anyway.
+
+The idea is simply an interactive comic book; kind of like one of the old choose your own adventure stories but you can do more than just branching. Here is an analogy: If an old-school text adventure is like taking a test, playing comic game is like taking a multiple-choice pop quiz where the score doesn't count towards your grade.
+
+"!/filespace/mike/CgEarlyPrincePreview.png!":filespace/mike/CgEarlyPrinceStory.png
+_click to see a sample story permutation_
+
+
+
+
+Here is another path through the same story:
+
+"!/filespace/mike/CgEarlyPrincessPreview.png!":filespace/mike/CgEarlyPrincessStory.png
+_click to see a sample story permutation_
+
+
+
+
+THE END

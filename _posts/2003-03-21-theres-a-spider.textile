@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "There's a spider"
+date:   2003-03-21 19:00:00
+author: "Jody"
+avatar: "wayne_calm"
+---
+As I'm thinking of what to title this news update, I glance over to my left and see a spider just sitting on the floor, acting like he pays some of my rent. What he doesn't yet realize is that unlike Willow, I am not afraid of these pests, and my foot is about to inflict a great amount of pain.
+
+ As I unsuccessfully try to think of a better word than &quot;inflict&quot;, the spider makes a run for it, but his 8 legs are no match for my wingspan and I squash him inside a plastic bag. If you are a spider, tell your friends about this story and assure them that the same fate will come to them if they invade my home again (that is unless Willow sees you, then he will just freak out).
+
+ Anyways, to the point of my post. It's been a while since I've graced the news section with my presence and I see that Willow has been doing more coding than I have lately and that just isn't right. So I made an improvement on the galleries section. Since its getting bigger, I decided it needed its own link in the menu again, and I make Willow's imageviewer open a window that is the same size of the image, so you shouldn't have to scroll unless the image is too big for your resolution. There are a few bugs to work out though. I'm working on it.
+
+ Now I'm going to bed. Its late and I'm tired.

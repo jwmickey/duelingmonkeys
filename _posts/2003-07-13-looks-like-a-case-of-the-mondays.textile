@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Looks like a case of the mondays"
+date:   2003-07-13 20:00:00
+author: "Mike Daly"
+avatar: "willow_calm"
+---
+For yet another weekend, I managed to get my sleeping cycle turned on it's head in just 2 days. Waking up at 4pm then having to go to sleep again so you can wake up at 6:30 am the next day is not as easy as it sounds.
+
+ Despite all that, I've been playing with some pretty cool stuff this weekend. If you could wade through the gibberish of friday's post, you could have found out that I created a character model for use with Unreal Tournament. Currently, I'm only done with the modeling phase, so I still have texturing, animating, and importing to go.
+
+ Before I got started on that, though, I figured I'd play with the head that I'd modeled and tweak it to come up with a few variations, and make them high-res. This is the result: "my characters":imageviewer.php?image=images\gallery\modeling\headworkshop.jpg. After this, I decided to make a movie out of my favorite of the five. Allow me to introduce "Xavier":filespace/willow/headworkshop.avi, my virtual person, created from scratch.
+
+ That's what I've been up to. Wayne also managed to do his fair share of work. Of course his work was setting up a new surround sound system. We both spent the night organizing the mess of cables in the living room and putting all of our game stuff in some sort of reasonably organized order. "This":imageviewer.php?image=images/gallery/miscellaneous/livingroom3.jpg is the "result":imageviewer.php?image=images/gallery/miscellaneous/livingroom.jpg.
+
+ Anyway, that's the sort of fun stuff we've been up to. Hopefully I'll get this model done soon, when I do, you'll know it. See you Friday.

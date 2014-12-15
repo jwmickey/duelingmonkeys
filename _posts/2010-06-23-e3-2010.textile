@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "E3 2010"
+date:   2010-06-23 00:56:07
+author: "Mike Daly"
+avatar: "willow_calm2"
+---
+Hey guys, there's been some interesting stuff going on lately. I've been so busy I haven't taken the time to make an update, but if I don't do it now I'm going to start forgetting stuff, so here I go.
+
+Last week I went to "E3":http://www.e3expo.com/ for the first time. I only got half a day there, but I still got to see a lot of cool stuff. I'll boil down my experience into a few conventient bullets:
+
+* Microsoft's "Kinect":http://www.xbox.com/en-US/kinect is a bad idea and would we totally pointless if it weren't for the impressive "Dance Central":http://www.xbox.com/en-US/games/splash/d/dancecentral/
+* I can find no reason whatsoever to get excited about Sony's "Move":http://us.playstation.com/ps3/playstation-move/index.htm. It is a more expensive Wii that doesn't have any games to back it up. The Wii has already demonstrated that motion control based experiences are shallow.
+* Nintendo's "3DS":http://e3.nintendo.com/3ds/ seemed to steal the show in terms of interest. It looks like it has a ton of potential. Now if someone could only convince Nintendo to use "modern graphics techniques":http://en.wikipedia.org/wiki/Shader they would have a real winner on their hands.
+* I'm not that interested in the big games that were shown, but I was most impressed by the graphics in Sega's "Vanquish":http://www.sega.com/games/vanquish.
+* All of the things that got me genuinely excited were downloadable (XBLA, PSN) games, as listed below.
+
+There were a few games that I saw that I got really excited about. It is no coincidence that they are all smaller downloadable games that support multiplayer co-op. None of them seem to be getting a lot of press, so this may be news to you even if you were following E3. I got a little lazy and just decided to embed the trailers; take a look: (games are displayed in no particular order)
+
+
+_Castlevania: Harmony of Despair_
+
+
+_Necromachina_
+
+
+_Scott Pilgrim vs. The World_
+
+h3. Glide
+
+So Glide development is still coming along at work quite nicely, although only getting to work one day a week on it (and Friday at that) makes progress quite slow. Despite all of that, we took this video after about 6 days of effort was put in. I think we've come a really long way. This project is a team effort, but the stuff that I specifically contributed were flight mechanics, camera mechanics, landing coordination, and level design. Sadly, youtube took a big crap when I tried to upload it, so you'll need to download the video and hope you have whatever obscure codec I used. Check it out:
+
+* "Glide demo video":/filespace/mike/glide_100607.mp4
+
+Well, that's about enough embedded videos for one month. Maybe next month I'll go back to nice old fashioned static pictures. Later!

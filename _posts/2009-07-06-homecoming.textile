@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Homecoming!"
+date:   2009-07-06 00:23:48
+author: "Mike Daly"
+avatar: "willow_calm2"
+---
+The biggest news recently is that after years of toil and dismay, my brother David has finally gotten a VISA for his Wife Joka to live in the US. They should be moving to the states from China sometime this month. It will really be great to get to see Dave more than once every few years. Not to mention that I have a new nephew, Trevor, to play with too. It's very exciting! I can't wait to see you guys!
+
+h3. Europe Surprise!
+
+A few weeks ago, my boss stops by my desk and asks &quot;How would you like to go to Europe?&quot; I said, &quot;Sure; when?&quot; and he said &quot;THE DAY AFTER TOMORROW&quot;. The conversation didn't go exactly like that, but that's basically what happened.
+
+The trip was a one week sales trip to Serbia, France, and the UK to talk about my company's game engine: "Gamebryo":http://www.gamebryo.com. In some cases, we talked to potential customers, showed them how stuff works and answered their questions. In other cases, we visited existing customers where we gathered feedback and try to work through any problems they were having.
+
+Serbia was pretty cool. It was a lot more European than I expected for lack of a better adjective. The guys that we met there were very cool. They all spoke good English, were well educated, and had a lot of common cultural experience thanks to the internet (they love South Park). During the time we visited them, we hacked together a racing game prototype using their assets, which was fun. We ate a pile of meat with every meal. Our hotel was very nice; it was apparently built by a wealthy mobster. The guys we visited were called "Eipix":http://www.eipix.com/.
+
+!/filespace/mike/serbiancathedral.jpg!
+_Hello Serbia_
+
+
+
+
+France was really busy. We traveled from Serbia to France in the morning, visted our customer all day, then got on the train for London in the evening. There wasn't any time to see much of Paris, although fortunately I've been there before.
+
+We visited two studios in the UK. The first was a customer. There was one aspect of our engine that gave these guys a lot of trouble, so I got to basically sit there for a few hours while this one guy told me all the ways it was crappy. That wasn't a great experience, but at least it helped reinforce that we shouldn't put crappy things into the product. The other guys we visited had barely started evaluating, so there wasn't much to do other than give them a presentation.
+
+Overall, I had a lot of fun. The best part of the trip was Serbia.
+
+h3. Comic Game
+
+I mentioned Comic Game in my last post. I've been making very slow progress, but I'm finally at the end of phase one of the project:
+
+* A client application for rendering and displaying interactive comics
+* Comics are fully data driven
+* Completed comics are composited and saved as external images
+* One complete sample comic - &quot;Once Upon a Time&quot; by Mike Daly
+
+I've also created a new Games Page entry for it: "Comic Game":games/comicgame which has more info, some screenshots, and a download link for Phase 1. If you happen to download it and play through a story, look in the 'saves' sub-folder of the executable: it should contain an exported version of your playthrough of the story. I'd love to see what stories people follow. Be aware that the game has a pretty long loading time before it even shows the window. Sorry.

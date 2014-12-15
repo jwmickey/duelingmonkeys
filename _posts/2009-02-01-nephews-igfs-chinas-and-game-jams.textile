@@ -1,0 +1,71 @@
+---
+layout: post
+title:  "Nephews, IGFs, Chinas, and Game Jams"
+date:   2009-02-01 16:16:43
+author: "Mike Daly"
+avatar: "willow_calm2"
+---
+h3. Trevor
+
+A lot of stuff has happened since December. The first (chronologically speaking) and most important was that my nephew Trevor Long Daly was born. Between myself and my 3 brothers, this is the first child of the new generation; my parents are now grandparents and I'm now and uncle. I hope he will like video games.
+
+
+
+
+!http://classic.duelingmonkeys.com/filespace/willow/trevor.jpg!
+_Trevor Long Daly_
+
+
+
+
+h3. IGF results
+
+Shortly after Trevor was born, they announced the finalists for the 2009 Independent Games Festival. You might recall that I submitted a game called &quot;Connexus&quot;. As it turns out, I am not a winner. On the bright side, I didn't really expect to be a winner; I mainly entered so that I had a solid goal motivating me to follow through with the project. I have to decide what to do with Connexus now; I'll probably post it here sometime, but I might go through the additional effort of porting to Xbox and putting it on community games; we'll just have to wait and see. We'll have to wait quite a while to see.
+
+
+
+
+!http://classic.duelingmonkeys.com/filespace/willow/igffail.jpg!
+_IGF fail_
+
+
+
+
+h3. China
+
+My entire family just took a week long family vacation to Shanghai China to Visit my brother and sister-in-law (Dave and Joka) and, of course, Trevor. This was the first time all 6 of us have been together at once since, uh, a long time I think.
+
+In addition to meeting my Nephew and carrying him around on my chest for a while (while he was pooping and crying), there were some interesting things in China. One thing was that we went during the Chinese new year. For the Chinese, I think that new years (which is based off of the lunar calendar, I believe) is the most significant holiday; more significant for them than Christmas is for people in the US. There isn't a central fireworks show (as we are accustomed to on Independence Day) but rather, everybody gets tons of fireworks and sets them off whenever they feel like. On new year's eve and new years day, there was basically continual fireworks going off. As it got close to midnight, you could look out across the city and see fireworks going up from dozens of different locations constantly for hours. There were fireworks bouncing off of our building. It was super awesome. Seeing how much the Chinese love fireworks made me realize how much Americans are pansies about fireworks.
+
+Another interesting thing was that we went to an acrobatics show that was really cool. There was a bunch of stuff in the show that was amazing (in a very literal sense; I was amazed).
+
+h3. Global Game Jam
+
+As soon as I got back from China, I grabbed 4 hours of sleep then dashed off to the "Triangle's site":http://ggj.gamedrinkcode.com/ for the "Global Game Jam":http://www.globalgamejam.org. I helped out in organizing the event, so it was unfortunate that I missed the first day. I didn't work on a particular team, but rather moved between teams and pitched in wherever people needed help. I think this worked out well, because it allowed me to address team balance problems without getting tied down.
+
+I think the event worked out great, thanks to the efforts of Mike Lee (the lead organizer). There were a lot of people, the venue was great, and we came up with some really impressive games. I did some coding, such as creating an XML level loader for the two side-scrolling games, and did a little music for one of the games. However, the thing I probably spent the most time on was doing the art for a game called Space Fish. I think it turned out pretty decent:
+
+
+
+
+!http://classic.duelingmonkeys.com/filespace/willow/spacefish.jpg!
+_You should see it in motion_
+
+
+
+
+!http://classic.duelingmonkeys.com/filespace/willow/spacefishatom.gif!
+_The player_
+
+
+
+
+Here's the song that I came up with for the game Space Defenders of the 23rd Century: "Tether Main Theme":http://classic.duelingmonkeys.com/filespace/willow/TetherStage1.mp3. As usual, you'll probably have to save it to listen through the whole thing, but it's only like 40 seconds long.
+
+h3. I'm busy
+
+This sequence of events was complimented by an ever-increasing amount of stress at work. Leading up to the China trip, I was working a lot of overtime. This was to the point that I was totally unprepared for the trip as well as the Jam that I jumped into immediately after I got back. It was very hectic. Unfortunately, it's probably only going to get worse from here until GDC. I'm probably not going to have any time to work on interesting things in the meantime.
+
+However, Jody and I have already been working on something pretty awesome that's already almost done. Perhaps you will see it next update.
+
+End transmission.

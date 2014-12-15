@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Wonder of the modern age"
+date:   2003-04-01 19:00:00
+author: "Mike Daly"
+avatar: "willow_calm"
+---
+I have been trying to cut back on two things: getting to sleep too late or not at all, and posting meaningless things here. This post has betrayed both of those goals.
+
+ Posterity, however, will eventually thank me for my infringement, because I have found the most amazing thing the computer age has ever produced. Surely, this was the original intention of computers. Without further ado, I present to you:
+
+ "The meaning of life":http://www.albinoblacksheep.com/flash/neon.php

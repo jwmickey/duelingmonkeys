@@ -1,0 +1,49 @@
+---
+layout: page
+title: "About Us"
+---
+h3. About the Dueling Monkeys
+
+The Dueling Monkeys are a team of two people; Mike "Willow" Daly and Jody "Wayne" Mickey. Why they are on a team, and what that team hopes to accomplish is a mystery. By combining Wayne's talent to create webpages and Willow's talent for using a spellchecker and Photoshop's flood fill tool, they created this webpage to be their home on the internet.
+
+
+h4. Mike Daly (aka Willow Monkey)
+
+Vital Statistics:
+
+- NAME := Mike Daly
+- DoB := 820903
+- RESIDENCE := Plano, TX
+- OCCUPATION := Game Programmer
+- EDUCATION := NC State Computer Science c/o 2004
+- INTERESTS := Video Games, Shaders, Rock Climbing, Volleyball, Video Games
+- TALENTS := can use Flood Fill tool in Photoshop
+
+I am a game programmer working for the awesome Robot Entertainment. Once upon a time, I worked on game engines and tools for Gamebryo, a game engine. I like video games and I get to work with them so I can't complain. Well, I can complain, it just may not be justified.
+
+Although I'm a full time programmer by trade, I do enjoy doing some creating stuff in my free time. I'm kind of handy with Photoshop and 3ds Max and I've written a bunch of crappy digital music. The thing I enjoy most is tying this all together to make my own video games, which I would say is my primary hobby. Check out the hobby games that I've worked on here: Games.
+
+In the time I spend not staring at a computer monitor I enjoy rock climbing, volley ball, and staring at my TV (playing video games, of course).
+
+Feel entitled to e-mail me at mike at duelingmonkeys dot com.
+
+
+h4. Jody Mickey (aka Jody Monkey)
+
+Vital Statistics
+
+- NAME := Jody Mickey
+- DoB := 820723
+- RESIDENCE := Raleigh, NC
+- OCCUPATION := Web Developer
+- EDUCATION := NC State c/o 2005
+- INTERESTS := Pool, Volleyball, Weekend (or longer) Web Projects, sometimes Video Games
+- TALENTS := Over-enginering the photo gallery
+
+I have recently found myself unemployed, but I hope to update this little tid-bit of information in the near future. Not having anything to do all day is kind of nice for a little while, but then you get bored and bills taunt you. I want to work.
+
+I'm not quite so handy with making video games as Mike. He tries to make me learn, but that guy is miles ahead and it's hard to keep up. Occasionally he will convince me to sit down and write a simple AI or visual effect for his BeatifulPixels project, but for the most part I play around with various web projects which may or may not be shown on this website.
+
+I play pool regularly in a league. I like it a lot but sometimes it's a real pain to try to keep a team together that meets the APA handicap rule. I prefer 8-ball, but after 3 straight seasons of exceeding the handicap limit we decided to stick to 9-ball and see how it goes. If you're in the area and want to play sometime, get in touch with me.
+
+Based on Mike's email address given above, you have to guess mine.

@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "New Gallery!"
+date:   2007-06-24 20:00:00
+author: "Jody"
+avatar: "wayne_happy"
+---
+Hello Everyone. I have not updated in a long time, but what else is new?
+
+Don't get too excited because I rarely have time to work on this site and I expect this to take a while to complete simply because of the lack of time, but I am working on an exciting new gallery that I don't even have to maintain!
+
+The current gallery runs on the free program called, not surprisingly, "Gallery 2":http://gallery.sourceforge.net. It is a nice program, but I find it bloated, hard to customize, and it is a pain to upload photos to our website. That last one has nothing to do with the program itself, but it is another reason to find a new solution. Unfortunately Gallery 2 is arguably the best solution out there for free, but today I had a bright idea and it is starting to shape into something fun.
+
+Surely all of you know of the awesomeness that is "Flickr":http://www.flickr.com. I know that many of you are on my contacts list. Well the good folks at Yahoo! have provided the Flickr API for our entertainment, and I am going to put it to good use. I created a DuelingMonkeys account at Flickr and will eventually copy all the photos on our current gallery to it. All of the photo management will be handled like you or I would normally do it on Flickr, except we have the added benefit of browsing and searching for photos on this website.
+
+Now for the cool part. I can't think of a better way to have a nice flow of content than to get it from your user base. I know that I don't go to Flickr very often to see what new photos you guys have uploaded, but I do go to Dueling Monkeys almost every day to see if you've said anything. If you would like to have your photos displayed on this website, simply search for the user 'duelingmonkeys[at]yahoo[dot]com' on Flickr and add as a contact. I will try to remember to check that account every few days and add you as a contact. I will ONLY add you as a contact if you add me (dm, not Jody) as a contact, and I will ONLY display your public photos.
+
+This is a work in progress, but if you want to check in on it from time to time go to "the new gallery":http://dev.duelingmonkeys.com/gallery.

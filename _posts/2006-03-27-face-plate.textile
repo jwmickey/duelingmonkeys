@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Face plate"
+date:   2006-03-27 19:00:00
+author: "Mike Daly"
+avatar: "willow_calm2"
+---
+Hello all; long time, no see.
+
+ I'm finally nearing the end of my big push at work, and in another two or three weeks my four-or-so month long crunch will finally be over. I tell you what, it feels pretty good to see the light at the end of the tunnel. Just in case anyone is interested, I have been working on a new aspect of Gamebryo that we are calling the 'Scene Designer'. Just to make the explanation simpler, I'm going to say that it is our game engine's level editor. Check out its "web page":http://www.emergent.net/index.php?source=gamebryo-scene-designer. Not like you can really make it out from the downsized images, but I created the levels on the top and the bottom from scratch. We are shipping one of them, so I got to contribute art content to our game engine, woo!
+
+ Second thing that I'm excited about is that my company is moving into a spanking new office in the Quadrangle. That will reduce my commute by 8-10 minutes, and our new place is much bigger and nicer.
+
+ The third thing that I'm excited about is that my slacker brother Wesley finally wrote something for the webpage. You can find his most recent political rant in our much-neglected "articles page":http://www.duelingmonkeys.com/articles.php?view=specific&item=54. By the way, for those that don't know, my brother is also engaged to a chinese woman and will be moving to Shanghai soon.
+
+ Next up on the list is that George is a cute kitty. We were sitting in the living room drinking and playing video games one night when we noticed a shadow come across the room. Apparently curious george had decided to go exploring and walked on top of my kitchen divider wall, which was very cute despite the fact that he was covered in dust by the time we got him down. Fortunately, we got "a picture":gallery2/main.php?g2_view=core.ShowItem&g2_itemId=1794&g2_navId=x6deb50da.
+
+ I've managed to resist getting Oblivion still because I haven't fullfilled my current gaming obligations, but it is becoming more difficult as time passes. It will probably be still harder once I get my new HDTV delivered next sunday. Curse my weakness.
+
+ Finally, I never thought it would happen, but I finally got my developer faceplate from Microsoft. The guys who worked on software that went into the 360 launch and ordered a 360 from Microsoft got these. At the time we ordered, it was still thought that Oblivion was going to be a launch title, but in the end that didn't work out. Oh well, I still got my custom faceplate. "Check it out":http://www.duelingmonkeys.com/gallery2/main.php?g2_view=core.ShowItem&g2_itemId=1799. Unfortunately, you can't read the text because I was too lazy to resize the image in Photoshop so the internet downsampling and compression screwed it up. The green letters on the front say 'Thanks for playing with us', and the text on the USB bay door says 'Launch Team 2005'.
+
+ Well, that's about all I have to say. Sorry that all this information was so bland in its presentation, but I think it is better to have dull presentation of interesting information that a bunch of fluff about nothing. The latter of which is what I think I did for the first two years or so of the webpage. Maybe I'm wrong and fluff is better. Oh well, this is what you get. I already wrote it and I'm not going to change it now.

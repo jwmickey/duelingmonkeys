@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="content-box">
+    <h3 class="news-title">{{ page.title }}</h3>
+    <span style="font-style:italic;">
+        {% if page.author %}by {{ page.author }}<br>{% endif %}
+        {% if page.date %}{{ page.date | date: "%b %-d, %Y" }}{% endif %}
+    </span>
+    <hr class="divider">
+    <div class="news-body">
+        {{ content }}
+    </div>
+</div>
+

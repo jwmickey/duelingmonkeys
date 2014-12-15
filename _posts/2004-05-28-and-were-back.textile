@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "And we're back!"
+date:   2004-05-28 20:00:00
+author: "Jody"
+avatar: "wayne_calm"
+---
+After a week of brokeness, we've finally got things almost back to normal. The messageboard is in working order, and it actually logs your IP when you post now. I never realized that part didn't work until the 845[^th^] reply.
+
+ The comments section is making progress, but I don't want to make too many new things for the site until that lazy guy (Willow) decides to design a new layout. I think the comments work now, but they aren't the prettiest. That collapse button is temporary I promise, and one day it will work.
+
+ It saddens me to say that my motivation for fixing all this stuff tonight was because I simply didn't have anything else to do. All the Monkey's are gone. My girlfriend and her roomates are gone. My friends that I hang out with from work are either busy or gone. I don't have any homework, I don't feel like watching another movie (I've done a lot of that lately). I feel like I don't like programming anymore.
+
+ It's a good thing I'm not majoring in computer science anymore!
+
+ Anyway, my main reason for not doing more upgrades with the site is because there is so much room for imporvment it's scary. I look at the code, the database structure, the horror! And it all says back to me, &quot;Why have you made us so ugly? Do you hate us?&quot; To which I reply,.&quot;I'm sorry old friends, but I was not clear in thought at the time. One day I will give you a makeover.&quot;
+
+ One day. One day.

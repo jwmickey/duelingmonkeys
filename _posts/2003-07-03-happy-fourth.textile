@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Happy fourth"
+date:   2003-07-03 20:00:00
+author: "Jody"
+avatar: ""
+---
+Dueling Monkeys will be closed for the Fourth of July holiday this year. Regular updates will continue monday, July 7th.

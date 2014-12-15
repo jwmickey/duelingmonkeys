@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Check it out"
+date:   2005-03-14 19:00:00
+author: "Jody"
+avatar: "wayne_happy"
+---
+You know that new photo gallery I keep talking about? Probably not. It's been so long in the making that you've probably forgotten about it or didn't give it much though to begin with. But guess what...
+
+ No, it's not done, but it's a lot closer than it was. It's done enough to show you, in fact. If you haven't noticed already, take a look at the "galleries":galleries.php section. It was pretty fugly before, and there was no organization at all. It still doesn't look great, but at least all the sections are listed in some kind of readable layout.
+
+ If you click a gallery from that page, you'll probably get some PHP warning (I should turn those off) and then a more easily read error message that says there is no &quot;structure.xml&quot; file. That's because that particular gallery hasn't been &quot;converted&quot; to the new gallery format.
+
+ One of the cooler features is the ability to have nested galleries. There's a slight limitation to the way I'm doing that with XML, but I won't get into the details. I may fix it in XMLGallery 1.0.1, but thats a long way from the current version: XMLGallery 1.0 B[roken].
+
+ Unfortunately, I haven't finished a major feature of the new gallery, Captions. Right now, you can't add or edit captions, so the gallery simply makes the caption the name of the file (sans the extension).
+
+ You may not like the current way you view photos. I don't, especially since you can't use the mouse scroll to scroll up and down the thumbnail pane. There are plently of other CSS issues in the current setup as well, but don't worry, it's not here to stay. The truth is, by using XML it's fairly easy to have multiple layout styles. So if you guys have any suggestions on how you'd like to view a gallery, post them "here":topics.php?topicID=1110864085. I'd like to get that &quot;filmstrip&quot; style layout working, but I'll most definetly stick to the standard &quot;5 x 3&quot; or &quot;4 x 4&quot; or whatever layout.
+
+ Here's your extra news update that is more than just babble. I was driving back to Raleigh from home one anti-sunny day and saw these "sailboats":http://www.duelingmonkeys.com/images/gallery/wayne/sailboats.jpg at Jordan Lake, so I pulled over to take a few pictures. They were going fast though, so they're kinda far away.
+
+ Any suggestions are welcome, except those that say &quot;Don't use XML.&quot; If that is your response, I hate you and you are stupid!

@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "\"Organization\" is misleading"
+date:   2003-06-28 20:00:00
+author: "Mike Daly"
+avatar: "willow_calm"
+---
+As Wayne mentioned friday, I am trying to start up a student organization - the Game Developer's Club. As simple as starting a club sounds, it is a very painful process. But, now that I have experience with it, I can give you guys a short little guide to starting student organizations! There are two main ways to go about it:
+
+ *1) The Lazy Way (recommended)*
+
+* Don't start a student organization.
+
+*2) The &quot;Correct&quot; Way*
+
+* Get an information packet from the SORC describing the process
+* Find students interesting in helping get things started and hold an interest meeting (note: this step will fail)
+* Get a faculty sponsor
+* Get a permanent phone number, e-mail address, and campus mailing address for your organization
+* Fill out the new student organization application
+* Create an organization constitution outlining all group policies, puposes and bylaws
+* Schedule a meeting with a student legal services advisor for assistance with IRS and tax information
+* Get someone to help plan and create an organization webpage; get someone else to set up a server to host it
+* Call the IRS and request form SS-4, an application for Employer ID Number
+* Make a list of local banks and ask them if they have a minimum starting amount and minimum account balance for a non-interest bearing community checking account (note: This step involved communicating with idiots)
+* Ask for your advisor's social security number and fax number so that you can complete form SS-4.
+* Hunt down four friends and write their names and social security numbers on the New Student Organization application and turn it in
+* Go to the NC State Government's webpage and download an information packet on non-profit organizations
+* Apply to be a non-profit organization
+* Start sending mail to local companies requesting funding
+* Make a detailed budget plan for the initial events and send that as well as an application for funds for student senate
+* Use your Employer ID number to start a community checking account
+* Use initial funds to make fliers and posters
+* Attend welcome back pack events and publicize
+* Hold an initial official meeting where you beg nerds to join committees and help you plan events
+
+I know it sounds like fun, but only a select few (namely anyone) has the opportunity to do it. I was always curious why we didn't have a game developer's club already, but now I know. The second set of instructions is only the stuff I've encountered so far, it may involve more that I just don't know about yet.
+
+ Anyway, in case anyone is wondering what I was doing this weekend, I spend 23 hours in a car driving halfway across the country and back. Obviously, I didn't get any work done during this time, but that's where other people come in. As usual, I wll post the work of other people, but this time, it will partially contain some of my work. Following is a movie that my partner Kevin made to demonstrate milestone #1 for project Sunburn, hope you like it.
+
+"Project Sunburn Milestone #1":filespace/willow/sunburn1.mov
+
+ As usual, you can take your critisism out on "the messageboard":topics.php. Good night.

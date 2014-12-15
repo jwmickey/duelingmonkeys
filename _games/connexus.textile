@@ -1,0 +1,45 @@
+---
+title:        "Connexus"
+date:         "2008"
+download:     "/downloads/games/connexus_090118.zip"
+contributors: 
+  - "Mike Daly"
+thumbnail:    "/images/games/connexus/connexus_thumb.jpg"
+images: 
+  - "/images/games/connexus/connexus1mid.jpg"
+  - "/images/games/connexus/connexus2mid.jpg"
+  - "/images/games/connexus/connexus4mid.jpg"
+  - "/images/games/connexus/connexus6mid.jpg"
+  - "/images/games/connexus/connexus8mid.jpg"
+  - "/images/games/connexus/connexus10mid.jpg"
+  - "/images/games/connexus/connexus11mid.jpg"
+  - "/images/games/connexus/connexus12mid.jpg"
+  - "/images/games/connexus/connexus13mid.jpg"
+summary: "A turn-based multiplayer strategy board game."
+---
+Connexus is a multiplayer board game for PC. The rules are fairly simple:
+
+* Take turns placing a randomly assigned connector piece on the board
+* Pieces placed adjacent to the power core in the center become powered
+* Pieces placed adjacent to powered pieces of the same player also become powered
+* If a powered piece is adjacent to a node, it gives the player that provides power a point
+* Pieces cannot overlap
+* Whoever has the most points when everyone agrees the game is over wins
+
+Although the rules are simple, there is a lot of emergent strategy. Players must strike a careful balance between getting points and placing pieces to prevent your opponents from getting points. You may choose to focus on building a border of pieces that blocks off an entire portion of the board, or to focus on breaking through the borders of your opponents.
+
+It supports 1-4 players. There is a set of single player stages against AI opponents.
+
+Connexus was originally one of the game modules that was designed for "Beautiful Pixels":/games/beautifulpixels. After playing the game with a few friends I realized that it had some potential. Soon after I attended GDC 08 and went to the Independent Games Festival which was really inspiring. These things made me decide to try making it a standalone game that was nicely polished. I submitted it to the IGF but it was not nominated as a finalist for any categories.
+
+h3. Requirements:
+
+* Shader Model 2.0+ capable graphics hardware
+* "Microsoft XNA Framework Redistributable 2.0":http://www.microsoft.com/downloads/en/details.aspx?FamilyID=15fb9169-4a25-4dca-bf40-9c497568f102&displaylang=en
+* ".NET Framework Version 2.0 Redistributable Package (x86)":http://www.microsoft.com/downloads/details.aspx?FamilyID=0856eacb-4362-4b0d-8edd-aab15c5e04f5
+* "DirectX 9.0c Redistributable":http://go.microsoft.com/fwlink/?LinkID=56513&clcid=0x409
+
+
+
+
+"YouTube Video":http://www.youtube.com/watch?v=dQDtlvLg5HY

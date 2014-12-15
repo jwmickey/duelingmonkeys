@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Graph generator"
+date:   2011-07-31 00:00:00
+author: "Mike Daly"
+avatar: "willow_calm2"
+---
+Graph Generator
+
+Way back in February I started a hobby project that was a tool to construct a graph tagged with arbitrary data and visualize it. The tool has gotten to the point where I can show it to someone and get across the idea I was going for so that's what I'm going to talk about today.
+
+The idea is that if you had a tool for building a graph formula, you could use the same formula to generate lots of different graphs with similar topologies. Your formula would dictate how nodes in the graph were spaced apart, linked to each other, and tagged. The formula itself is constructed of a list of operations to perform on the graph and their properties. The operations that you use to construct a graph can pretty much do whatever they want. Some might create new nodes, some might link nodes, some might just tag. Here are some examples:
+
+* for nodes with a given tag, create some child nodes in a pattern
+* for nodes with a given tag, link the closest ones to each other
+* for nodes with a given tag, roll a die to determine whether to add another tag
+
+So what good are these graphs anyway? The thing that got me on this subject in the first place was the idea of procedurally generating game environments. What if a designer could create a formula to describe where the interesting parts of a game level were in relation to each other? They don't need to create the layout using a level editor, but instead use operations to express things like &quot;I want secrets or powerups to occur with this frequency&quot;, &quot;save rooms only occur at dead ends&quot;, &quot;all connections between this area and outside areas have green doors&quot;, or &quot;the prison area has longer hallways and smaller rooms than the courthouse area&quot;.
+
+Some of the examples above could be accomplished by combining a few generic operations together with specific tags, but in a lot of cases you might need to make very specific operations to accomplish what you are going for. The hard part is taking a generated graph and turning it into game content. It is not my intention of trying to tackle this side of the problem. For me, if you can represent the high level stuff as a graph, I'll just use my imagination for the rest.
+
+This first iteration of the tool has you authoring formulas in XML. The tool interface just uses the formula to build a graph and draws the graph. You have some tools for inspecting the tags of the graph as well. In some imaginary future where I keep working on this, I'd put the formula editor on the right panel so that you don't have to deal directly with the XML. Here's some screenshots:
+
+"!/filespace/mike/generator_1_548.png!":/filespace/mike/generator_1.png
+_A simple Karma Riot track generated. Click to see entire UI_
+
+"!/filespace/mike/generator_2_548.png!":/filespace/mike/generator_2.png
+_The same track formula with a different seed._
+
+"!/filespace/mike/generator_3_548.png!":/filespace/mike/generator_3.png
+_A similar formula for creating more difficult tracks._
+
+"!/filespace/mike/generator_4_548.png!":/filespace/mike/generator_4.png
+_A formula for creating a world to explore_
+
+So what happens next? I think the tool is far enough along to prove the concept and I think I've learned enough lessons, so I'm going to retire it for now and move on. If I feel like having procedural content in a future hobby project, I might come back and make a few new operations and make a graph-to-game-data converter. Honestly, this particular project drug on a lot longer than it should have and I've been suffering from a lack of motivation to work on it so I'll be glad to start something new. This time I think I'll pick something relatively short and easy.
+
+To finish things off, here's a list of games I've been playing recently:
+
+* "Desktop Dungeons":http://www.desktopdungeons.net/
+* "Majora's Mask":http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Majora%27s_Mask
+* Finally finished up "Halo Wars":http://en.wikipedia.org/wiki/Halo_Wars
+* "The Secret of Monkey Island Special Edition":http://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island
+* "Space Chem":http://www.spacechemthegame.com/
+
+Also, make sure to play "Orcs Must Die!":http://www.robotentertainment.com/games/orcsmustdie next month! You can play "Age of Empires Online":http://en.wikipedia.org/wiki/Age_of_Empires_Online too if you want.

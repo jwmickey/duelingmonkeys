@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Graduation!"
+date:   2005-05-13 20:00:00
+author: "Jody"
+avatar: "wayne_happy"
+---
+Can you believe it!?! Tommorow afternoon I am going to GRADUATE from NC State University! Well, almost. But think! I'm the last of the gang to finish up here at State! You other guys are probably pretty old by now; I mean hell it took me five years and a lot of you were done before I started!
+
+ Ok Ok, I know when enough's enough. So I get to walk the walk tommorow but unfortunately I have a single humanities course to take this summer which I intend on retaining zero information from. Personally, I think they should just check that requirement off and let me go.
+
+ On the plus side, I made the Dean's List one more time and was oh-so-close to a perfect GPA. One stupid B+ kept me at a 3.933. Of course my cummulative GPA is still a lowly 2.9, but thats not bad after 3 years of farting around.
+
+ Some of you may have noticed the &quot;edit post&quot; links below the icons in the message board. I was hoping to get that done by tonight but as I keep getting closer I keep writing messy crappy code that makes me want to hurl. I just can't do it. You've waited 2 years to edit, you can wait another few days/weeks/months. Besides, have I ever announced a project completion date that I met? It would be out of character of me.
+
+ What wouldn't be out of character is for me to tell you how cool it's gonna be! Oh man it's so close. I've done so much work on this admin tool, it's almost a full blown website. I think if you had to log in through it to edit posts people might not use the fancy layout you see here. For that reason, we'll have the ability to edit posts in both the admin tool and the main curvy layout.
+
+ Alright, now send me an email or post a new thread congratulating me on this most difficult task that all of you have already completed with less effort (or at least in less time) I'm sure. Get to it!

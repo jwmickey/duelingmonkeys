@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Glide"
+date:   2010-05-22 00:19:54
+author: "Mike Daly"
+avatar: "willow_calm2"
+---
+So at work (I work on "Gamebryo":http://www.emergent.net in case you didn't know), we've started a project where the development team spends one day per week working on game prototypes using our engine. This is a pretty useful exersize for us for a few reasons:
+
+* We can (kind of) see our product from an end user's perspecive - we are eating our own dog-food as they say
+* We are testing the upcoming release of Gamebryo in a way that directed and automated testing does not
+* Team members are working with systems they are unfamiliar with which is helping with knowledge transfer and redundancy
+* It gives us a creative outlet, which is always fun
+* It breaks up the soul-draining monotony of finalizing a release (all testing, bug-fixing, documentation, and paperwork)
+* Probably some other reasons
+
+I was really happy with how good of a turnout we got for project proposals. In the end, we had to settle down to two projects to divide the team between and my proposal was one of the ones that got voted on. My proposal (entitled &quot;Glide&quot;) was to make a game where players control a skydiver that can deploy or retract hang-gliding wings at any time. The goal is to get the highest score you can on a single drop where contributing factors are how smooth your landing was, the value of the landing platform you ended up on, how many floating rings you passed through on the way down, and any bonus objectives. You can think of it as combining the relaxing pace and exploration of "Pilotwings":http://en.wikipedia.org/wiki/Pilotwings with the reward mechanisms and social aspects of "Monkey Target":http://en.wikipedia.org/wiki/Super_Monkey_Ball.
+
+I made some concept sketches that I'll subject you to, but not without first disclaiming that I'm a terrible artist. You've been warned.
+
+!/filespace/mike/glidemockups.png!
+_The game must feature a Pterodactyl_
+
+So that's fun. I'm still cranking away on "Karma Riot":/games/karmariot, although making effects required a lot of iteration which slowed things down a lot. In order to keep up the pace, I've decided to put effects on the back burner and concentrate on more pressing features. I did sit down for two hours this week and crank out a new song for the sound track. Now we have one song per track type, which will probably be enough to get away with for this phase. Check it out:
+
+"Opus 23":/filespace/mike/opus23.mp3
+
+Later

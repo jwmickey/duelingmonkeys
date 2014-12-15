@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Good News Everyone!"
+date:   2004-09-28 20:00:00
+author: "Jody"
+avatar: "wayne_happy"
+---
+I have several announcements to make. But first, let me explain that I'm tired. I've already complained to you in my last update (which was a long time ago) that school and work are consuming most of my life. I won't do it again as long as you know that things haven't changed. So, there isn't really anything cool about this update. No artwork, recipes, or funny links. But, if I can remember to do it in my break tommorow (read: today), I'll come up with something.
+
+ And now for the announcements...
+
+ Number 1)
+ I am all but certain that I will graduate in July 2005. I might even get to walk in May since I'll only have one humanities class and one major class left. More on that later.
+ Number 2)
+ Willow and I have decided that in order for you guys to finally see any progress in this &quot;major overhaul&quot; I keep telling you about, we're going to have to split it up into two phases. Phase One will include the administration part. I've already done most of that part. I just have to decide if I want to change the way the message board works. The first phase will also include a pretty new frontend for you guys to see (get to work Willow). Phase Two will be less noticible. Things might run a little faster, but for the most part you won't see any changes. I'll change the code to be less messy than my two-year-ago-skills allowed me to be, and I might even throw in some RSS feeds. A third phase, if applicable, would be the new photo gallery. But I'm hoping it will be done before the second phase starts.
+ Number 3)
+ We haven't watched any Strongbad email in quite some time, and noticed the other day that there were about six or seven new ones. I bet at least one of you haven't looked in a long time, so for old times sake, check out "Homestar Runner":http://www.homestarrunner.com.
+
+ Ok, so there *was* a funny link. SO SORRY!

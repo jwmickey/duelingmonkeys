@@ -1,0 +1,35 @@
+---
+title:        "Pistol Sisters"
+date:         "2014"
+download:     "/filespace/mike/pistolsisters_140616"
+contributors: 
+  - "Mike Daly"
+thumbnail:    "/images/games/pistolsisters/pistolsisters_thumb.png"
+images: 
+  - "/images/games/pistolsisters/pistolsisters_1.png"
+  - "/images/games/pistolsisters/pistolsisters_2.png"
+  - "/images/games/pistolsisters/pistolsisters_3.png"
+  - "/images/games/pistolsisters/pistolsisters_4.png"
+  - "/images/games/pistolsisters/pistolsisters_concept_1.png"
+summary: "Control two jetpacking mercenaries at once flank enemies in this shmup"
+---
+Pistol Sisters is an idea I had a few years ago for a game that would use multi-touch controls in a unique way. The idea was to provide controls that did not require you to put your fingers in the way of what you wanted to look at and provided a 1:1 positional mapping (as opposed to directional controls, which map to velocity).
+
+The result is a shoot 'em up in which you control a pair of flying mercenaries. Although the screen scrolls vertically, the heroes are on the sides of the screen. One of the mercenaries is always shooting towards the other so you can move both at once to control the origin and aim of your shots. The mercenary who isn't shooting has a shield up and cannot be damaged by enemy fire. A tap or button press toggles which mercenary shoots and which shields.
+
+The idea behind the shooting and shielding mechanics was to have the player focus on one hero at a time but be presented with situations where they needed to switch (becuase of incoming enemy fire or to get a better shot on a weak spot), at which point the player must momentarily consider both sides of the battlefield as threatening at the same time, giving the same sort of occasional pressure as "Ikaruga":http://en.wikipedia.org/wiki/Ikaruga.
+
+This was also the first time I tried out a new tool for game creation called "Construct 2":https://www.scirra.com/. One of the neat things about the framework is that it can deploy to a webpage which means that, for once, you don't have to download, unzip, or install any redistributables to play it. Although I'm mixed about whether I like working with the tool, It is really convenient to be able to share things as a webpage.
+
+So although the idea was that it was a multi-touch game. I still don't have a smart phone so I figured I'd just prototype it using a gamepad where the vertical axis of each thumbstick acts like what would happen if you were using your thumbs on the side of the screen. It works pretty good.
+
+I'm thinking that it's an all-female mercenary group, which is where the title &quot;Pistol Sisters&quot; came from. Actually, I came up with the title first because I thought it sounded catchy and from that derived the concept. The prototype has pretty spartan artwork, but at one point I did do a little concept work.
+
+h3. Requirements:
+
+* Gamepad
+
+
+
+
+"Play the game!":/filespace/mike/pistolsisters_140616

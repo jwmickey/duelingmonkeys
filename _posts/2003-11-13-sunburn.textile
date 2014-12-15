@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Sunburn"
+date:   2003-11-13 19:00:00
+author: "Mike Daly"
+avatar: "willow_calm"
+---
+Hey everyone! After many trials and tribulations, I've finally completed(?) a game mod. Let me tell you, it will be nice to have this off my shoulders. I might even be able to finish coloring that "picture":imageviewer.php?image=images/gallery/art/heroinebw.jpg I started a while back now.
+
+ For those that are interested, I've posted some pretty little screenshots in the "Game Dev":galleries.php?section=game%20dev gallery. You can see the recent ones at the bottom, only the last five are final version.
+
+ For those that are more interested and, more importantly, own a copy of UT2k3, you can actually download the MOD itself from "here":filespace/willow/sunburnmod.zip. Exciting, huh? I can't testify as to the 'coolness' factor of this one, but the theme we went with is what the funding dictated.
+
+ For those that are not interested, piss off.
+
+ And for everyone in the world, I'd like to congratulate Wayne and I on our first year aniversery of running Dueling Monkeys! (Applause) We've both had a great time with it, and I'm really glad he talked me into it.
+
+ I was supposed to do something for the aniversery like draw some new pictures for the top corner, but I didn't have time. Sorry. Since our first year goals of getting the site up have been accomplished, we can now set our goals for the next year. I personally hope that within the next year, we can make the site something valuable in some way to someone; a pretty ambitious goal, I know, but assuming I get out of college this spring, I think I just might be able to do it.

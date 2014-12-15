@@ -1,0 +1,25 @@
+---
+title:  "Roasted Corn"
+author: "Jody"
+cook_time: ""
+prep_time: ""
+cleanup_time: ""
+course: "Side Dishes"
+categories: 
+  - "American"
+---
+h3. Ingredients
+
+* (6) Ears of Yellow Corn
+* Small jar of minced garlic
+* 1/2 stick butter
+
+h3. Directions
+
+# Shuck the corn and remove any bad places.
+# Place the corn in some aluminum foil, with a slice or two of butter and a small spoonful of minced garlic (spread these somewhat evenly)
+# Wrap up in foil and grill for about 15-20 minutes, rotating every 5 minutes or so
+
+h3. Comments
+
+Okay, so corn on the cob isn't exactly rocket science, but this is a different way of cooking it and the garlic gives it a good kick, but not too strong. I think I like this corn better than boiling it. I'd imagine that Silverqueen corn would be just as good or better, but Yellow corn is more readily available at the grocery store.

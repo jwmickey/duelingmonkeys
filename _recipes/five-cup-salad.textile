@@ -1,0 +1,29 @@
+---
+title:  "Five cup salad"
+author: "Mike Daly"
+cook_time: ""
+prep_time: ""
+cleanup_time: ""
+course: "Salads"
+categories: 
+  - "American"
+---
+h3. Ingredients
+
+* One can of Mandarin Oranges
+* One can of (light) fruit cocktail
+* One cup coconut shavings
+* One cup mini-marshmallows
+* One cup sour cream
+
+h3. Directions
+
+* Drain both cans of fruit
+* Mix it all together until mixed evenly
+
+h3. Comments
+
+Five cup salad is a very unique side dish that goes great with any traditional grilling item. For all you whiney babies that see the words &quot;sour cream&quot; and run in fear, I say &quot;Sit down and eat!&quot; Your fears are totally unfounded. Just pretend like it's not sour cream, and you will never even notice it.
+
+ It makes plenty, it's easier than a piece of cake, and it tastes great. Definately a recipe worth trying.
+

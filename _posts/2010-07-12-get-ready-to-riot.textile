@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Get ready to RIOT!"
+date:   2010-07-12 22:57:20
+author: "Mike Daly"
+avatar: "willow_calm2"
+---
+Most exciting news: Paul and I have completed Karma Riot phase 2! Woo hoo! We are winners!
+
+We originally defined the things that would be in phase 2 as the bare minimum stuff we thought would be required to make the game ready for release on "Xbox Live Indie Games":http://www.xbox.com/en-US/games/community/default.htm. As it turns out, we didn't need some of the stuff on the original list so we cut it, but we felt we needed some other things before really being ready to ship to joe gamer, which we did not add to the phase. The result of all this is that we don't think it's ready to ship yet. However, it's still worth talking about all of the awesome stuff we did accomplish for the milestone.
+
+Here are some of the things we added in phase 2 (in no particular order):
+
+* AI drivers
+* &quot;Race Circuit&quot; (/Grand Prix) mode
+* 12 tracks
+* 3 track themes (jungle/mud, mountain/ice, monastery)
+* 3 &quot;speeds&quot; for levels of racing experience
+* Animated sprite effects
+* Cell shaded and outlined sprites
+* 5 custom songs in soundtrack
+* Engine and tire sounds
+* General bug fixin'
+* Game balancin'
+* General polish
+
+Some of my favorite accomplishments for this phase came in the tools I made to support generating content for the game. Particularly, I'm quite proud of how the "BitmapToTiles":http://www.duelingmonkeys.com/news/archive/2010/03/14/298 and "Sprite Maker":http://www.duelingmonkeys.com/news/archive/2010/04/16/299 turned out. They were both a lot of fun to work on and turned out to be tremendously useful.
+
+!/filespace/mike/karmariot_phase2.png!
+_Here's the obligatory screenshot_
+
+Anyway, enough blabbering from me, there's more details, more screenshots, and a juicy download link all available from the games page: "Karma Riot v2":/games/karmariotv2!
+
+I'm going to take a break for a few weeks now, but almost as exciting as being done with phase 2 is that I now get to decide what to work on next.
+
+Here are some development stats:
+
+* Phase 2 calendar time: 26 weeks
+* Phase 2 initial task time estimates: 126 hours
+* Phase 2 actual implementation time (combined): 168 hours
+* Phase 2 average hours per week (combined): 6.5

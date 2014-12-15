@@ -1,0 +1,27 @@
+# Site settings
+title: Dueling Monkeys
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.duelingmonkeys.com" # the base hostname & protocol for your site
+
+plugins: _plugins
+
+# Build settings
+markdown: kramdown
+
+collections:
+  games:
+    output: true
+  recipes:
+    output: true
+
+defaults:
+  -
+    scope:
+      type: "games"
+    values:
+      layout: "game"
+  -
+      scope:
+        type: "recipes"
+      values:
+        layout: "recipe"

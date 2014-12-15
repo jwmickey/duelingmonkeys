@@ -1,0 +1,30 @@
+---
+title:  "Garlic Bread"
+author: "Mike Daly"
+cook_time: ""
+prep_time: ""
+cleanup_time: ""
+course: "Breads"
+categories: 
+  - "Italian"
+---
+h3. Ingredients
+
+* 1 loaf French Bread
+* 1/2 stick butter
+* Garlic Salt
+* Garlic Powder
+
+h3. Directions
+
+* Cut french bread into 1/2&quot; to 1&quot; thick slices diagonally
+* Warm butter until soft and spreadable
+* Spread butter envenly and generously over each slice
+* Lightly sprinkle garlic powder and salt to taste
+* Broil for about 5 minutes
+
+h3. Comments
+
+Tastes great, easy to make, and makes "spaghetti":/recipes/spaghetti.html even better.
+
+ Be careful to not add too much garlic salt, its pretty strong stuff.

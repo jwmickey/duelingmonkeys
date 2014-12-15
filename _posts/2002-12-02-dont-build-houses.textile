@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Don't build houses"
+date:   2002-12-02 19:00:00
+author: "Mike Daly"
+avatar: "willow_calm"
+---
+Wayne have had a dillemma on our hands the past few weeks. We got Xbox Live, but we didn't have an ethernet cable run out to the living room. This presented a difficulty because whatever genius designed this house not only decided not to include a crawl space, but they also put in a cathedral ceiling.
+
+ Let's do a little predicate calculus:
+ not(crawlspace) and (cathedral ceiling) implies not(ethernet cable)
+ There you have it. No way to run our cable but through the house under the carpet, which is a huge hastle. Being the geniuses we are, we got a green cable (to go with our green xbox) not realizing the imposibility of hiding it subtley along the corners.
+
+ My conclusion? Uh, I guess I don't really have one, I just wanted to complain.

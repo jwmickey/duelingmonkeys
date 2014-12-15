@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    <div id="container">
+        {% include header.html %}
+        <div id="subnav">
+            <ul>
+                <li style="float:right;"><a href="/news/archives.html">Archives</a></li>
+                <li style="float:right;"><a href="/news/rss.xml">RSS</a></li>
+                <li><a href="/">Latest News</a></li>
+            </ul>
+        </div>
+        <div id="content">
+            {{ content }}
+        </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

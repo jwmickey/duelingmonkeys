@@ -1,0 +1,17 @@
+---
+layout: news
+---
+
+<div class="content-box">
+    <img src="/images/icons/private/{{ page.avatar }}.jpg" style="float:left;margin-left:-8px;">
+    <h3 class="news-title">{{ page.title }}</h3>
+    <span style="font-style:italic;">
+        {% if page.author %}by {{ page.author }}<br>{% endif %}
+        {{ page.date | date: "%b %-d, %Y" }}
+    </span>
+    <hr class="divider">
+    <div class="news-body">
+        {{ content }}
+    </div>
+</div>
+

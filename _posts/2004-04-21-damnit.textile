@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Damnit"
+date:   2004-04-21 20:00:00
+author: "Jody"
+avatar: "wayne_calm"
+---
+I just wrote a big long good update about how Willow has been awake for like 3 days and some more crap, but stupid mysql made an error and DELTEETED my post. So now all you get is the "random link":http://mymullet.textamerica.com
+
+ Computers suck.

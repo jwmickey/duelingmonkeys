@@ -1,0 +1,19 @@
+---
+title:  "Mushroom Sauce Steak"
+author: "Jody"
+cook_time: "15"
+prep_time: "5"
+cleanup_time: "5"
+course: "Main Dishes"
+categories: 
+  - "American"
+---
+h3. Ingredients
+
+2 8oz. NY Strips 1/2 package sliced mushrooms 2 tbsp. Worcestershire sauce 2 tbsp. flour 1 cup milk 1/2 cup chicken broth 1 tbsp. butter 1 tsp. garlic powder Salt and Pepper
+h3. Directions
+
+Rub in salt and pepper (and other spices, if desired) on both sides of steaks. Heat butter in a non-stick pan and add mushrooms. Allow mushrooms to sautee for 2-3 minutes. Add chicken broth, milk, garlic powder, flour, and Worcestershire sauce to mushrooms and stir. Reduce heat to simmer. Meanwhile, cover bottom of another pan with oil and turn heat on high. Just as oil begins to smoke, add the steaks and reduce heat to medium high. Cook 4-5 minutes on each side. Serve steaks covered in mushroom sauce.
+h3. Comments
+
+You may have to adjust ingredient amounts as I kind of guessed along the way. I was going for something like the Mushroom Steak Marsala that a popular Italian chain makes, but I have to admit mine is not quite as good (also much cheaper). I'd imagine the mushroom sauce would be really good over some garlic mashed potatoes.

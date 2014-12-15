@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Dodging the bullet ... literally"
+date:   2004-06-07 20:00:00
+author: "Mike Daly"
+avatar: "willow_calm"
+---
+Hello all. It has indeed been a long time since I've updated. I'm still lamenting the loss of my two enorm-gantuan updates I wrote about graduation and my insomnia adventure. However, I've finally decided to take back up the keyboard to let everyone know more irrelevant events from my life.
+
+ This update is inspired by the very unique and interesting experience I had this past weekend. I was up in VA beach visiting some relatives and it turns out that some of their friends were firearm afficianados. My brothers and I were invited to go out to the shooting range for a day and shoot stuff.
+
+ Well, that sounded like an interesting experience to have, so I took them up on it.
+
+ The first thing to note is that apparently people don't like to have shooting ranges near their place of residence. I'm sure this had something to do with why we had to drive 45 minutes to get to the place. Virginia is not much to look at from the back of a SUV.
+
+ The building was interesting. It was an old run-down looking wooden building complete with chipping paint and lots of dirt on the wood floors inside. There was a rusty wire fence dividing the walkway part from the ... uh store(?) part. Beyond the divider was shelves and shelves of bullets along either wall and various gun parts hanging on the back wall for sale.
+
+ It was here that we discovered that it costs 13 dollars per person per day to visit the shooting range. Does this seem expensive to anyone else? No wonder all the rednecks just decide to shoot up road signs instead.
+
+ Next, we walk out the back of the building and enter the range proper. The range is a muddy field of mud with heavily cratered cement barriers suspended in the air by rusty steel beams. At the other end, at various distances, are boards with trazillions of holes in them sticking out of the ground in front of walls of dirt and grass. There are about a dozen dirty folding tables and chairs set up at our end.
+
+ We lay out our gear on one and get started. We started with some lighter weapons. I would call these 'gateway guns'. I fired a small calibur rifle and pistol a great deal of times with some success. I was able to hit the target ... kind of.
+
+ "Exhibit A":imageviewer.php?image=images/gallery/miscellaneous/gunplay1.jpg
+
+ Then we moved on to the hard stuff. I fired off a few rounds from a .357 magnum, which was a painful experience. Also, I'd like to note that some of the other people at the range reminded me of the documentaries I sometimes see on the discovery channel about America's secret psycho militias. One guy in particular was brandishing about 5 high-powered assault rifles. If we ever get invaded by paper silhouettes, I'm going to Virginia.
+
+ "Exhibit B":imageviewer.php?image=images/gallery/miscellaneous/gunplay2.jpg
+
+ One one final note, you have probably noticed that my exhibits are well-constructed computer-generated replicas of the actual scene in question. I'd like to point out that Wesley, the guy who never updates this site ever, had a camera and took pictures, then failed to get them to me in such a way that I could use them for internetting.
+
+ So, there you have it. That was my interesting gun-toting experience. It's not hard to devise that I wasn't really in my element there. In other news, I'm still working on my motorcycle model for UT 2k4. Let's see if I can find that old render ... ah, "here":imageviewer.php?image=images/gallery/modeling/bikegeometry.jpg it is. Well, that's a really old render. The status of the project is that I have a &quot;working&quot; prototype running in the game. I still have a lot of work to do before it's done, but I'm having a hell of a lot of fun crashing it in interesting ways, doing stunts, and watching the bots try to drive it and immediately fall over. If I get it to a reasonable state of completion, you can expect it to show up here.
+
+ You know? What the hell, I'll go ahead and make some screenshots for you:
+
+ "My beautiful bike in game":imageviewer.php?image=images/gallery/game%20dev/earlyshot1.jpg
+ "Me driving the bike suicidally hundreds of feet above the ground":imageviewer.php?image=images/gallery/game%20dev/earlyshot2.jpg
+
+ Also, I've been having trouble coming up with a cool name for it. Check out "this thread":topics.php?topicID=1086676619 to give me your feedback. Wayne will probably be annoyed that I didn't use the nifty new 'Add Comments' link he programmed in to each news post, but I had already created the thread. Oops. Note that if you feel like commenting on my gun-toting adventure, you can use the 'Add Your Comments' link. I wonder if that works?
+
+ Enough babble. Catch you on the flip-side.

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "no news for you!"
+date:   2004-05-24 20:00:00
+author: "Mike Daly"
+avatar: "willow_calm"
+---
+So it turns out our server deleted a month's worth of news posts. This is kind of frustrating considering that I'd written some expansive updates since I graduated. We are trying to recover them. I'm dissapointed in this, so I'm not going to write another update until I either get them back or know for sure that they are gone forever.
+
+ That is all.

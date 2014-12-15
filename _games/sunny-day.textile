@@ -1,0 +1,34 @@
+---
+title:        "Sunny Day"
+date:         "2009"
+download:     "/downloads/games/sunnyday_090720.zip"
+contributors: 
+  - "Brett Brown"
+  - " Michael Noland"
+  - " Mike Daly"
+  - " Rett Crocker"
+thumbnail:    "/images/games/sunnyday/sunnyday_thumb.png"
+images: 
+  - "/images/games/sunnyday/sunnyday1.png"
+  - "/images/games/sunnyday/sunnyday2.png"
+  - "/images/games/sunnyday/sunnyday3.png"
+summary: "A 'music video game' made for the 2009 Triangle Game Jam."
+---
+A little girl goes for a walk. When the sun shines on her, she is happy and spreads happiness to all those around her. When she is in the shade, she is sad. You control the sun, who wants to make the girl as happy as you can. You do so by positioning the sun so that the clouds beneath you don't end up shadowing the girl.
+
+The concept from this game was based off of the song &quot;Sunny Day&quot; from the Vib Ribbon soundtrack by the Japanese music group &quot;Laugh &amp; Peace&quot;. The game was created at the 2009 "Triangle Game Jam":http://www.trianglegamejam.com. The theme of the Game Jam was &quot;Music Video Game&quot;; basically, create a game that compliments a specifically chosed piece of music. I chose this song and concept because the song made me feel like stomping around in the sun.
+
+My role on the team was a little bit of coding, what little game design work there was to do, and a decent amount of artwork.
+
+* "Vib Ribbon":http://en.wikipedia.org/wiki/Vib-Ribbon
+* "Laugh &amp; Peace":http://www.myspace.com/laughandpeacejapan
+
+h3. Requirements:
+
+* Shader Model 2.0+ capable graphics hardware
+* "Microsoft XNA Framework Redistributable 3.0":http://www.microsoft.com/downloads/details.aspx?FamilyID=6521d889-5414-49b8-ab32-e3fff05a4c50&displaylang=en
+* ".NET Framework Version 2.0 Redistributable Package (x86)":http://www.microsoft.com/downloads/details.aspx?FamilyID=0856eacb-4362-4b0d-8edd-aab15c5e04f5
+* "DirectX 9.0c Redistributable":http://go.microsoft.com/fwlink/?LinkID=56513&clcid=0x409
+
+
+

@@ -1,0 +1,35 @@
+---
+title:  "Fried Noodles"
+author: "Mike Daly"
+cook_time: ""
+prep_time: ""
+cleanup_time: ""
+course: "Main Dishes"
+categories: 
+  - "American"
+---
+h3. Ingredients
+
+* 1/3 lb. (1/3 box) angel hair pasta
+* 1 1/2 tbsp. soy sauce
+* 3 chicken filets
+* 3 strips bacon
+* 1/2 package mushrooms
+* onion powder
+* garlic powder
+
+h3. Directions
+
+* fry bacon in skillet. Remove bacon, but leave grease
+* cook noodles. Angel hair should take about 3-4 minutes in boiling water
+* chop chicken into bite-sized chunks and cook in the bacon-greased skillet
+* eat the delicious bacon strips while you are waiting on everything else to cook
+* When the chicken is mostly cooked, add the mushrooms and continue cooking
+* Once chicken is thoroughly cooked and mushrooms are soft and shrunken, dump in the noodles into the frying pan
+* Add soy sauce and stir everything until noodles are turning brown
+* Season lightly with garlic and onion powder; stir in well
+* Remove from heat and serve
+
+h3. Comments
+
+I invented this meal when I could not find any complete meals left in the fridge and decided to get creative. Fortunately, it was a very successful experiment. The original idea was to get something close to lo mein using refrigerated leftover pasta noodles. When I first prepared the meal, I burned the bacon, so I don't know if adding bacon to the meal improves it or not. I do know that cooking things in bacon grease is a delicious and fantastic idea, so I left it in the instructions.

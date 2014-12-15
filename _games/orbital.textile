@@ -1,0 +1,32 @@
+---
+title:        "Orbital"
+date:         "2008-2009"
+download:     "/downloads/games/orbital_110414.zip"
+contributors: 
+  - "Mike Daly"
+  - " Vince Scheib"
+  - " Nolan Walker"
+thumbnail:    "/images/games/orbital/orbital_thumb.jpg"
+images: 
+  - "/images/games/orbital/orbital1mid.jpg"
+  - "/images/games/orbital/orbital2mid.jpg"
+  - "/images/games/orbital/orbital3mid.jpg"
+  - "/images/games/orbital/orbital4mid.jpg"
+  - "/images/games/orbital/orbital5mid.jpg"
+  - "/images/games/orbital/orbital6mid.jpg"
+summary: "A pong style game where you use gravity to slingshot the puck."
+---
+Orbital is a simple pong style game. Each player gets a bumper that they can move anywhere on their half of the screen. While either player is holding the A button, their bumper attracts the puck using gravity that falls off at an inverse square rate. If the puck touches a player's bumper, it will damage it so players must use gravity to make their shots or they will eventually get destroyed which gives their opponent a point, although players can still block a fast shot with their bumper if necessary.
+
+One aspect of the design that I really like is that there is a built in risk/reward for making shots. You get a circular indicator telling you what the radius of stable orbit is given the puck's current velocity. If you can get a perfect orbit, you can recover some of the damage that might have been done by striking the puck. If you activate gravity when the puck is inside the radius, it will accelerate towards the bumper, eventually striking and destroying it, but the velocity of the puck increases so you can use this to shoot the puck back at your opponent faster than it came at you.
+
+It works on PC and Xbox 360 and requires an Xbox 360 controller to play. Two players are supported and there is a basic AI opponent that can fill either slot. Once you get the hang of it, the game is best played with two pucks at once.
+
+h3. Requirements:
+
+* Shader Model 2.0+ capable graphics hardware
+* "Microsoft XNA Framework Redistributable 3.0":http://www.microsoft.com/downloads/en/details.aspx?FamilyID=6521d889-5414-49b8-ab32-e3fff05a4c50
+* A wired Xbox 360 controller
+
+
+

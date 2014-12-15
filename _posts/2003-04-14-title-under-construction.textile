@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Title under construction"
+date:   2003-04-14 20:00:00
+author: "Mike Daly"
+avatar: "willow_calm"
+---
+Ha! more like 'entire webpage under construction'! Ha ha ha! Oh wait, that wasn't funny.
+
+ Right, anyway, in case nobody notices, the main page here has a little bit of a different look. I asked webmonkey wayne to do a little php magic and give us a news archive feature where you could just click on a news title and it would give you a page with that, and it's previous news posts. Well apparently if you don't give monkeys specific enough directions, they decide to change the main page into their little php expariment even if it doesn't work at all. So, we are stuck with a huge mess below the posts that mean nothing. Sure the links are there, but they won't help, trust me.
+
+ Things in my neck of the woods are going pretty good I guess. I have easter break soon, and I probably won't be going home for this one, so if you cross your fingers, you might see some art or modeling out of the next couple of days. In other news, I have a short homework assignment due tommorow. It's only 4 questions on material I am fairly well versed with. Apparently the old dog is still doing old tricks (or something like that) because I am not doing my homework or sleeping. Can't you see the brilliant behavioral pattern?
+
+* Homework is assigned
+* Due date becomes imminent
+* I stay up all night looking at flash sites
+* Don't do homework
+* System failure
+
+Well, that was just in case you had forgotten what an idiot I am.
+
+ In exciting web news, somehow Google.com has managed to find our little page. How this happened, I know not. But if you go to google and type &quot;dueling monkeys&quot;, you will get us
+
+ ...
+
+ On the 9th page of results, just between Tanarus petitions on the zone.com and the animal crossing community. I am shamed and humbled by the sorts of things that google thinks are more relevant to 'dueling monkeys' than our page (which, notably, does not have anything to do with dueling or monkeys). The most shameful is "result number one":http://www.expage.com/kcep10. If crap like this can make it to the internet, why can't our brand of crap make it to the top?

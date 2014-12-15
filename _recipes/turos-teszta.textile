@@ -1,0 +1,30 @@
+---
+title:  "Turos Teszta"
+author: "Wastrel"
+cook_time: ""
+prep_time: ""
+cleanup_time: ""
+course: "Main Dishes"
+categories: 
+  - "Eastern European"
+---
+h3. Ingredients
+
+* Bag of Egg Noodles or Tagliatelle
+* Sour Cream
+* Cottage Cheese
+* Shredded Swiss or Mozarella Cheese
+* Bacon
+
+h3. Directions
+
+# Cook the Pasta (when about two or three minutes left Start the Bacon).
+# Fry the bacon or microwave it until it gets extremely crispy.
+# Once crispy, break it into little bits (about fingernail size).
+# Serve Pasta, add a tablespoon of Sour Cream and a tablespoon of Cottage Cheese to a normal serving sized plate of pasta.
+# Mix then lightly spread shredded cheese and bacon bits on top and mix again. (about 1.5 to 2 pieces of bacon per serving).
+# Eat and Enjoy
+
+h3. Comments
+
+I dunno about the price really I mean you should already have bacon, cheese, and sour cream in a normal house. So really it should cost you two bucks to buy some cottage cheese and pasta.

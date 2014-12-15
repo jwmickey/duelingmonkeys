@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Slither and stuff"
+date:   2012-03-30 00:00:00
+author: "Mike Daly"
+avatar: "willow_calm2"
+---
+Yo Dawgs; it's been a while. Since I put this off until the last minute, I'll keep it brief. Also because I have trouble remembering stuff.
+
+h3. Slither
+
+So the "Global Game Jam 2012":http://globalgamejam.org/ came and went. I got my butt in gear and participated this year and had a great time. The theme this time was an image of the "Oroboros":http://en.wikipedia.org/wiki/Oroboros, which is a pretty decent improvement over past years' themes. Discussing different game concepts with a bunch of strangers was fun, but the location that graciously hosted the Jam site for Dallas didn't have a place to put a desktop computer and even if I made one, I couldn't connect to the internet, so I got lazy and worked on the project from home instead of going back in and interacting with new people. However I didn't do it alone; my friends Shovaen Patel and Lori Wilson came over and lent some much needed help.
+
+With our combined efforts, we produced the game called "Slither":/games/slither. If you've got a wired 360 controller handy, you should give it a shot!
+
+!/filespace/mike/slither_512.jpg!
+_It's kind of mezmerizing to just watch the thing move around_
+
+h3. Pistol Sisters
+
+I came up with a cool game concept a while back. I don't want to write it all up here at this time, but I did spend some time making some premature fanart of it. It's nice to have an excuse to do arts every once in a while to keep me from forgetting how to launch Photoshop and stuff.
+
+!/filespace/mike/pistolsisters_512.png!
+_They love to shoot things with their pistols. But they don't like to get shot by things, so they carry around medieval kite shields. ALL PROBLEMS SOLVED_
+
+h3. iPad
+
+My wonderful employers ("Robot Entertainment":http://www.robotentertainment.com/) celebrated their 3 year anniversary earlier this month. To congratulate all of the employees on making it this far (and making some "Kick":http://www.robotentertainment.com/games/orcsmustdie "Ass":http://www.robotentertainment.com/games/heroacademy games along the way), they got everyone an iPad3. So I guess that makes me a hipster now or something. Sorry.
+
+It's pretty cool because now I can play "Superbrothers Sword &amp; Sworcery EP":http://www.swordandsworcery.com/. Oh yeah, and now I can play "Hero Academy":http://www.robotentertainment.com/games/heroacademy at home too; that's nice.
+
+h3. Wedding stuff
+
+I'm learning that a lot of stuff is involved in planning a wedding. Amanda's been doing amazing work at getting things organized and we've made a ton of progress. I'll save the details for later, but here are some of the things we have figured out so far (ok, I admit it's basically all her):
+
+* Venues
+* Date
+* Colors
+* Dress
+* The wedding party
+* Photographer
+
+We've made progress but not really finalized a handful of other things as well. This weekend we are going to be sampling a metric ton of cakes, so hopefully that will be added to the list soon.

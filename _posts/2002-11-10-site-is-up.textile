@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Site is up!"
+date:   2002-11-10 19:00:00
+author: "Jody"
+avatar: "wayne_calm"
+---
+Oh yes, the day has finally come. The site is up in its early stages, but still needs tons of work. You can be sure that things will change a lot over the next few weeks. Hopefully for the better

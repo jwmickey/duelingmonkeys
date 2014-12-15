@@ -1,0 +1,24 @@
+---
+title:  "Cresent Dogs"
+author: "Mike Daly"
+cook_time: ""
+prep_time: ""
+cleanup_time: ""
+course: "Main Dishes"
+categories: 
+  - "American"
+---
+h3. Ingredients
+
+* 8-pack Hot Dogs
+* Cheese
+* 6-pack Canned Cresent Rolls
+
+h3. Directions
+
+Separate the Cresent Rolls and roll a Hot Dog with some cheese of your choice. You'll have two dogs left over, but I'm sure you can figure out a way to make them yummy. Place into oven on an ungreased cookie sheet until rolls are golden brown.
+h3. Comments
+
+This one's pretty quick and easy. Only bad part about cleaning is the pan can be a bit of a pain to clean up if the cheese leaks out on it and burns, which happens almost every time (hey, we like cheese!).
+
+ We served these along with "Oreda's Waffle Fries":cooking.php?view=specific&item=7 this week

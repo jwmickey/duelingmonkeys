@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Starships!"
+date:   2006-08-12 20:00:00
+author: "Mike Daly"
+avatar: "willow_calm2"
+---
+Hey all! Time for a quick update on what I've been up to these days. Every once in a while, I manage to fit time into my schedule to work on a little personal project I have going on. This project is to create a simple space dog fight game. I have been working on the thing forever, but progress is very slow because I usually only end up doing about one day's worth of work per month; if that.
+
+ Anyway, very recently I have come to the realization that almost all of the work that has been done is programming, and that we have a monumental amount of artwork that needs to be done. This is very motivational because, for those who can do both, artwork is much more fun to do than programming. My goal is to make 5 ships; each is a one-person fighter ship. I do have a couple of design ideas that I want to accomplish:
+
+* Ships should all be consistent enough in style, construction, texturing, etc. for it to be believable that they were all created by humans
+* Ships should not look like any stereotypical spaceships from movies or TV, but are still recognizeable as spaceships
+* Ships should be stylized to exaggerate their function. Since these are fighters, this usually means big guns.
+* Ships need to be easily identifiable from a top down perspective at a long distance
+* They should probably look cool too
+
+With this in mind, I started creating the Cannon Ship (better name forthcoming). The cannon ship is the least wacky of all of my spaceship designs, so it seemed like a good starting point. Below is a collage of my initial concept art next to some in-engine images of the ship up close. It seems almost sad that you won't get to see it up close or from below that often. Or ever. I don't know; I haven't decided yet. I wish there was an easy way of letting you orbit around it, the reflections in the glass and on some of the metal look pretty cool. I'm not quite done with it. It still needs some minor details, lights, and some cool looking special effects for the thrusters.
+
+ "Cannon Ship":http://www.duelingmonkeys.com/images/gallery/willow/game%20dev/cannonshipconcept.jpg
+
+ Next up, we have the long-range ship concept. I wasn't really sure where I was going with this one until I started modeling. The idea is that the center is hollowed out for some sort of energy railgun-type thingy. My first thought was to make it shaped like a World War 2 style submarine. Eventually, this kind of morphed into a cartoon-style yellow submarine, which eventually morphed into a hollow football. I just did this one this weekend, so I haven't started on the texture yet. It will probably end up having the same scratched metal look as the cannonship because I want the ships to look consistent with each other and it is a pretty easy effect to accomplish. The slots on the side are what it uses for propulsion.
+
+ "uh... Football Ship?":http://www.duelingmonkeys.com/images/gallery/willow/game%20dev/snipershipconcept.jpg
+
+ Yeah, that one really needs a name.
+
+ Well, that's all I have so far. I've been able to crank each of these babies out pretty fast. If I was working on it full time, I'd say about 2 days each. It would take about 3 each to get them to completion. Hopefully I'll have more to show next month.

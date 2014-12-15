@@ -1,0 +1,36 @@
+---
+layout: page
+---
+
+<p>
+    Mike Daly here. Trying to make video games has been a hobby of mine for many years now. We put
+    together this page so that I could document and share them.
+</p>
+
+<p>
+    Although making games is great fun; unfortunately, making installers and such isn't. Because of that,
+    most of the downloads you can get here are just builds of the executable thrown into a zip file.
+    This means you may have to track down some dependencies if you want to play them, particularly for
+    the XNA projects. I try to document what is necessary, but in case you are having trouble, you can
+    shoot me an e-mail.
+</p>
+
+<p>
+    The astute observer will notice that not all of the games listed here have downloads.  That is
+    because I don't have the rights to redistribute all of them and in some cases, it just wasn't worth
+    either of our time for me to do so. I put the projects up anyway because it's still fun to see what
+    I was working on all those years ago.
+</p>
+
+<p>
+    Any comments or feedback is welcome. Please enjoy.
+</p>
+
+{% for game in site.games %}
+<p class="game-intro">
+    <a href="{{ game.url }}"><img src="{{ game.thumbnail }}" class="game-thumbnail" width="64" height="64"></a>
+    <a href="{{ game.url }}">{{ game.title }}</a> - {{ game.date }}<br>
+    {{ game.contributors | join:', ' }}<br>
+    {{ game.summary }}
+</p>
+{% endfor %}

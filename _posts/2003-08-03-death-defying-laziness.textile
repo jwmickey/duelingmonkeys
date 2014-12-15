@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "death-defying laziness"
+date:   2003-08-03 20:00:00
+author: "Mike Daly"
+avatar: "willow_calm"
+---
+Well, I managed to blunder up another week of updates. With Wayne gone, I forgot all about updating, and over the weekend (which I spent out of town), I didn't think to do anything that I could post. Therefore, this post will just serve as a reminder that I am alive.
+
+ I've got another milestone for Project Sunburn on friday, so you will probably be seeing some work done before then. Maybe, that is, I'm not promising anything. We'll just have to see if Wayne can come up with something in time for wednesday.
+
+ Right, so sorry, but that's it. If you have something to say about our slackness, feel free to inform us via the "feedback form":feedback.php.
+
+ Toodles.

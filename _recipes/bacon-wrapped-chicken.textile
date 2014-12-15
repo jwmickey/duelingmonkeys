@@ -1,0 +1,34 @@
+---
+title:  "Bacon Wrapped Chicken"
+author: "Jody"
+cook_time: ""
+prep_time: ""
+cleanup_time: ""
+course: "Main Dishes"
+categories: 
+  - "American"
+---
+h3. Ingredients
+
+* 4 - 6 Boneless Skinless Chicken Breasts
+* Pack of Bacon
+* Salt &amp; Pepper
+* Sliced Ham
+* Muenster Cheese (or any substitute)
+
+h3. Directions
+
+# Preheat oven to 350 degrees
+# Pound chicken until about 1/4&quot; thick
+# Sprinkle chicken with salt and pepper
+# Top each piece with 1 slice of ham and 1 slice of cheese
+# Fold chicken over ham and cheese
+# Wrap chicken with 1 or 2 slices of bacon
+# Place wrapped chicken side by side in a shallow baking pan
+# Bake for about 40 - 45 minutes or until chicken is cooked and bacon is browned
+
+h3. Comments
+
+Thanks Grandma.
+
+ We had these with "Roasted Potatoes in Garlic Sauce":cooking.php?view=specific&item=28 and some Fruit Cocktail.

@@ -82,3 +82,39 @@ div.footer {
   margin-bottom: 20px;
   color: #999;
 }
+
+@-moz-keyframes spin {
+  to { -moz-transform: rotate(0deg); }
+  from { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes spin {
+  to { -webkit-transform: rotate(0deg); }
+  from { -webkit-transform: rotate(360deg); }
+}
+@keyframes spin {
+  to {transform:rotate(0deg);}
+  from {transform:rotate(360deg);}
+}
+
+div.loading {
+  width: 80px;
+  height: 80px;
+  background: url('/images/logo-square.jpg');
+  background-size: contain;
+  border-radius: 50%;
+
+  -webkit-animation-name: spin;
+  -webkit-animation-duration: 1250ms;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: spin;
+  -moz-animation-duration: 1500ms;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+  -ms-animation-name: spin;
+  -ms-animation-duration: 1500ms;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear;
+  -o-transition: rotate(3600deg);
+}
+

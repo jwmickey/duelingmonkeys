@@ -18,7 +18,7 @@ $navbar-height: 60px;
 $font-size-large: 20px;
 $font-size-base: 16px;
 $link-color: #000000;
-$link-hover-color: #000000;
+$link-hover-color: #FFFFFF;
 $link-hover-decoration: underline;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
@@ -29,9 +29,6 @@ $link-hover-decoration: underline;
 
 a {
     text-decoration: underline;
-    &:hover {
-        font-weight: bold;
-    }
 }
 
 .navbar {
@@ -41,6 +38,7 @@ a {
 .navbar .nav li {
   a {
     font-size: 22px;
+    text-decoration: none;
     &:hover {
       font-weight: bold;
     }
@@ -53,6 +51,7 @@ a {
 a.navbar-brand {
   font-size: 24px;
   padding: 4px 0;
+  text-decoration: none;
 
   img {
     max-height: 100%;

@@ -17,9 +17,9 @@ $navbar-default-link-active-color: $dm-blue;
 $navbar-height: 60px;
 $font-size-large: 20px;
 $font-size-base: 16px;
-$link-color: #FFFFFF;
+$link-color: #000000;
 $link-hover-color: #000000;
-$link-hover-decoration: none;
+$link-hover-decoration: underline;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

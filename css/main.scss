@@ -27,6 +27,13 @@ $link-hover-decoration: underline;
   "syntax-highlighting"
 ;
 
+a {
+    text-decoration: underline;
+    &:hover {
+        font-weight: bold;
+    }
+}
+
 .navbar {
   border-bottom: 2px solid #333;
 }

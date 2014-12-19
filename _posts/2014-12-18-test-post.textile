@@ -1,0 +1,10 @@
+---
+layout: post
+title: "My new test post"
+author: "Jody"
+avatar: "wayne_happy"
+---
+
+h1. I'm so happy about our new site!
+
+But that's all you get, this is just a test.

@@ -17,11 +17,17 @@ collections:
 defaults:
   -
     scope:
+      type: "post"
+    values:
+      nav: "blog"
+  -
+    scope:
       type: "games"
     values:
       layout: "game"
+      nav: "games"
   -
-      scope:
-        type: "recipes"
-      values:
-        layout: "recipe"
+    scope:
+      type: "recipes"
+    values:
+      layout: "recipe"

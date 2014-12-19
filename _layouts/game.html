@@ -1,18 +1,29 @@
 ---
 layout: default
+nav: games
 ---
 <div class="content-box">
+    <img src="{{ page.thumbnail }}" class="pull-right" width="64" height="64">
     <h3 class="news-title">{{ page.title }}</h3>
-    <p>
-        <img src="{{ page.thumbnail }}" class="game-thumbnail" width="64" height="64">
-        <span style="font-style:italic;">Date: </span>{{ page.date }}<br>
-        <span style="font-style:italic;">Contributors: </span>{{ page.contributors | join:', ' }}<br>
-        <span style="font-style:italic;">Download: </span>
-        <a href="{{ page.download }}">{{ page.download }}</a>
-    </p>
+    <dl class="dl-horizontal">
+        <dt>Date:</dt><dd>{{ page.date }}</dd>
+        <dt>Contributors:</dt><dd>{{ page.contributors | join:', ' }}</dd>
+        <dt>Download:</dt><dd><a href="{{ page.download }}">{{ page.download }}</a></dd>
+    </dl>
     <hr class="divider">
-    <div class="news-body">
-        {{ content }}
+    {{ content }}
+    <hr class="divider">
+    <div class="row">
+        {% for img in page.images %}
+        {% assign parts = img | split:'/' %}
+        {% assign file = '/t_' | append:parts.last %}
+        {% assign thumb = parts | pop | join:'/' | append:file %}
+        <div class="col-xs-6 col-sm-1">
+            <a href="{{ img }}" class="thumbnail">
+                <img data-src="{{ thumb }}" alt="Thumbnail">
+            </a>
+        </div>
+        {% endfor %}
     </div>
 </div>
 

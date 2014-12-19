@@ -3,50 +3,82 @@
 ---
 @charset "utf-8";
 
-
-
-// Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
-
-$spacing-unit:     30px;
-
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
-// Width of the content area
-$content-width:    800px;
-
-$on-palm:          600px;
-$on-laptop:        800px;
-
-
-
-// Using media queries with like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
-}
-
-
+$dm-blue: #0099FF;
+$font-family-sans-serif: "Quicksand";
+$body-bg: #666666;
+$text-color: #000000;
+$navbar-border-radius: 0;
+$navbar-default-bg: #000000;
+$navbar-default-color: $dm-blue;
+$navbar-default-link-color: $dm-blue;
+$navbar-default-link-hover-color: $dm-blue;
+$navbar-default-link-active-bg: #000000;
+$navbar-default-link-active-color: $dm-blue;
+$navbar-height: 60px;
+$font-size-large: 20px;
+$font-size-base: 16px;
+$link-color: #FFFFFF;
+$link-hover-color: #000000;
+$link-hover-decoration: none;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout",
-        "syntax-highlighting"
+  "base",
+  "syntax-highlighting"
 ;
+
+.navbar {
+  border-bottom: 2px solid #333;
+}
+
+.navbar .nav li {
+  a {
+    font-size: 22px;
+    &:hover {
+      font-weight: bold;
+    }
+  }
+  &.active a {
+    font-weight: bold;
+  }
+}
+
+a.navbar-brand {
+  font-size: 24px;
+  padding: 4px 0;
+
+  img {
+    max-height: 100%;
+    width: auto;
+    display: inline-block;
+  }
+}
+
+@media (max-width: $screen-sm-min) {
+  a.navbar-brand {
+    font-size: 20px;
+  }
+}
+
+.content-box {
+  background-color: $dm-blue;
+  border: 2px solid #000;
+  box-shadow: 0 2px #555;
+  padding: 10px;
+  margin-bottom: 20px;
+
+  .news-title {
+    margin-top: 0;
+  }
+
+  hr.divider {
+    margin: 10px -10px;
+    border-top: 2px solid #000;
+  }
+}
+
+div.footer {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #999;
+}

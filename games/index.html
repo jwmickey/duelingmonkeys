@@ -28,10 +28,19 @@ nav: games
 </p>
 
 {% for game in site.games %}
-<p class="game-intro">
-    <a href="{{ game.url }}"><img src="{{ game.thumbnail }}" class="game-thumbnail" width="64" height="64"></a>
-    <a href="{{ game.url }}">{{ game.title }}</a> - {{ game.date }}<br>
-    {{ game.contributors | join:', ' }}<br>
-    {{ game.summary }}
-</p>
+<div class="row">
+    <div class="col-xs-2 col-sm-1">
+        <img src="{{ game.thumbnail }}" width="64" height="64" alt="{{ game.title }}">
+    </div>
+    <div class="col-xs-10 col-sm-11">
+        <h5><a href="{{ game.url }}">{{ game.title }}</a></h5>
+        <dl class="dl-horizontal">
+            <dt>Date:</dt><dd>{{ game.date }}</dd>
+            <dt>Contributors:</dt><dd>{{ game.contributors | join:', ' }}</dd>
+        </dl>
+        <p>
+            {{ game.summary }}
+        </p>
+    </div>
+</div>
 {% endfor %}

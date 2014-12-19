@@ -8,6 +8,8 @@ plugins: _plugins
 # Build settings
 markdown: kramdown
 
+exclude: ['bower.json', 'Vagrantfile', 'provision.sh', 'README.md']
+
 collections:
   games:
     output: true

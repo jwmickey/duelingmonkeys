@@ -50,13 +50,37 @@ a {
 
 a.navbar-brand {
   font-size: 24px;
-  padding: 4px 0;
+  padding: 0;
   text-decoration: none;
 
   img {
     max-height: 100%;
     width: auto;
     display: inline-block;
+  }
+
+  ul {
+    height: $navbar-height;
+    display: table;
+    li {
+      display: table-cell;
+      vertical-align: middle;
+    }
+  }
+}
+
+.dm-navbar-toggle {
+  @extend .navbar-toggle;
+
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+
+  &:focus, &:hover {
+    background-color: $navbar-default-bg !important;
+    border: 0;
+    border-radius: 0;
   }
 }
 
@@ -102,23 +126,49 @@ div.footer {
   from {transform:rotate(360deg);}
 }
 
-div.loading {
-  width: 80px;
-  height: 80px;
-  background: url('/images/logo-square.jpg');
-  background-size: contain;
+div.monkey {
+  background: url('/images/DMLogo150.svg') center center no-repeat;
   border-radius: 50%;
+}
+div.logo {
+  @extend .monkey;
+
+  height: $navbar-height;
+  width: $navbar-height;
+  display: inline-block;
+  background-size: 50px 50px;
+}
+
+div.touch-logo {
+  @extend .logo;
+}
+
+div.loading {
+  @extend .monkey;
+
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin: -50px 0 0 -50px;
+
+  width: 100px;
+  height: 100px;
+
+  background-color: #000000;
+  background-size: 85px 85px;
+
+  box-shadow: 0 0 100px rgba(30,30,30,0.75);
 
   -webkit-animation-name: spin;
-  -webkit-animation-duration: 1250ms;
+  -webkit-animation-duration: 1s;
   -webkit-animation-iteration-count: infinite;
   -webkit-animation-timing-function: linear;
   -moz-animation-name: spin;
-  -moz-animation-duration: 1500ms;
+  -moz-animation-duration: 1s;
   -moz-animation-iteration-count: infinite;
   -moz-animation-timing-function: linear;
   -ms-animation-name: spin;
-  -ms-animation-duration: 1500ms;
+  -ms-animation-duration: 1s;
   -ms-animation-iteration-count: infinite;
   -ms-animation-timing-function: linear;
   -o-transition: rotate(3600deg);

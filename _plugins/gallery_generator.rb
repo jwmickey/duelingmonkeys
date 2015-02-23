@@ -171,8 +171,11 @@ module Jekyll
       dir = config["dir"] || "photos"
       galleries = []
       begin
+        puts "Directory is " + dir
+        puts "CWD is " + FileUtils.pwd
         Dir.foreach(dir) do |gallery_dir|
           gallery_path = File.join(dir, gallery_dir)
+          puts "Gallery path is " + gallery_path
           if File.directory?(gallery_path) and gallery_dir.chars.first != "."
             gallery = GalleryPage.new(site, site.source, gallery_path, gallery_dir)
             gallery.render(site.layouts, site.site_payload)

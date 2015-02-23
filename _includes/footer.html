@@ -6,3 +6,10 @@
 
 <script type="text/javascript" src="/bower_components/jquery/dist/jquery.min.js"></script>
 <script type="text/javascript" src="/bower_components/twbs-bootstrap-sass/assets/javascripts/bootstrap.js"></script>
+<script type="text/javascript" src="/bower_components/ekko-lightbox/dist/ekko-lightbox.min.js"></script>
+<script type="text/javascript">
+$(document).delegate('*[data-toggle="lightbox"]', 'click', function(event) {
+    event.preventDefault();
+    $(this).ekkoLightbox();
+});
+</script>

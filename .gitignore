@@ -1,4 +1,7 @@
 _site
+_galleries
 .sass-cache
 .vagrant
 .idea
+photos
+bower_components

@@ -1,0 +1,17 @@
+---
+layout: page
+title: page.title
+---
+<h3><a href="/{{ site.gallery.output }}">{{ page.title }}</a></h3>
+<hr />
+<div class="row">
+{% for image in page.images %}
+    <a class="col-sm-6 col-md-3 col-lg-2" name="{{ image }}" href="{{ image }}"
+        data-toggle="lightbox" data-gallery="multiimages">
+        <div class="gallery-box">
+            <div class="thumbnail gallery-thumbnail"
+                style="background-image:url(/{{ site.gallery.dir }}/{{ page.gallery }}/thumbs/{{ image }})"></div>
+        </div>
+    </a>
+{% endfor %}
+</div>

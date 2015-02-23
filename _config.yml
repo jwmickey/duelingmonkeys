@@ -10,6 +10,23 @@ markdown: kramdown
 
 exclude: ['bower.json', 'Vagrantfile', 'provision.sh', 'README.md']
 
+gallery:
+  # path to the gallery
+  dir: photos
+  # output directory
+  #output:
+  # title for gallery index
+  title: "Gallery"
+  # title prefix for gallery page. title=title_prefix+gallery_name
+  title_prefix: "Gallery: "
+  # field to control sorting of galleries for the index page
+  # (possible values are: title, date_time, best_image)
+  sort_field: "date_time"
+  # sizes for thumbnails
+  thumbnail_size:
+    x: 250
+    y: 250
+
 collections:
   games:
     output: true

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Vood en warsh gat oob"
 date:   2003-07-10 20:00:00
 author: "Mike Daly"

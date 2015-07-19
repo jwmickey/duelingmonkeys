@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Belgian Waffles less than stunning"
 date:   2002-11-23 19:00:00
 author: "Mike Daly"

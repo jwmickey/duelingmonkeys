@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "I feel like such a bad guy"
 date:   2004-03-21 19:00:00
 author: "Mike Daly"

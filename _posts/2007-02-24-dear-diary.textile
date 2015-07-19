@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Dear Diary"
 date:   2007-02-24 19:00:00
 author: "Mike Daly"

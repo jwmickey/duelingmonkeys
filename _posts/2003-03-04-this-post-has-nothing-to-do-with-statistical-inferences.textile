@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "this post has nothing to do with 'Statistical Inferences'"
 date:   2003-03-04 19:00:00
 author: "Mike Daly"

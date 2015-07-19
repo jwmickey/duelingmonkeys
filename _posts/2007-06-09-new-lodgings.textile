@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "New lodgings"
 date:   2007-06-09 20:00:00
 author: "Mike Daly"

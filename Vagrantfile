@@ -10,7 +10,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   # please see the online documentation at vagrantup.com.
 
   # Every Vagrant virtual environment requires a box to build off of.
-  config.vm.box = "ubuntu/trusty64"
+  config.vm.box = "puphpet/ubuntu1404-x64"
 
   # Use a simple shell provisioner
   config.vm.provision "shell", path: "provision.sh"

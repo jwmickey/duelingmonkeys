@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "A is for apple, B is for bird, D is for stupid"
 date:   2003-02-24 19:00:00
 author: "Mike Daly"

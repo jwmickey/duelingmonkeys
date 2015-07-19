@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Face plate"
 date:   2006-03-27 19:00:00
 author: "Mike Daly"

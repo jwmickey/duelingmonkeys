@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "oops, sorry"
 date:   2003-05-25 20:00:00
 author: "Mike Daly"

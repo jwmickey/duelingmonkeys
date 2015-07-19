@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "New Gallery Page!"
 date:   2006-01-07 19:00:00
 author: "Jody"

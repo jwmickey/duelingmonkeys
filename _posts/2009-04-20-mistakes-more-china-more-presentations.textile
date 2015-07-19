@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Mistakes, more China, more presentations"
 date:   2009-04-20 02:07:06
 author: "Mike Daly"

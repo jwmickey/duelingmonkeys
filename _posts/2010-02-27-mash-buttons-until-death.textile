@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Mash Buttons Until Death"
 date:   2010-02-27 02:35:24
 author: "Mike Daly"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "For Contents Sake!"
 date:   2005-05-02 20:00:00
 author: "Wastrel"

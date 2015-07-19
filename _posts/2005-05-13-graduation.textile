@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Graduation!"
 date:   2005-05-13 20:00:00
 author: "Jody"

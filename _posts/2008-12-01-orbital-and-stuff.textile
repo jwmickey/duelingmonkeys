@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Orbital and stuff"
 date:   2008-12-01 18:09:48
 author: "Mike Daly"

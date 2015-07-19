@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Life as a burning ball of hatred"
 date:   2002-12-10 19:00:00
 author: "Mike Daly"

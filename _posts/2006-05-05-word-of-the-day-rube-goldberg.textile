@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Word of the day: Rube Goldberg"
 date:   2006-05-05 20:00:00
 author: "Mike Daly"

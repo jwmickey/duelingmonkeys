@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Life is like a whirlwind"
 date:   2003-06-04 20:00:00
 author: "Mike Daly"

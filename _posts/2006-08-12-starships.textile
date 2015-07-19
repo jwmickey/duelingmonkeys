@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Starships!"
 date:   2006-08-12 20:00:00
 author: "Mike Daly"

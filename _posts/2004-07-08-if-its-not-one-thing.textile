@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "If it's not one thing..."
 date:   2004-07-08 20:00:00
 author: "Jody"

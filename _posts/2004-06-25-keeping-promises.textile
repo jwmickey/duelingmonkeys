@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Keeping Promises"
 date:   2004-06-25 20:00:00
 author: "Wastrel"

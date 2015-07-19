@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Desperate plead for feedback"
 date:   2003-02-25 19:00:00
 author: "Mike Daly"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Return of the underling"
 date:   2006-04-09 20:00:00
 author: "Wastrel"

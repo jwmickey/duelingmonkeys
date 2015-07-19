@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Word from the (very) west side"
 date:   2004-08-02 20:00:00
 author: "Wheeldle"

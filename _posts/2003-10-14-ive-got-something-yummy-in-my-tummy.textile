@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "I've got something yummy in my tummy"
 date:   2003-10-14 20:00:00
 author: "Wastrel"

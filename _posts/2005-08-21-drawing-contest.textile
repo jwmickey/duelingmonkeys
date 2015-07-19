@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Drawing contest"
 date:   2005-08-21 20:00:00
 author: "Mike Daly"

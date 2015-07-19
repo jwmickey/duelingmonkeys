@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Health, Nexus, and Sunset"
 date:   2014-06-22 23:42:19
 author: "Mike Daly"

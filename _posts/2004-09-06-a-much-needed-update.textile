@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "A much-needed update"
 date:   2004-09-06 20:00:00
 author: "Wheeldle"

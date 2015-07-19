@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Spells of Fury"
 date:   2006-06-13 20:00:00
 author: "Mike Daly"

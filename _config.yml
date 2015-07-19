@@ -5,10 +5,13 @@ url: "http://www.duelingmonkeys.com" # the base hostname & protocol for your sit
 
 plugins: _plugins
 
+gems:
+  - jekyll-gallery-generator
+
 # Build settings
 markdown: kramdown
 
-exclude: ['bower.json', 'Vagrantfile', 'provision.sh', 'README.md']
+exclude: ['Gemfile', 'Gemfile.lock', 'bower.json', 'Vagrantfile', 'provision.sh', 'README.md']
 
 gallery:
   # path to the gallery
@@ -34,7 +37,7 @@ collections:
 defaults:
   -
     scope:
-      type: "post"
+      type: "posts"
     values:
       nav: "blog"
   -

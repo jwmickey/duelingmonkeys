@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Whew, what a weekend"
 date:   2008-06-08 19:42:08
 author: "Jody"

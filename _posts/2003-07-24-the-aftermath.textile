@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "The aftermath"
 date:   2003-07-24 20:00:00
 author: "Jody"

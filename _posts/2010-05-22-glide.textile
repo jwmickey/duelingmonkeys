@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Glide"
 date:   2010-05-22 00:19:54
 author: "Mike Daly"

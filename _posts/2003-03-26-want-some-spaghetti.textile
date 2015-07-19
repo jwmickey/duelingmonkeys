@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Want some spaghetti?"
 date:   2003-03-26 19:00:00
 author: "Mike Daly"

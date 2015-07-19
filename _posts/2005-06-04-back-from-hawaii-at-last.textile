@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Back from Hawaii at last"
 date:   2005-06-04 20:00:00
 author: "Wheeldle"

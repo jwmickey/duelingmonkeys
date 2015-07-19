@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "time to enjoy winter"
 date:   2004-02-29 19:00:00
 author: "Mike Daly"

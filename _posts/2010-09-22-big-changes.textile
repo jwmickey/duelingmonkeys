@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Big changes"
 date:   2010-09-22 17:44:27
 author: "Mike Daly"

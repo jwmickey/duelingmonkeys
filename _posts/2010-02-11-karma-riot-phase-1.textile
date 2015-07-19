@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Karma Riot phase 1!"
 date:   2010-02-11 00:18:17
 author: "Mike Daly"

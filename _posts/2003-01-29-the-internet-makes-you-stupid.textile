@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "the internet makes you stupid"
 date:   2003-01-29 19:00:00
 author: "Mike Daly"

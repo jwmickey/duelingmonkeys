@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Nephews, IGFs, Chinas, and Game Jams"
 date:   2009-02-01 16:16:43
 author: "Mike Daly"

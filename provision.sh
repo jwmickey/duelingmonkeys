@@ -3,8 +3,14 @@
 # upgrade packages
 apt-get update && apt-get upgrade -y
 
-# install curl
-apt-get install curl -y
+# install some packages
+apt-get install curl git nodejs npm libmagickwand-dev -y
+
+# symlink node to nodejs
+ln -s /usr/bin/nodejs /usr/bin/node
+
+# install bower
+npm install -g bower
 
 # add gpg for rvm signature
 gpg --keyserver hkp://keys.gnupg.net --recv-keys D39DC0E3
@@ -19,14 +25,11 @@ source /etc/profile.d/rvm.sh
 rvm reload
 rvm install 2.1.5
 
-# install javascript engine
-gem install therubyracer
+# install gems
+bundle install
 
-# install jekyll
-gem install jekyll
-
-# install RedCloth for textile support
-gem install RedCloth
+# install bower assets
+bower install --config.interactive=false
 
 # add a script to start jekyll in detached mode
 echo 'jekyll s --host 0.0.0.0 -w --drafts --future -s /vagrant -d /vagrant/_site --detach' > /home/vagrant/start_jekyll.sh

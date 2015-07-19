@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Season's greetings"
 date:   2005-12-26 19:00:00
 author: "Mike Daly"

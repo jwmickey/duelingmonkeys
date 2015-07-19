@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Hobby Stuff 2013-2014"
 date:   2014-08-10 15:44:45
 author: "Mike Daly"

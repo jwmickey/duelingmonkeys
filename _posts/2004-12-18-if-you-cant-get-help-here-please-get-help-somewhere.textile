@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "If you can't get help here, please get help somewhere"
 date:   2004-12-18 19:00:00
 author: "Mike Daly"

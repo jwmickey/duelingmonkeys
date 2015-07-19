@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "When drawings go bad"
 date:   2005-06-28 20:00:00
 author: "Mike Daly"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Man, I'm not being too clever today"
 date:   2003-05-27 20:00:00
 author: "Mike Daly"

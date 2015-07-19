@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Nothing interesting to say really"
 date:   2011-06-05 00:00:00
 author: "Mike Daly"

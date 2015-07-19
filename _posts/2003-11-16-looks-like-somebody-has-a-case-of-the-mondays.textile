@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Looks like somebody has a case of the mondays."
 date:   2003-11-16 19:00:00
 author: "Mike Daly"

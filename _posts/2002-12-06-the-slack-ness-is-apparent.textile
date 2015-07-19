@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "The slack-ness is apparent"
 date:   2002-12-06 19:00:00
 author: "Mike Daly"

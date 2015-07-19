@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Half Year Summary"
 date:   2013-01-27 00:00:00
 author: "Mike Daly"

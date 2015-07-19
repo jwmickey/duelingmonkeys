@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Dodging the bullet ... literally"
 date:   2004-06-07 20:00:00
 author: "Mike Daly"

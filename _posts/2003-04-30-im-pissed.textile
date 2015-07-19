@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "I'm pissed"
 date:   2003-04-30 20:00:00
 author: "Jody"

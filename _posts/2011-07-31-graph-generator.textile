@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Graph generator"
 date:   2011-07-31 00:00:00
 author: "Mike Daly"

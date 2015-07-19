@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "I'm getting sloppy"
 date:   2003-08-14 20:00:00
 author: "Jody"

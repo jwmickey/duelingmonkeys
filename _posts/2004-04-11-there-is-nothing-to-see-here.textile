@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "There is nothing to see here"
 date:   2004-04-11 20:00:00
 author: "Mike Daly"

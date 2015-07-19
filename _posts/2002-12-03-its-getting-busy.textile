@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "It's getting busy"
 date:   2002-12-03 19:00:00
 author: "Jody"

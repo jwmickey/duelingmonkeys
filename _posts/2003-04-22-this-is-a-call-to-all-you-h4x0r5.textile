@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "This is a call to all you H4X0R5"
 date:   2003-04-22 20:00:00
 author: "Mike Daly"

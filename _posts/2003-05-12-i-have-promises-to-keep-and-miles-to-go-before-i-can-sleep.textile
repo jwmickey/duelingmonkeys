@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "I have promises to keep, and miles to go before I can sleep"
 date:   2003-05-12 20:00:00
 author: "Mike Daly"

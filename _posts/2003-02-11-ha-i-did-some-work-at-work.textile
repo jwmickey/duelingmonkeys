@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Ha! I did some work at work"
 date:   2003-02-11 19:00:00
 author: "Mike Daly"

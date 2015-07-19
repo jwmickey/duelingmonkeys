@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Things to watch out for"
 date:   2003-06-22 20:00:00
 author: "Mike Daly"

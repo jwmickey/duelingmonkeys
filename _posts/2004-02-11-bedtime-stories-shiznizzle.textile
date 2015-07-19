@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Bedtime Stories.... Shiznizzle"
 date:   2004-02-11 19:00:00
 author: "Wastrel"

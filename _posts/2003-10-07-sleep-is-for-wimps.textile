@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Sleep is for wimps"
 date:   2003-10-07 20:00:00
 author: "Jody"

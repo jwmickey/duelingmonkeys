@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "I hate doing this"
 date:   2003-10-26 19:00:00
 author: "Jody"

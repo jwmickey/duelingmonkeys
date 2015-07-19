@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Broken Promises"
 date:   2003-06-19 20:00:00
 author: "Mike Daly"

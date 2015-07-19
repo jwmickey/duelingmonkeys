@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "For the People"
 date:   2005-04-10 20:00:00
 author: "Jody"

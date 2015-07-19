@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "This is the end.  I'm going now, ... goodbye."
 date:   2004-08-09 20:00:00
 author: "Wesley"

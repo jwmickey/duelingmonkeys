@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Short month; short update"
 date:   2009-02-26 18:34:53
 author: "Mike Daly"

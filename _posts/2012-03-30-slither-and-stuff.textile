@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Slither and stuff"
 date:   2012-03-30 00:00:00
 author: "Mike Daly"

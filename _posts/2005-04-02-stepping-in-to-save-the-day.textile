@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Stepping in to save the day"
 date:   2005-04-02 19:00:00
 author: "Wheeldle"

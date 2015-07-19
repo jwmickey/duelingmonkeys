@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "What is next?"
 date:   2009-08-24 21:49:53
 author: "Mike Daly"

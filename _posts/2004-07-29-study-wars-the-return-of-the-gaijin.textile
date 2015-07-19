@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Study Wars: The Return of the Gaijin"
 date:   2004-07-29 20:00:00
 author: "Wesley"

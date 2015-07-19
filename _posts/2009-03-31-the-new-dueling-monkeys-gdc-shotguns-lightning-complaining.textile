@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "The New Dueling Monkeys! GDC! Shotguns! Lightning! Complaining!"
 date:   2009-03-31 22:50:58
 author: "Mike Daly"

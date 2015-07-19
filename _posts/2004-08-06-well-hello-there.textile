@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Well hello there"
 date:   2004-08-06 20:00:00
 author: "Jody"

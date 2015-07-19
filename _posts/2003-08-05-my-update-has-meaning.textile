@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "My update has meaning"
 date:   2003-08-05 20:00:00
 author: "Jody"

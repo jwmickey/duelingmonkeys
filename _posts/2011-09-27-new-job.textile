@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "New Job!"
 date:   2011-09-27 22:04:48
 author: "Jody"

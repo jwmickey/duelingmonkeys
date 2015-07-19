@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "And we're back."
 date:   2003-09-07 20:00:00
 author: "Jody"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Happy Holidays!"
 date:   2012-01-15 00:00:00
 author: "Mike Daly"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Thanksgiving should not be all about turkeys"
 date:   2004-11-24 19:00:00
 author: "Wesley"

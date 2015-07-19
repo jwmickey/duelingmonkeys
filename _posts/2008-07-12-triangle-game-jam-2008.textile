@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Triangle Game Jam 2008"
 date:   2008-07-12 20:00:00
 author: "Mike Daly"

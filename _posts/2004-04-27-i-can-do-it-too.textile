@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "I can do it too"
 date:   2004-04-27 20:00:00
 author: "Jody"

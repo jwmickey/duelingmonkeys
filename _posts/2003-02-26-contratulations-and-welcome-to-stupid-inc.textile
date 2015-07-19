@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Contratulations! And welcome to Stupid Inc."
 date:   2003-02-26 19:00:00
 author: "Mike Daly"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "The physics of slack"
 date:   2003-01-13 19:00:00
 author: "Mike Daly"

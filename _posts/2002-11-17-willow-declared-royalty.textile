@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Willow Declared Royalty!"
 date:   2002-11-17 19:00:00
 author: "Mike Daly"

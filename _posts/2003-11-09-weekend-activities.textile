@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Weekend activities"
 date:   2003-11-09 19:00:00
 author: "Mike Daly"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Orcs Must Die!"
 date:   2011-02-24 00:00:00
 author: "Mike Daly"

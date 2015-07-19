@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Sprite Maker"
 date:   2010-04-16 22:33:55
 author: "Mike Daly"

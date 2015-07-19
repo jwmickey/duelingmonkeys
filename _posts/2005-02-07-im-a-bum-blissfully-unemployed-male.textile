@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "I'm a BUM (Blissfully Unemployed Male)"
 date:   2005-02-07 19:00:00
 author: "Wesley"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "All alone"
 date:   2003-07-27 20:00:00
 author: "Mike Daly"

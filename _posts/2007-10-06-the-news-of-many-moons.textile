@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "The news of many moons"
 date:   2007-10-06 20:00:00
 author: "Mike Daly"

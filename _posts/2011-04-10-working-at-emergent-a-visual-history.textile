@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Working at Emergent - a visual history"
 date:   2011-04-10 00:00:00
 author: "Mike Daly"

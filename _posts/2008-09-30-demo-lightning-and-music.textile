@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Demo, Lightning, and Music"
 date:   2008-09-30 19:43:56
 author: "Mike Daly"

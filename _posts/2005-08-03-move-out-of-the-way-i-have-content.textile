@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Move out of the way, I have content!"
 date:   2005-08-03 20:00:00
 author: "Jody"

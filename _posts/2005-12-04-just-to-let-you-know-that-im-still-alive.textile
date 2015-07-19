@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Just to let you know that I'm still alive"
 date:   2005-12-04 19:00:00
 author: "Mike Daly"

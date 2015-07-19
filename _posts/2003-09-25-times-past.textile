@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Times past"
 date:   2003-09-25 20:00:00
 author: "Mike Daly"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "it falls to me"
 date:   2004-02-25 19:00:00
 author: "Wesley"

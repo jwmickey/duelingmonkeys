@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "I hope Wayne doesn't beat me for this"
 date:   2003-05-18 20:00:00
 author: "Mike Daly"

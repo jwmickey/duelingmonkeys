@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "the monkeys have come"
 date:   2003-02-16 19:00:00
 author: "Mike Daly"

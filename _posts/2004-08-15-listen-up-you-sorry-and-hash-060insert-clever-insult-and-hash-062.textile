@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Listen up you sorry &#060;insert clever insult&#062;"
 date:   2004-08-15 20:00:00
 author: "Mike Daly"

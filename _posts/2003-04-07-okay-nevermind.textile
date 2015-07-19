@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Okay, nevermind"
 date:   2003-04-07 20:00:00
 author: "Mike Daly"

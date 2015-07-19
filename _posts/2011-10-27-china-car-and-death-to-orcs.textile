@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "China, Car, and death to Orcs!"
 date:   2011-10-27 00:00:00
 author: "Mike Daly"

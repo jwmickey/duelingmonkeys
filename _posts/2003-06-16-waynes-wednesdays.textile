@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Wayne's Wednesdays"
 date:   2003-06-16 20:00:00
 author: "Jody"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "A stab at regularity..."
 date:   2003-05-20 20:00:00
 author: "Mike Daly"

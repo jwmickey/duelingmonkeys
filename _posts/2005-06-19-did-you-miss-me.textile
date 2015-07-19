@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "did you miss me?"
 date:   2005-06-19 20:00:00
 author: "Wesley"

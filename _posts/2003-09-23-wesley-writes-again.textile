@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Wesley writes again!!!"
 date:   2003-09-23 20:00:00
 author: "Wesley"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Happy New Years and stuff"
 date:   2010-01-09 17:41:40
 author: "Mike Daly"

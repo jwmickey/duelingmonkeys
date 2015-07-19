@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Look, I can doodle"
 date:   2006-01-28 19:00:00
 author: "Mike Daly"

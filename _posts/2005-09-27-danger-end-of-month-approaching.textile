@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "DANGER:  END OF MONTH APPROACHING!"
 date:   2005-09-27 20:00:00
 author: "Jody"

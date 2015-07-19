@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Tag team, back again..."
 date:   2004-06-10 20:00:00
 author: "Mike Daly"

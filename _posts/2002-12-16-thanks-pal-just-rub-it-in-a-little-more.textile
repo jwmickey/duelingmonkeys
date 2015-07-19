@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Thanks pal, just rub it in a little more"
 date:   2002-12-16 19:00:00
 author: "Jody"

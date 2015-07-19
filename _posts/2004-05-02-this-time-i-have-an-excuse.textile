@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "This time I have an excuse"
 date:   2004-05-02 20:00:00
 author: "Mike Daly"

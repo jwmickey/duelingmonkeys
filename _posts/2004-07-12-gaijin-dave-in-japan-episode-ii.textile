@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Gaijin Dave in Japan: Episode II"
 date:   2004-07-12 20:00:00
 author: "Wesley"

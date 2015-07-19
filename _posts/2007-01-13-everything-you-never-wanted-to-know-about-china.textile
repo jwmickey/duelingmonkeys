@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Everything you never wanted to know about China"
 date:   2007-01-13 19:00:00
 author: "Wesley"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Miracle Methods"
 date:   2004-02-01 19:00:00
 author: "Mike Daly"

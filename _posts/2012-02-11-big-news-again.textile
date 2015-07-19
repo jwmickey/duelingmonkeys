@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Big News... Again!"
 date:   2012-02-11 23:27:23
 author: "Jody"

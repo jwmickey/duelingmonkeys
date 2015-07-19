@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "My new test post"
 author: "Jody"
 avatar: "wayne_happy"

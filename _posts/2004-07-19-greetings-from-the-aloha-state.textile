@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Greetings from the aloha state"
 date:   2004-07-19 20:00:00
 author: "Wheeldle"

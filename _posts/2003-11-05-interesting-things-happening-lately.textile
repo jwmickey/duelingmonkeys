@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Interesting things happening lately"
 date:   2003-11-05 19:00:00
 author: "Mike Daly"

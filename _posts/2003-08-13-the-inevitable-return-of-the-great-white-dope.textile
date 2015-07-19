@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "The Inevitable Return of the Great White Dope"
 date:   2003-08-13 20:00:00
 author: "Wesley"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Homecoming!"
 date:   2009-07-06 00:23:48
 author: "Mike Daly"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "the mad monkey sickness madness"
 date:   2004-10-12 20:00:00
 author: "Wesley"

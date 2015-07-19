@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "All about the games"
 date:   2010-11-30 00:00:00
 author: "Mike Daly"

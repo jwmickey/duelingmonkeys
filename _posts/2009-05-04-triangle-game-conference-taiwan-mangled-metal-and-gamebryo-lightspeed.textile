@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Triangle Game Conference, Taiwan, Mangled Metal, and Gamebryo LightSpeed"
 date:   2009-05-04 22:23:27
 author: "Mike Daly"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Good broken promises?"
 date:   2004-04-14 20:00:00
 author: "Mike Daly"

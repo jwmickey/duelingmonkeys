@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "BitmapToTiles"
 date:   2010-03-14 01:12:01
 author: "Mike Daly"

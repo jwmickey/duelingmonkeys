@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "it's easier to just complain"
 date:   2003-08-21 20:00:00
 author: "Mike Daly"

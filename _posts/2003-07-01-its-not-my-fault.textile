@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "It's not my fault"
 date:   2003-07-01 20:00:00
 author: "Jody"

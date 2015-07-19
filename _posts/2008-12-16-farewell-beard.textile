@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Farewell beard"
 date:   2008-12-16 19:04:14
 author: "Mike Daly"

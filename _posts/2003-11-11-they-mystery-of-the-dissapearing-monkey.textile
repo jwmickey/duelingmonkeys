@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "They mystery of the dissapearing monkey"
 date:   2003-11-11 19:00:00
 author: "Wesley"

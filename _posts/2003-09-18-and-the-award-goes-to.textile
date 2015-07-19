@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "And the award goes to ..."
 date:   2003-09-18 20:00:00
 author: "Mike Daly"

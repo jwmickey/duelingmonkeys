@@ -27,6 +27,9 @@ gallery:
   thumbnail_size:
     x: 250
     y: 250
+  galleries:
+    china:
+      best_image: daveimg_0500.jpg
 
 collections:
   games:

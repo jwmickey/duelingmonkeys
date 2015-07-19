@@ -6,3 +6,5 @@ _galleries
 photos
 bower_components
 gallery
+vendor
+.bundle

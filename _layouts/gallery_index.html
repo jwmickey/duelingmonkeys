@@ -1,12 +1,14 @@
 ---
 layout: page
 ---
+<div class="row">
 {% for gallery in page.galleries %}
-<div style="width: 35em; text-align: center; padding: 1em 0 4em 0;">
-    <a href="{{ gallery['gallery'] }}">
-        <img style="max-height: 20em; max-width: 20em;" src="/{{ site.gallery.dir }}/{{ gallery['gallery'] }}/thumbs/{{ gallery['best_image'] }}">
-    </a>
-    <h3><a href="{{ gallery['gallery'] }}">{{ gallery["name"] }}</a></h3>
-    {{ gallery["images"] | size }} images
-</div>
+    <div class="col-xs-1 col-sm-2 col-md-4">
+        <a href="{{ gallery['gallery'] }}">
+            <img style="max-height: 20em; max-width: 20em;" src="/{{ site.gallery.dir }}/{{ gallery['gallery'] }}/thumbs/{{ gallery['best_image'] }}">
+        </a>
+        <h3><a href="{{ gallery['gallery'] }}">{{ gallery["name"] }}</a></h3>
+        {{ gallery["images"] | size }} images
+    </div>
 {% endfor %}
+</div>

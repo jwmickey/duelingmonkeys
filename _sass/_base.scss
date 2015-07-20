@@ -60,3 +60,38 @@
     border-bottom: 0;
   }
 }
+
+.news-archives {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: flex-start;
+  align-items: flex-start;
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+
+  dl {
+    flex: 1 1 auto;
+    min-width: 60px;
+
+    dd {
+      color: #444;
+    }
+  }
+}
+
+.news-archive-preview {
+  margin-bottom: 20px;
+  clear: both;
+  height: 60px;
+
+  img {
+    max-height: 60px;
+    float: left;
+    margin-left: -8px;
+  }
+
+  span {
+    float: right;
+    font-style: italic;
+  }
+}

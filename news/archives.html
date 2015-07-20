@@ -2,9 +2,9 @@
 layout: news
 title: News Archives
 ---
-<div class="box">
-    <h3>Browse News Archives</h3>
-    <div class="clearfix">
+<div class="content-box">
+    <h3>News Archives</h3>
+    <div class="news-archives">
 
     {% assign months = '|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec' | split: '|' %}
     {% assign firstPost = site.posts|last %}
@@ -12,7 +12,7 @@ title: News Archives
     {% assign prevMonth = 0 %}
     {% assign endYear = 'now' | date: '%Y' %}
 
-    <dl class="news-archive">
+    <dl>
         <dt>{{ prevYear }}</dt>
     {% for post in site.posts reversed %}
 
@@ -29,7 +29,7 @@ title: News Archives
         {% endunless %}
     </dl>
     {% endunless %}
-    <dl class="news-archive">
+    <dl>
         <dt>{{ year }}</dt>
         {% assign prevMonth = 0 %}
     {% endunless %}
@@ -40,7 +40,7 @@ title: News Archives
         {% for m in (start..end) %}
         <dd>{{ months[m] }}</dd>
         {% endfor %}
-        <dd><a href="#{{ year }}-{{ month }}">{{ months[month] }}</a></dd>
+        <dd><a href="/news/{{ year }}.html#{{ months[month] }}">{{ months[month] }}</a></dd>
     {% endunless %}
 
     {% assign prevMonth = month %}

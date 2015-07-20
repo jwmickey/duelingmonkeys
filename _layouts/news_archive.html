@@ -1,0 +1,28 @@
+---
+layout: news
+---
+
+<div class="content-box">
+    <h3><a href="/news/archives.html">Archives</a>: News from {{ page.year }}</h3>
+
+    {% assign monthsShort = '|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec' | split: '|' %}
+    {% assign months = '|January|February|March|April|May|June|July|August|September|October|November|December' | split: '|' %}
+    {% assign prevMonth = -1 %}
+
+    {% for post in page.posts %}
+    {% assign month = post.date | date: '%-m' | times:1 %}
+    {% if month != prevMonth %}
+    <h3 id="{{ monthsShort[month] }}">{{ months[month] }}</h3>
+    {% endif %}
+    <div class="news-archive-preview">
+        <img src="/images/icons/private/{{ post.avatar }}.jpg">
+        <span>
+            {% if post.author %}by {{ post.author }}<br>{% endif %}
+            {{ post.date | date: "%b %-d, %Y" }}
+        </span>
+        <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+    </div>
+    {% assign prevMonth = month %}
+    {% endfor %}
+</div>
+

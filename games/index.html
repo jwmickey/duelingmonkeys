@@ -27,7 +27,8 @@ nav: games
     Any comments or feedback is welcome. Please enjoy.
 </p>
 
-{% for game in site.games %}
+{% assign sortedpages = site.games | sort:"date"  %}
+{% for game in sortedpages %}
 <div class="media game">
     <div class="media-left">
         <a href="{{ game.url }}"><img src="{{ game.thumbnail }}" width="64" height="64" alt="{{ game.title }}"></a>

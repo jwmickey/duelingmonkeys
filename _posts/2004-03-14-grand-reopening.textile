@@ -3,7 +3,7 @@ layout: posts
 title:  "Grand ReOpening!!!!"
 date:   2004-03-14 19:00:00
 author: "Wastrel"
-avatar: ""
+avatar: "wastrel_calm"
 ---
 The liquor cabinets are full, tans all about, and plenty of -women- stories to go around!
 

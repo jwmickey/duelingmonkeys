@@ -3,7 +3,7 @@ layout: posts
 title:  "Sign Language"
 date:   2003-07-08 20:00:00
 author: "Mike Daly"
-avatar: ""
+avatar: "willow_calm"
 ---
 Not much for today, but we do have a short video of some of Willow's mad skillz. "The hand":filespace/willow/hand.avi was modeled and animated in 3D Studio Max. It's for holding a &quot;weapon&quot; in the sunburn project we've been mentioning over the past couple of weeks.
 

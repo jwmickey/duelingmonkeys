@@ -3,7 +3,7 @@ layout: posts
 title:  "I've got something yummy in my tummy"
 date:   2003-10-14 20:00:00
 author: "Wastrel"
-avatar: ""
+avatar: "wastrel_calm"
 ---
 So the update itself will be short, or rather nevermind I'll tell a little story about today and make it longer. _Muhahaha...._
 

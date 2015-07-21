@@ -3,7 +3,7 @@ layout: posts
 title:  "Its just one of those days"
 date:   2003-09-09 20:00:00
 author: "Wastrel"
-avatar: ""
+avatar: "wastrel_calm"
 ---
 Look in the sky... its a bird... its a plane.... wait acutally there's nothing there just some clouds (maybe). That's right turn your head down, a little to the left, and back up... yeah.. ummm that's it! There on a couch, or laying in a field, or maybe on a sofa... sitting doing nothing and looking like a bum. Yeap that's right its Wastrel Monkey!!! _(Applausometer shoots off the scale)_
 

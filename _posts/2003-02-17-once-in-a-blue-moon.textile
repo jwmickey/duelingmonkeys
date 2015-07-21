@@ -3,7 +3,7 @@ layout: posts
 title:  "Once in a blue moon"
 date:   2003-02-17 19:00:00
 author: "Mike Daly"
-avatar: ""
+avatar: "willow_calm"
 ---
 It's not too often nowadays I do art just for art's sake. But today, I did just that. I'm getting a little faster I think. This one only took me a couple hours from concept to completion.
 

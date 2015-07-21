@@ -28,7 +28,7 @@ nav: games
 </p>
 
 <div class="games-list">
-    {% assign games = site.games | sort:'date' %}
+    {% assign games = site.games | sort:'date' | reverse %}
     {% for game in games %}
     <div class="game">
         <div class="thumbnail">

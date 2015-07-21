@@ -3,7 +3,7 @@ layout: posts
 title:  "Its 4:31 AM and i should be sleeping..."
 date:   2003-12-02 19:00:00
 author: "Wesley"
-avatar: ""
+avatar: "wesley_calm"
 ---
 ...but i'm writing this update instead. now, what have we today for our loving and loyal audience? we have another useless link!!! "TokiDoki":http://www.tokidoki.it/ is completely useless, but its different, and for some reason i like it. look around the site, and enjoy the ambiance.
 

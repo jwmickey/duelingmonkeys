@@ -3,7 +3,7 @@ layout: posts
 title:  "I sank to the level of a preteen"
 date:   2003-10-05 20:00:00
 author: "Wastrel"
-avatar: ""
+avatar: "wastrel_calm"
 ---
 Hey, so its sunday night, we all have work out the bum, and well we didn't get much of anything accomplished this weekend. Although Sleep is quite an accomplishment, and I definetly caught up on that (especially with random naps which were not planned and just took precious hours out of a good day).
 

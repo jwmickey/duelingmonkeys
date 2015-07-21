@@ -3,7 +3,7 @@ layout: posts
 title:  "Wayne wa kami o kittemorata"
 date:   2003-08-24 20:00:00
 author: "Wesley"
-avatar: ""
+avatar: "wesley_calm"
 ---
 that means Wayne got his hair cut. i think. my japanese is a little rusty (and by rusty i mean was never there to begin with). so, what have we for you today? pictures of Waynes new do! "haircut 1":images/gallery/snapshots/wayne_haricut1.jpg, "haircut 2":images/gallery/snapshots/wayne_haircut2.jpg, and yes, even "haircut 3":images/gallery/snapshots/wayne_haircut3.jpg!!!
 

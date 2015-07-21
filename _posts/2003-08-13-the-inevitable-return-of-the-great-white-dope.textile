@@ -3,7 +3,7 @@ layout: posts
 title:  "The Inevitable Return of the Great White Dope"
 date:   2003-08-13 20:00:00
 author: "Wesley"
-avatar: ""
+avatar: "wesley_calm"
 ---
 I am Wesley Monkey, and this is my first post (_applause_). I am also a student at NCSU along with Willow and Wayne (_applause_) and WE LIVE TOGETHER (_a lone cricket chirps_). I have finally returned from my world travels (_quiet reverence_) and will be sharing my worldly wisdom (read: useless drivel) with you weeknights at 10!!! (_wild applause_). not only that my little monkey fans, but i can cook too! (_silent awe, followed by ecstatic applause and cheers_).
 

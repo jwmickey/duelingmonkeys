@@ -3,7 +3,7 @@ layout: posts
 title:  "it falls to me"
 date:   2004-02-25 19:00:00
 author: "Wesley"
-avatar: ""
+avatar: "wesley_calm"
 ---
 once again i am left with the awsome responsibility of updating our wonderfully useless website. i've been informed that it is my DUTY to bring you new content every update (and by you i mean the whole 2 people who visit our site regularly). so here it is, "The Samurai":images/gallery/art/samurai.jpg. Personally, i think willow did an excellent job with the coloring of this one.
 

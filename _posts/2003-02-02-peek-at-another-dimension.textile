@@ -3,7 +3,7 @@ layout: posts
 title:  "Peek at another dimension"
 date:   2003-02-02 19:00:00
 author: "Mike Daly"
-avatar: ""
+avatar: "willow_calm"
 ---
 Well, Wayne recently helped me aquire a drawing tablet. In case you know not what they are, it's an interface device with you computer where it puts the mouse cursor wherever you put your pen on a pad. This is helpful for drawing and coloring things in photoshop, which, in case you haven't noticed, I'm rather fond of. Wacom makes the best, but they are expensive. I'd have to pay about $350 to get a decent, but very small one.
 

@@ -3,7 +3,7 @@ layout: posts
 title:  "Tada... Nothing"
 date:   2004-01-14 19:00:00
 author: "Wastrel"
-avatar: ""
+avatar: "wastrel_calm"
 ---
 So yeah Willow is making me update tonight... and I can guaruntee 1000% that there won't be an update waiting on monday as MLK weekend is coming up and The Monkies are heading to the Mountains!!
  But in that sense, you can be satisfied knowing we'll have some funny sh.tuff for the next update.

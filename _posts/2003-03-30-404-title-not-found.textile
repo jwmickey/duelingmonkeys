@@ -3,7 +3,7 @@ layout: posts
 title:  "<404 - title not found>"
 date:   2003-03-30 19:00:00
 author: "Mike Daly"
-avatar: ""
+avatar: "willow_calm"
 ---
 Well, it's been a couple days since I've updated, so I'll let you folks in on 'the word'.
 

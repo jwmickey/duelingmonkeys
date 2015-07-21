@@ -27,20 +27,22 @@ nav: games
     Any comments or feedback is welcome. Please enjoy.
 </p>
 
-{% for game in site.games %}
-<div class="media game">
-    <div class="media-left">
-        <a href="{{ game.url }}"><img src="{{ game.thumbnail }}" width="64" height="64" alt="{{ game.title }}"></a>
+<div class="games-list">
+    {% for game in site.games %}
+    <div class="game">
+        <div class="thumbnail">
+            <a href="{{ game.url }}"><img src="{{ game.thumbnail }}" width="64" height="64" alt="{{ game.title }}"></a>
+        </div>
+        <div class="description">
+            <h4><a href="{{ game.url }}">{{ game.title }}</a></h4>
+            <p>
+                <strong>Date:</strong> {{ game.date }},
+                <strong>Contributors:</strong> {{ game.contributors | join:', ' }}
+            </p>
+            <p>
+                {{ game.summary }}
+            </p>
+        </div>
     </div>
-    <div class="media-body">
-        <h4><a href="{{ game.url }}">{{ game.title }}</a></h4>
-        <dl class="dl-horizontal small">
-            <dt>Date:</dt><dd>{{ game.date }}</dd>
-            <dt>Contributors:</dt><dd>{{ game.contributors | join:', ' }}</dd>
-        </dl>
-        <p>
-            {{ game.summary }}
-        </p>
-    </div>
+    {% endfor %}
 </div>
-{% endfor %}

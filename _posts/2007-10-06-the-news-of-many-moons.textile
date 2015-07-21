@@ -28,14 +28,14 @@ On other subjects, I make a video game a few months ago as part of the Triangle 
 
  Although it's not a fantastic game, I'm still pretty proud of what we came up with given the subject and basically a weekend's worth of work. I'll admit that we did put a little polish on it with a few more days, but the overall time investment was still pretty small. We made the game using XNA and C#. Unfortunately, this means that if you want to try it out, you basically have to have a graphics card that supports shader model 2+ (radeon 9k+ or GeForce 5k+). Additionally, it is likely that there are some reditributables that you will need to download. If you are interested in trying it out, you can download it from this link. There is a readme file in the zip that contains instructions and links for all of the game's dependencies.
 
- For those of you who do not have computers or interest in playing the game yourself, you can check out these screenshots and this "gameplay video":filespace/willow/shapeslashervideo.wmv.
+ For those of you who do not have computers or interest in playing the game yourself, you can check out these screenshots and this "gameplay video":/filespace/willow/shapeslashervideo.wmv.
 
 * "Image 1":images/gallery/willow/game%20dev/slasher01.jpg - these shapes have been slashed.
 * "Image 2":images/gallery/willow/game%20dev/slasher02.jpg - Cutting out a nice triangle.
 * "Image 3":images/gallery/willow/game%20dev/slasher03.jpg - we included a few varieties of stages
 * "Image 4":images/gallery/willow/game%20dev/slasher04.jpg - such as challenge, which gives you a single shape that you must get as many triangles from in time.
 
-Anyway, in case you are interested, you can down load it following this link: "Shape Slasher":filespace/willow/shapeslasher_refined.zip.
+Anyway, in case you are interested, you can down load it following this link: "Shape Slasher":/filespace/willow/shapeslasher_refined.zip.
 
 h3. Beautiful Pixels
 

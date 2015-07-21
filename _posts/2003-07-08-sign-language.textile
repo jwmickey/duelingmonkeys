@@ -5,7 +5,7 @@ date:   2003-07-08 20:00:00
 author: "Mike Daly"
 avatar: "willow_calm"
 ---
-Not much for today, but we do have a short video of some of Willow's mad skillz. "The hand":filespace/willow/hand.avi was modeled and animated in 3D Studio Max. It's for holding a &quot;weapon&quot; in the sunburn project we've been mentioning over the past couple of weeks.
+Not much for today, but we do have a short video of some of Willow's mad skillz. "The hand":/filespace/willow/hand.avi was modeled and animated in 3D Studio Max. It's for holding a &quot;weapon&quot; in the sunburn project we've been mentioning over the past couple of weeks.
 
  Willow speaking now, Wayne doesn't really know what to say, and saying as he helped me out with my updates, I'm takin' over this one.
 
@@ -13,7 +13,7 @@ Not much for today, but we do have a short video of some of Willow's mad skillz.
 
  Making movie ...
 
- Done! That was easy. Athough probably less interesting, this is the "Sand Crab":filespace/willow/crab.avi I made for the same job. In case you were curious, those were both compressed with the divx codec. This lets them bee itty-bitty little files, which is good for us. If you don't have the divx codec, you can download it from "www.divx.com":http://www.divx.com
+ Done! That was easy. Athough probably less interesting, this is the "Sand Crab":/filespace/willow/crab.avi I made for the same job. In case you were curious, those were both compressed with the divx codec. This lets them bee itty-bitty little files, which is good for us. If you don't have the divx codec, you can download it from "www.divx.com":http://www.divx.com
 
  Well, I think that satisfies the content requirement for a post even for the likes of Wayne, so I'm going to hit it. Peace out, see you friday.
 

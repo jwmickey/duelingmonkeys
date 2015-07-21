@@ -7,8 +7,8 @@ avatar: "willow_calm"
 ---
 There is good news and there is bad news. I usually start with the bad, but it's based off the good, so putting it first would put it out of context. Therefore, without futher ado, I present to you:
 
- "The Dueling Monkeys Intro Movie":filespace/willow/introsmall.wmv
- but that one has crappy quality. If you have a good connection give "this one":filespace/willow/introlarge.wmv a shot. It's a lot better.
+ "The Dueling Monkeys Intro Movie":/filespace/willow/introsmall.wmv
+ but that one has crappy quality. If you have a good connection give "this one":/filespace/willow/introlarge.wmv a shot. It's a lot better.
 
  Now for the bad news. In case you haven't figured out for yourself by clicking on the links, these are windows media files. A format I am principally opposed to. However, I didn't have any other option because that's the only format that windows movie maker (free with XP) can save to. I would convert it with my other video program, but it won't even recognize wmv files. This thing can load a photoshop file and let you pick which layer you want to use and you can't import a wmv file? I hate that.
 

@@ -59,7 +59,7 @@ I've started work on a new hobby project. I told myself I would finish "Orbital"
 
 The idea is simply an interactive comic book; kind of like one of the old choose your own adventure stories but you can do more than just branching. Here is an analogy: If an old-school text adventure is like taking a test, playing comic game is like taking a multiple-choice pop quiz where the score doesn't count towards your grade.
 
-"!/filespace/mike/CgEarlyPrincePreview.png!":filespace/mike/CgEarlyPrinceStory.png
+"!/filespace/mike/CgEarlyPrincePreview.png!":/filespace/mike/CgEarlyPrinceStory.png
 _click to see a sample story permutation_
 
 
@@ -67,7 +67,7 @@ _click to see a sample story permutation_
 
 Here is another path through the same story:
 
-"!/filespace/mike/CgEarlyPrincessPreview.png!":filespace/mike/CgEarlyPrincessStory.png
+"!/filespace/mike/CgEarlyPrincessPreview.png!":/filespace/mike/CgEarlyPrincessStory.png
 _click to see a sample story permutation_
 
 

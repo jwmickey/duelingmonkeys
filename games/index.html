@@ -28,7 +28,8 @@ nav: games
 </p>
 
 <div class="games-list">
-    {% for game in site.games | sort:"date" %}
+    {% assign games = site.games | sort:'date' %}
+    {% for game in games %}
     <div class="game">
         <div class="thumbnail">
             <a href="{{ game.url }}"><img src="{{ game.thumbnail }}" width="64" height="64" alt="{{ game.title }}"></a>

@@ -15,14 +15,14 @@ h3. Image Formula
 
 On a whim one night, I created a little utility program that lets you enter some C# code in a text box then it would evaluate that code once per pixel to generate an image. It basically works like a poor-man's pixel shader. The benefit over a pixel shader is that C# is way more powerful since we don't really care about performance in this case - you can have arbitrary length or complexity with branching and loops. The idea is that if you ever have to create a texture that has mathematical precision (this is often needed for textures that are inputs to shaders), you can generate the texture using the progam easier and more accurately than you would be able to author it in a program like Photoshop (which intentionally hides any math related to it's operations). The expression you enter just has to assign a value to r, g, b, and a. You can use x and y (and a few other things) as inputs (they'll be set to appropriate values for each new pixel). There's an export function that lets you save out a PNG file of specific dimensions.
 
-!/filespace/mike/imageformula_checkers.png!
+p>. !/filespace/mike/imageformula_checkers.png!
 _This is what it looks like; the bottom right panel is a preview of the result_
 
 h3. Render Plan
 
 I worked on a data-driven rendering program that let me experiment with some ideas for screen-space FX compositing that I wanted to play with. I got a bunch of infrastructure implemented, but then kind of lost interested when the first few FX I wanted to create didn't really work out to look as cool as I thought they would. You can specify meshes, particle systems, materials, shader parameters, and rendering steps that include arbitrary offscreen buffers and multiple render targets.
 
-!/filespace/mike/renderplan_early_8.png!
+p>. !/filespace/mike/renderplan_early_8.png!
 _Some sort of fuzzy column of chocolate milk smoke or whatever_
 
 h3. Pistol Sisters

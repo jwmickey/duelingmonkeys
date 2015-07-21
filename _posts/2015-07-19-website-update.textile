@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Website Updates - now with more Jekyll!"
-date:   2015-07-29 14:26:00
+date:   2015-07-19 14:26:00
 author: "Jody Mickey"
 avatar: "wayne_happy"
 ---

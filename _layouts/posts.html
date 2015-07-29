@@ -12,6 +12,20 @@ layout: news
     <hr class="divider">
     <div class="news-body">
         {{ content }}
+
+        <div class="row links">
+            <div class="col-sm-12 col-md-6">
+                {% if page.previous %}
+                <a href="{{ page.previous.url }}">Previous: {{ page.previous.title }}</a>
+                {% endif %}
+            </div>
+            <div class="col-sm-12 col-md-6 text-right">
+                {% if page.next %}
+                <a href="{{ page.next.url }}">Next: {{ page.next.title }}</a>
+                {% endif %}
+            </div>
+        </div>
+
     </div>
 </div>
 

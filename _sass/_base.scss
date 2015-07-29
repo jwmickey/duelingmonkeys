@@ -5,19 +5,21 @@
   display: flex;
   -webkit-flex-flow: row wrap;
   flex-flow: row wrap;
-  -webkit-justify-content: space-between;
-  justify-content: space-between;
+  -webkit-justify-content: space-around;
+  justify-content: space-around;
   align-items: center;
 
   > a {
     display: block;
-    margin: 0.5%;
-    -webkit-flex: 0 1 19%;
-    flex: 0 1 19%;
-    padding-top: 19%;
+    margin: 1%;
+    -webkit-flex: 0 1 18%;
+    flex: 0 1 18%;
+    padding-top: 18%;
     background-size: cover;
     text-decoration: none;
     position: relative;
+    min-width: 200px;
+    min-height: 200px;
 
     h3 {
       position: absolute;

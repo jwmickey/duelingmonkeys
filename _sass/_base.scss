@@ -75,12 +75,18 @@
 .news-archive-preview {
   margin-bottom: 20px;
   clear: both;
-  height: 60px;
+  height: 4.5em;
+  overflow: hidden;
+  text-overflow: clip ellipsis;
 
   img {
     max-height: 60px;
     float: left;
-    margin-left: -8px;
+    margin-right: 10px;
+  }
+
+  h5 { 
+    margin-top: 0;
   }
 
   span {

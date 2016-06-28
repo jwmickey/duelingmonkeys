@@ -6,7 +6,7 @@ nav: blog
 {% for post in site.posts limit:5 %}
     <div class="content-box">
         <img src="/images/icons/private/{{ post.avatar }}.jpg" style="float:left;margin-left:-8px;">
-        <h3 class="news-title">{{ post.title }}</h3>
+        <h3 class="news-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
         <span style="font-style:italic;">
             {% if post.author %}by {{ post.author }}<br>{% endif %}
             {{ post.date | date: "%b %-d, %Y" }}

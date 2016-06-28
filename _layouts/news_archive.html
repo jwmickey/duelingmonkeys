@@ -17,10 +17,12 @@ layout: news
     <div class="news-archive-preview">
         <img src="/images/icons/private/{{ post.avatar }}.jpg">
         <span>
-            {% if post.author %}by {{ post.author }}<br>{% endif %}
             {{ post.date | date: "%b %-d, %Y" }}
         </span>
         <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+        <p>
+            {{ post.excerpt }}
+        </p>
     </div>
     {% assign prevMonth = month %}
     {% endfor %}

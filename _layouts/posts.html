@@ -3,29 +3,47 @@ layout: news
 ---
 
 <div class="content-box">
-    <img src="/images/icons/private/{{ page.avatar }}.jpg" style="float:left;margin-left:-8px;">
-    <h3 class="news-title">{{ page.title }}</h3>
-    <span style="font-style:italic;">
-        {% if page.author %}by {{ page.author }}<br>{% endif %}
-        {{ page.date | date: "%b %-d, %Y" }}
-    </span>
-    <hr class="divider">
-    <div class="news-body">
-        {{ content }}
+        <img src="/images/icons/private/{{ page.avatar }}.jpg" style="float:left;margin-left:-8px;">
+        <h3 class="news-title">{{ page.title }}</h3>
+        <span style="font-style:italic;">
+                {% if page.author %}by {{ page.author }}<br>{% endif %}
+                {{ page.date | date: "%b %-d, %Y" }}
+        </span>
+        <hr class="divider">
+        <div class="news-body">
+                {{ content }}
 
-        <div class="row links">
-            <div class="col-sm-12 col-md-6">
-                {% if page.previous %}
-                <a href="{{ page.previous.url }}">Previous: {{ page.previous.title }}</a>
+                <div class="row links">
+                        <div class="col-sm-12 col-md-6">
+                                {% if page.previous %}
+                                <a href="{{ page.previous.url }}">Previous: {{ page.previous.title }}</a>
+                                {% endif %}
+                        </div>
+                        <div class="col-sm-12 col-md-6 text-right">
+                                {% if page.next %}
+                                <a href="{{ page.next.url }}">Next: {{ page.next.title }}</a>
+                                {% endif %}
+                        </div>
+                </div>
+
+                {% if site.comments and page.comments %}
+                <div id="disqus_thread"></div>
+                <script>
+                        var disqus_config = function () {
+                                this.page.url = "{{ site.url }}{{ page.url }}";
+                                this.page.identifier = "{{ page.id }}"; 
+                        };
+                        (function() {  // DON'T EDIT BELOW THIS LINE
+                                var d = document, s = d.createElement('script');
+
+                                s.src = '//duelingmonkeys.disqus.com/embed.js';
+
+                                s.setAttribute('data-timestamp', +new Date());
+                                (d.head || d.body).appendChild(s);
+                        })();
+                </script>
+                <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
                 {% endif %}
-            </div>
-            <div class="col-sm-12 col-md-6 text-right">
-                {% if page.next %}
-                <a href="{{ page.next.url }}">Next: {{ page.next.title }}</a>
-                {% endif %}
-            </div>
         </div>
-
-    </div>
 </div>
 

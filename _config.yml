@@ -2,7 +2,7 @@
 title: Dueling Monkeys
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.duelingmonkeys.com" # the base hostname & protocol for your site
-
+comments: true
 plugins: _plugins
 
 gems:
@@ -43,6 +43,8 @@ defaults:
       type: "posts"
     values:
       nav: "blog"
+      layout: "news"
+      comments: true
   -
     scope:
       type: "games"

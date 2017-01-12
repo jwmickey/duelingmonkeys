@@ -5,9 +5,9 @@ date:   2017-01-11 22:00:00
 author: "Mike Daly"
 avatar: "willow_calm2"
 ---
-There were a whopping 3 games that came out in 2016 that I worked on. I've talked about "Ratchet and Clank"/2016/06/28/ratchet-and-clank.html already, the others are both games that were published by "Oculus":https://www.oculus.com/ for their Rift VR headset.
+There were a whopping 3 games that came out in 2016 that I worked on. I've talked about "Ratchet and Clank":/2016/06/28/ratchet-and-clank.html already, the others are both games that were published by "Oculus":https://www.oculus.com/ for their Rift VR headset.
 
-h2.Edge of Nowhere
+h2. Edge of Nowhere
 
 The first is "Edge of Nowhere":http://www.insomniacgames.com/games/edge-of-nowhere/ a horror-ish adventure game inspired by Lofecraft's Mountains of Madness. It came out last June, not too long after the launch of the Rift itself.
 
@@ -19,7 +19,7 @@ I was able to get my hands dirty a little bit. I worked on the design and implem
 
 Anyway, if you have a rift, definitely check it out. Also, if you are ever going to play it, don't watch the spoiler-heavy launch trailer!
 
-h2.The Unspoken
+h2. The Unspoken
 
 As Edge was wrapping up, I transitioned to another Oculus project; "The Unspoken":http://www.insomniacgames.com/games/the-unspoken/. This accompanied the launch of the Oculus Touch controllers, released on December 6th 2016.
 

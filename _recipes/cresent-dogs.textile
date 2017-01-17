@@ -21,4 +21,4 @@ h3. Comments
 
 This one's pretty quick and easy. Only bad part about cleaning is the pan can be a bit of a pain to clean up if the cheese leaks out on it and burns, which happens almost every time (hey, we like cheese!).
 
- We served these along with "Oreda's Waffle Fries":cooking.php?view=specific&item=7 this week
+ We served these along with "Oreda's Waffle Fries":/recipes/ore-ida-potato-products.html this week

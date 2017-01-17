@@ -33,7 +33,7 @@ h3. Comments
 
 You won't find these in a Healthy Choice package, but thats what makes them sooo good.
 
- This recipe serves a ton of people, so if you're not up for entertaining any guests this time, scale down the proportions according to our "regular quesadillas":cooking.php?view=specific&item=1.
+ This recipe serves a ton of people, so if you're not up for entertaining any guests this time, scale down the proportions according to our "regular quesadillas":/recipes/quesadillas.html.
 
  The numbers (with the exception of quality) for this meal seem like its too much trouble, but thats mostly because of the biohazardous bacon grease; accounting for the horrible rating in both health and cleanup.
 

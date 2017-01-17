@@ -22,4 +22,4 @@ h3. Comments
 
 The marinade has a really good flavor. I got home from work, put the chicken in the marinade, took a shower, and by the time I got done, the chicken had soaked in plenty of flavor. Cleanup was a breeze.
 
- We had it with "broccoli and cheese":cooking.php?view=specific&item=28 and applesauce.
+ We had it with "broccoli and cheese":/recipes/steamed-broccoli.html and applesauce.

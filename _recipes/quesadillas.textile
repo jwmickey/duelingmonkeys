@@ -29,4 +29,4 @@ h3. Comments
 
 We personally reccomend using a George Foreman Grill to melt the cheese. Its quick, easy, and requires less cleanup. This recipe makes enough for 3 to 5 people, unless you think you can hang with Wayne and Willow and finish all 10 in one sitting.
 
- If you like these, be sure to check out our "SUPER QUESADILLAS!":cooking.php?view=specific&item=2
+ If you like these, be sure to check out our "SUPER QUESADILLAS!":/recipes/super-quesadillas.html

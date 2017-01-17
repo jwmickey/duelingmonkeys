@@ -7,7 +7,7 @@ avatar: "willow_calm2"
 ---
 Sprite Maker
 
-One of my stylistic goals of "Karma Riot":/games/karmariot is to have all the things in the game look like hand-made sprites. I would also like to have things viewable from many angles and have smooth animation. Since there are so many pixels that need to be produced to accomplish this latter goal, manually making each frame for each sprite is pretty much out the window. Instead I've decided to create 3d models and animations then try processing them so that they look like old hand-made sprites.
+One of my stylistic goals of "Karma Riot":/games/karma-riot-v1.html is to have all the things in the game look like hand-made sprites. I would also like to have things viewable from many angles and have smooth animation. Since there are so many pixels that need to be produced to accomplish this latter goal, manually making each frame for each sprite is pretty much out the window. Instead I've decided to create 3d models and animations then try processing them so that they look like old hand-made sprites.
 
 Behold; the sprite maker:
 

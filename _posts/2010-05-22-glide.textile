@@ -21,7 +21,7 @@ I made some concept sketches that I'll subject you to, but not without first dis
 !/filespace/mike/glidemockups.png!
 _The game must feature a Pterodactyl_
 
-So that's fun. I'm still cranking away on "Karma Riot":/games/karmariot, although making effects required a lot of iteration which slowed things down a lot. In order to keep up the pace, I've decided to put effects on the back burner and concentrate on more pressing features. I did sit down for two hours this week and crank out a new song for the sound track. Now we have one song per track type, which will probably be enough to get away with for this phase. Check it out:
+So that's fun. I'm still cranking away on "Karma Riot":/games/karma-riot-v1.html, although making effects required a lot of iteration which slowed things down a lot. In order to keep up the pace, I've decided to put effects on the back burner and concentrate on more pressing features. I did sit down for two hours this week and crank out a new song for the sound track. Now we have one song per track type, which will probably be enough to get away with for this phase. Check it out:
 
 "Opus 23":/filespace/mike/opus23.mp3
 

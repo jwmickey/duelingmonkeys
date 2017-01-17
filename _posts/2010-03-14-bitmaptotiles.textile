@@ -5,7 +5,7 @@ date:   2010-03-14 01:12:01
 author: "Mike Daly"
 avatar: "willow_calm2"
 ---
-I've been doing a lot of work lately on homemade content tools for "Karma Riot":/games/karmariot. It's really rewarding to create a tool and see it working, especially since I know other people can get the benefit from it too. Today, I'd like to go over some of the tools I've made for creating race tracks.
+I've been doing a lot of work lately on homemade content tools for "Karma Riot":/games/karma-riot-v1.html. It's really rewarding to create a tool and see it working, especially since I know other people can get the benefit from it too. Today, I'd like to go over some of the tools I've made for creating race tracks.
 
 It's no secret that KR is directly inspired by "Super Mario Kart":http://en.wikipedia.org/wiki/Super_Mario_Kart. In SMK, if you take a look at the tracks from a top-down perspective and overlay a grid, you can see that the tracks are actually constructed out of a 128 by 128 grid of 8 by 8 pixel tiles.
 

@@ -31,4 +31,4 @@ h3. Comments
 
 Thanks Grandma.
 
- We had these with "Roasted Potatoes in Garlic Sauce":cooking.php?view=specific&item=28 and some Fruit Cocktail.
+ We had these with "Roasted Potatoes in Garlic Sauce":/recipes/ore-ida-potato-products.html and some Fruit Cocktail.

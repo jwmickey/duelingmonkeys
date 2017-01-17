@@ -11,7 +11,7 @@ h3. Slither
 
 So the "Global Game Jam 2012":http://globalgamejam.org/ came and went. I got my butt in gear and participated this year and had a great time. The theme this time was an image of the "Oroboros":http://en.wikipedia.org/wiki/Oroboros, which is a pretty decent improvement over past years' themes. Discussing different game concepts with a bunch of strangers was fun, but the location that graciously hosted the Jam site for Dallas didn't have a place to put a desktop computer and even if I made one, I couldn't connect to the internet, so I got lazy and worked on the project from home instead of going back in and interacting with new people. However I didn't do it alone; my friends Shovaen Patel and Lori Wilson came over and lent some much needed help.
 
-With our combined efforts, we produced the game called "Slither":/games/slither. If you've got a wired 360 controller handy, you should give it a shot!
+With our combined efforts, we produced the game called "Slither":/games/slither.html. If you've got a wired 360 controller handy, you should give it a shot!
 
 !/filespace/mike/slither_512.jpg!
 _It's kind of mezmerizing to just watch the thing move around_

@@ -7,7 +7,7 @@ avatar: "willow_calm2"
 ---
 My dad turned 50 last Wednesday. In the weeks leading up to his birthday I couldn't think of anything to get him because he's the sort of guy that gets whatever he wants for himself. I decided to use my skills to create something for him what probably not many people have - his own video game. The game approximates my dad's career as a general contractor.
 
-I worked on the project a total of 29 hours over the course of 8 days. Unfortunately, this was a week where I also had to work a bit of overtime in the office, so it was a tight squeeze getting it done in time. In any case, it's done now. I've added a new games page where you can read about it, see screenshots, download the game, etc: "Daly Homes Inc":/games/dalyhomesinc.html.
+I worked on the project a total of 29 hours over the course of 8 days. Unfortunately, this was a week where I also had to work a bit of overtime in the office, so it was a tight squeeze getting it done in time. In any case, it's done now. I've added a new games page where you can read about it, see screenshots, download the game, etc: "Daly Homes Inc":/games/daly-homes-inc.html.
 
 !/images/games/dalyhomesinc/dalyhomesinc500.png!
 _It's a construction game_

@@ -5,7 +5,7 @@ date:   2012-07-03 00:00:00
 author: "Mike Daly"
 avatar: "willow_calm2"
 ---
-Back at Emergent, I started a habit of keeping daily logs of my work. This included information like what my task list was for the day, what I got done that day, how long I spent on various tasks, and how that time accumulated into some general categories. I wrote up an analysis of my logs when I got done working at Emergent in my "April 2011":http://www.duelingmonkeys.com/news/archive/2011/04/10/309 news update.
+Back at Emergent, I started a habit of keeping daily logs of my work. This included information like what my task list was for the day, what I got done that day, how long I spent on various tasks, and how that time accumulated into some general categories. I wrote up an analysis of my logs when I got done working at Emergent in my "April 2011":/2011/04/09/working-at-emergent-a-visual-history.html news update.
 
 Last Friday (6/29/2012) was my last day of work at "Robot Entertainment":http://www.robotentertainment.com. I kept up with the logs since I started at Robot as well, and kept my log data mining programs around, so now it's time to take a look at what we can find there.
 

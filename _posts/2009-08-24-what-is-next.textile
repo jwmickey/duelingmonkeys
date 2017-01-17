@@ -5,11 +5,11 @@ date:   2009-08-24 21:49:53
 author: "Mike Daly"
 avatar: "willow_calm2"
 ---
-So as you might have noticed, I just finished a few projects. I made the prototype for "Comic Game":/games/comicgame, I worked on "Sunny Day":/games/sunnyday at the "Triangle Game Jam":http://www.trianglegamejam.com, and I made "Daly Homes inc":/games/dalyhomesinc for my dad's birthday. Now it is time to choose what to work on next. However, I've been trying to decide what to work on next for a few weeks, and there are just too many good options. Allow me to enumerate.
+So as you might have noticed, I just finished a few projects. I made the prototype for "Comic Game":/games/comic-game.html, I worked on "Sunny Day":/games/sunny-day.html at the "Triangle Game Jam":http://www.trianglegamejam.com, and I made "Daly Homes inc":/games/daly-homes-inc.html for my dad's birthday. Now it is time to choose what to work on next. However, I've been trying to decide what to work on next for a few weeks, and there are just too many good options. Allow me to enumerate.
 
 h3. Start a new project
 
-One option is to start a new game project. I've got quite a long list of ideas that I'm excited about working on, but the one that comes to the front of the list would be a game simiar to the SNES Mario Kart. Here are the reasons I'm interested in a nutshell:
+One option is to start a new game project. I've got quite a long list of ideas that I'm excited about working on, but the one that comes to the front of the list would be a game similar to the SNES Mario Kart. Here are the reasons I'm interested in a nutshell:
 
 * The mechanics of the original Mario Kart are really simple and I don't think it would take long to reproduce the experience
 * Mario Kart was a really fun party game; the Xbox 360 needs games like that
@@ -22,12 +22,12 @@ h3. Release an old project on Xbox Indie Games
 
 I've create a bunch of crappy games and posted them here. However, making those games is a lot of work and not that many people visit this webpage or subscribe to this blog. It would be nice to have more people appreciate what I work on by actually releasing it in a way that lots of people will be aware of it. However, given the state of my current projects, I would want to polish them up a little more before doing this. This is what I'm thinking:
 
-* Add a puzzle mode, online multiplayer, a better tutorial, and a graphics overhaul to "Connexus":/games/connexus
-* Add the last few effects, a soundtrack, better AI, and online multiplayer to "Orbital":/games/orbital
+* Add a puzzle mode, online multiplayer, a better tutorial, and a graphics overhaul to "Connexus":/games/connexus.html
+* Add the last few effects, a soundtrack, better AI, and online multiplayer to "Orbital":/games/orbital.html
 
 h3. Port Comic Game to the web
 
-A while back, I created the "Comic Game":/games/comicgame prototype. I could do a whole lot more with it:
+A while back, I created the "Comic Game":/games/comic-game.html prototype. I could do a whole lot more with it:
 
 * Create an interactive comic editor so that anyone can create branching comic storylines
 * Create a library of re-useable art that anyone can use in the editor

@@ -30,7 +30,7 @@ Although the rules are simple, there is a lot of emergent strategy. Players must
 
 It supports 1-4 players. There is a set of single player stages against AI opponents.
 
-Connexus was originally one of the game modules that was designed for "Beautiful Pixels":/games/beautifulpixels. After playing the game with a few friends I realized that it had some potential. Soon after I attended GDC 08 and went to the Independent Games Festival which was really inspiring. These things made me decide to try making it a standalone game that was nicely polished. I submitted it to the IGF but it was not nominated as a finalist for any categories.
+Connexus was originally one of the game modules that was designed for "Beautiful Pixels":/games/beautiful-pixels.html. After playing the game with a few friends I realized that it had some potential. Soon after I attended GDC 08 and went to the Independent Games Festival which was really inspiring. These things made me decide to try making it a standalone game that was nicely polished. I submitted it to the IGF but it was not nominated as a finalist for any categories.
 
 h3. Requirements:
 

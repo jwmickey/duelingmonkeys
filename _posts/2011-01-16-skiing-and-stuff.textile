@@ -7,11 +7,11 @@ avatar: "willow_calm2"
 ---
 Looks like I missed updating for the month of December. Sorry! Here are some exciting updates:
 
-* Completed "Pinin Rodizo":/games/pininrodizo phase 1!
-* Added a games page for "Brixplorer":/games/brixplorer.
+* Completed "Pinin Rodizo":/games/pinin-rodizo.html phase 1!
+* Added a games page for "Brixplorer":/games/brixplorer.html.
 * Added Hawaii and Breckenridge pictures to the "Vacations":/gallery/mike-vacations gallery.
 
-Paul and I have decided to work on "Pinin Rodizo":/games/pininrodizo for another phase, so hopefully in the next few months you can play a version with AI, network play, better gameplay, and better graphics.
+Paul and I have decided to work on "Pinin Rodizo":/games/pinin-rodizo.html for another phase, so hopefully in the next few months you can play a version with AI, network play, better gameplay, and better graphics.
 
 h3. Skiing
 

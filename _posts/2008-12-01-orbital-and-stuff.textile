@@ -17,10 +17,10 @@ This is a much simpler game concept that I'd had rolling around in the back of m
 
 Anyway, let's make with the pictures:
 
-!http://classic.duelingmonkeys.com/filespace/willow/orbital5mid.jpg!
+!http://classic.duelingmonkeys.com/classic/filespace/willow/orbital5mid.jpg!
 _Mmm... nice blurry trails_
 
-!http://classic.duelingmonkeys.com/filespace/willow/orbital2mid.jpg!
+!http://classic.duelingmonkeys.com/classic/filespace/willow/orbital2mid.jpg!
  _A fine bankshot_
 
 It's a pretty simple game; it's basically just like pong (or maybe air-hockey). The catch is that instead of just bouncing the puck around, you press and hold the A button to activate gravity. You use gravity to slingshot the puck back at your opponent.

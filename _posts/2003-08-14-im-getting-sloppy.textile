@@ -5,7 +5,7 @@ date:   2003-08-14 20:00:00
 author: "Jody"
 avatar: "wayne_calm"
 ---
-I missed an update! I know, I know, I'm starting to go the ways of Willow. Don't worry, there will be at least "one more":aboutus.php#wesley contributor to pick up our slack, maybe two if Wastrel wants in. The only problem is that these two make up like half our audience.
+I missed an update! I know, I know, I'm starting to go the ways of Willow. Don't worry, there will be at least "one more":/about/index.html#wesley contributor to pick up our slack, maybe two if Wastrel wants in. The only problem is that these two make up like half our audience.
 
  Anyway, I wrote a review of "Tropico 2: Pirate Cove":/otc.html?view=specific&item=41. I like it. Read it and see if you'd like it.
 

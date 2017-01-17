@@ -18,25 +18,25 @@ Anyway, now that you have a better understanding of what was on the line with th
 
 
 
-!http://classic.duelingmonkeys.com/filespace/willow/beardfull.jpg!
+!http://classic.duelingmonkeys.com/classic/filespace/willow/beardfull.jpg!
 _In case you haven't seen me in a while, this is what I used to look like_
 
 
 
 
-!http://classic.duelingmonkeys.com/filespace/willow/beardhalf.jpg!
+!http://classic.duelingmonkeys.com/classic/filespace/willow/beardhalf.jpg!
 _nobody will ever see me looking like this in person again_
 
 
 
 
-!http://classic.duelingmonkeys.com/filespace/willow/beardquarter.jpg!
+!http://classic.duelingmonkeys.com/classic/filespace/willow/beardquarter.jpg!
 _Actually, I really liked this stage. BUT I HAD A FREAKIN BET GOING ON_
 
 
 
 
-!http://classic.duelingmonkeys.com/filespace/willow/beardnone.jpg!
+!http://classic.duelingmonkeys.com/classic/filespace/willow/beardnone.jpg!
 _This is me now. Terrible, I know_
 
 
@@ -47,7 +47,7 @@ But wait, THAT'S NOT ALL! I actually had Tim help me take lots of pictures and I
 
 
 
-!http://classic.duelingmonkeys.com/filespace/willow/mikebeard2small.gif!!http://classic.duelingmonkeys.com/filespace/willow/mikebeard3small.gif!!http://classic.duelingmonkeys.com/filespace/willow/mikebeard4small.gif!
+!http://classic.duelingmonkeys.com/classic/filespace/willow/mikebeard2small.gif!!http://classic.duelingmonkeys.com/classic/filespace/willow/mikebeard3small.gif!!http://classic.duelingmonkeys.com/classic/filespace/willow/mikebeard4small.gif!
 
 
 
@@ -64,6 +64,6 @@ h3. Opus 15
 
 I might have mentioned "Musagi":http://www.cyd.liu.se/~tompe573/hp/project_musagi.html a few times already. I just recently started playing around with VSTi plug-ins. This is a great way of getting quality sounding instruments for free. I made a new song recently while playing with the instruments. Sadly, Musagi doesn't actually handle VSTi instruments that well. It goes really slow, takes up a ton of Ram, crashes frequently, and in one case currupted my file. To make this song, I had to write one track at a time out to wav then composite them in a seperate program. That was a huge pain and i'd like to avoid doing it again. I also realized that the instruments I used didn't have sounds for some of the notes I wrote so part of the song doesn't even play.
 
-In any case, it was a fun experiment. You can listen to it here: "Opus 15":http://classic.duelingmonkeys.com/filespace/willow/Opus15Composite.mp3
+In any case, it was a fun experiment. You can listen to it here: "Opus 15":http://classic.duelingmonkeys.com/classic/filespace/willow/Opus15Composite.mp3
 
 Happy Holidays people. (damn, that reminded me I have to do holiday gift shopping, now I'm depressed)

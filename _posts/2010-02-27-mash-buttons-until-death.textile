@@ -5,13 +5,13 @@ date:   2010-02-27 02:35:24
 author: "Mike Daly"
 avatar: "willow_calm2"
 ---
-Hey guys. I created another short crappy game recently that I figured I'd post about. The game is called &quot;Mash Buttons Until Death&quot; or MaBUD for short. You can check out the "Games page":/games/mabud for it if you are interested in getting more information on the game and why it is so crappy.
+Hey guys. I created another short crappy game recently that I figured I'd post about. The game is called &quot;Mash Buttons Until Death&quot; or MaBUD for short. You can check out the "Games page":/games/mash-buttons-until-death.html for it if you are interested in getting more information on the game and why it is so crappy.
 
 !/images/games/mabud/mabud500.png!
 _Here's your requisite screenshot_
 
 
-There is exciting stuff going on in "Karma Riot":/games/karmariot as well, but I'll save that for another post. For now I'll just tease with this screenshot:
+There is exciting stuff going on in "Karma Riot":/games/karma-riot-v1.html as well, but I'll save that for another post. For now I'll just tease with this screenshot:
 
 !/filespace/mike/karmariot_earlybuild10.png!
 _Ooh, new stage! Who's driving those other Karts?_

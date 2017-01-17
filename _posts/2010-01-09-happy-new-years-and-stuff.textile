@@ -35,12 +35,12 @@ I've been talking to a few people about what games I enjoyed playing over the co
 
 Also, I'd like to point out that I had an awesome year as far as making video games. Sure, I failed at my original goal of submitting another IGF entry, but on the other hand, these are the games I made:
 
-* "Orbital":/games/orbital
-* "Comic Game":/games/comicgame
-* "Sunny Day":/games/sunnyday
-* "Daly Homes Inc":/games/dalyhomesinc
+* "Orbital":/games/orbital.html
+* "Comic Game":/games/comic-game.html
+* "Sunny Day":/games/sunny-day.html
+* "Daly Homes Inc":/games/daly-homes-inc.html
 * Karma Riot
 
 Ok, so Karma Riot isn't done yet and it doesn't have its own page, so maybe it doesn't count. But still, that's a pretty impressive run, I think. That's not even including other Game Jam games that I contributed to such as Space Fish, Robot Love, and Tether. 2009 was a good year for me with regards to hobby game development. Hopefully in the coming year, I'll actually distribute one of the games I worked on for once.
 
-I still assert that I'm going to have an exicting post about Karma Riot soon, but I'm still not quite there yet, so I'll put it off once again. Happy new years people.
+I still assert that I'm going to have an exciting post about Karma Riot soon, but I'm still not quite there yet, so I'll put it off once again. Happy new years people.

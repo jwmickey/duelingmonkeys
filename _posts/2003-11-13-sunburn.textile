@@ -9,7 +9,7 @@ Hey everyone! After many trials and tribulations, I've finally completed(?) a ga
 
  For those that are interested, I've posted some pretty little screenshots in the "Game Dev":galleries.php?section=game%20dev gallery. You can see the recent ones at the bottom, only the last five are final version.
 
- For those that are more interested and, more importantly, own a copy of UT2k3, you can actually download the MOD itself from "here":/filespace/willow/sunburnmod.zip. Exciting, huh? I can't testify as to the 'coolness' factor of this one, but the theme we went with is what the funding dictated.
+ For those that are more interested and, more importantly, own a copy of UT2k3, you can actually download the MOD itself from "here":/classic/filespace/willow/sunburnmod.zip. Exciting, huh? I can't testify as to the 'coolness' factor of this one, but the theme we went with is what the funding dictated.
 
  For those that are not interested, piss off.
 

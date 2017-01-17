@@ -19,7 +19,7 @@ h3. Lightning
 
 Although I'm still cranking away at Connexus at a snail's pace, I diverted a little of my spare time to play with textures and shaders to see if I could come up with an interesting lightning effect for use in the demo. Although I'm by no means done, what I've got so far is pretty cool looking. I made a quick animated gif of it to share:
 
-!http://classic.duelingmonkeys.com/filespace/willow/chainlightning2.gif!
+!http://classic.duelingmonkeys.com/classic/filespace/willow/chainlightning2.gif!
 
 Unfortunately, it doesn't really do the effect justice when you can see it in full color and detail animating at 60 frames per second. But whatever, that's the basic idea. This effect can be parameterized so that the speed, color, texture, and path of the lightning can easily be reconfigured once the main effect isI' implemented.
 
@@ -27,10 +27,10 @@ h3. Music
 
 I've been thinking about what I'm going to do about music for Connexus recently. I downloaded a program called "Musagi":http://www.cyd.liu.se/~tompe573/hp/project_musagi.html that makes it really easy to make cool NES-sounding music, which I've enjoyed playing around with. I'm not sure if any of the songs that I've made yet are really compatible with Connexus, but it's been fun anyway. I also have this unfortunate tendency to make the first half of a song then quit. So if you like music that sounds like it was made for a NES and don't mind abrupt endings, you can check out some of the stuff I've been working on:
 
-"Opus 2":http://classic.duelingmonkeys.com/filespace/willow/Opus2.mp3
- "Opus 6":http://classic.duelingmonkeys.com/filespace/willow/Opus6.mp3
- "Opus 8":http://classic.duelingmonkeys.com/filespace/willow/Opus8.mp3
- "Opus 10":http://classic.duelingmonkeys.com/filespace/willow/Opus10.mp3
+"Opus 2":http://classic.duelingmonkeys.com/classic/filespace/willow/Opus2.mp3
+ "Opus 6":http://classic.duelingmonkeys.com/classic/filespace/willow/Opus6.mp3
+ "Opus 8":http://classic.duelingmonkeys.com/classic/filespace/willow/Opus8.mp3
+ "Opus 10":http://classic.duelingmonkeys.com/classic/filespace/willow/Opus10.mp3
 
 For any of you who are curious, the word &quot;Opus&quot; is just a generic word for a piece of music. Also, if it only seems to play the first few seconds of the song, that is probably because the quicktime browser plug-in bites and I hate it. You can hear the whole thing by right clicking the link and saving the target to your computer.
 

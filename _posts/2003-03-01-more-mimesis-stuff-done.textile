@@ -7,11 +7,11 @@ avatar: "willow_calm"
 ---
 Howdy, I haven't done a terrible lot in the way of art recently, but I did manage to make myself do some work this morning and got some new models made for the bank-robbery scenario Unreal thing.
 
- "shot 1":/filespace/willow/mimesis/bank8.jpg
- "shot 2":/filespace/willow/mimesis/bank9.jpg
- "shot 3":/filespace/willow/mimesis/bank10.jpg
- "shot 4":/filespace/willow/mimesis/bank11.jpg
- "shot 5":/filespace/willow/mimesis/bank12.jpg
+ "shot 1":/classic/filespace/willow/mimesis/bank8.jpg
+ "shot 2":/classic/filespace/willow/mimesis/bank9.jpg
+ "shot 3":/classic/filespace/willow/mimesis/bank10.jpg
+ "shot 4":/classic/filespace/willow/mimesis/bank11.jpg
+ "shot 5":/classic/filespace/willow/mimesis/bank12.jpg
 
  Additionally, last night, Wayne and I held a sort of cookout, and we had some EXCELLENT food. Not just that, but almost all of it is food that is not already in our database, so be expecting some good stuff soon.
 

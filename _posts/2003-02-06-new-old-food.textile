@@ -5,10 +5,10 @@ date:   2003-02-06 19:00:00
 author: "Mike Daly"
 avatar: "willow_calm"
 ---
-Hey folks. Wayne did a little bit of that behind the curtain wizard of oz magic on our webpage and got the page separation stuff working for our food lists. I'd like to say that we haven't added any foods because it would screw up the viewer, but really, we've just been lazy.
+Hey folks. Wayne did a little bit of that behind the curtain wizard of oz magic on our web page and got the page separation stuff working for our food lists. I'd like to say that we haven't added any foods because it would screw up the viewer, but really, we've just been lazy.
 
- Anyhow, we just remedied that. We've got an oldie but goldie, "Spaghetti":cooking.php?view=specific&item=17 along with everybodies favorite "Garlic Bread":cooking.php?view=specific&item=18. Don't take this to mean that we think someone on earth still doesn't know how to make spaghetti, but you can see it on the list so you might remember to make it every once in a while in case you can't think of anything.
+ Anyhow, we just remedied that. We've got an oldie but goldie, "Spaghetti":/recipes/spaghetti.html along with everybody's favorite "Garlic Bread":/recipes/garlic-bread.html. Don't take this to mean that we think someone on earth still doesn't know how to make spaghetti, but you can see it on the list so you might remember to make it every once in a while in case you can't think of anything.
 
- I was gonna draw a lot today, but as it turns out, when you don't get any sleep, you have a tendancy to pass out without noticing it. This is what happened to me today until Wayne woke me up when he got back from working at the unnamed shipping company. The rest of the time I spent repeatedly checking my e-mail, talking with Wayne, and of course cooking and consuming dinner.
+ I was gonna draw a lot today, but as it turns out, when you don't get any sleep, you have a tendency to pass out without noticing it. This is what happened to me today until Wayne woke me up when he got back from working at the unnamed shipping company. The rest of the time I spent repeatedly checking my e-mail, talking with Wayne, and of course cooking and consuming dinner.
 
- Can't promise anything for tommorow, or the following days for that matter, it's friday and I don't hear the productivity fairy flying down my chimney.
+ Can't promise anything for tomorrow, or the following days for that matter, it's friday and I don't hear the productivity fairy flying down my chimney.

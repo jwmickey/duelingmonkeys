@@ -5,9 +5,9 @@ date:   2003-05-03 20:00:00
 author: "Mike Daly"
 avatar: "noicon.png"
 ---
-Thank you very much members of the fanbase, distinguished guests, and fellow citizens. As we gather tonight, our server is at war, our income is nonexistant, our foodbanks are depleted, and we have no idea what to post about on our webpage, yet the state of our union has never been stronger.(applause)
+Thank you very much members of the fan-base, distinguished guests, and fellow citizens. As we gather tonight, our server is at war, our income is nonexistent, our foodbanks are depleted, and we have no idea what to post about on our webpage, yet the state of our union has never been stronger.(applause)
 
- We recently met in an hour of shock and suffering. In seven short months, our site has created new "recipes":cooking.php for starving college students, brought "comic relief":/otc.html to the soldiers on the front line, and built a legacy of "original artwork":galleries.php?section=art.(applause)
+ We recently met in an hour of shock and suffering. In seven short months, our site has created new "recipes":/recipes for starving college students, brought "comic relief":/otc.html to the soldiers on the front line, and built a legacy of "original artwork":gallery.(applause)
 
  Although sometimes we may loose sight of our ultimate goal, or maybe the purpose of a particular post ... uh, ... what was this post about again?
 

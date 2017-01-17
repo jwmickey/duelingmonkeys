@@ -7,7 +7,7 @@ avatar: "willow_calm"
 ---
 Well, it's been a couple days since I've updated, so I'll let you folks in on 'the word'.
 
- This past weekend, Wayne and I were both in Atlanta, attending the excellent Cirque de Solei. Seeing that show is definately a lifetime experience. Whether you are in to artsy french (a.k.a. &quot;freedom&quot;) stuff or not, you should attend at least one in your lifetime. For that reason, we not only have not updated the site, but also haven't done anything relevant enough to make a worthy update. That's where I come in - the rambler. Or maybe you could call me &quot;Willow - the Ramblinator!&quot;
+ This past weekend, Wayne and I were both in Atlanta, attending the excellent Cirque de Solei. Seeing that show is definitely a lifetime experience. Whether you are in to artsy french (a.k.a. &quot;freedom&quot;) stuff or not, you should attend at least one in your lifetime. For that reason, we not only have not updated the site, but also haven't done anything relevant enough to make a worthy update. That's where I come in - the rambler. Or maybe you could call me &quot;Willow - the Ramblinator!&quot;
 
  Right, so anyways; maybe I'll do something cool soon. If so, I'll let you know. In the meantime, I will post some links to older things that maybe you haven't read or have forgotten about:
 
@@ -18,9 +18,9 @@ Well, it's been a couple days since I've updated, so I'll let you folks in on 't
 * "Panzer Dragoon review":http://www.duelingmonkeys.com/otc.html?view=specific&item=23
 * "Willow, the tube jumper":/classic/images/gallery/willow/tubejumper.jpg
 * "The Rogue":/classic/images/gallery/art/rogue.jpg
-* "Super Quesadillias":http://www.duelingmonkeys.com/cooking.php?view=specific&item=2
+* "Super Quesadillas":/recipes/super-quesadillas.html
 * "Whats for dinner":/classic/images/pics/kabobs.jpg
-* "What we are all about":http://www.duelingmonkeys.com/aboutus.php
+* "What we are all about":/about
 * "Cool feedback form":http://www.duelingmonkeys.com/feedback.php
 
 

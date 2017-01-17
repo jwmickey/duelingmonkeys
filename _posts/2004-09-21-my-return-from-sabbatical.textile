@@ -5,12 +5,12 @@ date:   2004-09-21 20:00:00
 author: "Wesley"
 avatar: "wesley_calm"
 ---
-Ok, so actually i wasn't on sabbatical. i've just been a slacker when it comes to things website related. but hopefully all that will change from now! thats right! from right NOW i am promising to be more diligent in my updating duties!
+Ok, so actually i wasn't on sabbatical. i've just been a slacker when it comes to things website related. but hopefully all that will change from now! that's right! from right NOW i am promising to be more diligent in my updating duties!
 
- maybe. it seems i'm not going to be quite as busy as i thought i would be this semester, although i do believe i still fall into the catagory of WAY TOO BUSY. but hopefully you will hear from me at least one more time before you grow old and die of old age. that is, assuming you continue to diligently check our website everyday, dear reader.
+ maybe. it seems i'm not going to be quite as busy as i thought i would be this semester, although i do believe i still fall into the category of WAY TOO BUSY. but hopefully you will hear from me at least one more time before you grow old and die of old age. that is, assuming you continue to diligently check our website everyday, dear reader.
 
- i guess the point of all this useless blathering is to inform you that there is a new food item! yes, i can sense that you are foaming at the mouth with the mere thought of trying another one of our cullinary delights. so without further ado, "Tuna Melts!!!":cooking.php?view=specific&item=40
+ i guess the point of all this useless blathering is to inform you that there is a new food item! yes, i can sense that you are foaming at the mouth with the mere thought of trying another one of our culinary delights. so without further ado, "Tuna Melts!!!":/recipes/tuna-melts.html
 
  _Maintenance here: Web editor fixed. Continue with your babble_
 
- so in the meantime check out "this crazy webpage":http://maddox.xmission.com. peace out.
+ so in the meantime check out "this crazy web page":http://maddox.xmission.com. peace out.

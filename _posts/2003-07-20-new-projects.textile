@@ -13,8 +13,8 @@ We have decided to start a couple of new projects here lately.
 
  Number 2: Top Secret I can't say anything about this project except that we think it will be really funny and will probably inevitably attract more hits than we could ever afford.
 
- I guess thats it. Oh well, its a lot more than most college students do in the summer.
+ I guess that's it. Oh well, its a lot more than most college students do in the summer.
 
- If you get hungry sometime in the near future try out the "Steak Stir Fry":cooking.php?view=specific&item=29 or the "Hawaiian":cooking.php?view=specific&item=30 Chicken. Both we're pretty good and a lot less greasy than the Gumby's Pizza we had tonight.
+ If you get hungry sometime in the near future try out the "Steak Stir Fry":/recipes/steak-stir-fry.html or the "Hawaiian Chicken":/recipes/hawaiian-chicken.html. Both we're pretty good and a lot less greasy than the Gumby's Pizza we had tonight.
 
  See you Wednesday, and the Cookie contest ends Wednesday too! (around midnight Tues night / Wed Morning)

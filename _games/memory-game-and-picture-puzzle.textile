@@ -1,0 +1,22 @@
+---
+title:        "Memory Game and Picture Puzzle"
+date:         "2015"
+download:     "http://www.jodymickey.com/"
+contributors: 
+  - "Jody Mickey"
+thumbnail:    "/images/games/memorygame/brain.png"
+summary: "The classic flip-card memory game and sliding photo puzzle"
+---
+These are not your standard games that you have come to expect from Mr. Mike Daly, but rather a couple of simple games you're probably already familiar with.
+
+The motivation behind these two is that during the Summer of 2015 I was learning to use the React library (courtesy of Facebook).  I needed a project that wasn't another TO-DO list, so I settled on these two.
+
+The first game which is unceremoniously titled "Memory Game":http://www.jodymickey.com/memory-game is your classic flip-card memory game where you flip two cards at a time and try to match pairs.  I honestly do not remember the scoring in detail, but your possible points decreases each time you flip a card.  You can play using numbers (easiest to remember IMO), pictures of various animals, and characters from Super Smash Bros!  This game works great on your mobile device.
+
+The second game is "Picture Puzzle":http://www.jodymickey.com/picture-puzzle.  If you haven't seen one of these before, it's a square image split up into a grid, with one empty square.  The goal is to arrange the photo by moving the empty square around, or rather, moving pieces into the empty square.  At a minimum there will be 9 squares, and for some reason I decided to allow you to play with up to 64 squares in case you hate yourself.  I recommend playing with the default of 16.  There is definitely a strategy for moving pieces that you can easily find with a quick search.  I solved a puzzle once to make sure this game worked, but otherwise I haven't played it again.  This will work on your mobile device too, but it's not as friendly and I've accidentally swiped back and navigated away from the page more than once.  This of course resets the board and you then throw your phone at the wall.
+
+I enjoyed working on these two games and although I'm sure the code behind them is not exactly the way I'd do it now, the project was extremely helpful in learning how to use React for real-world applications.  Enjoy!
+
+
+
+

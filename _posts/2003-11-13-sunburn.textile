@@ -5,7 +5,7 @@ date:   2003-11-13 19:00:00
 author: "Mike Daly"
 avatar: "willow_calm"
 ---
-Hey everyone! After many trials and tribulations, I've finally completed(?) a game mod. Let me tell you, it will be nice to have this off my shoulders. I might even be able to finish coloring that "picture":imageviewer.php?image=images/gallery/art/heroinebw.jpg I started a while back now.
+Hey everyone! After many trials and tribulations, I've finally completed(?) a game mod. Let me tell you, it will be nice to have this off my shoulders. I might even be able to finish coloring that "picture":/classic/images/gallery/art/heroinebw.jpg I started a while back now.
 
  For those that are interested, I've posted some pretty little screenshots in the "Game Dev":galleries.php?section=game%20dev gallery. You can see the recent ones at the bottom, only the last five are final version.
 

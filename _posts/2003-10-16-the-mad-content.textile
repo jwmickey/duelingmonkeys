@@ -15,7 +15,7 @@ Consider yourselves lucky this friday. Us here at the dueling monkeys have been 
 
  And just to point out how that first move is actually really easy and not dangerous at all, I have "this":/filespace/wesley/mikedynofake.mov, but don't tell anyone.
 
- Thirdly and finally, we come to what I've been working on. As you can see in my "modeling":galleries.php?section=modeling and "game dev":galleries.php?section=game%20dev galleries, I have an interest in 3d modeling for games. I haven't added to the galleries in a while, but that is not to mean I haven't been working. To remedy the lack of content, however, I finally finished up the important points of a new character model for project sunburn. Now you can see her in "all":imageviewer.php?image=images/gallery/modeling/femalebodyrender4.jpg "her":imageviewer.php?image=images/gallery/modeling/femalebodyrender6.jpg "glory":imageviewer.php?image=images/gallery/modeling/femalebodyrender7.jpg.
+ Thirdly and finally, we come to what I've been working on. As you can see in my "modeling":galleries.php?section=modeling and "game dev":galleries.php?section=game%20dev galleries, I have an interest in 3d modeling for games. I haven't added to the galleries in a while, but that is not to mean I haven't been working. To remedy the lack of content, however, I finally finished up the important points of a new character model for project sunburn. Now you can see her in "all":/classic/images/gallery/modeling/femalebodyrender4.jpg "her":/classic/images/gallery/modeling/femalebodyrender6.jpg "glory":/classic/images/gallery/modeling/femalebodyrender7.jpg.
 
  Well, that might not be ALL her glory, but you'll never know, will you? Muah-hahahaha!
 

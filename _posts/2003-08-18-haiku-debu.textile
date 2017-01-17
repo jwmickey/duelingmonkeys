@@ -23,4 +23,4 @@ avatar: "willow_calm"
 
  Today, the fourth day
  I cannot think very clearly
- then my update "sucks":imageviewer.php?image=images/gallery/humor/shcool.jpg.
+ then my update "sucks":/classic/images/gallery/humor/shcool.jpg.

@@ -7,7 +7,7 @@ avatar: "wayne_calm"
 ---
 Howdy folks. It's early Friday morning and I'm about to go to bed, but first I'm going to make this little update and read some novel.
 
- So I "wrote a rant":otc.php?view=specific&item=43 earlier tonight, but it's not really so much of a rant per se. You'll have to read it and figure out what it is.
+ So I "wrote a rant":/otc.html?view=specific&item=43 earlier tonight, but it's not really so much of a rant per se. You'll have to read it and figure out what it is.
 
  I also "posted a new topic":topics.php?topicID=1065162893 in the message board about the upcoming movies section of this site. Please read it and give me input, so I can possibly do some work this weekend on it.
 

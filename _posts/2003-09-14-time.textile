@@ -7,6 +7,6 @@ avatar: "willow_calm"
 ---
 Time sucks. I have no time. If I wasn't burdened with the unavoidable obstacle of everyone else's solar circadian cycles I would live through at least 36 hour days. As it stands I have to constantly put up with 4 hours of sleep just because the idiot that designed daytime didn't make it big enough.
 
- Sorry I've been so busy recently that I haven't updated a lot. I am a little busy, but not so much that I can't write a little rant for you: I present "Time":otc.php?view=specific&item=42. Someday I'll have some cool new art to show you. Also, I'm spending a lot of time on project sunburn, so some new screenshots might trickle into the game dev gallery over the next while.
+ Sorry I've been so busy recently that I haven't updated a lot. I am a little busy, but not so much that I can't write a little rant for you: I present "Time":/otc.html?view=specific&item=42. Someday I'll have some cool new art to show you. Also, I'm spending a lot of time on project sunburn, so some new screenshots might trickle into the game dev gallery over the next while.
 
  Thats all, I'm hittin' it.

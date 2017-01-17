@@ -27,7 +27,7 @@ The North Carolina Triangle area has put together a conference called the "Trian
 
 h3. Independent Game Festival
 
-I forgot to mention this last time, but I recently got some feedback on my game "Connexus":games/connexus from the Independent Game Festival judges that reviewed it. here is what it said:
+I forgot to mention this last time, but I recently got some feedback on my game "Connexus":/games/connexus.html from the Independent Game Festival judges that reviewed it. here is what it said:
 
 &quot;Promising and conceptually interesting - good luck with this project!&quot; - _2009 Independent Games Festival Judge_
 

@@ -36,4 +36,4 @@ I mentioned Comic Game in my last post. I've been making very slow progress, but
 * Completed comics are composited and saved as external images
 * One complete sample comic - &quot;Once Upon a Time&quot; by Mike Daly
 
-I've also created a new Games Page entry for it: "Comic Game":games/comicgame which has more info, some screenshots, and a download link for Phase 1. If you happen to download it and play through a story, look in the 'saves' sub-folder of the executable: it should contain an exported version of your playthrough of the story. I'd love to see what stories people follow. Be aware that the game has a pretty long loading time before it even shows the window. Sorry.
+I've also created a new Games Page entry for it: "Comic Game":/games/comicgame.html which has more info, some screenshots, and a download link for Phase 1. If you happen to download it and play through a story, look in the 'saves' sub-folder of the executable: it should contain an exported version of your playthrough of the story. I'd love to see what stories people follow. Be aware that the game has a pretty long loading time before it even shows the window. Sorry.

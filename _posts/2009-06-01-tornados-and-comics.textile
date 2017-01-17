@@ -55,7 +55,7 @@ Just in case you were wondering.
 
 h3. New project: Comic Game
 
-I've started work on a new hobby project. I told myself I would finish "Orbital":games/orbital first and maybe improve "Connexus":games/connexus as well, but a few weekends ago I caved and started anyway.
+I've started work on a new hobby project. I told myself I would finish "Orbital":/games/orbital.html first and maybe improve "Connexus":/games/connexus.html as well, but a few weekends ago I caved and started anyway.
 
 The idea is simply an interactive comic book; kind of like one of the old choose your own adventure stories but you can do more than just branching. Here is an analogy: If an old-school text adventure is like taking a test, playing comic game is like taking a multiple-choice pop quiz where the score doesn't count towards your grade.
 

@@ -1,6 +1,6 @@
 ---
 title:        "The Blob Game"
-date:         "2001-2002"
+date:         "2001-07-20"
 download:     "/downloads/games/theblobgame_090118.zip"
 contributors: 
   - "Mike Daly"

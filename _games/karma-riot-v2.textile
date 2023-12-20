@@ -1,6 +1,6 @@
 ---
 title:        "Karma Riot v2"
-date:         "2010"
+date:         "2010-07-12"
 download:     "/downloads/games/karmariot_100712.zip"
 contributors: 
   - "Mike Daly"

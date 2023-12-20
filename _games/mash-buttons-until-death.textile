@@ -1,6 +1,6 @@
 ---
 title:        "Mash Buttons Until Death"
-date:         "2010"
+date:         "2010-02-04"
 download:     "/downloads/games/mabud_100204.zip"
 contributors: 
   - "Mike Daly"

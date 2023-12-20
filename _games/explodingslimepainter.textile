@@ -1,6 +1,6 @@
 ---
 title:        "ExplodingSlimePainter"
-date:         "2012"
+date:         "2012-11-11"
 download:     "/downloads/games/explodingslimepainter_121111.zip"
 contributors: 
   - "Mike Daly"

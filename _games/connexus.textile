@@ -1,6 +1,6 @@
 ---
 title:        "Connexus"
-date:         "2008"
+date:         "2009-01-18"
 download:     "/downloads/games/connexus_090118.zip"
 contributors: 
   - "Mike Daly"

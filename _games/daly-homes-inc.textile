@@ -1,6 +1,6 @@
 ---
 title:        "Daly Homes Inc"
-date:         "2009"
+date:         "2009-08-07"
 download:     "/downloads/games/dalyhomesinc_090807.zip"
 contributors: 
   - "Mike Daly"

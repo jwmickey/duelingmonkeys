@@ -1,6 +1,6 @@
 ---
 title:        "Pinin Rodizo"
-date:         "2010"
+date:         "2010-12-09"
 download:     "/downloads/games/pininrodizo_101209.zip"
 contributors: 
   - "Mike Daly"

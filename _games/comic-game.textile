@@ -1,6 +1,6 @@
 ---
 title:        "Comic Game"
-date:         "2009"
+date:         "2009-07-06"
 download:     "/downloads/games/comicgame_090706.zip"
 contributors: 
   - "Mike Daly"

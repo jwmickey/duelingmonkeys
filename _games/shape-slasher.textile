@@ -1,6 +1,6 @@
 ---
 title:        "Shape Slasher"
-date:         "2007"
+date:         "2009-01-18"
 download:     "/downloads/games/shapeslasher_090118.zip"
 contributors: 
   - "Mike Daly"

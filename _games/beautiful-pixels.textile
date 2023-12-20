@@ -1,6 +1,6 @@
 ---
 title:        "Beautiful Pixels"
-date:         "2007-2008"
+date:         "2009-01-18"
 download:     "/downloads/games/beautifulpixels_090118.zip"
 contributors: 
   - "Mike Daly"

@@ -3,15 +3,16 @@ title: Dueling Monkeys
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.duelingmonkeys.com" # the base hostname & protocol for your site
 comments: true
-plugins: _plugins
+plugins_dir: _plugins
 
 gems:
   - jekyll-gallery-generator
+  - jekyll-textile-converter
 
 # Build settings
 markdown: kramdown
 
-exclude: ['Gemfile', 'Gemfile.lock', 'bower.json', 'Vagrantfile', 'provision.sh', 'README.md', 'vendor']
+exclude: ['bower_components', 'Gemfile', 'Gemfile.lock', 'bower.json', 'Vagrantfile', 'provision.sh', 'README.md', 'vendor']
 
 gallery:
   # path to the gallery

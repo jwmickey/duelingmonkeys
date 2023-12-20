@@ -1,6 +1,6 @@
 ---
 title:        "Pistol Sisters"
-date:         "2014"
+date:         "2014-06-16"
 download:     "/filespace/mike/pistolsisters_140616"
 contributors: 
   - "Mike Daly"

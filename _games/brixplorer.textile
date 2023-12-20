@@ -1,6 +1,6 @@
 ---
 title:        "Brixplorer"
-date:         "2010"
+date:         "2011-01-16"
 download:     "/downloads/games/brixplorer_110116.zip"
 contributors: 
   - "Mike Daly"

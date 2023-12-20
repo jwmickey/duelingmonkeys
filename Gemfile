@@ -3,7 +3,8 @@ source "https://rubygems.org"
 
 gem 'exifr'
 gem 'rmagick'
-gem 'therubyracer'
+#gem 'therubyracer'
 gem 'jekyll'
 gem 'RedCloth'
 gem 'jekyll-gallery-generator'
+gem 'jekyll-textile-converter'

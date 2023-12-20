@@ -1,6 +1,6 @@
 ---
 title:        "Slither"
-date:         "2012"
+date:         "2012-01-29"
 download:     "/downloads/games/slither_120129.zip"
 contributors: 
   - "Mike Daly"

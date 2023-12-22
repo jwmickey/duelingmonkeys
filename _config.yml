@@ -12,7 +12,7 @@ gems:
 # Build settings
 markdown: kramdown
 
-exclude: ['bower_components', 'Gemfile', 'Gemfile.lock', 'bower.json', 'Vagrantfile', 'provision.sh', 'README.md', 'vendor']
+exclude: ['tools', 'bower_components', 'Gemfile', 'Gemfile.lock', 'bower.json', 'Vagrantfile', 'provision.sh', 'README.md', 'vendor']
 
 gallery:
   # path to the gallery

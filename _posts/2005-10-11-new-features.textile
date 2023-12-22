@@ -11,4 +11,4 @@ I finally made good on one of my &quot;promises&quot; and created a user databas
 
  Last but not least, some quick guidelines for ediiting posts. You can't edit a post that you didn't author (you must be logged in when you posted it originally). You can only edit a post within 24 hours of the original post date. When you do edit a post, your topic will not automatically float to the top. If you think I should change any of this, please give me your input. Thanks for visiting guys, now get out there and
 
-h2. "REGISTER!":register.php
+## [REGISTER!](register.php)

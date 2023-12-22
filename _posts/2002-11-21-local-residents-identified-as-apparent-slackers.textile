@@ -5,4 +5,4 @@ date:   2002-11-21 19:00:00
 author: "Mike Daly"
 avatar: "willow_calm"
 ---
-A local source reported recently that they had not seen an update to the far-from-complete page "Dueling Monkeys":http://www.duelingmonkeys.com for at least 3 days. Investigators are keeping a close lid on information surrounding the delay. Analysts speculate the administrators Wayne and Willow could be &quot;lazy&quot;.
+A local source reported recently that they had not seen an update to the far-from-complete page [Dueling Monkeys](http://www.duelingmonkeys.com) for at least 3 days. Investigators are keeping a close lid on information surrounding the delay. Analysts speculate the administrators Wayne and Willow could be &quot;lazy&quot;.

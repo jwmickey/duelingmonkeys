@@ -7,21 +7,21 @@ avatar: "willow_calm2"
 ---
 I've been told that sometimes I don't do a good job with updates because I make a big post about once a month that interleaves a bunch of topics such as personal life, work, and hobby stuff. This makes things a little tricky to parse for readers that only care about one or two of those subjects. Therefore, I have decided that it would be better to make smaller posts a little more frequently. This will help things be a little more targeted, and prevent me from having trouble remember stuff months after it happened.
 
-h3. Triangle Game Jam 09 &amp; Sunny Day
+### Triangle Game Jam 09 &amp; Sunny Day
 
-A group of professional game developers from the NC Triangle area got together over the weekend of July 10-12 to hold the 3rd "Triangle Game Jam":http://www.trianglegamejam.com. This is the second year that I was the lead organizer of the event and it was really gratifying to see things work out as well as they did. There were 14 people, we made 4 games. You can find more info about the event and the theme that inspired the games on the "Triangle Game Jam":http://www.trianglegamejam.com website.
+A group of professional game developers from the NC Triangle area got together over the weekend of July 10-12 to hold the 3rd [Triangle Game Jam](http://www.trianglegamejam.com). This is the second year that I was the lead organizer of the event and it was really gratifying to see things work out as well as they did. There were 14 people, we made 4 games. You can find more info about the event and the theme that inspired the games on the [Triangle Game Jam](http://www.trianglegamejam.com) website.
 
-The game I worked on was "Sunny Day":/games/sunny-day.html. I've added an entry in the games page for it, which includes a download link and a list of requirements. Keep in mind that in the weekend, we weren't able to get some things implemented that would have made it feel like an actual game - specifically, there isn't an ending or scoring. But hey, it was done in 2 days; what do you expect?
+The game I worked on was [Sunny Day](/games/sunny-day.html). I've added an entry in the games page for it, which includes a download link and a list of requirements. Keep in mind that in the weekend, we weren't able to get some things implemented that would have made it feel like an actual game - specifically, there isn't an ending or scoring. But hey, it was done in 2 days; what do you expect?
 
-!/images/games/sunnyday/sunnyday500.png!
+!(images/games/sunnyday/sunnyday500.png)
 _It's supposed to be very happy_
 
 
 
 
-h3. Comic Game
+### Comic Game
 
-I mentioned last time that I recently completed phase 1 of my "Comic Game":/games/comic-game.html experiment. Apparently that got lost on the noise because it was at the bottom of a wordy post about other topics. It probably also had something to do with lack of a screenshot. I've added a list of requirements to the game's page, which also contains a download link in case you didn't realize. Just to make sure that everyone realizes it's there; here's your friggin' screenshot:
+I mentioned last time that I recently completed phase 1 of my [Comic Game](/games/comic-game.html) experiment. Apparently that got lost on the noise because it was at the bottom of a wordy post about other topics. It probably also had something to do with lack of a screenshot. I've added a list of requirements to the game's page, which also contains a download link in case you didn't realize. Just to make sure that everyone realizes it's there; here's your friggin' screenshot:
 
 !/images/games/comicgame/comicgame500.jpg!
 _Now you know it exists_
@@ -29,7 +29,7 @@ _Now you know it exists_
 
 
 
-h3. Other news
+### Other news
 
 Despite what I said in the beginning of this post about being more targeted, I'm going to mix in a little personal life stuff here because it is recent, relevant to me, and I don't want to make a separate post talking about it later.
 

@@ -5,11 +5,11 @@ date:   2016-06-28 20:42:00
 author: "Mike Daly"
 avatar: "willow_calm2"
 ---
-My first game as lead designer from start to finish has shipped! I'm talking about "Ratchet and Clank":http://www.insomniacgames.com/games/ratchet-clank-ps4/
+My first game as lead designer from start to finish has shipped! I'm talking about [Ratchet and Clank](http://www.insomniacgames.com/games/ratchet-clank-ps4/)
 
 Check out this sweet trailer:
 
-p=. <iframe width="560" height="315" src="https://www.youtube.com/embed/iU3sU2WMcPM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iU3sU2WMcPM" frameborder="0" allowfullscreen></iframe>
 
 A lot of the work I did for this one was keeping the team organized so it's not too interesting to talk about. We started out with a very tight schedule since there was some uncertainty about when the movie would release. This meant there were a great deal of production problems to solve, not the least of which that this game used an entirely new engine from the previous R&C game. I think getting the game done with so much polish speaks to how well the process worked so I'm really proud of that.
 
@@ -21,11 +21,11 @@ Since discussing production challenges is boring and bulleted lists is much bett
 * Economy design and balancing
 * Difficulty system design and balancing support
 
-Those are pretty similar to my list of feats on "R&C Into the Nexus":/2014/06/22/health-nexus-and-sunset.html, not surprisingly. There were 2 lead designers on the project, Joel Goodsell generally oversaw layout and story while I generally oversaw systems. I also got to dabble in shaders and special effects in our new engine, which was super fun.
+Those are pretty similar to my list of feats on [R&C Into the Nexus](/2014/06/22/health-nexus-and-sunset.html), not surprisingly. There were 2 lead designers on the project, Joel Goodsell generally oversaw layout and story while I generally oversaw systems. I also got to dabble in shaders and special effects in our new engine, which was super fun.
 
 One of my favorite parts was creating the Econ Tool. This is a C# winforms app that I created to help tune all aspects of the economy. It basically scrapes all of the levels for all sources of potential income and gives you a way to input some tuning values and it outputs final income values for each type of thing you can get income from to ensure that drops are always consistent yet escalate as you get further. It also predicts how much income the player will have at any given point in time and maps this against the available purchases or level up thresholds or whatever; building a colorful graph that you can use to assess whether purchase prices are reasonable. That's just the currency stuff, it does all sorts of other things like judging weapon power levels (with and without predicted upgrades) over the course of the game, and how well enemy HP is going to stand up to that at various points. 
 
-p=. !/filespace/mike/rcps4_econ_screen3.png!
+!(filespace/mike/rcps4_econ_screen3.png)
 _This is what the tool looks like (an early version, at least)_
 
 In conclusion, Ratchet and Clank for PS4 turned out awesome. It was a great game to work on too. As it turns out, that isn't the only game I was a lead designer that's shipped since my last post, either! However, I'll save that update for another day.

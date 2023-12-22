@@ -13,7 +13,7 @@ However, it would be cool if the world was really stylized, like you are walking
 
 The thing I came up with is a way to use a wrapping rectangular world, but give it the illusion that it is spherical - a spherical rectangle. It's not rocket science or anything, but I think it's a neat concept and can be kind of a brain teaser to figure out how everything can continue to line up as you move over its surface.
 
-!/filespace/mike/worldexplorer12.jpg!
+!(filespace/mike/worldexplorer12.jpg)
 _View of the terrain from high above_
 
 !/filespace/mike/worldexplorer11.jpg!

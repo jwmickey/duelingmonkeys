@@ -9,10 +9,10 @@ Hey all, I'll be brief this month. Karma Riot is coming along well, but unfortun
 
 In the meantime, I have some little bits of filler for this month. For one thing, last night I threw together two tracks for Karma Riot so that it could have at least a little sound. They are pretty short and repetitive, but I think the'll do the trick for now:
 
-* "Opus 20":/filespace/mike/opus20.mp3
-* "Opus 21":/filespace/mike/Opus21.mp3
+* [Opus 20](/filespace/mike/opus20.mp3)
+* [Opus 21](/filespace/mike/Opus21.mp3)
 
-h3. Ninja Turtles
+### Ninja Turtles
 
 When I was a kid, I loved the Ninja Turtles. I recently aquired a stack of old NES games, and among them was Teenage Mutant Ninja Turtles III: the Manhattan Project. Just to give you a taste of nostalgia and to remind you what the 90's were like, here is an excerpt from the back of the box:
 
@@ -20,10 +20,10 @@ _Surf's up, dude! The Teenage Mutant Ninja Turtles make a little getaway to the 
 
 My how language has evolved.
 
-h3. George the cat
+### George the cat
 
 In other news, George got pretty sick recently and had to spend some time in the emergency veterinary clinic. It turns out he has cancer, although it does react to drug treatment, which hopefully keep him healthy for up to a few years. In any case, that kind of sucks and what also sucks is the massive emergency treatment bill and the apparent ongoing cost of drug treatment.
 
-h3. Vacation Time
+### Vacation Time
 
 On the bright side, I'm going to Hawaii with the fam for Christmas this year. I leave in a few hours. See you later, suckas!

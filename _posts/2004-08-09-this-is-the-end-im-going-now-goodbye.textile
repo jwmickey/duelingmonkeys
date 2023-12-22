@@ -20,4 +20,4 @@ First, a note from the editor:
 
  the drummer from def leopard only has one arm! come on party people, (hoo hoo) put your arms in the air (hoo hoo). peace out.
 
- _Alright, editor back. it seems that Wesley sent 12 pictures, but only referenced 3 in his letter. For the sole purpose of adding chaos and confusion, I added them to the 'wesley' gallery, which already had 15 pictures in it. This means that you all get to search through the gallery to find out what he is talking about. You will find the gallery in question "beyond this link":galleries.php?section=Wesley&type=image._
+ _Alright, editor back. it seems that Wesley sent 12 pictures, but only referenced 3 in his letter. For the sole purpose of adding chaos and confusion, I added them to the 'wesley' gallery, which already had 15 pictures in it. This means that you all get to search through the gallery to find out what he is talking about. You will find the gallery in question [beyond this link](galleries.php?section=Wesley&type=image._)

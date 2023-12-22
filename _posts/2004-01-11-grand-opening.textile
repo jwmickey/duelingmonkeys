@@ -7,11 +7,11 @@ avatar: "willow_calm"
 ---
 ok, it's not the grand opening. Wayne told me to say that.
 
- It's been a very busy holiday. To sum things up, we all sat around on our bumcusses and played video games for weeks on end. All this toil was not without purpose, however. We have chronicled some of our celebration in the form of a "quaint new gallery":galleries.php?section=new%20years%202004.
+ It's been a very busy holiday. To sum things up, we all sat around on our bumcusses and played video games for weeks on end. All this toil was not without purpose, however. We have chronicled some of our celebration in the form of a [quaint new gallery](galleries.php?section=new%20years%202004).
 
- I got a drawing tablet for christmas. Hopefully, I'll be able to put it to use soon, but for now I'm going to continue working on my "motorcycle model":/classic/images/gallery/modeling/bikegeometry.jpg.
+ I got a drawing tablet for christmas. Hopefully, I'll be able to put it to use soon, but for now I'm going to continue working on my [motorcycle model](/classic/images/gallery/modeling/bikegeometry.jpg).
 
- Now you know what I've been up to. In case that's not enough entertainment, prepare for this freakish(ly scary) delight: "Apocomon":http://www.e-sheep.com/apocamon/: bringing the book of revalations alive through the magic and innocence of a pokemon parody.
+ Now you know what I've been up to. In case that's not enough entertainment, prepare for this freakish(ly scary) delight: [Apocomon](http://www.e-sheep.com/apocamon/:) bringing the book of revalations alive through the magic and innocence of a pokemon parody.
 
  Whew, that's creepy stuff.
 

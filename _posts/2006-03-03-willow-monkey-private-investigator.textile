@@ -7,7 +7,7 @@ avatar: "willow_calm2"
 ---
 So I would tell you a very funny and well-written story about the fantastic adventures that I had last night, but there is a problem. The problem is, of course, that I have no idea what happened last night. However, I have noticed a couple of indicators around the house that suggest what might have happened. This calls for the talents of a private investigator! I'm going to describe all of the clues I found (unfortunately, I couldn't find Wayne's camera, so I don't have pictures), and you can use your powers of intuition to determine what really happened. Hell, your guess is as good as mine. So c'mon gang! We've got a mystery to solve!
 
-h3. Clues:
+### Clues:
 
 * I woke up on the couch and not my bed. I had a headache.
 * There were a great deal of empty beverage containers on the coffee table. The arrangement is as follows:
@@ -23,4 +23,4 @@ h3. Clues:
 
 Those are all the clues, can you solve the mystery?
 
- Aside: Wayne is not around very often these days to cook dinner with, so what do I eat nowadays? Not "toothpaste":http://www.toothpastefordinner.com/index.php, but it is a funny website anyways.
+ Aside: Wayne is not around very often these days to cook dinner with, so what do I eat nowadays? Not [toothpaste](http://www.toothpastefordinner.com/index.php), but it is a funny website anyways.

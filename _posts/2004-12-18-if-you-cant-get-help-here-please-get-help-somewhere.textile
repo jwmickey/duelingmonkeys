@@ -7,9 +7,9 @@ avatar: "willow_calm2"
 ---
 Today I will warn you of the horrible dangers involved in cycling. On the street, cycling is known as 'riding the bike'. Well, hopefully you already don't do bike, but if you do, you may find the following materials enlightening.
 
- "Cyclaholics Anonymous panel 1":images/gallery/art/cyclaholic1.jpg
- "Cyclaholics Anonymous panel 2":images/gallery/art/cyclaholic2.jpg
- "Cyclaholics Anonymous panel 3":images/gallery/art/cyclaholic3.jpg
+ [Cyclaholics Anonymous panel 1](images/gallery/art/cyclaholic1.jpg)
+ [Cyclaholics Anonymous panel 2](images/gallery/art/cyclaholic2.jpg)
+ [Cyclaholics Anonymous panel 3](images/gallery/art/cyclaholic3.jpg)
 
  I hope you enjoyed that. To give it some context, I made up that pamphlet as a gag gift for a co-worker who is really into biking. In it's original form it was printed on one sheet front and back with three panels each side. I arranged the panels into the order you would read them on the pamphlets when I put them up here.
 
@@ -21,16 +21,16 @@ Today I will warn you of the horrible dangers involved in cycling. On the street
 
  I'm going to do more than finish this post off with a plain old random link. I seem to recall that on Saturday there was a discussion on what webcomics were good. At the time, I think I had a little bit too much honey lager in me to recall all of mine so I'll do you all the favor of posting them here. Following are all of my favorite webcomics in no particular order.
 
- "VG Cats!":http://www.vgcats.com/
- "The 10k Commotion!":http://10kcommotion.com/
- "A Modest Destiny":http://www.squidi.net/index.php
- "Sinfest!":http://sinfest.net/strips_page.htm
- "Penny Arcade":http://www.penny-arcade.com/
- "Mac Hall":http://machall.com/index.php
- "Girly":http://go-girly.com/
- "Chugworth Academy":http://chugworth.com/comic.php
- "Apple Geeks":http://www.applegeeks.com/index.php
+ [VG Cats!](http://www.vgcats.com/)
+ [The 10k Commotion!](http://10kcommotion.com/)
+ [A Modest Destiny](http://www.squidi.net/index.php)
+ [Sinfest!](http://sinfest.net/strips_page.htm)
+ [Penny Arcade](http://www.penny-arcade.com/)
+ [Mac Hall](http://machall.com/index.php)
+ [Girly](http://go-girly.com/)
+ [Chugworth Academy](http://chugworth.com/comic.php)
+ [Apple Geeks](http://www.applegeeks.com/index.php)
  and finally...
- "Angel Moxie":http://www.venisproductions.com/angelmoxie/index.html
+ [Angel Moxie](http://www.venisproductions.com/angelmoxie/index.html)
 
  If you find enough free time to start any of those from the beginning, I think you'd be doing yourself a favor. Especially Sinfest, I love that one.

@@ -9,4 +9,4 @@ Howdy folks. As it turns out, all that homework I stayed up all last night tryin
 
  Anyway, I have been playing with pictures, and because it is so easy to add stuff to the galleries, I have been adding like the count (&#42;thunder crashes&#42;)
 
- "Cool Stuff":coolstuff.php is where you will find links to all the galleries. The 'pictures' gallery were mostly taken with my crappy camera, so they suck. Sorry. Anyway, enjoy. I suppose it would be a good idea to get some sleep eventually as I haven't had any in a long time and it's already 4:24 am.
+ [Cool Stuff](coolstuff.php) is where you will find links to all the galleries. The 'pictures' gallery were mostly taken with my crappy camera, so they suck. Sorry. Anyway, enjoy. I suppose it would be a good idea to get some sleep eventually as I haven't had any in a long time and it's already 4:24 am.

@@ -9,13 +9,13 @@ I think a lot has happened since my last update. However, I can't really remembe
 
 I wish I could show you some pictures of our halloween costumes. However, I didn't take any and Jody hasn't uploaded them, fortunately I found this picture of me in my costume on the internet:
 
-!/filespace/mike/mikehalloween09.jpg!
+!(filespace/mike/mikehalloween09.jpg)
 _Yep, that's definetely me_
 
 
-_Edit: OK, Jody did end up posting some pictures in the "Halloween gallery":/gallery/halloween. Here's a picture: "of us":/images/gallery/halloween/DSCF1640.JPG. You may recognize Ryu and Chun-Li in the image as well._
+_Edit: OK, Jody did end up posting some pictures in the [Halloween gallery](/gallery/halloween). Here's a picture: [of us](/images/gallery/halloween/DSCF1640.JPG). You may recognize Ryu and Chun-Li in the image as well._
 
-Last week I made a surprise visit to one of our customers/evaluators at work. Mainly, the surprise was on my part; I got asked if I could go to Seattle after lunch and was on an airplane 4 hours later. Anyway, that was a lot of fun. I hung out with "Loose Cannon":http://www.loosecannonstudios.com/. All in all a good trip.
+Last week I made a surprise visit to one of our customers/evaluators at work. Mainly, the surprise was on my part; I got asked if I could go to Seattle after lunch and was on an airplane 4 hours later. Anyway, that was a lot of fun. I hung out with [Loose Cannon](http://www.loosecannonstudios.com/). All in all a good trip.
 
 Work has been pretty hectic lately. It's one of those things I wish I could talk about, but that wouldn't be appropriate. Hopefully I'll start work on a cool new mini-project soon.
 
@@ -31,12 +31,12 @@ Here is a summary of what all the doctors have told me in plain english: &quot;Y
 
 To round things out, here is a rapid fire list of things I find interesting right now:
 
-* "Watchmen":http://www.amazon.com/Watchmen-Alan-Moore/dp/0930289234/ref=sr_1_5?ie=UTF8&s=books&qid=1259116226&sr=8-5
-* "Doom RL":http://doom.chaosforge.org/
-* "Dragon Age":http://dragonage.bioware.com/
-* "30 Rock":http://www.nbc.com/30-rock/
-* "World of Goo":http://www.worldofgoo.com/ (finally got around to it)
-* "Pancreatitis":http://en.wikipedia.org/wiki/Acute_pancreatitis
+* [Watchmen](http://www.amazon.com/Watchmen-Alan-Moore/dp/0930289234/ref=sr_1_5?ie=UTF8&s=books&qid=1259116226&sr=8-5)
+* [Doom RL](http://doom.chaosforge.org/)
+* [Dragon Age](http://dragonage.bioware.com/)
+* [30 Rock](http://www.nbc.com/30-rock/)
+* [World of Goo](http://www.worldofgoo.com/) (finally got around to it)
+* [Pancreatitis](http://en.wikipedia.org/wiki/Acute_pancreatitis)
 
 Karma Riot is making great progress too, but I'll save that update for once we've passed our next milestone.
 

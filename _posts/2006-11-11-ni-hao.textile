@@ -16,15 +16,15 @@ A lot has happened since my last update. Mainly, I went on a trip to visit my bi
 * Remaining leg of flight cancelled
 * Stayed in hotel an hour from the airport and got assigned a roomate
 * Waited in line for 12 hours next day (no kidding)
-* "Slept":gallery2/main.php?g2_view=core.ShowItem&g2_itemId=2541&g2_navId=xf2eb7494 on "Airport floor":gallery2/main.php?g2_view=core.ShowItem&g2_itemId=2544&g2_navId=xf2eb7494
-* Took bus to other airport, then flew to other airport (new Kansai - very cool) and saw the "Pokemon 747":gallery2/main.php?g2_view=core.ShowItem&g2_itemId=2547&g2_imageViewsIndex=1&g2_navId=xf2eb7494
+* [Slept](gallery2/main.php?g2_view=core.ShowItem&g2_itemId=2541&g2_navId=xf2eb7494) on [Airport floor](gallery2/main.php?g2_view=core.ShowItem&g2_itemId=2544&g2_navId=xf2eb7494)
+* Took bus to other airport, then flew to other airport (new Kansai - very cool) and saw the [Pokemon 747](gallery2/main.php?g2_view=core.ShowItem&g2_itemId=2547&g2_imageViewsIndex=1&g2_navId=xf2eb7494)
 * finally flew to Shanghai two days late
 
 There are many more details that make that travel experience even worse, but I'm tired of retelling the story, so I'll save it.
 
  *New family*
 
- My new sister (in-law) "Joka":gallery2/main.php?g2_view=core.ShowItem&g2_itemId=2043&g2_navId=xf2eb7494 greeted me at the airport in Shanghai. Although I had met her before, it was before she and my brother got it on so I didn't get to know her very well at the time. However, I got to spend plenty of time with her in China and she is way cool. She hepled us get around and told us all sorts of interesting things about the country. She's a lot of fun and I wish we could hang out more. Thanks for everything!
+ My new sister (in-law) [Joka](gallery2/main.php?g2_view=core.ShowItem&g2_itemId=2043&g2_navId=xf2eb7494) greeted me at the airport in Shanghai. Although I had met her before, it was before she and my brother got it on so I didn't get to know her very well at the time. However, I got to spend plenty of time with her in China and she is way cool. She hepled us get around and told us all sorts of interesting things about the country. She's a lot of fun and I wish we could hang out more. Thanks for everything!
 
  *The food*
 
@@ -46,22 +46,22 @@ There are many more details that make that travel experience even worse, but I'm
 
  We spent 3 days in Beijing, the capitol of China. It was a very cool place. There were also many opportunities to say my favorite Chinese phrase: 'Bu Yao!'. Some of the things we saw:
 
-* "The Temple of Heaven":gallery2/main.php?g2_view=core.ShowItem&g2_itemId=2625&g2_navId=xf2eb7494 - a huge circular pagoda in the center of a gigantic park
-* "The Forbidden City":gallery2/main.php?g2_view=core.ShowItem&g2_itemId=2646&g2_navId=xf2eb7494 - an enourmous complex of ancient walls, courtyards, temples, and palaces. All built for one guy - the emperor
-* "The Summer Palace":gallery2/main.php?g2_view=core.ShowItem&g2_itemId=1938&g2_navId=xf2eb7494 - as if a mini-city full of concubines wasn't enough for the emperor, he also got a mountain and lake full of gardens, sculptures, temples, theaters, bridges, and of course, more palaces
-* "The Great Wall":gallery2/main.php?g2_view=core.ShowItem&g2_itemId=2133&g2_navId=xf2eb7494 - Probably doesn't need too much explaning. The interesting things here were that we took a bobsled back down the mountain when we were done, which was awesome, and when we visited a closed off section some locals tried to charge us and threatened us so we called the police. It was an interesting lesson in local culture and politics. I got a great picture of a guy getting pissed off and throwing his water bottle at me
+* [The Temple of Heaven](gallery2/main.php?g2_view=core.ShowItem&g2_itemId=2625&g2_navId=xf2eb7494) - a huge circular pagoda in the center of a gigantic park
+* [The Forbidden City](gallery2/main.php?g2_view=core.ShowItem&g2_itemId=2646&g2_navId=xf2eb7494) - an enourmous complex of ancient walls, courtyards, temples, and palaces. All built for one guy - the emperor
+* [The Summer Palace](gallery2/main.php?g2_view=core.ShowItem&g2_itemId=1938&g2_navId=xf2eb7494) - as if a mini-city full of concubines wasn't enough for the emperor, he also got a mountain and lake full of gardens, sculptures, temples, theaters, bridges, and of course, more palaces
+* [The Great Wall](gallery2/main.php?g2_view=core.ShowItem&g2_itemId=2133&g2_navId=xf2eb7494) - Probably doesn't need too much explaning. The interesting things here were that we took a bobsled back down the mountain when we were done, which was awesome, and when we visited a closed off section some locals tried to charge us and threatened us so we called the police. It was an interesting lesson in local culture and politics. I got a great picture of a guy getting pissed off and throwing his water bottle at me
 
 *Shanghai*
 
  There were a lot of cool things in Shanghai as well:
 
-* "Some really tall building":gallery2/main.php?g2_view=core.ShowItem&g2_itemId=2538&g2_navId=xf2eb7494 - Wayne and I went up in it. We were high up. I forgot the name of it
-* "The Old Town":gallery2/main.php?g2_view=core.ShowItem&g2_itemId=2550&g2_navId=xf2eb7494 - the ancient center of Shanghai. It had many old style buildings, a neat garden, the temple of the city god, a famous teahouse and tons of people to say 'Bu Yao' to
+* [Some really tall building](gallery2/main.php?g2_view=core.ShowItem&g2_itemId=2538&g2_navId=xf2eb7494) - Wayne and I went up in it. We were high up. I forgot the name of it
+* [The Old Town](gallery2/main.php?g2_view=core.ShowItem&g2_itemId=2550&g2_navId=xf2eb7494) - the ancient center of Shanghai. It had many old style buildings, a neat garden, the temple of the city god, a famous teahouse and tons of people to say 'Bu Yao' to
 * People's Square - a large park in the heart of the city, it was pretty and had a cool city museum with a model of Shanghai that was larger than my house
 * Go Karts - we went karting. Since there is no liability for the Kart place, the karts were extremely fast and we could play as rough as we wanted. There was much ramming and power sliding
 * Acrobats - although they had some work to do on the artistic presentation side of things, there were some really amazing performances at the acrobat show
-* "The Fabric Market":gallery2/main.php?g2_view=core.ShowItem&g2_itemId=2190&g2_navId=xf2eb7494 - a building packed with types of fabrics and tailors. Joka and I worked together to order a set of custom tailored matching Chinese style silk shirts
-* "Museum of Science and Technology":gallery2/main.php?g2_view=core.ShowItem&g2_itemId=2514&g2_navId=xf2eb7494 - A museum with all sorts of interesting stuff. An exhibit on Hydrogen power, dancing robots, and a human versus robot archery contest. The robot beat Wayne, but was too scared to go up against me
+* [The Fabric Market](gallery2/main.php?g2_view=core.ShowItem&g2_itemId=2190&g2_navId=xf2eb7494) - a building packed with types of fabrics and tailors. Joka and I worked together to order a set of custom tailored matching Chinese style silk shirts
+* [Museum of Science and Technology](gallery2/main.php?g2_view=core.ShowItem&g2_itemId=2514&g2_navId=xf2eb7494) - A museum with all sorts of interesting stuff. An exhibit on Hydrogen power, dancing robots, and a human versus robot archery contest. The robot beat Wayne, but was too scared to go up against me
 * Skyscrapers - they go on as far as you can see for as far as you can travel in any direction
 
 *The Journey, part 2*

@@ -9,6 +9,6 @@ Well, I managed to blunder up another week of updates. With Wayne gone, I forgot
 
  I've got another milestone for Project Sunburn on friday, so you will probably be seeing some work done before then. Maybe, that is, I'm not promising anything. We'll just have to see if Wayne can come up with something in time for wednesday.
 
- Right, so sorry, but that's it. If you have something to say about our slackness, feel free to inform us via the "feedback form":feedback.php.
+ Right, so sorry, but that's it. If you have something to say about our slackness, feel free to inform us via the [feedback form](feedback.php).
 
  Toodles.

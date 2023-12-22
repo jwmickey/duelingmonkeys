@@ -7,7 +7,7 @@ avatar: "willow_calm"
 ---
 It's not too often nowadays I do art just for art's sake. But today, I did just that. I'm getting a little faster I think. This one only took me a couple hours from concept to completion.
 
- In case anyone is wondering what I look like in real life, I can assure you I look exactly like "this":images/gallery/art/actionwillow.jpg. Yeah, I'm cool.
+ In case anyone is wondering what I look like in real life, I can assure you I look exactly like [this](images/gallery/art/actionwillow.jpg). Yeah, I'm cool.
 
  Behind the iron curtain, the industrial strength web-machine I like to call 'Wayne' has been slaving away at some code, and it sould only be a matter of months before the galleries are finally up and running.
 

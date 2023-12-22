@@ -8,15 +8,15 @@ avatar: "wayne_calm"
 
 
  &#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42; UPDATE! &#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;
- Some people were not able to view the apples video posted below. This is probably because they didn't have the Divx® 5 codec. This is a "free download":http://www.divx.com/divx/ and is only 3.1 Mb. The compression that Divx offers allows us to host more video to more people, and cuts your download time dramatically. For example, I compressed the apples video from 47 Mb _without_ audio to 3.8 Mb _with_ audio. I think its safe to say that whenever possible, we will be using the Divx 5.0.5 codec and probably Windows® Media Player®
+ Some people were not able to view the apples video posted below. This is probably because they didn't have the Divx® 5 codec. This is a [free download](http://www.divx.com/divx/) and is only 3.1 Mb. The compression that Divx offers allows us to host more video to more people, and cuts your download time dramatically. For example, I compressed the apples video from 47 Mb _without_ audio to 3.8 Mb _with_ audio. I think its safe to say that whenever possible, we will be using the Divx 5.0.5 codec and probably Windows® Media Player®
 
- We have provided a link in the "downloads":coolstuff.php section of &quot;cool stuff&quot; for Divx. Please "email us":mailto:comments@duelingmonkeys.com if you have any problems. Thanks!
+ We have provided a link in the [downloads](coolstuff.php) section of &quot;cool stuff&quot; for Divx. Please [email us](mailto:comments@duelingmonkeys.com) if you have any problems. Thanks!
 
- I hope every Wednesday update can be as good as today's. First off, I was looking for some techincal support while creating the movie mentioned below and stumbled upon "this website":http://www.leadtek.com.tw/support/faq_list2_1.asp?pronameid=66&lineid=6 that has some midly funny instructions. It appears that this company's English is just a little better than my Taiwanese.
+ I hope every Wednesday update can be as good as today's. First off, I was looking for some techincal support while creating the movie mentioned below and stumbled upon [this website](http://www.leadtek.com.tw/support/faq_list2_1.asp?pronameid=66&lineid=6) that has some midly funny instructions. It appears that this company's English is just a little better than my Taiwanese.
 
  Now for the good stuff...
 
- A while back, Willow and I had some apples not fit to eat and decided to deal with them in an unorthodox manner. Please excuse any acts of stupidity, as I somehow was deemed the star in this "Oscar® nominee":/classic/filespace/wayne/apples.wmv. I hope you have Windows Media Player. If not, you must get it now, or get to a computer that has it.
+ A while back, Willow and I had some apples not fit to eat and decided to deal with them in an unorthodox manner. Please excuse any acts of stupidity, as I somehow was deemed the star in this [Oscar® nominee](/classic/filespace/wayne/apples.wmv). I hope you have Windows Media Player. If not, you must get it now, or get to a computer that has it.
 
  Ok maybe not now, but soon. Anyway, Willow has some new 3D models coming for Friday. I have seen them myself; I promise they will make it up instead of what happened last Friday.
 

@@ -5,12 +5,12 @@ date:   2004-12-22 19:00:00
 author: "Jody"
 avatar: "wayne_happy"
 ---
-h2. Merry Christmas Everyone!
+## Merry Christmas Everyone!
 
 Our gift to you this Christmas is that new design we've been promising for the past year. You'll notice that there are a few thrown-together-at-the-last-minute things, but its a gradual process.
 
  One thing that is pretty tacky is that the Art Gallery, Photo Gallery, and Theater all link to the same old gallery. I'll split them up later, when I rewrite the gallery. No sense in doing extra work that is going to be deleted soon anyway. Also the old style &quot;menu-on-the-left&quot; thing doesn't work since we have no menu on the left, so it will look a little odd.
 
- However, I think most will agree that the coolness of Willow's new design will overcome these petty blemishes. If you find any problems, please post them in the "New Site Design":topics.php?topicID=1103837511 thread in the "messageboard":messageboard.php. Thanks!
+ However, I think most will agree that the coolness of Willow's new design will overcome these petty blemishes. If you find any problems, please post them in the [New Site Design](topics.php?topicID=1103837511) thread in the [messageboard](messageboard.php). Thanks!
 
  P.S. I GOT A NEW JOB!

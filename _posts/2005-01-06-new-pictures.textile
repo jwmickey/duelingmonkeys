@@ -5,6 +5,6 @@ date:   2005-01-06 19:00:00
 author: "Jody"
 avatar: "wayne_happy"
 ---
-I've been taking a few more pictures lately so I've put them up in "my personal gallery":galleries.php?section=wayne&type=image for you to enjoy. There are some from the family Christmas get-togethers and some from our (me and Ashley) trip to Banner Elk this past week. Unfortunately it was in the 60's every day so there was no skiing and there was no snow anywhere except the fake stuff they were blowing on the slopes. I imagine it was mush most of the time.
+I've been taking a few more pictures lately so I've put them up in [my personal gallery](galleries.php?section=wayne&type=image) for you to enjoy. There are some from the family Christmas get-togethers and some from our (me and Ashley) trip to Banner Elk this past week. Unfortunately it was in the 60's every day so there was no skiing and there was no snow anywhere except the fake stuff they were blowing on the slopes. I imagine it was mush most of the time.
 
  I think the next step in the progress of DM is to fix the photo gallery. It's one of the most popular pages on the site (right behind ERROR 404 and messageboard.php) and it looks like crap right now. I bought a book on XML and it's been very helpful. I'm on page ~200 and just to chapter four. It's a big book! Anyway, I'm going to go work on that now, so enjoy the photos and have a great weekend!

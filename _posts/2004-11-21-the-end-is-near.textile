@@ -11,7 +11,7 @@ This weekend I made more progress on schoolwork than I have all semester. I wrot
 
  Okay I know you don't care, so I'll move on.
 
- I copied all of Dr Muffin's photos from the costume party into a "new gallery":galleries.php?section=costume%20party&type=image so that you don't have to search through the message board and open them in a new window or tab so often. I hope you appreciate my hard work.
+ I copied all of Dr Muffin's photos from the costume party into a [new gallery](galleries.php?section=costume%20party&type=image) so that you don't have to search through the message board and open them in a new window or tab so often. I hope you appreciate my hard work.
 
  Colin's Toga party was fun, eh? That DVD game is evil, and I shall not partake in it again unless inebriated. You guys had a lot of food, and it was good, but I was full for like 18 hours after that meal. Also, my toilet seat is happy. But that is because of Spongebob, not the meal :).
 

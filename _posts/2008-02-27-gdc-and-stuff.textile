@@ -9,23 +9,23 @@ Hey guys. Although my life is fairly routine these days (which lowers my motivat
 
 Last week I was in San Fransisco for the Game Developer's Conference (GDC). Overall, it was a great experience; I learned a lot and saw a bunch of cool stuff. I'll try to break the experience into a few categories to make it easier to browse/ignore.
 
-h3. The Expo
+### The Expo
 
-The reason I was sent to GDC was so I could help man our booth on the Expo floor. My company ("Emergent Game Technologies":http://www.emergent.net) had a pretty big booth this year. We also have pretty good priority for booth placement, so we were on the 'main street' of the expo right across from Intel and Nintendo. Working the booth was an interesting experience.
+The reason I was sent to GDC was so I could help man our booth on the Expo floor. My company ([Emergent Game Technologies](http://www.emergent.net)) had a pretty big booth this year. We also have pretty good priority for booth placement, so we were on the 'main street' of the expo right across from Intel and Nintendo. Working the booth was an interesting experience.
 
 Probably the biggest thing I got out of working the booth was that I saw our product from a different perspective. As an engineer, I spend all my time focusing on what our product is missing or what needs to be improved or fixed. When working the booth I had to think about all the stuff our product provides and does well. That change in perspective made me pretty proud of the stuff I work on, which was pretty energizing.
 
-Also, we had a bunch of cool demos to show at the booth. I worked on one of them, called &quot;Forbidden Terror on Station Z&quot; (the title is intentionally cheezy) which was a lot of fun. Although you could play the game on all platforms, the most popular one was the Wii because it was basically a light gun game - a rail shooter. As it turns out someone took a bunch of videos and put them on GameTrailers, you can check them out here if you are interested: "Emergent's GameTrailers Page":http://www.gametrailers.com/game/6281.html.
+Also, we had a bunch of cool demos to show at the booth. I worked on one of them, called &quot;Forbidden Terror on Station Z&quot; (the title is intentionally cheezy) which was a lot of fun. Although you could play the game on all platforms, the most popular one was the Wii because it was basically a light gun game - a rail shooter. As it turns out someone took a bunch of videos and put them on GameTrailers, you can check them out here if you are interested: [Emergent's GameTrailers Page](http://www.gametrailers.com/game/6281.html).
 
 Overall our booth was a pretty big success, I think we got more traffic than any other booth I saw on the show floor.
 
 As far as the rest of the expo, there was some interesting stuff on display. Some notable things were a instant 3d scanner (basically a 3d camera), polarized stereo monitors (dissapointing resulting quality), and a headset that reads your mind (or rather, measures how much you are concentrating).
 
-h3. Sessions and Tutorials
+### Sessions and Tutorials
 
 While I was there and not working the booth, I got to go to a few sessions and tutorials, which is what GDC is really all about. I learned a lot of interesting things. Particularly, I learned a little about Spherical Harmonics for high quality directional ambient occlusion under the restriction of static objects and infinitely distant environmental lighting. I also learned about a much more practical directional ambient occlusion technique called bent normals, which is something I really should have known about before anyway. I learned a few tricks for improving the quality and doing post-render manipulation on normal maps. Honestly, most of the people I know don't care or have the expertise to understand the stuff I learned, so I'll spare myself the time of writing in any more detail.
 
-h3. The IGF
+### The IGF
 
 So the other big cool thing about GDC was the Independent Games Festival (IGF). I saved this for last because it was my favorite part. The IGF brings together a bunch of independently created games each year, and this year, they had a ton of very well done games. Since independent games typically don't have the sort of corporate pressure to guarantee profit, they can take a lot more gameplay risks, which often results in really innovative ideas. Most of the independent games I played were really original; the sort of experience you could not possibly have with a shelf game. Sorry, but I'm not going to bother collecting a bunch of links, so if you are interested, please google these titles to find out more. The games that really stood out to me were Fez, Crayon Physics Deluxe, Hammerfall, World of Goo, AudioSurf, and Flipside. It was really exciting to see so many great games that were created on the cheap by only a few guys. It really motivates me to keep up with the work I'm doing on Beautiful Pixels and Connexus.
 

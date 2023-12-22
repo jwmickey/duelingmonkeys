@@ -11,7 +11,7 @@ I\'m still working on Karma Riot with a decent amount of regularity. A few other
 
 I\'ve mostly been messing with graphics code recently. I sunk a lot of time into setting up a shader to draw the background all of the way up to the horizon; it wasn\'t a hard problem, but I didn\'t realize there were free shader debugging tools out there. Too bad I found out about them after I figured out what I was doing wrong. Anyways, here is a new screenshot:
 
-"!\"/filespace/mike/karmariot_earlybuild5.png\"!":\"/filespace/mike/karmariot_earlybuild4.png\"
+[!("/filespace/mike/karmariot_earlybuild5.png\")](\"/filespace/mike/karmariot_earlybuild4.png\")
 _Click to see the split-screen version_
 
 

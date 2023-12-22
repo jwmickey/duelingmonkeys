@@ -9,7 +9,7 @@ I am constatly locked with myself in an eternal debate. On the one hand, I wish 
 
  Of course, in a utopian world, I could generate cool content and have something to talk about every update. But as we all know, this is as impossible as having your cake and eating it too. So, what should I do in response to this dillemma?
 
- I can't really think of a broad, continuing solution, but for now, I'm just going to say this: Everyone in Raleigh must come to the guest speakers on campus tonight! The Game Developer's Club is hosting 3 guest speakers from a local game middleware company (NDL), and we need a really good turnout. It's in the witherspoon cinema, details "here":http://www.gamedevelopersclub.org.
+ I can't really think of a broad, continuing solution, but for now, I'm just going to say this: Everyone in Raleigh must come to the guest speakers on campus tonight! The Game Developer's Club is hosting 3 guest speakers from a local game middleware company (NDL), and we need a really good turnout. It's in the witherspoon cinema, details [here](http://www.gamedevelopersclub.org).
 
  I'm exploring so many new possibilities for the game developers club recently, and I'm extremely excited about it. I wish I could tell you all, but that would bore you, and I'd rather wait until we have the events set in stone.
 

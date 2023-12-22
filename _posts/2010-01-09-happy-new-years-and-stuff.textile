@@ -5,40 +5,40 @@ date:   2010-01-09 17:41:40
 author: "Mike Daly"
 avatar: "willow_calm2"
 ---
-h3. Hawaii
+### Hawaii
 
 So I took a nice vacation in Hawaii with the family. I've been there a few times already, so this time I focused on relaxing. I did get a decent amount of reading done. You may also find the following books interesting:
 
-* "Blink":http://www.amazon.com/Blink-Power-Thinking-Without/dp/0316010669/ref=sr_1_1?ie=UTF8&s=books&qid=1263076424&sr=8-1 by Malcolm Gladwell
-* "Outliers":http://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017922/ref=ntt_at_ep_dpt_1 by Malcolm Gladwell
-* "Super Freakonomics":http://www.amazon.com/SuperFreakonomics-Cooling-Patriotic-Prostitutes-Insurance/dp/0060889578/ref=sr_1_1?ie=UTF8&s=books&qid=1263076463&sr=1-1 by Steven Levitt &amp; Stephen Dubner
+* [Blink](http://www.amazon.com/Blink-Power-Thinking-Without/dp/0316010669/ref=sr_1_1?ie=UTF8&s=books&qid=1263076424&sr=8-1) by Malcolm Gladwell
+* [Outliers](http://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017922/ref=ntt_at_ep_dpt_1) by Malcolm Gladwell
+* [Super Freakonomics](http://www.amazon.com/SuperFreakonomics-Cooling-Patriotic-Prostitutes-Insurance/dp/0060889578/ref=sr_1_1?ie=UTF8&s=books&qid=1263076463&sr=1-1) by Steven Levitt &amp; Stephen Dubner
 
-h3. New years
+### New years
 
 Jody hosted a nice new years party at his house. It was good to catch up with people, particularly Stephen and Leanna Caudle who just had a newborn baby. Everyone seems to be having babies these days, what's up with that?
 
-h3. Video games
+### Video games
 
 I've been talking to a few people about what games I enjoyed playing over the course of 2009. I'll reiterate them here in case you are looking out for something new to play.
 
-* "Shadow Complex":http://www.xbox.com/en-US/games/s/shadowcomplexxbla/
-* "Dragon Age: Origins":http://www.xbox.com/en-US/games/d/dragonageorigins/
-* "Halo 3: ODST":http://www.xbox.com/en-US/games/splash/h/halo3odst/
-* "Torchlight":http://www.torchlightgame.com/
-* "Runman Race Around the World":http://whatareyouwait.info/ (free)
-* "World of Goo":http://2dboy.com/games.php
-* "I MAED A GAM3 W1TH ZOMB1ES!!!1":http://marketplace.xbox.com/en-US/games/media/66acd000-77fe-1000-9115-d802585502a6
-* "DoomRL":http://doom.chaosforge.org/ (free)
-* "Defense Grid":http://defensegrid.hiddenpath.com/
-* "Spelunky":http://www.spelunkyworld.com/ (free)
-* "Cogs":http://www.cogsgame.com/
+* [Shadow Complex](http://www.xbox.com/en-US/games/s/shadowcomplexxbla/)
+* [Dragon Age: Origins](http://www.xbox.com/en-US/games/d/dragonageorigins/)
+* [Halo 3: ODST](http://www.xbox.com/en-US/games/splash/h/halo3odst/)
+* [Torchlight](http://www.torchlightgame.com/)
+* [Runman Race Around the World](http://whatareyouwait.info/) (free)
+* [World of Goo](http://2dboy.com/games.php)
+* [I MAED A GAM3 W1TH ZOMB1ES!!!1](http://marketplace.xbox.com/en-US/games/media/66acd000-77fe-1000-9115-d802585502a6)
+* [DoomRL](http://doom.chaosforge.org/) (free)
+* [Defense Grid](http://defensegrid.hiddenpath.com/)
+* [Spelunky](http://www.spelunkyworld.com/) (free)
+* [Cogs](http://www.cogsgame.com/)
 
 Also, I'd like to point out that I had an awesome year as far as making video games. Sure, I failed at my original goal of submitting another IGF entry, but on the other hand, these are the games I made:
 
-* "Orbital":/games/orbital.html
-* "Comic Game":/games/comic-game.html
-* "Sunny Day":/games/sunny-day.html
-* "Daly Homes Inc":/games/daly-homes-inc.html
+* [Orbital](/games/orbital.html)
+* [Comic Game](/games/comic-game.html)
+* [Sunny Day](/games/sunny-day.html)
+* [Daly Homes Inc](/games/daly-homes-inc.html)
 * Karma Riot
 
 Ok, so Karma Riot isn't done yet and it doesn't have its own page, so maybe it doesn't count. But still, that's a pretty impressive run, I think. That's not even including other Game Jam games that I contributed to such as Space Fish, Robot Love, and Tether. 2009 was a good year for me with regards to hobby game development. Hopefully in the coming year, I'll actually distribute one of the games I worked on for once.

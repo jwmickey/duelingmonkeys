@@ -7,9 +7,9 @@ avatar: "willow_calm"
 ---
 Hey everyone. I have toiled the past few days making up new icons for our beloved duelingmonkeys characters. However, I am in the mountains right now, forbidding me from doing the final touches to make them viewable as news and messageboard icons. Wayne will apparently have to do a little extra work to get the png format to show up correctly as well.
 
- In the meantime, I've placed them all in the "art gallery":http://www.duelingmonkeys.com/galleries.php?section=art&type=image. For your convenience, I'll go ahead and post direct links too:
+ In the meantime, I've placed them all in the [art gallery](http://www.duelingmonkeys.com/galleries.php?section=art&type=image). For your convenience, I'll go ahead and post direct links too:
 
- "Wastrel":javascript:showPic('images/gallery/art/wastrelicons.jpg','475','475')
- "Wayne":javascript:showPic('images/gallery/art/wayneicons.jpg','475','475')
- "Wesley":javascript:showPic('images/gallery/art/wesleyicons.jpg','475','475')
- "Yours Truly":javascript:showPic('images/gallery/art/willowicons.jpg','475','475')
+ [Wastrel](javascript:showPic('images/gallery/art/wastrelicons.jpg','475','475'))
+ [Wayne](javascript:showPic('images/gallery/art/wayneicons.jpg','475','475'))
+ [Wesley](javascript:showPic('images/gallery/art/wesleyicons.jpg','475','475'))
+ [Yours Truly](javascript:showPic('images/gallery/art/willowicons.jpg','475','475'))

@@ -5,21 +5,21 @@ date:   2004-11-14 19:00:00
 author: "Mike Daly"
 avatar: "willow_calm2"
 ---
-I'm going to bounce around between several unrelated topics for this post, so if you are afraid that many acute topic shifts might confuse you, you may want to do some "mental streching":http://www.macromedia.com/devnet/mx/flash/sample_files/html/amoebas.html before you read on.
+I'm going to bounce around between several unrelated topics for this post, so if you are afraid that many acute topic shifts might confuse you, you may want to do some [mental streching](http://www.macromedia.com/devnet/mx/flash/sample_files/html/amoebas.html) before you read on.
 
- Now that that is out of the way, I'll begin with an update on George. George, being a cat, loves looking out the window. Not any window will do, however, he must look out EVERY window, and nothing will stop him, not blinds, not a sheet tightly tacked over the entire window. If you are a "blind":images/gallery/willow/blindcat.jpg, I highly recommend getting out of his way or else "bad stuff might happen":images/gallery/willow/blindcat2.jpg.
+ Now that that is out of the way, I'll begin with an update on George. George, being a cat, loves looking out the window. Not any window will do, however, he must look out EVERY window, and nothing will stop him, not blinds, not a sheet tightly tacked over the entire window. If you are a [blind](images/gallery/willow/blindcat.jpg), I highly recommend getting out of his way or else [bad stuff might happen](images/gallery/willow/blindcat2.jpg).
 
  Once upon a time I mentioned how cool radiosity was. This time, I come bearing proof. A while back, I threw together a 3D rendering of what Wayne's TV cabinet might look like when he had only done the plans. I took that old file and threw together two versions that represent the default lighting system, and lighting using a light tracer (kind of like radiosity). Check it:
 
- "Old School":images/gallery/modeling/cabinetdefault.jpg
- "New Hotness":images/gallery/modeling/cabinetlighttrace.jpg
+ [Old School](images/gallery/modeling/cabinetdefault.jpg)
+ [New Hotness](images/gallery/modeling/cabinetlighttrace.jpg)
 
  Finally, I'd like to thank everyone who participated in crazy Halo 2 multiplayer madness night recently. Keep an eye on the messageboards cause that's going to happen again at some point (although not for a while). For those of you who have not gotten to play Halo 2 yet, I have some pictures that might give you a better idea about it:
 
- "How does Halo 2 make you feel?":images/gallery/willow/halo2party2.jpg
- "Mike E wants YOU to play Halo!":images/gallery/willow/halo2party1.jpg
- "What does Willow think when he plays Capture the Flag?":images/gallery/willow/halo2party3.jpg
+ [How does Halo 2 make you feel?](images/gallery/willow/halo2party2.jpg)
+ [Mike E wants YOU to play Halo!](images/gallery/willow/halo2party1.jpg)
+ [What does Willow think when he plays Capture the Flag?](images/gallery/willow/halo2party3.jpg)
 
- I encountered a fascinating creature last Saturday night. I will describe it via an analogy, missles are to homing missles as deer are to this creature. I was driving down the interstate late at night minding my own business until I notice the creature standing by the side of the road on the left. I hit the breaks, it starts moving to the right towards my path. I press the brakes harder and turn to the right, it speeds up moving to the right. After about another quarter of a second of screeching tires, turning to the right, and the damn creature accelerating to the right to perfectly match my attempted evasive maneuver and "BAM!":images/gallery/willow/deercar.jpg. The creature does a barrel roll in air, lands about 20 feet from the car, gets up and runs off into the woods. Normally, I think I would feel sorry for hurting an innocent forest creature, but I think in this case my actions were a sort of natural selection. I feel that it was important to stop the reproduction of this particular type of deer so that the entire species of deer doesn't eventually evolve into assassin interceptor deer.
+ I encountered a fascinating creature last Saturday night. I will describe it via an analogy, missles are to homing missles as deer are to this creature. I was driving down the interstate late at night minding my own business until I notice the creature standing by the side of the road on the left. I hit the breaks, it starts moving to the right towards my path. I press the brakes harder and turn to the right, it speeds up moving to the right. After about another quarter of a second of screeching tires, turning to the right, and the damn creature accelerating to the right to perfectly match my attempted evasive maneuver and [BAM!](images/gallery/willow/deercar.jpg). The creature does a barrel roll in air, lands about 20 feet from the car, gets up and runs off into the woods. Normally, I think I would feel sorry for hurting an innocent forest creature, but I think in this case my actions were a sort of natural selection. I feel that it was important to stop the reproduction of this particular type of deer so that the entire species of deer doesn't eventually evolve into assassin interceptor deer.
 
  That's all I got. Also, the beard kind of grew back, so there will be no more shaved Willow icon again for a while.

@@ -7,7 +7,7 @@ avatar: "willow_calm2"
 ---
 Earlier this month I spent a weekend at my friend Jewel's river house. The purpose of this event was to see her off as she has now moved to Fiji where she will work for the Peace Corps for the next 27 months.
 
-!/filespace/mike/jewelgoingawayagain.jpg!
+!(filespace/mike/jewelgoingawayagain.jpg)
 _Good luck Jewel!_
 
 
@@ -29,9 +29,9 @@ _WTF?!_
 
 
 
-h3. Games I'm playing
+### Games I'm playing
 
-I've recently found myself distracted by two great games; "Cogs":http://www.cogsgame.com/ and "Defense Grid: The Awakening":http://defensegrid.hiddenpath.com/. Defense grid should be coming to Xbox Live Arcade sometime soon. I should also mention I have an ulterior motive; it uses "Gamebryo":http://www.gamebryo.com. They both have free demos; try them out!.
+I've recently found myself distracted by two great games; [Cogs](http://www.cogsgame.com/) and [Defense Grid: The Awakening](http://defensegrid.hiddenpath.com/). Defense grid should be coming to Xbox Live Arcade sometime soon. I should also mention I have an ulterior motive; it uses [Gamebryo](http://www.gamebryo.com). They both have free demos; try them out!.
 
 !/filespace/mike/cogstitle.jpg!
 _It is really good_
@@ -53,13 +53,13 @@ My younger younger brother (brother no. 4) recently got a DS and picked up Castl
 
 Just in case you were wondering.
 
-h3. New project: Comic Game
+### New project: Comic Game
 
-I've started work on a new hobby project. I told myself I would finish "Orbital":/games/orbital.html first and maybe improve "Connexus":/games/connexus.html as well, but a few weekends ago I caved and started anyway.
+I've started work on a new hobby project. I told myself I would finish [Orbital](/games/orbital.html) first and maybe improve [Connexus](/games/connexus.html) as well, but a few weekends ago I caved and started anyway.
 
 The idea is simply an interactive comic book; kind of like one of the old choose your own adventure stories but you can do more than just branching. Here is an analogy: If an old-school text adventure is like taking a test, playing comic game is like taking a multiple-choice pop quiz where the score doesn't count towards your grade.
 
-"!/filespace/mike/CgEarlyPrincePreview.png!":/filespace/mike/CgEarlyPrinceStory.png
+[!/filespace/mike/CgEarlyPrincePreview.png!](/filespace/mike/CgEarlyPrinceStory.png)
 _click to see a sample story permutation_
 
 
@@ -67,7 +67,7 @@ _click to see a sample story permutation_
 
 Here is another path through the same story:
 
-"!/filespace/mike/CgEarlyPrincessPreview.png!":/filespace/mike/CgEarlyPrincessStory.png
+[!/filespace/mike/CgEarlyPrincessPreview.png!](/filespace/mike/CgEarlyPrincessStory.png)
 _click to see a sample story permutation_
 
 

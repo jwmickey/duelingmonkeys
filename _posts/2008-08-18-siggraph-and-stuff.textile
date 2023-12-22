@@ -13,11 +13,11 @@ In a nutshell, I learned about some of the graphics techniques used in Halo 3, C
 
 I also got to see the StarCraft 2 trailer in a movie theater with movie resolution and theater sound.
 
-h3. In other news
+### In other news
 
 In order to keep things visually interesting, I collected some screenshots of stuff I've been doing at work recently.
 
-!http://classic.duelingmonkeys.com/classic/filespace/willow/zorsis.jpg!
+!(ttp://classic.duelingmonkeys.com/classic/filespace/willow/zorsis.jpg)
 
 _This is a screenshot of a demo I did a little work on for GDC 2008. I modeled, textured, and animated the power core structure in the center of the room._
 
@@ -29,6 +29,6 @@ _This is a shader that just takes two textures (in this case, sand and gravel) t
 
 _A character and environment I created for the demo I'm currently working on. All this stuff is just proxy so it will get replaced in the end. he has a very humorous run animation._
 
-There are a few more screenshots of the same stuff in the "gallery":gallery/index.php, but I accidently put them in the gaming set instead of art, and I can't find a way to correct it. Also, Flickr sucks and gives me the 'this photo currently unavailable' BS for everything I've added. Great.
+There are a few more screenshots of the same stuff in the [gallery](gallery/index.php), but I accidently put them in the gaming set instead of art, and I can't find a way to correct it. Also, Flickr sucks and gives me the 'this photo currently unavailable' BS for everything I've added. Great.
 
 Whatever, I'm done.

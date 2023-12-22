@@ -5,7 +5,7 @@ date:   2009-03-31 22:50:58
 author: "Mike Daly"
 avatar: "willow_calm2"
 ---
-March has been incredibly busy for me. I don't think I can even remember all the interesting stuff that has happened but I'll do my best. The first and foremost thing worth mentioning is the new site design. You might have noticed? Well if you haven't noticed (hopefully because you are using TEH RSS TECHNOLOGY) then check out "Dueling Monkeys":http://www.duelingmonkeys.com. Jody has done an awesome job of adding a bunch of swanky new features. A few highlights:
+March has been incredibly busy for me. I don't think I can even remember all the interesting stuff that has happened but I'll do my best. The first and foremost thing worth mentioning is the new site design. You might have noticed? Well if you haven't noticed (hopefully because you are using TEH RSS TECHNOLOGY) then check out [Dueling Monkeys](http://www.duelingmonkeys.com). Jody has done an awesome job of adding a bunch of swanky new features. A few highlights:
 
 * Collapseable/Expandable posts!
 * Post comments!
@@ -19,13 +19,13 @@ March has been incredibly busy for me. I don't think I can even remember all the
 
 
 
-!http://www.duelingmonkeys.com/filespace/mike/newdm.jpg!
+!(ttp://www.duelingmonkeys.com/filespace/mike/newdm.jpg)
 _So cool!_
 
 
 
 
-The part I'm actually most excited about finally unveiling is the totally new "games page":/games/. Holy crap, it's a chronologically ordered list of most of the games I've worked on over the past several years. Each game even has its own page with detailed descriptions and image galleries!
+The part I'm actually most excited about finally unveiling is the totally new [games page](/games/). Holy crap, it's a chronologically ordered list of most of the games I've worked on over the past several years. Each game even has its own page with detailed descriptions and image galleries!
 
 This was basically the big update that I might have mentioned in the last post or two that we just now got around to making live. I think it's pretty sweet and I'm really happy with it. If you like the new design you can even say so by LEAVING THE FIRST NON-TEST-RELATED COMMENT EVER! If you dont' like the new design, you can still say so by posting a new comment! I'll be happy that you used the new comments for a little while, then I'll find you and beat you up.
 
@@ -33,9 +33,9 @@ I'd love to walk through the individual games on the games page, but I've alread
 
 And I do mean crap.
 
-h3. Game Developer's Conference
+### Game Developer's Conference
 
-The most recent thing I've done is attend the 2009 Game Developers Conference (GDC). This year was particularly important for my company ("Emergent":http://www.emergent.net) because it marks the launch of our new game engine - Gamebryo Lightspeed. This is the thing that I've been making the demo of for the past few months. Most of my co-workers were putting in a lot of overtime to try to get us ready for GDC and fortunately, I think the show worked out really well for us.
+The most recent thing I've done is attend the 2009 Game Developers Conference (GDC). This year was particularly important for my company ([Emergent](http://www.emergent.net)) because it marks the launch of our new game engine - Gamebryo Lightspeed. This is the thing that I've been making the demo of for the past few months. Most of my co-workers were putting in a lot of overtime to try to get us ready for GDC and fortunately, I think the show worked out really well for us.
 
 
 
@@ -48,9 +48,9 @@ _That's our booth!_
 
 As cool as it is to go to GDC, I didn't actually do much other than man the booth all day every day that I was there. I did get to do a little cool stuff here and there, but all in all it was a very tiring GDC in which I didn't learn very much. To be honest, I really wasn't looking forward to it in the days leading up to GDC because I was really exhausted from working so much overtime and I knew that it was just going to be more work. It is actually a huge relief to have GDC behind me, mainly because it definitively marks the end of this absurd crunch that I've been going through the past few weeks.
 
-In any case, I'm still really glad that I got to go. I got some interesting cultural experiences such as walking through the "Ternderloin":http://en.wikipedia.org/wiki/Tenderloin,_San_Francisco,_California of San Fransisco. I did actually meet and talk to some interesting people. I got to see all the positive reactions to our new engine. The Independent Games Festival booth and awards were awesome, as usual. I probably got to do some other interesting stuff that I've already forgotten. It's all kind of a blur already.
+In any case, I'm still really glad that I got to go. I got some interesting cultural experiences such as walking through the [Ternderloin](http://en.wikipedia.org/wiki/Tenderloin,_San_Francisco,_California) of San Fransisco. I did actually meet and talk to some interesting people. I got to see all the positive reactions to our new engine. The Independent Games Festival booth and awards were awesome, as usual. I probably got to do some other interesting stuff that I've already forgotten. It's all kind of a blur already.
 
-h3. Crunch
+### Crunch
 
 I just wanted to dedicate a short section to say that crunch sucks. Working every day of the week and having no free time really sucks. I haven't been doing any social activities; I haven't played any games; I stopped exercising; I bought new underwear to avoid doing laundry; the house was a mess; the yard was a mess; I was a mess. I noticed that my productivity on a 13 to 14 hour day had dropped below that of my typical 8 hour day. I felt like a zombie.
 
@@ -67,11 +67,11 @@ _Mangled Metal_
 
 
 
-h3. Wedding Time
+### Wedding Time
 
 One of the events that I was able to get out of work for was Brandy's wedding. Congratulations Brandy (who almost certainly does not read this webpage)! The wedding was very nice until I was forced to dance. I hate dancing. Not too much to say there, but another aspect of the wedding event was the bachelor party. We went up to DC to hang out with Jason and Eric then a little farther to Baltimore. One of the things we did there was rent shotguns and shoot skeet. I must say that shooting a shotgun at a moving target is fun times. Ironically, while I was doing it, I was thinking to myself &quot;This is just like a real life video game!&quot;. There were some other unique experiences on the trip (such as getting tackled) but I'll leave the rest to the imagination.
 
-h3. Lightning Time
+### Lightning Time
 
 A few posts back, I indicated that I had been working on some lightning. As deadlines started looming for the demo, I realized that there was the potential to be able to use the new lightning shader that I have been working on in the demo but that the window for adding it was quickly closing. I threw what I had together and dropped in the game really quickly and the result turned out not that bad. Sadly, we didn't have time to port it to all platforms, so it only showed up on PC which we rarely demoed on. I think the effect turned out to look pretty sharp though.
 
@@ -88,7 +88,7 @@ _Shocking!_
 
 As usual, I'll give the requisite &quot;it really looks better in high resolution at 60 fps&quot; complaint. Perhaps sometime later I'll divulge the SUPER SECRET TECHNIQUE I used to make it. Now that I look at it, there are a couple of things about it that bug me; it could use some more polish.
 
-h3. Sleepy Time
+### Sleepy Time
 
 Now that I've got GDC behind me, the world feels like it's full of sunshine and rainbows. Hopefully this means that I'll be able to start working on neat things in my spare time again, which means any dear readers of this webpage will have some more interesting things to hear about.
 

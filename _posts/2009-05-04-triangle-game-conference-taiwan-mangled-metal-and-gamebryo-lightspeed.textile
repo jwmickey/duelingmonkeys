@@ -5,7 +5,7 @@ date:   2009-05-04 22:23:27
 author: "Mike Daly"
 avatar: "willow_calm2"
 ---
-Last week, "Mike Lee":http://www.gamedrinkcode.com/blog/ and I gave a presentation at the "Triangle Game Conference":http://www.trianglegameconference.com/ entitled &quot;Jamming with Games&quot;. The presentation was divided into 4 sections that explained Game Jams (such as the "Triangle Game Jam":http://www.trianglegamejam.com/).
+Last week, [Mike Lee](http://www.gamedrinkcode.com/blog/) and I gave a presentation at the [Triangle Game Conference](http://www.trianglegameconference.com/) entitled &quot;Jamming with Games&quot;. The presentation was divided into 4 sections that explained Game Jams (such as the [Triangle Game Jam](http://www.trianglegamejam.com/)).
 
 We covered:
 
@@ -16,27 +16,27 @@ We covered:
 
 Overall, I think it went really well. We had decent attendance considering that we were in the last time slot of the conference and it's a subject that most game developers probably don't care much about. I'm supposed to post the slides so that anyone who attended the talk can reference them. Hopefully those people waited a few days before visiting my site (or just visited Mike's instead). Here they are:
 
-"Jamming with Games (PDF, 119 KB)":/filespace/mike/jamming-with-games.pdf
+[Jamming with Games (PDF, 119 KB)](/filespace/mike/jamming-with-games.pdf)
 
 There is a lot of additional context in the speaker notes if you want more. It got me fired up to start work on organizing the 2009 Triangle Game Jam.
 
-h3. China &amp; Taiwan
+### China &amp; Taiwan
 
-I just recently got back from China and Taiwan. It was unfortunate that I missed the first seminar, but it wasn't the end of the world (although it felt like it before I left). The main reason I went was that my company ("Emergent":http://www.emergent.net) wanted an engineer to attend 3 seminars we were holding in Beijing, Shanghai, and Taipei to give live demonstrations of our new engine: "Gamebryo LightSpeed":http://www.emergent.net/en/Products/Gamebryo-LightSpeed/What-is-LightSpeed/. For each demo I would show our sample game Mangled Metal, then show how you can rapidly change the game using the tools and engine features that come with Gamebryo LightSpeed.
+I just recently got back from China and Taiwan. It was unfortunate that I missed the first seminar, but it wasn't the end of the world (although it felt like it before I left). The main reason I went was that my company ([Emergent](http://www.emergent.net)) wanted an engineer to attend 3 seminars we were holding in Beijing, Shanghai, and Taipei to give live demonstrations of our new engine: [Gamebryo LightSpeed](http://www.emergent.net/en/Products/Gamebryo-LightSpeed/What-is-LightSpeed/). For each demo I would show our sample game Mangled Metal, then show how you can rapidly change the game using the tools and engine features that come with Gamebryo LightSpeed.
 
 Luckily, right in the middle, I had a few days free in Shanghai. I spent that time with Dave, Joka, and young Trevor. That was great; my favorite part of the trip.
 
 The last leg of the trip was in Taipei, Taiwan. At first I wasn't very impressed with Taiwan; every building everywhere you looked was run down and dirty, but the places we stayed were extremely overpriced and I was surrounded by all this elitist high fashion shopping that I'm basically allergic to. However, I got a chance to visit two customer game studios while we were there and that was really cool. Both places were really nice, seemed to have cool people working there, had interesting games, and tons and tons of toys. The seminar was pretty nice too, and since I left directly back to the airport I left with a better impression than I started with.
 
-h3. Mangled Metal
+### Mangled Metal
 
 I keep making allusions to Mangled Metal. This is the sample game that demonstrates the use of Gamebryo LightSpeed. Over the past seven months or so, helping create this sample has been my primary job responsibility. Getting to work on a sample is a double edged blade; there are a lot of fun and interesting challenges and it's a great chance to be creative. However, on the other hand, our company doesn't usually work on projects like this so our development process was pretty immature in a lot of ways. This led to a lot of unfortunate headaches, not the least of which was months of crunch to keep the project on schedule. Hopefully we will do better next time, but I'm a little hesitant to want to work on the next sample after this experience.
 
-Anyway, Mangled Metal is a third person action game set in the "War Machine":http://www.privateerpress.com/WARMACHINE/ universe. The player controls a War Jack - a steam/magic powered metal robot approximately 2~3 meters tall. The warjack walks through a valley/graveyard area pounding on bad guys until he gets to the end where, after pounding all the bad guys, the game abruptly ends.
+Anyway, Mangled Metal is a third person action game set in the [War Machine](http://www.privateerpress.com/WARMACHINE/) universe. The player controls a War Jack - a steam/magic powered metal robot approximately 2~3 meters tall. The warjack walks through a valley/graveyard area pounding on bad guys until he gets to the end where, after pounding all the bad guys, the game abruptly ends.
 
 
 
-!http://www.duelingmonkeys.com/filespace/mike/mangledmetal15_mid.jpg!
+!(ttp://www.duelingmonkeys.com/filespace/mike/mangledmetal15_mid.jpg)
 _You are probably getting bored of Mangled Metal screenshots by now_
 
 
@@ -54,7 +54,7 @@ _This is some of my proxy art we ended up shipping_
 
 
 
-h3. Gamebryo LightSpeed
+### Gamebryo LightSpeed
 
 Gamebryo LightSpeed finally went gold a few days ago. We are now internally working on preparing the final build for distribution to our (rather large number of) evaluators and customers. This marks a huge milestone for our company and yet another accomplishment that I'm glad to have behind me. It seems like there have been a lot of things that I couldn't wait to be over with recently.
 

@@ -14,6 +14,6 @@ I have several announcements to make. But first, let me explain that I'm tired. 
  Number 2)
  Willow and I have decided that in order for you guys to finally see any progress in this &quot;major overhaul&quot; I keep telling you about, we're going to have to split it up into two phases. Phase One will include the administration part. I've already done most of that part. I just have to decide if I want to change the way the message board works. The first phase will also include a pretty new frontend for you guys to see (get to work Willow). Phase Two will be less noticible. Things might run a little faster, but for the most part you won't see any changes. I'll change the code to be less messy than my two-year-ago-skills allowed me to be, and I might even throw in some RSS feeds. A third phase, if applicable, would be the new photo gallery. But I'm hoping it will be done before the second phase starts.
  Number 3)
- We haven't watched any Strongbad email in quite some time, and noticed the other day that there were about six or seven new ones. I bet at least one of you haven't looked in a long time, so for old times sake, check out "Homestar Runner":http://www.homestarrunner.com.
+ We haven't watched any Strongbad email in quite some time, and noticed the other day that there were about six or seven new ones. I bet at least one of you haven't looked in a long time, so for old times sake, check out [Homestar Runner](http://www.homestarrunner.com).
 
  Ok, so there *was* a funny link. SO SORRY!

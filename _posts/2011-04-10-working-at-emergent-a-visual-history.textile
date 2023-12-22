@@ -5,36 +5,36 @@ date:   2011-04-10 00:00:00
 author: "Mike Daly"
 avatar: "willow_calm2"
 ---
-Since August 31 2005 I've been keeping daily logs of the stuff I do at work. This was exactly one year after I started work at NDL, which would later merge with Emergent. Pretty much any day between then and now I can look up what I got done that day and what I was planning on doing next. About halfway through 2007 I started tracking time breakdowns too. Now that my time at "Emergent Game Technologies":http://www.joystiq.com/2010/11/13/emergent-to-sell-gamebryo-and-the-rest-of-its-assets/ has ended, I figured it would be fun to see if I can mine some fun facts out of the files. Enjoy this visual tour of my career at Emergent!
+Since August 31 2005 I've been keeping daily logs of the stuff I do at work. This was exactly one year after I started work at NDL, which would later merge with Emergent. Pretty much any day between then and now I can look up what I got done that day and what I was planning on doing next. About halfway through 2007 I started tracking time breakdowns too. Now that my time at [Emergent Game Technologies](http://www.joystiq.com/2010/11/13/emergent-to-sell-gamebryo-and-the-rest-of-its-assets/) has ended, I figured it would be fun to see if I can mine some fun facts out of the files. Enjoy this visual tour of my career at Emergent!
 
-h3. Word clouds
+### Word clouds
 
-There's a neat toy on the internet called "Wordle":http://www.wordle.net/ that will create word clouds for you. I wrote a quick c# program that composites and filters all of my log files for a particular time range into a format that Wordle supports and generated a few clouds. They do a decent job of approximately representing the sorts of things I was concerned with.
+There's a neat toy on the internet called [Wordle](http://www.wordle.net/) that will create word clouds for you. I wrote a quick c# program that composites and filters all of my log files for a particular time range into a format that Wordle supports and generated a few clouds. They do a decent job of approximately representing the sorts of things I was concerned with.
 
-"!/filespace/mike/wordcloud_egt_500.png!":/filespace/mike/wordcloud_egt.png
+[!(filespace/mike/wordcloud_egt_500.png)](/filespace/mike/wordcloud_egt.png)
 _The cloud for my entire career at Emergent. Click to see bigger version_
 
-"!/filespace/mike/wordcloud_2005_500.png!":/filespace/mike/wordcloud_2005.png
+[!/filespace/mike/wordcloud_2005_500.png!](/filespace/mike/wordcloud_2005.png)
 _The 2005 cloud - I did a lot more support before we hired full time support people. Also, words like axis, grid, gizmo, euler, bezier, orthographic, camera remind me that this was the time I was doing viewport and interaction controls for our first level editor called Scene Designer_
 
-"!/filespace/mike/wordcloud_2006_500.png!":/filespace/mike/wordcloud_2006.png
-_2006 - This year a few things showed up - PS3, Jonathan, Katie, PhysX, I started working on the Maya plug-in (shudder), and I still did a ton of support (especially for "Breakaway Games":http://www.breakawaygames.com/ and "King's Isle Entertainment":http://www.kingsisle.com/)_
+[!/filespace/mike/wordcloud_2006_500.png!](/filespace/mike/wordcloud_2006.png)
+_2006 - This year a few things showed up - PS3, Jonathan, Katie, PhysX, I started working on the Maya plug-in (shudder), and I still did a ton of support (especially for [Breakaway Games](http://www.breakawaygames.com/) and [King's Isle Entertainment](http://www.kingsisle.com/)_)
 
-"!/filespace/mike/wordcloud_2007_500.png!":/filespace/mike/wordcloud_2007.png
+[!/filespace/mike/wordcloud_2007_500.png!](/filespace/mike/wordcloud_2007.png)
 _2007 - not actually much interesting stuff here. I guess I started testing more. Still lots of support and Maya work_
 
-"!/filespace/mike/wordcloud_2008_500.png!":/filespace/mike/wordcloud_2008.png
+[!/filespace/mike/wordcloud_2008_500.png!](/filespace/mike/wordcloud_2008.png)
 _2008 - now that I was tracking time all year, a few words showed up in every day's log, which kind of bias them. Looks like Rob, Brian, Gabe, and Nate showed up this year, started talking about demos and game jams. &quot;MM&quot; shows up - short for Mangled Metal (our GDC 2009 demo that debuted with Gamebryo LightSpeed_
 
-"!/filespace/mike/wordcloud_2009_500.png!":/filespace/mike/wordcloud_2009.png
+[!/filespace/mike/wordcloud_2009_500.png!](/filespace/mike/wordcloud_2009.png)
 _2009 - even though MM was finished in March, it still had a huge presence in my logs. Implemented whiteboxing and was consultant for an ill-fated full screen effects project. Hooray for relatively little Maya_
 
-"!/filespace/mike/wordcloud_2010_500.png!":/filespace/mike/wordcloud_2010.png
+[!/filespace/mike/wordcloud_2010_500.png!](/filespace/mike/wordcloud_2010.png)
 _2010 - started work on Glide, lots of talk going on about prototyping, had to start dealing with Kickstart and Daydreamer_
 
-h3. Career calendar images
+### Career calendar images
 
-I made another quick c# app that generates a chart where every day that I worked is represented by a cell. I used this to make charts out of a bunch of different parameters that I wanted to learn about. I think you can actually draw some pretty interesting conclusions from these charts, mainly by looking at a significant disruptive event in my career - the 2009 GDC demo Mangled Metal. Looking back at my news posts here around that time, I can tell I was pretty miserable and the charts kind of hint at that too. For context, here are some related DM posts: "The New Dueling Monkeys! GDC! Shotguns! Lightning! Complaining!":/2009/03/31/the-new-dueling-monkeys-gdc-shotguns-lightning-complaining.html, and "Triangle Game Conference, Taiwan, Mangled Metal, and Gamebryo LightSpeed":/2009/05/04/triangle-game-conference-taiwan-mangled-metal-and-gamebryo-lightspeed.html.
+I made another quick c# app that generates a chart where every day that I worked is represented by a cell. I used this to make charts out of a bunch of different parameters that I wanted to learn about. I think you can actually draw some pretty interesting conclusions from these charts, mainly by looking at a significant disruptive event in my career - the 2009 GDC demo Mangled Metal. Looking back at my news posts here around that time, I can tell I was pretty miserable and the charts kind of hint at that too. For context, here are some related DM posts: [The New Dueling Monkeys! GDC! Shotguns! Lightning! Complaining!](/2009/03/31/the-new-dueling-monkeys-gdc-shotguns-lightning-complaining.html), and [Triangle Game Conference, Taiwan, Mangled Metal, and Gamebryo LightSpeed](/2009/05/04/triangle-game-conference-taiwan-mangled-metal-and-gamebryo-lightspeed.html).
 
 Here's a quick explanation of what you are going to be looking at: each cell is one day, each column of cells is a month, and each year is divided by a thick line. Empty spaces mean that I did not have a log file for that day (weekends, vacations, business travel, etc). A grey space means that I have a log, but it didn't meet the cirteria for that chart. A white cell means that the log for that day did meet the condition for the chart. The short year at the beginning is 2005, the short year at the end is 2010.
 

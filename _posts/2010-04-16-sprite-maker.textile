@@ -7,14 +7,14 @@ avatar: "willow_calm2"
 ---
 Sprite Maker
 
-One of my stylistic goals of "Karma Riot":/games/karma-riot-v1.html is to have all the things in the game look like hand-made sprites. I would also like to have things viewable from many angles and have smooth animation. Since there are so many pixels that need to be produced to accomplish this latter goal, manually making each frame for each sprite is pretty much out the window. Instead I've decided to create 3d models and animations then try processing them so that they look like old hand-made sprites.
+One of my stylistic goals of [Karma Riot](/games/karma-riot-v1.html) is to have all the things in the game look like hand-made sprites. I would also like to have things viewable from many angles and have smooth animation. Since there are so many pixels that need to be produced to accomplish this latter goal, manually making each frame for each sprite is pretty much out the window. Instead I've decided to create 3d models and animations then try processing them so that they look like old hand-made sprites.
 
 Behold; the sprite maker:
 
-!/filespace/mike/spritemaker1.png!
+!(filespace/mike/spritemaker1.png)
 _The UI for Sprite Maker_
 
-Sprite Maker is a utility that runs inside of "3ds Max":http://en.wikipedia.org/wiki/3ds_max. I wrote it in Max's built-in scripting language, MaxScript. I'm not going to go on about every little feature it has; just look at the options and use your imagination. The main point of the tool is that once I've created and animated a 3d scene:
+Sprite Maker is a utility that runs inside of [3ds Max](http://en.wikipedia.org/wiki/3ds_max). I wrote it in Max's built-in scripting language, MaxScript. I'm not going to go on about every little feature it has; just look at the options and use your imagination. The main point of the tool is that once I've created and animated a 3d scene:
 
 !/filespace/mike/spritemaker2.png!
 _source scene in Max_

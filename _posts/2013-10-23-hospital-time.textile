@@ -5,13 +5,13 @@ date:   2013-10-23 00:00:00
 author: "Mike Daly"
 avatar: "willow_calm2"
 ---
-So you may know that I've had problems dating back to 2005 with bouts of "pancreatits":http://en.wikipedia.org/wiki/Pancreatitis. In 2009, we discovered a small cyst in my pancreas that the doctors believed to be an "IPMN":http://en.wikipedia.org/wiki/Ipmn.
+So you may know that I've had problems dating back to 2005 with bouts of [pancreatits](http://en.wikipedia.org/wiki/Pancreatitis). In 2009, we discovered a small cyst in my pancreas that the doctors believed to be an [IPMN](http://en.wikipedia.org/wiki/Ipmn).
 
-Unfortunately, not enough is understood about the workings of the pancreas to know why I started getting pancreatitis, why it was recurring, or why I had an IPMN. What we do have are statistics correlating conditions with outcomes that can be used to inform how to respond. The suggested response in this case was to remove the larger part of my pancreas and re-attach the remainder in a major surgical operation called a "Whipple procedure":http://en.wikipedia.org/wiki/Whipple_procedure. The primary motivation behind taking this drastic step is to prevent the IPMN from getting a chance to become malignant, resulting in a very deadly "pancreatic cancer":http://en.wikipedia.org/wiki/Pancreatic_cancer.
+Unfortunately, not enough is understood about the workings of the pancreas to know why I started getting pancreatitis, why it was recurring, or why I had an IPMN. What we do have are statistics correlating conditions with outcomes that can be used to inform how to respond. The suggested response in this case was to remove the larger part of my pancreas and re-attach the remainder in a major surgical operation called a [Whipple procedure](http://en.wikipedia.org/wiki/Whipple_procedure). The primary motivation behind taking this drastic step is to prevent the IPMN from getting a chance to become malignant, resulting in a very deadly [pancreatic cancer](http://en.wikipedia.org/wiki/Pancreatic_cancer).
 
 I was in the hospital from 10/14/13 through 10/21/13 for the operation and the recovery that followed. Expected hospitalization time for this was 7-10 days so I count myself lucky for escaping on the low end of the estimate. Here are some of the fun things I got to experience while I was there; apologies in advance for the very wordy post.
 
-h3. Operating table positioning
+### Operating table positioning
 
 I don't rememer anything from the procedure, but after I woke up, there were 3 apparent sources of pain; one from my wound , both elbows, and the back of my head.
 
@@ -19,31 +19,31 @@ My arms were really sore the first time I bent them, which the nurses explained 
 
 I initially dismissed the stinging in the back of my head as the roots of my hair hurting because their direction got changed while my head was resting on the table. I should have probably realized that I was on some pretty significant painkillers at this point so something trivial like that probably wouldn't come through. It was only until a day or two later that I scratched my head and picked out a huge scab when I realized that I actually had a cut on the top of my head. Even now, 9 days after surgery, I can feel a scabbed bump. Did I get dropped on my head or something?
 
-h3. Tubes
+### Tubes
 
 Coming out of the operation, I had a total of 7 tubes coming out of me:
 
-* "NG tube":http://en.wikipedia.org/wiki/Nasogastric_intubation going in my nose
-* 2x "IV tubes":http://en.wikipedia.org/wiki/IV_tube
+* [NG tube](http://en.wikipedia.org/wiki/Nasogastric_intubation) going in my nose
+* 2x [IV tubes](http://en.wikipedia.org/wiki/IV_tube)
 * 2x drainage tubes going into my guts near the surgery site (internally, they lead to the pancreas)
-* "Epidural":http://en.wikipedia.org/wiki/Epidural catheter in the middle of my back
-* "Foley":http://en.wikipedia.org/wiki/Foley_catheter catheter (warning, description link contains pictures of penis)
+* [Epidural](http://en.wikipedia.org/wiki/Epidural) catheter in the middle of my back
+* [Foley](http://en.wikipedia.org/wiki/Foley_catheter) catheter (warning, description link contains pictures of penis)
 
 The NG tube was vacuuming out any remaining stomach contents to prevent nausea. This is necessary because my entire digestive system was &quot;asleep&quot; at this point so nothing in my stomach would move through in the proper way, causing the body to react by vomitting it. Any time my throat made a swallowing motion, I felt things rub against the tube in the back of my throat, which causes a natural reaction to want to swallow again creating a cycle of discomfort. Fortunately, this thing came out after only a day of recovery. As a disgusting side-note, all of the stuff coming out of it looked like pesto.
 
-I also had a set of 5 "EKG":http://en.wikipedia.org/wiki/Electrocardiography leads attached to my chest that came out from a pocket in the front of my robe.
+I also had a set of 5 [EKG](http://en.wikipedia.org/wiki/Electrocardiography) leads attached to my chest that came out from a pocket in the front of my robe.
 
 While I was laying in bed, I also had a set of pumps strapped to my calves to help keep blood circulation high
 
 This made simple movement difficult. Getting in and out of bed was a multi-stage ordeal that took a few minutes. Since getting up and walking around is supposed to be one of the best things you can do for your recovery, it meant going through this process many times throughout the day, which ended up making time pass kind of quickly.
 
-h3. Coughing
+### Coughing
 
 From very early on, the doctors told me that I'd need to practice coughing. This is a lot easier said than done considering there is a considerable wound in my abdomen. Coughing hurts quite a bit.
 
 One of the first few nights my nasal system starts producing a ton of phlegm. Since I lay back to sleep at an incline, all of this runs down and eventually forces an involuntary cough to prevent it from obstructing my airway. This regular super-painful involuntary coughing basically kept me up all night. At first, there was just a lot of coughing but eventually I got experimental with this vacuum tube they gave me and learned how I could suck most of the mucus out before it was a real problem. Unfortunately, my sinuses kept producing the stuff so it still kept me up all night sucking it out every minute or two with the occasional cough.
 
-h3. Itching
+### Itching
 
 I reported intense itching on my body ranging from above my knees to below my neck (including my arms). The itch was costantly popping up in new places, so trying to rub or scratch it was futile. To handle this, doctors added a medicine (that I forget the name of) to my IV. I couldn't really tell the difference, so after a while, they doubled the dosage.
 
@@ -53,13 +53,13 @@ On the third time I called the dispatcher, I made it clear that the nurse was no
 
 Later, when the nurse said that in order to combat the itching, they were thinking of increasing the medication dosage again, I told her about how I still couldn't tell the difference from the increased dosage of the anti-itching and that I didn't think it was going to work. When I asked if there were any alternate itch-supressing medications available, she said yes, we tried one, and it worked. Yay! A few hours later, the shift changed and the new nurse says she's working on getting the dosage increased for the original medication so I got to go through the whole process again. It still took a while for them to stop administering the original medication from my IV.
 
-h3. IV site
+### IV site
 
 One night, a doctor was administering Valium to help manage pain and help me sleep. My left hand IV was used for the steady stuff, and the right was typically for injections. I mentioned that as the Valium was being administered, there was a stinging sensation that originated from the IV site and traveled down my arm. It faded after a few minutes. At the time we wrote that off as a side effect of the medication, but the next morning when the nurse was flushing the IV with some saline the same stinging sensation occurred. In the light, I could see with only that small amount of saline my skin was swelling up; the IV needle had lost the vein.
 
 We had to take the IV out and put in a new one; now I had two in my left arm. It may be worth noting that I super hate needles, so this was very disappointing.
 
-h3. Foley catheter
+### Foley catheter
 
 After a few days the doctor says that they were going to take out my foley catheter. This was good because the thing was quite cumbersome and occasionally caused spikes of discomfort when I move around.
 
@@ -77,13 +77,13 @@ Getting a foley catheter put in without anasthesia was by far the worst experien
 
 Why did they think it was a good idea to take the thing out in the first place if they knew this was likely to happen!? This was the worst!
 
-h3. Nausea
+### Nausea
 
 One of the goals within a few days of the surgery was to get my digestive system rebooted. To this end, they put me on a liquid diet. I ate 2 meals consisting of jello, juice, and a popsicle. I wasn't feeling nauseous after this, but there wasn't much indication of activity in my guts either. After sleeping that night, the doctors came in early the next morning to discuss how I was doing (doctors seemed to usually visit between 6 and 7 AM). They asked if I felt nauseous and I told them I didn't. About 30 seconds later, I felt a spike in nausea, requested a bucket, and threw up in front of all of the doctors. Another few minutes later, it happens again.
 
 For the same reason that coughing hurts a lot, throwing up hurts a lot worse. Turns out there are a lot of ways the abdomen can involuntarily react to things.
 
-h3. Leads
+### Leads
 
 A few times when getting back into bed after a walk, I forgot to plug the EKG leads back in to the monitor beside my bed and the nurse would stop by and ask me to plug it in; all of the vital monitors were connected to the dispatcher so they knew when I was disconnected.
 
@@ -91,7 +91,7 @@ On one of the later days of my stay, someone comes in to perform an EKG using a 
 
 When we finally look the leads off there was some pretty serious skin irritation under the adhesive patches. I'm not sure if this was from some sort of alergic reaction, or just from being stuck to unclean skin for so long. Either way, it was pretty gross. Lots of whiteheads.
 
-h3. interruptions
+### interruptions
 
 There's a lot of reasons you can't get a good night's sleep in the hospital. A set of reasons are the regularly scheduled interruptions that you need to wake up for. Here are the ones I can remember:
 
@@ -103,11 +103,11 @@ There's a lot of reasons you can't get a good night's sleep in the hospital. A s
 
 Also, once the epidural and second foley catheter were finally out, I was still getting administered fluids regularly via IV, which meant I had to get up every few hours to go pee.
 
-h3. Cleanliness
+### Cleanliness
 
 Looking back on my time there, one of the things that surprises me most is how little the doctors and nurses had to say on the subject of keeping clean. Pretty much everything we did to keep me clean was self-initiated. Considering how oily and sweaty my skin got sometimes, it seems like the staff would have recommended how and how often to wash myself.
 
-h3. Special Thanks
+### Special Thanks
 
 I got a lot of help throughout this process. My parents as well as Amanda's parents were both there the day of and the days following the operation. They were a huge help when it came to taking care of things, making me comfortable, giving Amanda relief to get out of the hospital from time to time, and most of all seeing some familiar loving faces to make me feel better.
 

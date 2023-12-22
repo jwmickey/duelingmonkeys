@@ -7,7 +7,7 @@ avatar: "willow_calm"
 ---
 For some reason, our new server is not allowing is to connect through ftp, so I do not even have the choice of adding real content to this site. I'm not going to say whether or not I had content to add; I'll just leave that up to the imagination.
 
- Anyway, I've got a final exam next Thursday, and another the following Tuesday. In the meantime I have to complete an honors thesis, a senior project, and start looking for a job. It would be nice if I could update my "Portfolio webpage":http://mike.duelingmonkeys.com with my two new games, but as it's on the same server as this, I don't really have a choice, do I?
+ Anyway, I've got a final exam next Thursday, and another the following Tuesday. In the meantime I have to complete an honors thesis, a senior project, and start looking for a job. It would be nice if I could update my [Portfolio webpage](http://mike.duelingmonkeys.com) with my two new games, but as it's on the same server as this, I don't really have a choice, do I?
 
  It feels like it's been a long time since I've written stuff here. It hasn't been that long really, but it feels like it because a lot has happened in the past few weeks. I am keeping myself sufficiently busy to warrant sparse updates. I hosted the big joint Game Developers Club and International Game Developers Association meeting a week and a half ago. It went really well, and to celebrate I stayed awake for 65 hours without so much as a short nap. It was quite an adventure; I walked about 5 miles at 5 AM so I could watch the sun come up from the top of the tallest building in our part of Raleigh - the campus library. Saw a fox.
 
@@ -15,4 +15,4 @@ For some reason, our new server is not allowing is to connect through ftp, so I 
 
  I lined up a special guest post-er for this update: my old friend Jewel. However, Jewel is now too busy saving the Princess Toadstool so she's not able to talk. Guess all the stuff I've said so far will have to be enough.
 
- In conclusion, "fanboys make me puke":http://ffwa.org/ff8/jap-review.html.
+ In conclusion, [fanboys make me puke](http://ffwa.org/ff8/jap-review.html).

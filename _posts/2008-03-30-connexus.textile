@@ -7,24 +7,24 @@ avatar: "willow_calm2"
 ---
 There are a few things that I would like to write up before I forget about them:
 
-h3. Halo 3 Party
+### Halo 3 Party
 
-I had another Halo 3 party recently. It was great fun. All the interesting stories in the party were in game though, so I'll let "the pictures":http://www.flickr.com/photos/9258680@N05/sets/72157604175970377/ do the talking.
+I had another Halo 3 party recently. It was great fun. All the interesting stories in the party were in game though, so I'll let [the pictures](http://www.flickr.com/photos/9258680@N05/sets/72157604175970377/) do the talking.
 
-h3. Beautiful Pixels
+### Beautiful Pixels
 
 So Beautiful Pixels was something that I mentioned briefly here about 6 months ago. The concept behind Beautiful Pixels was an idea from my friend Vincent Scheib.
 
-Vince has recycled the phrase 'Beautiful Pixels' as the title for "his recently created blog":http://beautifulpixels.blogspot.com/. If you are the type of guy who is interested in reading blogs, particularly one about game development, then you may want to check it out. Vince is a smart guy and has some interesting things to say. Too bad I don't pay attention to blogs.
+Vince has recycled the phrase 'Beautiful Pixels' as the title for [his recently created blog](http://beautifulpixels.blogspot.com/). If you are the type of guy who is interested in reading blogs, particularly one about game development, then you may want to check it out. Vince is a smart guy and has some interesting things to say. Too bad I don't pay attention to blogs.
 
-I guess as long as I'm pointing out people's blogs, I should also remind everyone that my brother Dave has "a weblog":http://judorex.spaces.live.com/ of his adventures all over the world (that are mainly just in Shanghai). Some things of note: 1) you will learn about the US immigration process, 2) Dave hates the word 'blog' for some reason.
+I guess as long as I'm pointing out people's blogs, I should also remind everyone that my brother Dave has [a weblog](http://judorex.spaces.live.com/) of his adventures all over the world (that are mainly just in Shanghai). Some things of note: 1) you will learn about the US immigration process, 2) Dave hates the word 'blog' for some reason.
 
-h3. Connexus
+### Connexus
 
 So Connexus is something else that I've mentioned here, but now realize that I didn't actually explain it.
 
 Connexus is a game concept that came out of the aforementioned Beautiful Pixels project I was working on towards the end of last year. Connexus is a simple multiplayer strategy board game. People who have played it have compared it to GO because it is a game with simple rules, but each move must strike a careful balance between securing points and blocking your opponent from getting points.
 
-In any case, the prototype of Connexus turned out pretty promising so I'm spending my free time these days trying to turn it into something presentable as well as playable. This is probably going to suck up my free time for a very long time. I don't have any screenshots of the standalone version yet, but I have a few from the Beautiful Pixels prototype up in "the gallery":http://www.flickr.com/photos/9258680@N05/sets/72157603328894568/.
+In any case, the prototype of Connexus turned out pretty promising so I'm spending my free time these days trying to turn it into something presentable as well as playable. This is probably going to suck up my free time for a very long time. I don't have any screenshots of the standalone version yet, but I have a few from the Beautiful Pixels prototype up in [the gallery](http://www.flickr.com/photos/9258680@N05/sets/72157603328894568/).
 
 Later

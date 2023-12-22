@@ -7,16 +7,16 @@ avatar: "willow_calm2"
 ---
 I've been exceptionally sparse with updates lately, sorry about that. Good thing Jody picked up the slack. There has been some really exciting stuff in motion that I wasn't quite ready to announce until recently.
 
-The big news: I'm moving back to North Carolina! In fact, as I type this, movers are packing up all my stuff. A few months ago, I "got engaged":/2011/11/29/biggest-news-is-best-news.html to Amanda Knutson. The reason for the move was so that we could finally end the long-distance phase of our relationship and live in the same state again. I'm super excited about moving; it's going to be awesome to see each other more often than every other weekend. I won't miss all the flying either.
+The big news: I'm moving back to North Carolina! In fact, as I type this, movers are packing up all my stuff. A few months ago, I [got engaged](/2011/11/29/biggest-news-is-best-news.html) to Amanda Knutson. The reason for the move was so that we could finally end the long-distance phase of our relationship and live in the same state again. I'm super excited about moving; it's going to be awesome to see each other more often than every other weekend. I won't miss all the flying either.
 
-It will be sad to leave "Robot Entertainment":http://www.robotentertainment.com but I'm also excited to be starting work at "Insomniac Games":http://www.insomniacgames.com of "Ratchet and Clank":http://www.ratchetandclank.com/en_US/index.htm fame. They've been making awesome games for a long time now and everyone I met there seemed cool.
+It will be sad to leave [Robot Entertainment](http://www.robotentertainment.com) but I'm also excited to be starting work at [Insomniac Games](http://www.insomniacgames.com) of [Ratchet and Clank](http://www.ratchetandclank.com/en_US/index.htm) fame. They've been making awesome games for a long time now and everyone I met there seemed cool.
 
-!/filespace/mike/insomniaclogo_580.jpg!
+!(filespace/mike/insomniaclogo_580.jpg)
 _Despite what you might have heard, employees do actually sleep from time to time._
 
-Amanda and I recently took a trip out to the North Carolina mountains to visit my parents. That was a great trip, we got to go rafting and hiking and I made Amanda see "Alien":http://www.imdb.com/title/tt0078748/ for the first time. Side note: the idea behind watching Alien was to prep for Promethius, but sounds like the movie isn't nearly as good as the trailers would lead you to believe; oh well. Rafting was tons of fun, we rented a raft and went down the "Nantahala river":http://en.wikipedia.org/wiki/Nantahala_River without a guide, which was exciting. We got caught up on rocks like 3 times (sometimes it took some serious effort to get unstuck) and we still finished like 30 minutes earlier than anyone else on our excursion.
+Amanda and I recently took a trip out to the North Carolina mountains to visit my parents. That was a great trip, we got to go rafting and hiking and I made Amanda see [Alien](http://www.imdb.com/title/tt0078748/) for the first time. Side note: the idea behind watching Alien was to prep for Promethius, but sounds like the movie isn't nearly as good as the trailers would lead you to believe; oh well. Rafting was tons of fun, we rented a raft and went down the [Nantahala river](http://en.wikipedia.org/wiki/Nantahala_River) without a guide, which was exciting. We got caught up on rocks like 3 times (sometimes it took some serious effort to get unstuck) and we still finished like 30 minutes earlier than anyone else on our excursion.
 
 !/filespace/mike/rafting_600.jpg!
 _It got a little more intense than this, but honestly not by much_
 
-If you are a player of "Hero Academy":http://www.robotentertainment.com/games/heroacademy (and you should be!), I'm happy to say that the next version coming out very soon now will be the first that has the stuff I've worked on in it. Not only did I get to add some completely new systems, I even got to contribute a little to the design, which was fun.
+If you are a player of [Hero Academy](http://www.robotentertainment.com/games/heroacademy) (and you should be!), I'm happy to say that the next version coming out very soon now will be the first that has the stuff I've worked on in it. Not only did I get to add some completely new systems, I even got to contribute a little to the design, which was fun.

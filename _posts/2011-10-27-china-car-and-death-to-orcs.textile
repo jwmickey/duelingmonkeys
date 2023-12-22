@@ -7,7 +7,7 @@ avatar: "willow_calm2"
 ---
 Hey all, a lot has happened over the past 2 months.
 
-h3. China 2011
+### China 2011
 
 Amanda and I finally got around to going to China together in September! It was a really awesome vacation consisting of things like:
 
@@ -18,14 +18,14 @@ Amanda and I finally got around to going to China together in September! It was 
 * Pixar museum
 * Tasty breakfast buns and Happy Lemon bubble tea
 
-!/filespace/mike/visitchina2011_600.jpg!
+!(filespace/mike/visitchina2011_600.jpg)
 _Young Trevor is quite a handful these days_
 
-I even added a few of the pictures to the "China Gallery":/gallery/china.
+I even added a few of the pictures to the [China Gallery](/gallery/china).
 
-h3. Orcs Must Die!
+### Orcs Must Die!
 
-So the game I spent much of this year working on FINALLY came out. I'm really proud of "Orcs Must Die!":http://www.robotentertainment.com/games/orcsmustdie. It's a really fun game, and I'm not even the only one that thinks so, it's getting great reviews as well. EVERYONE SHOULD BUY 10 COPIES!
+So the game I spent much of this year working on FINALLY came out. I'm really proud of [Orcs Must Die!](http://www.robotentertainment.com/games/orcsmustdie). It's a really fun game, and I'm not even the only one that thinks so, it's getting great reviews as well. EVERYONE SHOULD BUY 10 COPIES!
 
 Lucky for me, Amanda was visiting Texas the weekend of the release party, which resulted in this awesome pictue:
 
@@ -36,7 +36,7 @@ One thing that was not so awesome about that weekend was that I got all 4 wisdom
 
 As for what I'm working on, I've been having tons of fun doing preproduction for future projects, although what they are must remain a mystery for now
 
-h3. New car
+### New car
 
 After Amanda left the weekend of the OMD release party, I managed to get in a pretty serious car accident that totalled my old 98 Honda Accord. It seems that neither myself nor the guy that hit me have any permanent damage which is really fortunate considering the state of our cars.
 

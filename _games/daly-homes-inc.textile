@@ -39,12 +39,12 @@ I had a very tight schedule to get the game done. I ended up working on it a tot
 * I think the rest of the stuff can be figured out without too much trouble using the info dialog that is always visible
 * The game uses keyboard or 360 controller; it doesn't support mouse
 
-h3. Requirements:
+### Requirements:
 
 * Shader Model 2.0+ capable graphics hardware
-* "Microsoft XNA Framework Redistributable 3.0":http://www.microsoft.com/downloads/details.aspx?FamilyID=6521d889-5414-49b8-ab32-e3fff05a4c50&displaylang=en
-* ".NET Framework Version 2.0 Redistributable Package (x86)":http://www.microsoft.com/downloads/details.aspx?FamilyID=0856eacb-4362-4b0d-8edd-aab15c5e04f5
-* "DirectX 9.0c Redistributable":http://go.microsoft.com/fwlink/?LinkID=56513&clcid=0x409
+* [Microsoft XNA Framework Redistributable 3.0](http://www.microsoft.com/downloads/details.aspx?FamilyID=6521d889-5414-49b8-ab32-e3fff05a4c50&displaylang=en)
+* [.NET Framework Version 2.0 Redistributable Package (x86)](http://www.microsoft.com/downloads/details.aspx?FamilyID=0856eacb-4362-4b0d-8edd-aab15c5e04f5)
+* [DirectX 9.0c Redistributable](http://go.microsoft.com/fwlink/?LinkID=56513&clcid=0x409)
 
 
 

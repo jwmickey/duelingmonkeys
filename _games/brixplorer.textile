@@ -17,7 +17,7 @@ images:
   - "/images/games/brixplorer/brixplorer7.png"
 summary: "A roguelike where you manipulate the dungeon itself rather than fight"
 ---
-Brixplorer was made for the 4th annual "Triangle Game Jam":http://www.trianglegamejam.com. The theme of the jam was &quot;placing blocks&quot; and I decided to try making a roguelike where the random dungeons were filled with monsters and traps, but the main character could not fight. Instead, the player can actually pick up dungeon tiles in their inventory then place them elsewhere.
+Brixplorer was made for the 4th annual [Triangle Game Jam](http://www.trianglegamejam.com). The theme of the jam was &quot;placing blocks&quot; and I decided to try making a roguelike where the random dungeons were filled with monsters and traps, but the main character could not fight. Instead, the player can actually pick up dungeon tiles in their inventory then place them elsewhere.
 
 We got some generic roguelike tiles and sprites from the net, but unfortunately could not determine who the original creator was so it's hard to give credit.
 
@@ -35,12 +35,12 @@ The game was designed to be played with an Xbox 360 controller. You can play it 
 * Select Inventory Slot: Right/Left Bumper
 * Select Inventory Slot (Keyboard): Left/Right Control
 
-h3. Requirements:
+### Requirements:
 
 * Shader Model 2.0+ capable graphics hardware
-* "Microsoft XNA Framework Redistributable 3.1":http://www.microsoft.com/downloads/details.aspx?FamilyID=53867a2a-e249-4560-8011-98eb3e799ef2&displaylang=en
-* ".NET Framework Version 2.0 Redistributable Package (x86)":http://www.microsoft.com/downloads/details.aspx?FamilyID=0856eacb-4362-4b0d-8edd-aab15c5e04f5
-* "DirectX 9.0c Redistributable":http://go.microsoft.com/fwlink/?LinkID=56513&clcid=0x409
+* [Microsoft XNA Framework Redistributable 3.1](http://www.microsoft.com/downloads/details.aspx?FamilyID=53867a2a-e249-4560-8011-98eb3e799ef2&displaylang=en)
+* [.NET Framework Version 2.0 Redistributable Package (x86)](http://www.microsoft.com/downloads/details.aspx?FamilyID=0856eacb-4362-4b0d-8edd-aab15c5e04f5)
+* [DirectX 9.0c Redistributable](http://go.microsoft.com/fwlink/?LinkID=56513&clcid=0x409)
 
 
 

@@ -15,7 +15,7 @@ images:
   - "/images/games/attentionconvention/attentionconvention7.png"
 summary: "Multiplayer deception game made for the 2010 Global Game Jam"
 ---
-Attention Convention is a game I created in 48 hours for the 2010 "Global Game Jam":http://www.globalgamejam.com. The theme for the jam was to make a game that centered around the concept of DECEPTION and our regional constraint was that the game had to include one of the following things; a SET, a NET, or a PET.
+Attention Convention is a game I created in 48 hours for the 2010 [Global Game Jam](http://www.globalgamejam.com). The theme for the jam was to make a game that centered around the concept of DECEPTION and our regional constraint was that the game had to include one of the following things; a SET, a NET, or a PET.
 
 The concept that I came up with was a multiplayer game where one player was trying to help a group of underage dudes sneak past security into an adults-only convention and the other player tries to pick the dudes out of a crowd. The first player can purchase changes to their appearance that make them harder to pick out of the crowd, at the cost of risking not bringing enough money into the convention. The second player can net anyone he wants, but netting legal attendees makes the first player have to bring less money to the convention to win.
 

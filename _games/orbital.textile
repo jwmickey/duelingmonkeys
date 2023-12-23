@@ -22,10 +22,10 @@ One aspect of the design that I really like is that there is a built in risk/rew
 
 It works on PC and Xbox 360 and requires an Xbox 360 controller to play. Two players are supported and there is a basic AI opponent that can fill either slot. Once you get the hang of it, the game is best played with two pucks at once.
 
-h3. Requirements:
+### Requirements:
 
 * Shader Model 2.0+ capable graphics hardware
-* "Microsoft XNA Framework Redistributable 3.0":http://www.microsoft.com/downloads/en/details.aspx?FamilyID=6521d889-5414-49b8-ab32-e3fff05a4c50
+* [Microsoft XNA Framework Redistributable 3.0](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=6521d889-5414-49b8-ab32-e3fff05a4c50)
 * A wired Xbox 360 controller
 
 

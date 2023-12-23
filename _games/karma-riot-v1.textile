@@ -31,13 +31,13 @@ Currently, the game pretty much requires wired 360 controllers. The controls in 
 * B: Bump Right
 * Y: Fireball
 
-h3. Requirements:
+### Requirements:
 
 * One or more Wired Xbox 360 controllers
 * Shader Model 2.0+ capable graphics hardware
-* "Microsoft XNA Framework Redistributable 3.1":http://www.microsoft.com/downloads/details.aspx?FamilyID=53867a2a-e249-4560-8011-98eb3e799ef2&displaylang=en
-* ".NET Framework Version 2.0 Redistributable Package (x86)":http://www.microsoft.com/downloads/details.aspx?FamilyID=0856eacb-4362-4b0d-8edd-aab15c5e04f5
-* "DirectX 9.0c Redistributable":http://go.microsoft.com/fwlink/?LinkID=56513&clcid=0x409
+* [Microsoft XNA Framework Redistributable 3.1](http://www.microsoft.com/downloads/details.aspx?FamilyID=53867a2a-e249-4560-8011-98eb3e799ef2&displaylang=en)
+* [.NET Framework Version 2.0 Redistributable Package (x86)](http://www.microsoft.com/downloads/details.aspx?FamilyID=0856eacb-4362-4b0d-8edd-aab15c5e04f5)
+* [DirectX 9.0c Redistributable](http://go.microsoft.com/fwlink/?LinkID=56513&clcid=0x409)
 
 
 

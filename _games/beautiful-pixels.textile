@@ -36,13 +36,13 @@ The concept behind Beautiful Pixels was Vince's idea. He came up with it when we
 
 Out of the game logics that I put into it, I decided to pull Connexus out into its own game. I've also re-used some of the effects and UI code in other projects, so it ended up being very useful.
 
-h3. Requirements:
+### Requirements:
 
 * Shader Model 2.0+ capable graphics hardware
 * Xbox 360 controller (for some games)
-* "Microsoft XNA Framework Redistributable 2.0":http://www.microsoft.com/downloads/details.aspx?FamilyID=15fb9169-4a25-4dca-bf40-9c497568f102&displaylang=en
-* ".NET Framework Version 2.0 Redistributable Package (x86)":http://www.microsoft.com/downloads/details.aspx?FamilyID=0856eacb-4362-4b0d-8edd-aab15c5e04f5
-* "DirectX 9.0c Redistributable":http://go.microsoft.com/fwlink/?LinkID=56513&clcid=0x409
+* [Microsoft XNA Framework Redistributable 2.0](http://www.microsoft.com/downloads/details.aspx?FamilyID=15fb9169-4a25-4dca-bf40-9c497568f102&displaylang=en)
+* [.NET Framework Version 2.0 Redistributable Package (x86)](http://www.microsoft.com/downloads/details.aspx?FamilyID=0856eacb-4362-4b0d-8edd-aab15c5e04f5)
+* [DirectX 9.0c Redistributable](http://go.microsoft.com/fwlink/?LinkID=56513&clcid=0x409)
 
 
 

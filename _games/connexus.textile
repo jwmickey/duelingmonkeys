@@ -30,16 +30,16 @@ Although the rules are simple, there is a lot of emergent strategy. Players must
 
 It supports 1-4 players. There is a set of single player stages against AI opponents.
 
-Connexus was originally one of the game modules that was designed for "Beautiful Pixels":/games/beautiful-pixels.html. After playing the game with a few friends I realized that it had some potential. Soon after I attended GDC 08 and went to the Independent Games Festival which was really inspiring. These things made me decide to try making it a standalone game that was nicely polished. I submitted it to the IGF but it was not nominated as a finalist for any categories.
+Connexus was originally one of the game modules that was designed for [Beautiful Pixels](/games/beautiful-pixels.html). After playing the game with a few friends I realized that it had some potential. Soon after I attended GDC 08 and went to the Independent Games Festival which was really inspiring. These things made me decide to try making it a standalone game that was nicely polished. I submitted it to the IGF but it was not nominated as a finalist for any categories.
 
-h3. Requirements:
+### Requirements:
 
 * Shader Model 2.0+ capable graphics hardware
-* "Microsoft XNA Framework Redistributable 2.0":http://www.microsoft.com/downloads/en/details.aspx?FamilyID=15fb9169-4a25-4dca-bf40-9c497568f102&displaylang=en
-* ".NET Framework Version 2.0 Redistributable Package (x86)":http://www.microsoft.com/downloads/details.aspx?FamilyID=0856eacb-4362-4b0d-8edd-aab15c5e04f5
-* "DirectX 9.0c Redistributable":http://go.microsoft.com/fwlink/?LinkID=56513&clcid=0x409
+* [Microsoft XNA Framework Redistributable 2.0](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=15fb9169-4a25-4dca-bf40-9c497568f102&displaylang=en)
+* [.NET Framework Version 2.0 Redistributable Package (x86)](http://www.microsoft.com/downloads/details.aspx?FamilyID=0856eacb-4362-4b0d-8edd-aab15c5e04f5)
+* [DirectX 9.0c Redistributable](http://go.microsoft.com/fwlink/?LinkID=56513&clcid=0x409)
 
 
 
 
-"YouTube Video":http://www.youtube.com/watch?v=dQDtlvLg5HY
+[YouTube Video](http://www.youtube.com/watch?v=dQDtlvLg5HY)

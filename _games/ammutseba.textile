@@ -15,15 +15,15 @@ images:
   - "/images/games/ammutseba/ammutseba_5.jpg"
 summary: "Guide a cosmic tentril around stars so that Ammutseba can devour them"
 ---
-Ammutseba is based off of my earlier Game Jam Game "Slither":/games/slither.html. The earlier game requires a 360 controller to play and has you guiding a fixed length snake around. I felt like the line construction part of the gameplay had promise but that the 'catch your tail' gameplay wasn't really fun so this version was an attempt to see if a mouse-driven control scheme could be fun. I also added random puck distribution, time-based scoring, and fixed a pile of scoring bugs (though some still remain).
+Ammutseba is based off of my earlier Game Jam Game [Slither](/games/slither.html). The earlier game requires a 360 controller to play and has you guiding a fixed length snake around. I felt like the line construction part of the gameplay had promise but that the 'catch your tail' gameplay wasn't really fun so this version was an attempt to see if a mouse-driven control scheme could be fun. I also added random puck distribution, time-based scoring, and fixed a pile of scoring bugs (though some still remain).
 
 With this new control scheme, the existing snake art didn't really work, so I replaced it how I could; by making it more abstract. I borrowed a nebula background from NASA (the Tarantula Nebula to be specific) the lazy radial gradients for pucks turned out looking pretty space-y, so I wanted to come up with an explanation for why there is a snake in space encircling stars. I was hoping to find some public domain star-devouring space monsters, and found that H.P. Lovecraft wrote about a monster called Ammutseba who is a black cloud that absorbs shooting stars. Close enough.
 
 It's pretty hard for me to tell at this point whether the game is fun for other people. I can get a perfect score pretty easily and feel like I don't have any more room to go as far as getting more skillful or strategic. So I guess in the end it was pretty shallow. Oh well; you've probably not played it so you have a chance to have fun. Download it and give it a shot!
 
-h3. Requirements:
+### Requirements:
 
-* "Microsoft XNA Framework Redistributable 4.0":http://www.microsoft.com/download/en/details.aspx?id=20914
+* [Microsoft XNA Framework Redistributable 4.0](http://www.microsoft.com/download/en/details.aspx?id=20914)
 
 
 

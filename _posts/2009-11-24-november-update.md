@@ -9,7 +9,7 @@ I think a lot has happened since my last update. However, I can't really remembe
 
 I wish I could show you some pictures of our halloween costumes. However, I didn't take any and Jody hasn't uploaded them, fortunately I found this picture of me in my costume on the internet:
 
-!(filespace/mike/mikehalloween09.jpg)
+![](https://content.duelingmonkeys.com/filespace/mike/mikehalloween09.jpg)
 _Yep, that's definetely me_
 
 
@@ -21,11 +21,11 @@ Work has been pretty hectic lately. It's one of those things I wish I could talk
 
 I've also spent a decent amount of time in and out of the clinic lately trying to figure out what the problem with my pancreas is. Here is the forumula for every visit:
 
-# Wait
-# Perform uncomfortable test
-# Wait
-# Results inconclusive
-# Schedule another (more uncomfortable) test
+1. Wait
+2. Perform uncomfortable test
+3. Wait
+4. Results inconclusive
+5. Schedule another (more uncomfortable) test
 
 Here is a summary of what all the doctors have told me in plain english: &quot;Your pancreas is messed up. However, it's not too messed up. We have no idea why.&quot;
 

@@ -13,17 +13,14 @@ A group of professional game developers from the NC Triangle area got together o
 
 The game I worked on was [Sunny Day](/games/sunny-day.html). I've added an entry in the games page for it, which includes a download link and a list of requirements. Keep in mind that in the weekend, we weren't able to get some things implemented that would have made it feel like an actual game - specifically, there isn't an ending or scoring. But hey, it was done in 2 days; what do you expect?
 
-!(images/games/sunnyday/sunnyday500.png)
+![](https://content.duelingmonkeys.com/games/sunnyday/sunnyday500.png)
 _It's supposed to be very happy_
-
-
-
 
 ### Comic Game
 
 I mentioned last time that I recently completed phase 1 of my [Comic Game](/games/comic-game.html) experiment. Apparently that got lost on the noise because it was at the bottom of a wordy post about other topics. It probably also had something to do with lack of a screenshot. I've added a list of requirements to the game's page, which also contains a download link in case you didn't realize. Just to make sure that everyone realizes it's there; here's your friggin' screenshot:
 
-!/images/games/comicgame/comicgame500.jpg!
+![](https://content.duelingmonkeys.com/games/comicgame/comicgame500.jpg)
 _Now you know it exists_
 
 

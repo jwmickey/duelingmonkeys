@@ -9,27 +9,15 @@ avatar: "willow_calm2"
 
 A lot of stuff has happened since December. The first (chronologically speaking) and most important was that my nephew Trevor Long Daly was born. Between myself and my 3 brothers, this is the first child of the new generation; my parents are now grandparents and I'm now and uncle. I hope he will like video games.
 
-
-
-
-!(ttp://classic.duelingmonkeys.com/classic/filespace/willow/trevor.jpg)
+![](https://content.duelingmonkeys.com/filespace/willow/trevor.jpg)
 _Trevor Long Daly_
-
-
-
 
 ### IGF results
 
 Shortly after Trevor was born, they announced the finalists for the 2009 Independent Games Festival. You might recall that I submitted a game called &quot;Connexus&quot;. As it turns out, I am not a winner. On the bright side, I didn't really expect to be a winner; I mainly entered so that I had a solid goal motivating me to follow through with the project. I have to decide what to do with Connexus now; I'll probably post it here sometime, but I might go through the additional effort of porting to Xbox and putting it on community games; we'll just have to wait and see. We'll have to wait quite a while to see.
 
-
-
-
-!http://classic.duelingmonkeys.com/classic/filespace/willow/igffail.jpg!
+![](https://content.duelingmonkeys.com/filespace/willow/igffail.jpg)
 _IGF fail_
-
-
-
 
 ### China
 
@@ -45,22 +33,13 @@ As soon as I got back from China, I grabbed 4 hours of sleep then dashed off to 
 
 I think the event worked out great, thanks to the efforts of Mike Lee (the lead organizer). There were a lot of people, the venue was great, and we came up with some really impressive games. I did some coding, such as creating an XML level loader for the two side-scrolling games, and did a little music for one of the games. However, the thing I probably spent the most time on was doing the art for a game called Space Fish. I think it turned out pretty decent:
 
-
-
-
-!http://classic.duelingmonkeys.com/classic/filespace/willow/spacefish.jpg!
+![](https://content.duelingmonkeys.com/filespace/willow/spacefish.jpg)
 _You should see it in motion_
 
-
-
-
-!http://classic.duelingmonkeys.com/classic/filespace/willow/spacefishatom.gif!
+![](https://content.duelingmonkeys.com/filespace/willow/spacefishatom.gif)
 _The player_
 
-
-
-
-Here's the song that I came up with for the game Space Defenders of the 23rd Century: [Tether Main Theme](http://classic.duelingmonkeys.com/classic/filespace/willow/TetherStage1.mp3). As usual, you'll probably have to save it to listen through the whole thing, but it's only like 40 seconds long.
+Here's the song that I came up with for the game Space Defenders of the 23rd Century: [Tether Main Theme](https://content.duelingmonkeys.com/filespace/willow/TetherStage1.mp3). As usual, you'll probably have to save it to listen through the whole thing, but it's only like 40 seconds long.
 
 ### I'm busy
 

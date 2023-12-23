@@ -11,15 +11,15 @@ So the week before last, I took my first vacation from work in a year and a half
 
  My Dad, two of my brothers an I drove a camper pulling a trailer with Jeep strait to Denver Colorado. It was a 27 hour trip in total; we didn't stop for anything but gas.
 
- We arrived in Denver and set up [our base of operations](images/gallery/willow/vacation2006/Camper.jpg) at about noon. That afternoon we checked out the world's largest brewery: the Coor's brewery in Golden, Denver. We got to sample some beer and I learned some fun facts. We also checked out the Red Rock natural amphitheater, which was cool, and saw some dinosaur tracks next the the highway.
+ We arrived in Denver and set up [our base of operations](https://content.duelingmonkeys.com/gallery/willow/vacation2006/Camper.jpg) at about noon. That afternoon we checked out the world's largest brewery: the Coor's brewery in Golden, Denver. We got to sample some beer and I learned some fun facts. We also checked out the Red Rock natural amphitheater, which was cool, and saw some dinosaur tracks next the the highway.
 
- The next morning, we went to the [Denver Museum of Nature and Science](images/gallery/willow/vacation2006/museum.jpg), which was pretty cool. I hadn't been so excited about Dinosaurs since I was like 10. I even took a picture of [some dinosaurs fighting a fierce battle](images/gallery/willow/vacation2006/dinobones.jpg) as well as [some mammals being really passive and boring](images/gallery/willow/vacation2006/mammalbones.jpg).
+ The next morning, we went to the [Denver Museum of Nature and Science](https://content.duelingmonkeys.com/gallery/willow/vacation2006/museum.jpg), which was pretty cool. I hadn't been so excited about Dinosaurs since I was like 10. I even took a picture of [some dinosaurs fighting a fierce battle](https://content.duelingmonkeys.com/gallery/willow/vacation2006/dinobones.jpg) as well as [some mammals being really passive and boring](https://content.duelingmonkeys.com/gallery/willow/vacation2006/mammalbones.jpg).
 
  Shortly afterwards, Dave and I went to the airport and took off for San Francisco. From SF, we Drove to Napa (wine country apparently) and crashed.
 
  The following day, (Saturday) we attended the wedding of Jason and Kaori Howard. I got to spend a lot of time hanging out with old friends and sitting quietly in the corner avoiding eye contact when the hosts were recruiting people to dance.
 
- The next day we went back to San Francisco. We kind of wandered around like a dozen headless chickens for a while, but were eventually decisive enough to visit the San Francisco [Palace of Fine Arts](images/gallery/willow/vacation2006/palace5.jpg). Can you guess what is inside the Palace of Fine Arts? If you guessed 'A hands-on science museum', you would have guessed correct. It is a very odd mix. Anyway to make a long story short, I applied for a job [as a statue](images/gallery/willow/vacation2006/palace6.jpg), but for some reason, they didn't hire me.
+ The next day we went back to San Francisco. We kind of wandered around like a dozen headless chickens for a while, but were eventually decisive enough to visit the San Francisco [Palace of Fine Arts](https://content.duelingmonkeys.com/gallery/willow/vacation2006/palace5.jpg). Can you guess what is inside the Palace of Fine Arts? If you guessed 'A hands-on science museum', you would have guessed correct. It is a very odd mix. Anyway to make a long story short, I applied for a job [as a statue](https://content.duelingmonkeys.com/gallery/willow/vacation2006/palace6.jpg), but for some reason, they didn't hire me.
 
  On Monday, we just basically drove all around western California trying to deliver people to whatever airports they belonged to, eventually settling down in Santa Cruz. We played a little putt-putt, then the next morning was the long trip home. I finally arrived back in Raleigh at 1 am Wednesday morning and was at work 7 hours later.
 
@@ -27,7 +27,7 @@ So the week before last, I took my first vacation from work in a year and a half
  Time spent: 7 days
  Distance traveled: A really long way (but too lazy to figure up)
  Weddings attended: 1
- Pictures taken: very few, but I found some [random old ones](images/gallery/willow/vacation2006/melonghair.jpg) when downloading from my camera
+ Pictures taken: very few, but I found some [random old ones](https://content.duelingmonkeys.com/gallery/willow/vacation2006/melonghair.jpg) when downloading from my camera
  Crazy people met on the airplane: 1
  Stages of Mega Man cleared: 22
  Hours of relaxation: 0
@@ -36,6 +36,6 @@ So the week before last, I took my first vacation from work in a year and a half
 
  Making a Mastercard pun out of this list: priceless
 
- Really, the Palace of Fine arts was way cool. Here are some other random pictures of it: [1](images/gallery/willow/vacation2006/palace1.jpg), [2](images/gallery/willow/vacation2006/palace2.jpg), [3](images/gallery/willow/vacation2006/palace3.jpg), [4](images/gallery/willow/vacation2006/palace4.jpg)
+ Really, the Palace of Fine arts was way cool. Here are some other random pictures of it: [1](https://content.duelingmonkeys.com/gallery/willow/vacation2006/palace1.jpg), [2](https://content.duelingmonkeys.com/gallery/willow/vacation2006/palace2.jpg), [3](https://content.duelingmonkeys.com/gallery/willow/vacation2006/palace3.jpg), [4](https://content.duelingmonkeys.com/gallery/willow/vacation2006/palace4.jpg)
 
  THE END

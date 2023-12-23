@@ -7,6 +7,6 @@ avatar: "willow_calm"
 ---
 Tal ettin gourash bacca to bon yobie. Quantis fortin refigh fe ob durin wat! Ho ouge el hortino ragorn.
 
- clostingoy cey tou mose zoppe al erta PROJECT SUNBURN. Gi adem joy un rablitagoroband whoke seu dessa velorinapos. Ith farce gon psycus, ret erpensorry [Character model](/classic/images/gallery/modeling/bodyrender.jpg). Gorat opsin mesos orta endarian osos invitri [wireframe render](/classic/images/gallery/modeling/bodywire2.jpg). Weredir sum orta colosin odelemas retoy se [modeling gallery](galleries.php?section=modeling).
+ clostingoy cey tou mose zoppe al erta PROJECT SUNBURN. Gi adem joy un rablitagoroband whoke seu dessa velorinapos. Ith farce gon psycus, ret erpensorry [Character model](https://content.duelingmonkeys.com/gallery/modeling/bodyrender.jpg). Gorat opsin mesos orta endarian osos invitri [wireframe render](https://content.duelingmonkeys.com/gallery/modeling/bodywire2.jpg). Weredir sum orta colosin odelemas retoy se [modeling gallery](galleries.php?section=modeling).
 
  Cosovit guar uratinnet pal 100 posts! Hesus olf tinnaro meta salivar dio, warrit homi en monday.

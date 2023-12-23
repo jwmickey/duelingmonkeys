@@ -41,23 +41,23 @@ I learned the hard way that this is not as easy as it looks. Even on a very smal
 
 That being said, I did follow through with the one animation I wanted to make. I kept track of some of the stuff I did along the way, so I'll present each of the steps I went through here.
 
-!(ttp://classic.duelingmonkeys.com/classic/filespace/willow/firepunch_rough.gif)
+![](https://content.duelingmonkeys.com/filespace/willow/firepunch_rough.gif)
 
 _I started with a quick prototype animation using stick man to get a good motion_
 
-!http://classic.duelingmonkeys.com/classic/filespace/willow/firepunch_muscles.gif!
+![](https://content.duelingmonkeys.com/filespace/willow/firepunch_muscles.gif)
 
 _Next, I previewed some body shapes and decided whether to make a male or female character_
 
-!http://classic.duelingmonkeys.com/classic/filespace/willow/firepunch_outfit.gif!
+![](https://content.duelingmonkeys.com/filespace/willow/firepunch_outfit.gif)
 
 _Next, get a sense of the outfit_
 
-!http://classic.duelingmonkeys.com/classic/filespace/willow/firepunch_zoom.gif!
+![](https://content.duelingmonkeys.com/filespace/willow/firepunch_zoom.gif)
 
 _Create the pixel art for the base pose to figure out colors. Zoomed in 2x. Finally: ..._
 
-!http://classic.duelingmonkeys.com/classic/filespace/willow/firepunch_final.gif!
+![](https://content.duelingmonkeys.com/filespace/willow/firepunch_final.gif)
 
 _The finished product_
 

@@ -13,14 +13,14 @@ One of Amanda's many hobbies is [Caving](http://en.wikipedia.org/wiki/Caving), w
 
 I'm not going to go into too much detail because trying to describe caving is like trying to describe a monument - you can't really communicate the feeling you get when you see it, which is kind of the point anyway. Unfortunately, I also didn't really take pictures so this is the only photographic evidence I have of my adventure:
 
-[!(filespace/mike/caving_500.jpg)](/filespace/mike/caving_1000.jpg)
+[![](https://content.duelingmonkeys.com/filespace/mike/caving_500.jpg)](https://content.duelingmonkeys.com/filespace/mike/caving_1000.jpg)
 _I'm the guy wearing the cheap rubber kneepads and gardening gloves_
 
 ### Hawaii
 
 In the time between my former job and my current job, I wanted to get a chance to spend some time with my family (and Amanda as well, of course). This ended up taking on the form of a trip to Hawaii. Much to my surprise Amanda, both my parents, all of my brothers, and my aunt/uncle/cousins were all able to make it out. I had a super-great time and fortunately this time I was surrounded by people who take pictures of things. I've put some up in the [gallery](/gallery/mike-vacations).
 
-[!/filespace/mike/mikeandamandainhawaii_500.jpg!](/filespace/mike/mikeandamandainhawaii_1000.jpg)
+[![](https://content.duelingmonkeys.com/filespace/mike/mikeandamandainhawaii_500.jpg)](https://content.duelingmonkeys.com/filespace/mike/mikeandamandainhawaii_1000.jpg)
 _If you look close, you can see the initials of the couple that took this picture: S&amp;G_
 
 _Editor's note: I didn't actually upload any pictures to the gallery yet because I didn't have time yet. Maybe they'll be there later, maybe not. Sorry_

@@ -20,7 +20,7 @@ Therefore, I will begin working on a Kart racing game soon. Stay tuned to see ho
 
 sometimes when I wake up in the morning my hair is very poofy. Sometimes I take pictures with my crappy digital camera. It's no [spinning beard picture](/2008/12/16/farewell-beard.html) but it's still pretty funny to look at:
 
-!(filespace/mike/morninghair.jpg)
+![](https://content.duelingmonkeys.com/filespace/mike/morninghair.jpg)
 _It seemed a lot crazier at the time_
 
 
@@ -28,6 +28,6 @@ _It seemed a lot crazier at the time_
 
 ### Opus 17
 
-I sat down with MUSAGI again earlier this week and wrote up a new piece of music. Please enjoy [Opus 17](/filespace/mike/Opus17.mp3) (if you can).
+I sat down with MUSAGI again earlier this week and wrote up a new piece of music. Please enjoy [Opus 17](https://content.duelingmonkeys.com/filespace/mike/Opus17.mp3) (if you can).
 
 Oh yeah, it's also my birthday. I'm now 27. This will be my last birthday that is a whole cube number for a while

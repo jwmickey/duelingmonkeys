@@ -13,14 +13,14 @@ So the [Global Game Jam 2012](http://globalgamejam.org/) came and went. I got my
 
 With our combined efforts, we produced the game called [Slither](/games/slither.html). If you've got a wired 360 controller handy, you should give it a shot!
 
-!(filespace/mike/slither_512.jpg)
+![](https://content.duelingmonkeys.com/filespace/mike/slither_512.jpg)
 _It's kind of mezmerizing to just watch the thing move around_
 
 ### Pistol Sisters
 
 I came up with a cool game concept a while back. I don't want to write it all up here at this time, but I did spend some time making some premature fanart of it. It's nice to have an excuse to do arts every once in a while to keep me from forgetting how to launch Photoshop and stuff.
 
-!/filespace/mike/pistolsisters_512.png!
+![](https://content.duelingmonkeys.com/filespace/mike/pistolsisters_512.png)
 _They love to shoot things with their pistols. But they don't like to get shot by things, so they carry around medieval kite shields. ALL PROBLEMS SOLVED_
 
 ### iPad

@@ -13,7 +13,7 @@ Thanks for all who came out with me to celebrate my birthday. And thanks also to
 
  For those of you not aware, Wesley is in Japan until mid-August.
 
- Anyway, here is the original &quot;artwork&quot; provided by one of our readers. I give you, [Warren's Story](/classic/images/gallery/user%20contributed/warren_all.jpg).
+ Anyway, here is the original &quot;artwork&quot; provided by one of our readers. I give you, [Warren's Story](https://content.duelingmonkeys.com/gallery/user%20contributed/warren_all.jpg).
 
  One more thing, I added "Moore's Chicken"/recipes/moores-chicken.html to the cookbook. It's quick and easy.
 

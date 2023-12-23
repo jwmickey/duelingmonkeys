@@ -13,7 +13,7 @@ Considering the number and quality of the IGF entries, I will probably not be a 
 
 Most of you have not seen or played the game. I haven't posted any screenshots since it was just a prototype either, so you might be wondering &quot;What is this Connexus game?&quot;. Well, for that, Wayne helped me put together a handy webpage: [Connexus](/games/connexus.html). Check it out for a brief game description and some screenshots. Just to make this post appear like it has more content, here's a screenshot of me beating the living crap out of my AI:
 
-!(classic/filespace/willow/connexusshot.jpg)
+![](https://content.duelingmonkeys.com/filespace/willow/connexusshot.jpg)
 
 Now that that project is done, I have a couple of open questions to answer. What should I do with Connexus? Should I look for a publisher? Polish it up to make an Xbox 360 community game? Just release it on DM? Delete it from my HD? More importantly, what should I do with my free time now that I don't have to feel guilty about not working on Connexus? Should I start a new game? Continue to clean up and polish Connexus? Take a break for a while?
 

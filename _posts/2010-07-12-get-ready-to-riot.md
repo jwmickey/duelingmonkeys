@@ -26,7 +26,7 @@ Here are some of the things we added in phase 2 (in no particular order):
 
 Some of my favorite accomplishments for this phase came in the tools I made to support generating content for the game. Particularly, I'm quite proud of how the [BitmapToTiles](/2010/03/13/bitmaptotiles.html) and [Sprite Maker](/2010/04/16/sprite-maker.html) turned out. They were both a lot of fun to work on and turned out to be tremendously useful.
 
-!(filespace/mike/karmariot_phase2.png)
+![](https://content.duelingmonkeys.com/filespace/mike/karmariot_phase2.png)
 _Here's the obligatory screenshot_
 
 Anyway, enough blabbering from me, there's more details, more screenshots, and a juicy download link all available from the games page: [Karma Riot v2](/games/karma-riot-v2.html)!

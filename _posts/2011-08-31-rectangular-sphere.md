@@ -13,12 +13,16 @@ However, it would be cool if the world was really stylized, like you are walking
 
 The thing I came up with is a way to use a wrapping rectangular world, but give it the illusion that it is spherical - a spherical rectangle. It's not rocket science or anything, but I think it's a neat concept and can be kind of a brain teaser to figure out how everything can continue to line up as you move over its surface.
 
-!(filespace/mike/worldexplorer12.jpg)
+![](https://content.duelingmonkeys.com/filespace/mike/worldexplorer12.jpg)
 _View of the terrain from high above_
 
-!/filespace/mike/worldexplorer11.jpg!
+![](https://content.duelingmonkeys.com/filespace/mike/worldexplorer11.jpg)
 _Same perspective, but without the spherical illusion_
 
 Finally, I put together some animated gifs of the world spinning in a few directions; can you tell that the rectangular world is repeating in every direction? The world still retains its rectangular proportions despite how much you spin the sphere - mysterious!
 
-!/filespace/mike/worldexplorerhoriz.gif!    !/filespace/mike/worldexplorervert.gif!    !/filespace/mike/worldexplorerdiag.gif!
+![](https://content.duelingmonkeys.com/filespace/mike/worldexplorerhoriz.gif)
+
+![](https://content.duelingmonkeys.com/filespace/mike/worldexplorervert.gif)
+
+![](https://content.duelingmonkeys.com/filespace/mike/worldexplorerdiag.gif)

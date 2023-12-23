@@ -5,7 +5,7 @@ date:   2003-08-24 20:00:00
 author: "Wesley"
 avatar: "wesley_calm"
 ---
-that means Wayne got his hair cut. i think. my japanese is a little rusty (and by rusty i mean was never there to begin with). so, what have we for you today? pictures of Waynes new do! [haircut 1](images/gallery/snapshots/wayne_haricut1.jpg), [haircut 2](images/gallery/snapshots/wayne_haircut2.jpg), and yes, even [haircut 3](images/gallery/snapshots/wayne_haircut3.jpg)!!!
+that means Wayne got his hair cut. i think. my japanese is a little rusty (and by rusty i mean was never there to begin with). so, what have we for you today? pictures of Waynes new do! [haircut 1](https://content.duelingmonkeys.com/gallery/snapshots/wayne_haricut1.jpg), [haircut 2](https://content.duelingmonkeys.com/gallery/snapshots/wayne_haircut2.jpg), and yes, even [haircut 3](https://content.duelingmonkeys.com/gallery/snapshots/wayne_haircut3.jpg)!!!
 
 yes well, wasn't that fun. if you see him try not to laugh out loud (yes, it will be difficult. trust me, i know), try to at least wait until he isn't looking. he still doesn't know!
 

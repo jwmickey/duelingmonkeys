@@ -16,12 +16,12 @@ Hey folks, so I forgot to update last month, my bad. Let's see if I can remember
 
 It was all great fun and, as usual, I didn't take any pictures. However, I was able to find at least one picture of holiday festivites to share thanks to the facebook:
 
-!(filespace/mike/gingerbread_2011.jpg)
+![](https://content.duelingmonkeys.com/filespace/mike/gingerbread_2011.jpg)
 _I learned that perhaps the most important part of a gingerbread house is the path leading up to it_
 
 Exciting news at work: we've released our iPhone game [Hero Academy](http://www.robotentertainment.com/games/heroacademy)! I think it turned out great. Although I don't have an iPhone, I do have an iPod touch at work that I can use for testing/playing so if you want to play me, send an invite to &quot;MikeD&quot;.
 
-!http://www.robotentertainment.com/sites/default/files/userfiles/images/images/ha_logo_web_on_white.jpg!
+![](https://images.squarespace-cdn.com/content/v1/5c3e53b296e76fdad9058667/1548442730580-7MKHS0BFFUZ6IONGEIZC/Robot_Logo_Black.png?format=500w)
 _Yo dawg, I herd you like tactics so I put tactics in your phone so you can stay awake while you sit in a meeting_
 
 Also, I've gotten the chance to play a lot of video games in and around the holiday season. Here are the ones I'm working on (I recommend them all!):

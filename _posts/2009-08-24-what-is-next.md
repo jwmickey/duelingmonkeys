@@ -51,7 +51,7 @@ Why am I going on and on about my hobby options? As I mentioned before, I've bee
 
 For the sake of color, here is a picture that I drew/colored while trying to decide what to do next. It is a fanarts; do you recognize the character?
 
-!(filespace/mike/terrabranford500.png)
+![](https://content.duelingmonkeys.com/filespace/mike/terrabranford500.png)
 _If you guess right, your vote counts twice_
 
 

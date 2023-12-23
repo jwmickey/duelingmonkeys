@@ -15,7 +15,7 @@ The trip was a one week sales trip to Serbia, France, and the UK to talk about m
 
 Serbia was pretty cool. It was a lot more European than I expected for lack of a better adjective. The guys that we met there were very cool. They all spoke good English, were well educated, and had a lot of common cultural experience thanks to the internet (they love South Park). During the time we visited them, we hacked together a racing game prototype using their assets, which was fun. We ate a pile of meat with every meal. Our hotel was very nice; it was apparently built by a wealthy mobster. The guys we visited were called [Eipix](http://www.eipix.com/).
 
-!(filespace/mike/serbiancathedral.jpg)
+![](https://content.duelingmonkeys.com/filespace/mike/serbiancathedral.jpg)
 _Hello Serbia_
 
 

@@ -9,11 +9,8 @@ My dad turned 50 last Wednesday. In the weeks leading up to his birthday I could
 
 I worked on the project a total of 29 hours over the course of 8 days. Unfortunately, this was a week where I also had to work a bit of overtime in the office, so it was a tight squeeze getting it done in time. In any case, it's done now. I've added a new games page where you can read about it, see screenshots, download the game, etc: [Daly Homes Inc](/games/daly-homes-inc.html).
 
-!(images/games/dalyhomesinc/dalyhomesinc500.png)
+![](https://content.duelingmonkeys.com/games/dalyhomesinc/dalyhomesinc500.png)
 _It's a construction game_
-
-
-
 
 Tragically, there were a few things that got cut due to time that would have made the game much easier to play. Particularly, a 'how to play' screen that describes the goal. Well, you'll just have to read the game's page and figure it out for yourself. If anyone ends up playing it and has any feedback, I'd love to hear it; you can post a comment.
 

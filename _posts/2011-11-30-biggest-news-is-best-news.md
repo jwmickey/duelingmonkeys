@@ -11,14 +11,14 @@ On this particular weekend, Amanda was scheduled to fly into Dallas to visit me 
 
 The book I gave her was entitled &quot;Mike and Amanda's Go Time (Oh Yeah!)&quot;. The title is a reference to an electrical engineering hobby project that Amanda and I worked on once upon a time that we code named &quot;Thursday Night Go Time Oh Yeah!&quot; in which we made an LED keypad puzzle with a custom programmed ATmega328 micro controller.
 
-!(filespace/mike/maagtoy_600.png)
-<em>Feel free to nominate me for a [Caldecott Medal](http://en.wikipedia.org/wiki/Caldecott_Medal</em>)
+![](https://content.duelingmonkeys.com/filespace/mike/maagtoy_600.png)
+_Feel free to nominate me for a [Caldecott Medal](http://en.wikipedia.org/wiki/Caldecott_Medal)_
 
 The ring itself was custom made (thanks, [Chris Van Dyke](http://www.vandykejewelry.com/)) based off of a design I came up with. On either side of the diamond is a small yellow gold castle set against a white gold background with a circle above it. The castle (in addition to being a fine symbol of strength, safety, and stability itself) has the proportions of the castle you find at the end of a stage in Super Mario Brothers, which I felt sybolised both our shared love of video games as well and victoriously reaching a milestone. The circle above the castle is a little firework. It also proves what a dork I am, which perhaps has some value too.
 
-!/filespace/mike/engagementringside.jpg!
+![](https://content.duelingmonkeys.com/filespace/mike/engagementringside.jpg)
 _I think it turned out pretty classy looking_
 
 We are both super excited to be engaged! However, we still have a lot of stuff to figure out. We still don't know who will end up moving, but us being together in either NC or TX is way better than us being apart so I'm sure I'll be happy with what we end up with. We haven't settled on a date yet.
 
-In other news, I've almost completed [Orcs Must Die![http://www.robotentertainment.com/games/heroacademy]((http://www.robotentertainment.com/games/orcsmustdie) on Nightmare difficulty, which is no small feat! Also, we've announced a new game! Meet [Hero Academy]) I'm not working on this one (the game I'm working on hasn't been announced yet) but I've been doing a lot of playtesting and I'm excited to see it so close to complete. I feel like there are probably other important things I should be mentioning, but I can't remember them. Oh well, I think that's enough for now anyway. Happy Thanksgiving!
+In other news, I've almost completed [Orcs Must Die!](https://robotentertainment.com/omd) on Nightmare difficulty, which is no small feat! Also, we've announced a new game! Meet [Hero Academy](http://www.robotentertainment.com/games/heroacademy). I'm not working on this one (the game I'm working on hasn't been announced yet) but I've been doing a lot of playtesting and I'm excited to see it so close to complete. I feel like there are probably other important things I should be mentioning, but I can't remember them. Oh well, I think that's enough for now anyway. Happy Thanksgiving!

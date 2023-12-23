@@ -13,31 +13,19 @@ I know I frequently make this excuse, but I don't have much to say because I've 
 
 This makes it hard to play games; a month or two back I was most of the way through Aquaria, Crayon Physics Deluxe, Mega Man 9, and Bioshock. However, I haven't picked up any of them in quite some time. My brother brought home Street Fighter 4 earlier this week and despite my pessimistic curiosity, I haven't even tried it yet. The only game I've set aside any time to play has been [Spelunkey](http://forums.tigsource.com/index.php?topic=4017.0). That is mainly because it can be played in small increments without loosing anything if you just drop it and because it's damn addictive. Maybe addictive in a bad way; I'm not getting much out of it the more I play it but I feel compelled to keep playing so that I can try my luck again. It's like gambling or something.
 
-
-
-
-!(ttp://classic.duelingmonkeys.com/classic/filespace/willow/spelunky.jpg)
+![](https://content.duelingmonkeys.com/filespace/willow/spelunky.jpg)
 _My shameful scores_
-
-
-
 
 ### Pose Mania
 
 The very first day of February I came across a webpage called [Pose Maniacs](http://www.posemaniacs.com/pose/thirtysecond.html). There is a little application there that shows you a random pose from a pretty large collection and you have 30 seconds to draw it before it switches to another. The idea is you do this for something like 5-10 minutes a day and you'll get a lot better at drawing. I always wish I could spend more time drawing, but it's a hefty time investment and has to compete with my other hobbies. However, I can easily swallow 5 minutes a day if it makes me better so I decided to try it out for a month. I'm pretty proud of myself in that I managed to draw for 5 minutes every single day this month so far. I'll miss tomorrow and Saturday, the last two days of the month, because I'll be headed up to Washinton DC for Tim Lind's batchelor party, so I did three sets today to make the grid complete.
 
-I finally compared what I was drawing at the beginning to what I was drawing at the end and I must say ... I did not get any better. Drawing a whole person in 30 seconds is really hard! You have to either look at the pose or look at what you are drawing but never have time to compare the two so you either end up with one of those crappy blind drawings or like one tenth of a character's outline.
+I finally compared what I was drawing at the beginning to what I was drawing at the end and I must say... I did not get any better. Drawing a whole person in 30 seconds is really hard! You have to either look at the pose or look at what you are drawing but never have time to compare the two so you either end up with one of those crappy blind drawings or like one tenth of a character's outline.
 
 Anyway, to give myself a false sense of accomplishment, I bumped it up to 90 seconds for the last set of the month just to see how it would turn out. Not too bad. I composited all of the pages down to one quarter size; here you go:
 
-
-
-
-[!http://classic.duelingmonkeys.com/classic/filespace/willow/posemania_mid.jpg!](http://classic.duelingmonkeys.com/classic/filespace/willow/posemania_large.jpg)
+[![](https://content.duelingmonkeys.com/filespace/willow/posemania_mid.jpg)](https://content.duelingmonkeys.com/filespace/willow/posemania_large.jpg)
 _At least you can tell they are supposed to be people. Click to see the whole thing._
-
-
-
 
 ### In conclusion
 

@@ -18,7 +18,7 @@ Amanda and I finally got around to going to China together in September! It was 
 * Pixar museum
 * Tasty breakfast buns and Happy Lemon bubble tea
 
-!(filespace/mike/visitchina2011_600.jpg)
+![](https://content.duelingmonkeys.com/filespace/mike/visitchina2011_600.jpg)
 _Young Trevor is quite a handful these days_
 
 I even added a few of the pictures to the [China Gallery](/gallery/china).
@@ -29,7 +29,7 @@ So the game I spent much of this year working on FINALLY came out. I'm really pr
 
 Lucky for me, Amanda was visiting Texas the weekend of the release party, which resulted in this awesome pictue:
 
-!/filespace/mike/omdreleaseparty_600.jpg!
+![](https://content.duelingmonkeys.com/filespace/mike/omdreleaseparty_600.jpg)
 _I worry sometimes that Amanda is a little hesitant to kill orcs_
 
 One thing that was not so awesome about that weekend was that I got all 4 wisdom teeth removed right before it. Once again, I was lucky to have Amanda around to help me out with that.
@@ -42,7 +42,7 @@ After Amanda left the weekend of the OMD release party, I managed to get in a pr
 
 So that meant renting a car, doing a bunch of research, then setting out the next weekend to find a new one. I considered many different types of cars, went on a few test drives and haggled with a bunch of salesmen until finally settling on a 2012 Honda Accord LX.
 
-!/filespace/mike/newcar_600.jpg!
+![](https://content.duelingmonkeys.com/filespace/mike/newcar_600.jpg)
 _So new, it doesn't even exist until next year_
 
 Well, I think that's about enough for one update. See you all later.

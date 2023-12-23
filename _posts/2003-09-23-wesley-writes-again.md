@@ -5,7 +5,7 @@ date:   2003-09-23 20:00:00
 author: "Wesley"
 avatar: "wesley_calm"
 ---
-Well, i've been absent from the update scene for a while so i thought i'd pop back in to remind you all that i am still alive. i only have one thing -of interest- for you today. here is [Wayne being manly](/classic/filespace/willow/jodyisstrong.mov)! (and Willow being girly) there is no shortage of entertainment in this house.
+Well, i've been absent from the update scene for a while so i thought i'd pop back in to remind you all that i am still alive. i only have one thing -of interest- for you today. here is [Wayne being manly](https://content.duelingmonkeys.com/filespace/willow/jodyisstrong.mov)! (and Willow being girly) there is no shortage of entertainment in this house.
 
 ok, so actually the reason this update sucks is because i have no idea what i'm doing. everybody already went to bed, leaving me to do the update all by myself! i don't know anything about this stuff. lets hope i did it all right so they don't call me names tomorrow. see you all next month! (the next time i'll probably get around to doing the update, assuming they even let me do it at all.)
 

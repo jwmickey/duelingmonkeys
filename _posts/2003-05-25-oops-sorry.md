@@ -9,7 +9,7 @@ I was out of town for the weekend, and I didn't get back in until tonight, hence
 
  Anyway, considering I was in northern Virginia all weekend (I do not live in northern VA), I haven't had any time to do anything meaningful, however, I will show you somthings I believe are worth showing...
 
- [Wesley Monkey Exposed!](/classic/images/gallery/wesley/wesley.jpg)
+ [Wesley Monkey Exposed!](https://content.duelingmonkeys.com/gallery/wesley/wesley.jpg)
 
  Oh yeah, that reminds me ... well, it doesn't really remind me, but I just remembered, so it's kind of like it ju-&#42;SMACK&#42;
 

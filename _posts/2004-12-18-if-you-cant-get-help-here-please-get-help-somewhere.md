@@ -7,9 +7,9 @@ avatar: "willow_calm2"
 ---
 Today I will warn you of the horrible dangers involved in cycling. On the street, cycling is known as 'riding the bike'. Well, hopefully you already don't do bike, but if you do, you may find the following materials enlightening.
 
- [Cyclaholics Anonymous panel 1](images/gallery/art/cyclaholic1.jpg)
- [Cyclaholics Anonymous panel 2](images/gallery/art/cyclaholic2.jpg)
- [Cyclaholics Anonymous panel 3](images/gallery/art/cyclaholic3.jpg)
+ [Cyclaholics Anonymous panel 1](https://content.duelingmonkeys.com/gallery/art/cyclaholic1.jpg)
+ [Cyclaholics Anonymous panel 2](https://content.duelingmonkeys.com/gallery/art/cyclaholic2.jpg)
+ [Cyclaholics Anonymous panel 3](https://content.duelingmonkeys.com/gallery/art/cyclaholic3.jpg)
 
  I hope you enjoyed that. To give it some context, I made up that pamphlet as a gag gift for a co-worker who is really into biking. In it's original form it was printed on one sheet front and back with three panels each side. I arranged the panels into the order you would read them on the pamphlets when I put them up here.
 

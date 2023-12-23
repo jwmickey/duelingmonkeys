@@ -40,7 +40,7 @@ The most recent thing I've done is attend the 2009 Game Developers Conference (G
 
 
 
-!http://www.duelingmonkeys.com/filespace/mike/gdc09booth.jpg!
+![](https://content.duelingmonkeys.com/filespace/mike/gdc09booth.jpg)
 _That's our booth!_
 
 
@@ -61,7 +61,7 @@ And this was the cause of it; the demo I've been working on. It is called Mangle
 
 
 
-!http://www.duelingmonkeys.com/filespace/mike/mangledmetal19_mid.jpg!
+![](https://content.duelingmonkeys.com/filespace/mike/mangledmetal19_mid.jpg)
 _Mangled Metal_
 
 
@@ -80,7 +80,7 @@ I haven't taken any screenshots of the effect in-game, so I'll hopefully think t
 
 
 
-!http://www.duelingmonkeys.com/filespace/mike/fanglightning.gif!
+![](https://content.duelingmonkeys.com/filespace/mike/fanglightning.gif)
 _Shocking!_
 
 

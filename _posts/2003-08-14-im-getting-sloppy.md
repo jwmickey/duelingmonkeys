@@ -17,7 +17,7 @@ I missed an update! I know, I know, I'm starting to go the ways of Willow. Don't
 * [A wall](#)
 * [No more garage door](#)
 
-Willow also finished a [poster](images/gallery/art/gdc_poster.jpg) (190k) for the [Game Developer's Club](http://mimesis.csc.ncsu.edu/gdc/). It's original size was 2 feet by 3 feet! I managed to size it down to something you don't have to scroll for miles, but it's still rather large.
+Willow also finished a [poster](https://content.duelingmonkeys.com/gallery/art/gdc_poster.jpg) (190k) for the [Game Developer's Club](http://mimesis.csc.ncsu.edu/gdc/). It's original size was 2 feet by 3 feet! I managed to size it down to something you don't have to scroll for miles, but it's still rather large.
 
  Well thats all for this week. Sorry for shorting you a read on Wednesday. Have a good weekend and I'll try to remember to update for Monday since Willow is out until Monday afternoon.
 

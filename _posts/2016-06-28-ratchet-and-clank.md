@@ -25,7 +25,7 @@ Those are pretty similar to my list of feats on [R&C Into the Nexus](/2014/06/22
 
 One of my favorite parts was creating the Econ Tool. This is a C# winforms app that I created to help tune all aspects of the economy. It basically scrapes all of the levels for all sources of potential income and gives you a way to input some tuning values and it outputs final income values for each type of thing you can get income from to ensure that drops are always consistent yet escalate as you get further. It also predicts how much income the player will have at any given point in time and maps this against the available purchases or level up thresholds or whatever; building a colorful graph that you can use to assess whether purchase prices are reasonable. That's just the currency stuff, it does all sorts of other things like judging weapon power levels (with and without predicted upgrades) over the course of the game, and how well enemy HP is going to stand up to that at various points. 
 
-!(filespace/mike/rcps4_econ_screen3.png)
+![](https://content.duelingmonkeys.com/filespace/mike/rcps4_econ_screen3.png)
 _This is what the tool looks like (an early version, at least)_
 
 In conclusion, Ratchet and Clank for PS4 turned out awesome. It was a great game to work on too. As it turns out, that isn't the only game I was a lead designer that's shipped since my last post, either! However, I'll save that update for another day.

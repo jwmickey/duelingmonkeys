@@ -14,5 +14,4 @@ After many sessions of whining from Willow, I finally made the time to fix the g
  Bare with us as we migrate our images to the new gallery, as well as clean up some things that just don't belong on the site.
 
 
-
-h3{text-align:center}. [New Gallery Page](gallery2)
+[New Gallery Page](/gallery2)

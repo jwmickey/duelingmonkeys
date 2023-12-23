@@ -7,7 +7,7 @@ avatar: "willow_calm2"
 ---
 Exciting news; as of last month I have a new niece! Kaylin Lang Daly. This summer Amanda and I are planning on taking a trip out to Shanghai to see her, which I'm excited about.
 
-[!(filespace/mike/trevorandkaylin_640.jpg)](/filespace/mike/trevorandkaylin.jpg)
+[![](https://content.duelingmonkeys.com/filespace/mike/trevorandkaylin_640.jpg)](https://content.duelingmonkeys.com/filespace/mike/trevorandkaylin.jpg)
 _She already understands cooties! - they grow up so fast_
 
 ### San Francisco
@@ -32,7 +32,7 @@ Also, I recently took a trip to San Francisco with Amanda. It was pretty awesome
 * Ride around on the BART (Bay Area Rapid Transit)
 * Some clothes shopping
 
-!/filespace/mike/sanfran_5_640.jpg!
+![](https://content.duelingmonkeys.com/filespace/mike/sanfran_5_640.jpg)
 _This picture isn't the most representative of San Francisco, but I can get very excited about dinosaurs_
 
 ### GDC

@@ -15,41 +15,25 @@ Credibility is the system we use to act smug and put less credible people's idea
 
 Anyway, now that you have a better understanding of what was on the line with this bet, you understand that I had to go all of the way. It was time for the beard to come off. For posterity, I documented the stages of this process.
 
-
-
-
-!(ttp://classic.duelingmonkeys.com/classic/filespace/willow/beardfull.jpg)
+![](https://content.duelingmonkeys.com/filespace/willow/beardfull.jpg)
 _In case you haven't seen me in a while, this is what I used to look like_
 
-
-
-
-!http://classic.duelingmonkeys.com/classic/filespace/willow/beardhalf.jpg!
+![](https://content.duelingmonkeys.com/filespace/willow/beardhalf.jpg)
 _nobody will ever see me looking like this in person again_
 
-
-
-
-!http://classic.duelingmonkeys.com/classic/filespace/willow/beardquarter.jpg!
+![](https://content.duelingmonkeys.com/filespace/willow/beardquarter.jpg)
 _Actually, I really liked this stage. BUT I HAD A FREAKIN BET GOING ON_
 
-
-
-
-!http://classic.duelingmonkeys.com/classic/filespace/willow/beardnone.jpg!
+![](https://content.duelingmonkeys.com/filespace/willow/beardnone.jpg)
 _This is me now. Terrible, I know_
-
-
-
 
 But wait, THAT'S NOT ALL! I actually had Tim help me take lots of pictures and I strung them together into an irritating animated gif of spinning objects (an internet no-no):
 
+![](https://content.duelingmonkeys.com/filespace/willow/mikebeard2small.gif)
 
+![](https://content.duelingmonkeys.com/filespace/willow/mikebeard3small.gif)
 
-
-!http://classic.duelingmonkeys.com/classic/filespace/willow/mikebeard2small.gif!!http://classic.duelingmonkeys.com/classic/filespace/willow/mikebeard3small.gif!!http://classic.duelingmonkeys.com/classic/filespace/willow/mikebeard4small.gif!
-
-
+![](https://content.duelingmonkeys.com/filespace/willow/mikebeard4small.gif)
 
 
 Oh yeah, I also got a haircut in case you didn't notice.
@@ -64,6 +48,6 @@ This unfortunately has left Orbital development kind of dead in the water, which
 
 I might have mentioned [Musagi](http://www.cyd.liu.se/~tompe573/hp/project_musagi.html) a few times already. I just recently started playing around with VSTi plug-ins. This is a great way of getting quality sounding instruments for free. I made a new song recently while playing with the instruments. Sadly, Musagi doesn't actually handle VSTi instruments that well. It goes really slow, takes up a ton of Ram, crashes frequently, and in one case currupted my file. To make this song, I had to write one track at a time out to wav then composite them in a seperate program. That was a huge pain and i'd like to avoid doing it again. I also realized that the instruments I used didn't have sounds for some of the notes I wrote so part of the song doesn't even play.
 
-In any case, it was a fun experiment. You can listen to it here: [Opus 15](http://classic.duelingmonkeys.com/classic/filespace/willow/Opus15Composite.mp3)
+In any case, it was a fun experiment. You can listen to it here: [Opus 15](https://content.duelingmonkeys.com/filespace/willow/Opus15Composite.mp3)
 
 Happy Holidays people. (damn, that reminded me I have to do holiday gift shopping, now I'm depressed)

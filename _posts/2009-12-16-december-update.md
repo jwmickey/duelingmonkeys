@@ -9,8 +9,8 @@ Hey all, I'll be brief this month. Karma Riot is coming along well, but unfortun
 
 In the meantime, I have some little bits of filler for this month. For one thing, last night I threw together two tracks for Karma Riot so that it could have at least a little sound. They are pretty short and repetitive, but I think the'll do the trick for now:
 
-* [Opus 20](/filespace/mike/opus20.mp3)
-* [Opus 21](/filespace/mike/Opus21.mp3)
+* [Opus 20](https://content.duelingmonkeys.com/filespace/mike/opus20.mp3)
+* [Opus 21](https://content.duelingmonkeys.com/filespace/mike/Opus21.mp3)
 
 ### Ninja Turtles
 

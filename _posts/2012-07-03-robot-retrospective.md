@@ -13,7 +13,7 @@ Last Friday (6/29/2012) was my last day of work at [Robot Entertainment](http://
 
 I took all my logs, filtered and concatenated them, and then (with Jody's help because I refuse to use java) dumped them into [Wordle](http://www.wordle.net/) to make a word cloud image. The results:
 
-[!(filespace/mike/wordcloud_robot_500.png)](/filespace/mike/wordcloud_robot.png)
+[![](https://content.duelingmonkeys.com/filespace/mike/wordcloud_robot_500.png)](https://content.duelingmonkeys.com/filespace/mike/wordcloud_robot.png)
 _The big words were just ones that were a part of my standard format and are in the logs for most days_
 
 The biggest words are all common generic type stuff you might expect to see if you did this for any programmer. It's the smaller words that were somewhat unique to my experience at Robot. I didn't filter out times, so some interesting ones show up - 1:00 (for how long I usually spent not working throughout the day (for lunch typically), then a much smaller 1:30 for long lunches. There's 9:00 for the time I typically got into the office, then a smaller 9:30 for when I slept in. 6:30 and 7:00 both showed up as times I typically left work, but smaller because there was a lot more variance there. I think it's pretty awesome/telling that the word &quot;party&quot; shows up at all. There's a few game-mechanics-specific ones in there like &quot;trap&quot; (probably should be paired with &quot;placement&quot;), &quot;cooldown&quot;, &quot;units&quot;, &quot;tech&quot;, &quot;inventory&quot;, &quot;quest&quot; etc. There's a few for tasks I worked on like &quot;localization&quot;/&quot;loc&quot;, &quot;achievement&quot;, and &quot;leaderboards&quot;. I did end up censoring a word because it's the title of an unannounced project.
@@ -22,28 +22,28 @@ The biggest words are all common generic type stuff you might expect to see if y
 
 So I ran a program to graph out each day I worked and whether it met some sort of chart-specific filter. Here's how it works: each cell is one day, each column of cells is a month, and each year is divided by a thick line. Empty spaces mean that I did not have a log file for that day (weekends, vacations, business travel, etc). A grey space means that I have a log, but it didn't meet the condition for that chart. A white cell means that the log for that day did meet the condition for the chart. Also, my working time is computed using my start and end times on a day minus any time spent doing things non-work related. I tracked the time I spent on things like lunch, games, or long unrelated conversations so they do not count as work time. The short year at the beginning is 2010, the short year at the end is 2012.
 
-!/filespace/mike/careercalendar_robot_inbefore9.png!
+![](https://content.duelingmonkeys.com/filespace/mike/careercalendar_robot_inbefore9.png)
 _I typically go into work at 9. These are the days I was early. Basically, I thought I would get into a habit of working early and I first started, then realized I didn't want to do that. For some reason I picked that habit back up about halfway through 2011, probably because I was working on something super exciting._
 
-!/filespace/mike/careercalendar_robot_outafter6.png!
+![](https://content.duelingmonkeys.com/filespace/mike/careercalendar_robot_outafter6.png)
 _Days I worked past 6:00 PM, which was most days. Not really sure if there is anything interesting here other than that my schedule has shifted to be generally later than it was at Emergent._
 
-!/filespace/mike/careercalendar_robot_weekends.png!
-_Days I had a log that were also weekend days. Didn't have to work many weekends at Robot. The few exceptions came when we were crunching for [Age of Empires Online](http://www.ageofempiresonline.com/en/), then again for [Orcs Must Die!](http://www.robotentertainment.com/games/orcsmustdie/._)
+![](https://content.duelingmonkeys.com/filespace/mike/careercalendar_robot_weekends.png)
+_Days I had a log that were also weekend days. Didn't have to work many weekends at Robot. The few exceptions came when we were crunching for [Age of Empires Online](http://www.ageofempiresonline.com/en/), then again for [Orcs Must Die!](http://www.robotentertainment.com/games/orcsmustdie/)_
 
-!/filespace/mike/careercalendar_robot_workedover85hours.png!
+![](https://content.duelingmonkeys.com/filespace/mike/careercalendar_robot_workedover85hours.png)
 _Days that I worked for 9 hours or more (not including lunch, breaks, etc). Pretty evenly spread and almost all of it was voluntary because I loved my job._
 
-!/filespace/mike/careercalendar_robot_workedunder7hours.png!
+![](https://content.duelingmonkeys.com/filespace/mike/careercalendar_robot_workedunder7hours.png)
 _Days that I worked less than 7 hours. There were a lot more of these than I thought there would be, and (not surprisingly) almost all of them on Fridays._
 
-!/filespace/mike/careercalendar_robot_omd.png!
+![](https://content.duelingmonkeys.com/filespace/mike/careercalendar_robot_omd.png)
 _Days I mentioned OMD in my logs. Although I only spent less than half of the time I was at Robot directly working on OMD, it's (and OMD2's) development was always an important thing across the entire office._
 
-!/filespace/mike/careercalendar_robot_morethan2overhead.png!
+![](https://content.duelingmonkeys.com/filespace/mike/careercalendar_robot_morethan2overhead.png)
 _Days I spent more than 2 hours doing &quot;overhead&quot; tasks - meetings, internal support, e-mail, etc._
 
-!/filespace/mike/careercalendar_robot_workedover12hours.png!
+![](https://content.duelingmonkeys.com/filespace/mike/careercalendar_robot_workedover12hours.png)
 _Days that I worked over 12 hours. It was pretty rare at Robot, just a few for Age Online crunch and a few more as OMD was wrapping up. Overall, I felt like I had a really great quality of life there._
 
 Well, that concludes my visual summary of working for Robot. I had a really awesome time working there and I'm really proud of all the stuff that the studio has done. I wonder how working for Insomniac will compare with these graphs? I guess in time we will see.

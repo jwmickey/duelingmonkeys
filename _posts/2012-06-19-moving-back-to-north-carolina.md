@@ -11,12 +11,14 @@ The big news: I'm moving back to North Carolina! In fact, as I type this, movers
 
 It will be sad to leave [Robot Entertainment](http://www.robotentertainment.com) but I'm also excited to be starting work at [Insomniac Games](http://www.insomniacgames.com) of [Ratchet and Clank](http://www.ratchetandclank.com/en_US/index.htm) fame. They've been making awesome games for a long time now and everyone I met there seemed cool.
 
-!(filespace/mike/insomniaclogo_580.jpg)
+![](https://content.duelingmonkeys.com/filespace/mike/insomniaclogo_580.jpg)
 _Despite what you might have heard, employees do actually sleep from time to time._
 
-Amanda and I recently took a trip out to the North Carolina mountains to visit my parents. That was a great trip, we got to go rafting and hiking and I made Amanda see [Alien](http://www.imdb.com/title/tt0078748/) for the first time. Side note: the idea behind watching Alien was to prep for Promethius, but sounds like the movie isn't nearly as good as the trailers would lead you to believe; oh well. Rafting was tons of fun, we rented a raft and went down the [Nantahala river](http://en.wikipedia.org/wiki/Nantahala_River) without a guide, which was exciting. We got caught up on rocks like 3 times (sometimes it took some serious effort to get unstuck) and we still finished like 30 minutes earlier than anyone else on our excursion.
+Amanda and I recently took a trip out to the North Carolina mountains to visit my parents. That was a great trip, we got to go rafting and hiking and I made Amanda see [Alien](http://www.imdb.com/title/tt0078748/) for the first time. Side note: the idea behind watching Alien was to prep for Promethius, but sounds like the movie isn't nearly as good as the trailers would lead you to believe; oh well. 
 
-!/filespace/mike/rafting_600.jpg!
+Rafting was tons of fun, we rented a raft and went down the [Nantahala river](http://en.wikipedia.org/wiki/Nantahala_River) without a guide, which was exciting. We got caught up on rocks like 3 times (sometimes it took some serious effort to get unstuck) and we still finished like 30 minutes earlier than anyone else on our excursion.
+
+![](https://content.duelingmonkeys.com/filespace/mike/rafting_600.jpg)
 _It got a little more intense than this, but honestly not by much_
 
 If you are a player of [Hero Academy](http://www.robotentertainment.com/games/heroacademy) (and you should be!), I'm happy to say that the next version coming out very soon now will be the first that has the stuff I've worked on in it. Not only did I get to add some completely new systems, I even got to contribute a little to the design, which was fun.

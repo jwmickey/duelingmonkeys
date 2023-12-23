@@ -17,15 +17,15 @@ I also got to see the StarCraft 2 trailer in a movie theater with movie resoluti
 
 In order to keep things visually interesting, I collected some screenshots of stuff I've been doing at work recently.
 
-!(ttp://classic.duelingmonkeys.com/classic/filespace/willow/zorsis.jpg)
+![](https://content.duelingmonkeys.com/filespace/willow/zorsis.jpg)
 
 _This is a screenshot of a demo I did a little work on for GDC 2008. I modeled, textured, and animated the power core structure in the center of the room._
 
-!http://classic.duelingmonkeys.com/classic/filespace/willow/blendshader.jpg!
+![](https://content.duelingmonkeys.com/filespace/willow/blendshader.jpg)
 
 _This is a shader that just takes two textures (in this case, sand and gravel) then blends them in an interesting way to get more natural transitions._
 
-!http://classic.duelingmonkeys.com/classic/filespace/willow/jack.jpg!
+![](https://content.duelingmonkeys.com/filespace/willow/jack.jpg)
 
 _A character and environment I created for the demo I'm currently working on. All this stuff is just proxy so it will get replaced in the end. he has a very humorous run animation._
 

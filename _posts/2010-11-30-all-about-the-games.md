@@ -7,7 +7,7 @@ avatar: "willow_calm2"
 ---
 I still haven't gotten around to putting up a games page link for Brixplorer - sorry! I'll do by best to correct that for next month but if you just want to download the game with minimal explanation or screenshots, you can get it at the [Triangle Game Jam webpage](http://www.trianglegamejam.com/games.php#Brixplorer). For your listening pleasure, here is the main musical theme of the game. Development went well enough on this project that I was able to compose several custom songs for the game in the same weekend as the rest of the game's development!
 
-[&quot;Bricklike Explore&quot; (Brixplorer theme, mp3, 1.0 MB)](/filespace/mike/bricklikeexplore.mp3)
+[&quot;Bricklike Explore&quot; (Brixplorer theme, mp3, 1.0 MB)](https://content.duelingmonkeys.com/filespace/mike/bricklikeexplore.mp3)
 
 So I announced that Paul and I finished phase 2 of Karma Riot just a few months ago, but I don't think I've mentioned what we have been working on since then. The new project was interrupted rather rudely by the whole job change/moving thing, but despite that has come a long way and is almost at phase 1 level of completion!
 
@@ -17,7 +17,7 @@ Since we are not quite at phase 1, I don't have a games page put together for it
 
 I thought it would be cool to make a strategy game but simplify it as much as possible without loosing that 'strategic' feeling while you are playing it. What I came up with was a game that features 5 units with slightly different abilities that basically interact in an extended paper-rock-scissors way. The 5 units featured in this game are (sorry for the cliche) Pirates, Ninjas, Robots, Dinosaurs, and Zombies. Hence the title, Pinin Rodizo.
 
-[!(filespace/mike/pininrodizo_101122_1_500.png)](/filespace/mike/pininrodizo_101122_1.png)
+[![](https://content.duelingmonkeys.com/filespace/mike/pininrodizo_101122_1_500.png)](https://content.duelingmonkeys.com/filespace/mike/pininrodizo_101122_1.png)
 _You can click to see full size if you want, but there's not much more to it._
 
 Pinin Rodizo is a rectangular grid turn based strategy game. On your turn you move your units then tell them what to attack (if anything) until each unit in your army is moved and then you decide what types of new units to produce in your controlled bases and end your turn. There are no hitpoints - units are instantly destroyed if attacked by a counter unit. There are no resources - each base produces one unit per turn. Here's how the units are specialized:
@@ -30,14 +30,14 @@ Pinin Rodizo is a rectangular grid turn based strategy game. On your turn you mo
 
 There are some other rules and explanations I could get into, but I'll just save it for when I actually have something you can download. For now, I'll leave you with this concept sketch:
 
-!/filespace/mike/pininrodizo_concept.png!
+![](https://content.duelingmonkeys.com/filespace/mike/pininrodizo_concept.png)
 _The designs had to change a little when translated to sprites_
 
 ### Age of Empires Online
 
 So as I mentioned before, I now work for [Robot Entertainment](http://www.robotentertainment.com). The game that I'm working on there for now is [Age of Empires Online](http://ageofempiresonline.com/). I'm coming on to the project fairly late in the development cycle, so it's mostly complete. Although that makes it a little less interesting to work on, it does make it safer for me to say that this is going to be a really fun game! I'm not going to go on about what makes it cool here because most of that is already presented in some form on the game's webpage, so you can check it out there.
 
-!/filespace/mike/age-online-logo_500.jpg!
+![](https://content.duelingmonkeys.com/filespace/mike/age-online-logo_500.jpg)
 _After so many years working in the game industry, it will be nice to have my name in the credits for one._
 
 Well, that's it for November. I suspect there will be more interesting stuff to talk about next month, so I'll see you then!

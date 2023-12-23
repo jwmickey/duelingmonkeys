@@ -17,7 +17,7 @@ Paul and I have decided to work on [Pinin Rodizo](/games/pinin-rodizo.html) for 
 
 Just recently I went snow skiing for the first time. Amanda invited me out with her family to [Breckenridge](http://www.breckenridge.com/) Colorado. I'm really glad I got to try it for three days - it got a lot more fun with each passing day so by the end of the third day it was really thrilling to go fast, unlike the first day where it was terrorizing to go faster than very slow. The mountains were really nice too. I look forward to the next time I get to go.
 
-!(filespace/mike/chillinwithamanda.jpg)
+![](https://content.duelingmonkeys.com/filespace/mike/chillinwithamanda.jpg)
 _That's me and Amanda, chillin on the mountain._
 
 As far as the rest of life goes, I'm all moved in here in Texas now. My apartment is pretty nice. I'm not being as social as I probably should. Here's what I've been playing lately:
@@ -29,8 +29,7 @@ As far as the rest of life goes, I'm all moved in here in Texas now. My apartmen
 * [Halo Reach](http://www.bungie.net/Stats/Reach/default.aspx?player=Willow%20Monkey)
 
 Finally, here's a picture of Amanda and I hanging out:
-
-!/filespace/mike/hanginwithamanda.jpg!
+![](https://content.duelingmonkeys.com/filespace/mike/hanginwithamanda.jpg)
 _Look out behind you!_
 
 Oh yeah, and Happy Holidays and New Years and all that stuff.

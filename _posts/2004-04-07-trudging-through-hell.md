@@ -11,6 +11,6 @@ The story of my week is a tragic tale. It makes me sad to think about, so I'm no
 
  If there is anything that I've learned in my two computer graphics classes, it's that I hate computers. I don't want to ever program again.
 
- Anyway, I haven't done any official artwork per se, but I did go ahead and compile some of my sketches into a little [collage](/classic/images/gallery/art/sketchcollage.jpg). I have been experimenting with new shading methods, and I think they have served me particularly well with the guy's head and the girls body. Any comments are welcome, you can use the messageboard.
+ Anyway, I haven't done any official artwork per se, but I did go ahead and compile some of my sketches into a little [collage](https://content.duelingmonkeys.com/gallery/art/sketchcollage.jpg). I have been experimenting with new shading methods, and I think they have served me particularly well with the guy's head and the girls body. Any comments are welcome, you can use the messageboard.
 
  Well, that'll be all for now. I'll catch up with you later.

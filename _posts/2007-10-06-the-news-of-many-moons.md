@@ -7,18 +7,16 @@ avatar: "willow_calm2"
 ---
 Since it has been so long since I've updated, I have a few categories of interest, so I'm going to split this post up into a few sections.
 
-
-
 ### New House
 
 I've been moved into my new house for a few months now and I never got around to posting proper pictures of it. It is kind of too late now considering that most of you have already been to my house and seen it in person. But some people I know live in China, so to give them an idea of where I live now, I'm posting some pictures of the new place anyway.
 
-* Here is the [kitchen](images/gallery/willow/house02.jpg)
-* My [bedroom](images/gallery/willow/house01.jpg) is pretty much the same as always
-* The best [couch](images/gallery/willow/house04.jpg) ever
-* My fun [stuff](images/gallery/willow/house05.jpg)
-* [Front left and](images/gallery/willow/house06.jpg"front) right":images/gallery/willow/house07.jpg
-* [the back](images/gallery/willow/house08.jpg)
+* Here is the [kitchen](https://content.duelingmonkeys.com/gallery/willow/house02.jpg)
+* My [bedroom](https://content.duelingmonkeys.com/gallery/willow/house01.jpg) is pretty much the same as always
+* The best [couch](https://content.duelingmonkeys.com/gallery/willow/house04.jpg) ever
+* My fun [stuff](https://content.duelingmonkeys.com/gallery/willow/house05.jpg)
+* [Front left and](https://content.duelingmonkeys.com/gallery/willow/house06.jpg"front) right":images/gallery/willow/house07.jpg
+* [the back](https://content.duelingmonkeys.com/gallery/willow/house08.jpg)
 
 ### Shape Slasher
 
@@ -28,14 +26,14 @@ On other subjects, I make a video game a few months ago as part of the Triangle 
 
  Although it's not a fantastic game, I'm still pretty proud of what we came up with given the subject and basically a weekend's worth of work. I'll admit that we did put a little polish on it with a few more days, but the overall time investment was still pretty small. We made the game using XNA and C#. Unfortunately, this means that if you want to try it out, you basically have to have a graphics card that supports shader model 2+ (radeon 9k+ or GeForce 5k+). Additionally, it is likely that there are some reditributables that you will need to download. If you are interested in trying it out, you can download it from this link. There is a readme file in the zip that contains instructions and links for all of the game's dependencies.
 
- For those of you who do not have computers or interest in playing the game yourself, you can check out these screenshots and this [gameplay video](/classic/filespace/willow/shapeslashervideo.wmv).
+ For those of you who do not have computers or interest in playing the game yourself, you can check out these screenshots and this [gameplay video](https://content.duelingmonkeys.com/filespace/willow/shapeslashervideo.wmv).
 
-* [Image 1](images/gallery/willow/game%20dev/slasher01.jpg) - these shapes have been slashed.
-* [Image 2](images/gallery/willow/game%20dev/slasher02.jpg) - Cutting out a nice triangle.
-* [Image 3](images/gallery/willow/game%20dev/slasher03.jpg) - we included a few varieties of stages
-* [Image 4](images/gallery/willow/game%20dev/slasher04.jpg) - such as challenge, which gives you a single shape that you must get as many triangles from in time.
+* [Image 1](https://content.duelingmonkeys.com/gallery/willow/game%20dev/slasher01.jpg) - these shapes have been slashed.
+* [Image 2](https://content.duelingmonkeys.com/gallery/willow/game%20dev/slasher02.jpg) - Cutting out a nice triangle.
+* [Image 3](https://content.duelingmonkeys.com/gallery/willow/game%20dev/slasher03.jpg) - we included a few varieties of stages
+* [Image 4](https://content.duelingmonkeys.com/gallery/willow/game%20dev/slasher04.jpg) - such as challenge, which gives you a single shape that you must get as many triangles from in time.
 
-Anyway, in case you are interested, you can down load it following this link: [Shape Slasher](/classic/filespace/willow/shapeslasher_refined.zip).
+Anyway, in case you are interested, you can down load it following this link: [Shape Slasher](https://content.duelingmonkeys.com/filespace/willow/shapeslasher_refined.zip).
 
 ### Beautiful Pixels
 
@@ -43,10 +41,10 @@ I've started a new project in XNA. This time around it's kind of a modular board
 
 ### Halo 3
 
-Beautiful Pixels has recently taken kind of a back seat to Halo 3, which I've been enjoying. I really like the fact that you can take screenshots and upload them to the internet. Here is an image of me playing [four player co-op](images/gallery/willow/halo3coop.jpg). I had to cancel the first Halo 3 party because of a death in the family, but I'll try it again sometime real soon. A few months ago I did some testing at work and I decided to make a crude Halo inspired test case that ended up being kind of cute. I was just supposed to be testing our Game tools ability to export an animated character.
+Beautiful Pixels has recently taken kind of a back seat to Halo 3, which I've been enjoying. I really like the fact that you can take screenshots and upload them to the internet. Here is an image of me playing [four player co-op](https://content.duelingmonkeys.com/gallery/willow/halo3coop.jpg). I had to cancel the first Halo 3 party because of a death in the family, but I'll try it again sometime real soon. A few months ago I did some testing at work and I decided to make a crude Halo inspired test case that ended up being kind of cute. I was just supposed to be testing our Game tools ability to export an animated character.
 
-* I call him [Mister Chief](images/gallery/willow/game%20dev/mrchiefstanding.jpg)
-* Mr. Chief has a [deadly weapon](images/gallery/willow/game%20dev/mrchiefshooting.jpg)
-* But he's still not that [tough](images/gallery/willow/game%20dev/mrchiefscared.jpg)
+* I call him [Mister Chief](https://content.duelingmonkeys.com/gallery/willow/game%20dev/mrchiefstanding.jpg)
+* Mr. Chief has a [deadly weapon](https://content.duelingmonkeys.com/gallery/willow/game%20dev/mrchiefshooting.jpg)
+* But he's still not that [tough](https://content.duelingmonkeys.com/gallery/willow/game%20dev/mrchiefscared.jpg)
 
 Catch you later.

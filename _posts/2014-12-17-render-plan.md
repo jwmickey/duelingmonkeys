@@ -9,7 +9,7 @@ So in my last update I mentioned that one of the hobby projects I worked on was 
 
 As before, I was underwhelmed by the results. It didn't end up looking nearly as cool as I had hoped. Oh well, it was still fun to work on and I learned some new stuff. Also, I'm going to do something I neglected to do before and actually post a [download link](/downloads/tools/renderplan_141201.zip).
 
-!(filespace/mike/renderplan_10.png)
+![](https://content.duelingmonkeys.com/filespace/mike/renderplan_10.png)
 _Screenshot of the new effect for those who don't want to hassle with downloading stuff_
 
 Also, I don't think I ever posted a link to the Image Formula hobby project that I also mentioned in my last update. While uploading today's package, I saw that it was already on the server, so why not? You can download it [with this link](/downloads/tools/imageformula_130925.zip).

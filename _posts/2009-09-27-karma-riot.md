@@ -18,16 +18,16 @@ I haven't really started on any of the art, so visually it's going to look compl
 
 Here are some screenshots for you to enjoy:
 
-!(filespace/mike/karmariot_earlybuild1_512.png)
+![](https://content.duelingmonkeys.com/filespace/mike/karmariot_earlybuild1_512.png)
 _We tested the simulation with a top-down renderer_
 
- !/filespace/mike/karmariot_earlybuild3_600.png!
+![](https://content.duelingmonkeys.com/filespace/mike/karmariot_earlybuild3_600.png)
 _Then just recently added the perspective rendering with proxy art and AI_
 
- !/filespace/mike/karmariot_proxykart.png!
+![](https://content.duelingmonkeys.com/filespace/mike/karmariot_proxykart.png)
 _I like the idea of super-deformed ATVs rather than go-karts. This is my mockup_
 
- !/filespace/mike/karmariot_proxyspinaround.gif!
+![](https://content.duelingmonkeys.com/filespace/mike/karmariot_proxyspinaround.gif)
 _This is the spinaround of my test sprite_
 
 

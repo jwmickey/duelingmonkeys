@@ -11,7 +11,7 @@ Whilst browsing our site earlier this week, I randomly went back and read the up
 
  Nowadays, all the stuff I sink my time into isn't stuff that I can post. It's not stuff I necessarily enjoy doing, either, which is quite depressing. But, complaints aside, I did get to do a little modeling recently, so I've come up with some screenshots of my latest partially-complete character model.
 
- Keep in mind, it still needs a lot of work: model tweaking, textures, a big-time poly reduction, and rigging. Someday I'll finish it. Maybe. Oh right, I still should post a link. [Try this out](/classic/images/gallery/modeling/femalebodyrender1.jpg).
+ Keep in mind, it still needs a lot of work: model tweaking, textures, a big-time poly reduction, and rigging. Someday I'll finish it. Maybe. Oh right, I still should post a link. [Try this out](https://content.duelingmonkeys.com/gallery/modeling/femalebodyrender1.jpg).
 
  Yeah, I know it's not great, but you're lucky to get that considering what I've been through recently. In fact, the only reason I have time to update is because I'm pulling another all-nighter. I have a major graphics program due tommorrow and I haven't started yet, but this time It's for a slew of valid reasons; not just the fact that I didn't want to do it, as it usually is. One of the reasons might have to do with the fact that I have 3 english classes at once right now, and english is my natural enemy.
 

@@ -11,7 +11,7 @@ Most of the time, I am bothered by myself when I go a day without accomplishing 
 
  Even if I hadn't written it down, I would still consider today one of the most productive of my life.
 
- On a lighter note, a couple days ago, I transfered another character to illustrator. Now you can see [the scientist](/classic/images/gallery/art/scientist.jpg), a mascot character for a video game club I'm working on founding.
+ On a lighter note, a couple days ago, I transfered another character to illustrator. Now you can see [the scientist](https://content.duelingmonkeys.com/gallery/art/scientist.jpg), a mascot character for a video game club I'm working on founding.
 
  Hope you enjoy my story, if you have anything to say, don't hesitate to share your thoughts on [the messageboard](topics.php), I garuntee that Wayne and I will both read them, and probably respond.
 

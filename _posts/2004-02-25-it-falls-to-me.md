@@ -5,7 +5,7 @@ date:   2004-02-25 19:00:00
 author: "Wesley"
 avatar: "wesley_calm"
 ---
-once again i am left with the awsome responsibility of updating our wonderfully useless website. i've been informed that it is my DUTY to bring you new content every update (and by you i mean the whole 2 people who visit our site regularly). so here it is, [The Samurai](images/gallery/art/samurai.jpg). Personally, i think willow did an excellent job with the coloring of this one.
+once again i am left with the awsome responsibility of updating our wonderfully useless website. i've been informed that it is my DUTY to bring you new content every update (and by you i mean the whole 2 people who visit our site regularly). so here it is, [The Samurai](https://content.duelingmonkeys.com/gallery/art/samurai.jpg). Personally, i think willow did an excellent job with the coloring of this one.
 
 so now that you have some new content, i am now free to blabber on about whatever i want. and what i want right now is to tell you a few things that irritate me:
 

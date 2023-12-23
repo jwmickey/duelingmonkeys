@@ -10,5 +10,5 @@ So yeah Willow is making me update tonight... and I can guaruntee 1000% that the
 
 Also coming soon is a new about page and hopefully a return to some cool iconage (depending on Willow and Wayne's aptitude to finish work... _muhahahha putting it in an update to force completeion--I went there_).
 
-So in the mean time I leave you with some fond memories with an old link to [A Modest Destiny](http://www.squidi.net) and _from the Animaniacs_.... with [&quot;The Monkey Song&quot;](http://www.duelingmonkeys.com/classic/filespace/wastrel/Animaniacs_The_Monkey_Song.mp3).
+So in the mean time I leave you with some fond memories with an old link to [A Modest Destiny](http://www.squidi.net) and _from the Animaniacs_.... with [&quot;The Monkey Song&quot;](https://content.duelingmonkeys.com/filespace/wastrel/Animaniacs_The_Monkey_Song.mp3).
 peace

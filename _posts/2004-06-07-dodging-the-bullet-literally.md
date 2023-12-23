@@ -21,20 +21,20 @@ Hello all. It has indeed been a long time since I've updated. I'm still lamentin
 
  We lay out our gear on one and get started. We started with some lighter weapons. I would call these 'gateway guns'. I fired a small calibur rifle and pistol a great deal of times with some success. I was able to hit the target ... kind of.
 
- [Exhibit A](/classic/images/gallery/miscellaneous/gunplay1.jpg)
+ [Exhibit A](https://content.duelingmonkeys.com/gallery/miscellaneous/gunplay1.jpg)
 
  Then we moved on to the hard stuff. I fired off a few rounds from a .357 magnum, which was a painful experience. Also, I'd like to note that some of the other people at the range reminded me of the documentaries I sometimes see on the discovery channel about America's secret psycho militias. One guy in particular was brandishing about 5 high-powered assault rifles. If we ever get invaded by paper silhouettes, I'm going to Virginia.
 
- [Exhibit B](/classic/images/gallery/miscellaneous/gunplay2.jpg)
+ [Exhibit B](https://content.duelingmonkeys.com/gallery/miscellaneous/gunplay2.jpg)
 
  One one final note, you have probably noticed that my exhibits are well-constructed computer-generated replicas of the actual scene in question. I'd like to point out that Wesley, the guy who never updates this site ever, had a camera and took pictures, then failed to get them to me in such a way that I could use them for internetting.
 
- So, there you have it. That was my interesting gun-toting experience. It's not hard to devise that I wasn't really in my element there. In other news, I'm still working on my motorcycle model for UT 2k4. Let's see if I can find that old render ... ah, [here](/classic/images/gallery/modeling/bikegeometry.jpg) it is. Well, that's a really old render. The status of the project is that I have a &quot;working&quot; prototype running in the game. I still have a lot of work to do before it's done, but I'm having a hell of a lot of fun crashing it in interesting ways, doing stunts, and watching the bots try to drive it and immediately fall over. If I get it to a reasonable state of completion, you can expect it to show up here.
+ So, there you have it. That was my interesting gun-toting experience. It's not hard to devise that I wasn't really in my element there. In other news, I'm still working on my motorcycle model for UT 2k4. Let's see if I can find that old render ... ah, [here](https://content.duelingmonkeys.com/gallery/modeling/bikegeometry.jpg) it is. Well, that's a really old render. The status of the project is that I have a &quot;working&quot; prototype running in the game. I still have a lot of work to do before it's done, but I'm having a hell of a lot of fun crashing it in interesting ways, doing stunts, and watching the bots try to drive it and immediately fall over. If I get it to a reasonable state of completion, you can expect it to show up here.
 
  You know? What the hell, I'll go ahead and make some screenshots for you:
 
- [My beautiful bike in game](/classic/images/gallery/game%20dev/earlyshot1.jpg)
- [Me driving the bike suicidally hundreds of feet above the ground](/classic/images/gallery/game%20dev/earlyshot2.jpg)
+ [My beautiful bike in game](https://content.duelingmonkeys.com/gallery/game%20dev/earlyshot1.jpg)
+ [Me driving the bike suicidally hundreds of feet above the ground](https://content.duelingmonkeys.com/gallery/game%20dev/earlyshot2.jpg)
 
  Also, I've been having trouble coming up with a cool name for it. Check out [this thread](topics.php?topicID=1086676619) to give me your feedback. Wayne will probably be annoyed that I didn't use the nifty new 'Add Comments' link he programmed in to each news post, but I had already created the thread. Oops. Note that if you feel like commenting on my gun-toting adventure, you can use the 'Add Your Comments' link. I wonder if that works?
 

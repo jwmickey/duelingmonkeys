@@ -11,12 +11,12 @@ So I'm working on a game project these days with Paul, but it's coming along ver
 
 I've been thinking for a while about ways to procedurally generate content for games, and I became curious to try and make a generic tool that helped you author a recipe for certain types of procedural content. This was also a good chance to learn about [WPF](http://en.wikipedia.org/wiki/Windows_Presentation_Foundation) and a few of the unique features of the C# language that I've been ignoring all of this time. The tool is still pretty early so it can't do a whole lot yet; I'm still trying to figure out if this idea can even work. However, it can at least produce some screenshots to liven up an update!
 
-[!(filespace/mike/graphgenerator_640.png)](/filespace/mike/graphgenerator_917.png)
+[![](https://content.duelingmonkeys.com/filespace/mike/graphgenerator_640.png)](https://content.duelingmonkeys.com/filespace/mike/graphgenerator_917.png)
 _Click to see the whole interface_
 
 There is also very exciting stuff going on at work! I'm really excited to say that today [we](http://www.robotentertainment.com) announced [Orcs Must Die!](http://www.robotentertainment.com/games/orcsmustdie). OMD is an original IP with some unique mechanics. I've actually moved off of [Age of Empires Online](http://www.ageofempiresonline.com) to work on OMD now.
 
-!/filespace/mike/omdlogo.png!
+![](https://content.duelingmonkeys.com/filespace/mike/omdlogo.png)
 _Trust me, they must die_
 
 Catch you later!

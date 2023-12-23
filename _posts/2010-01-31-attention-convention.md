@@ -15,7 +15,7 @@ Just to get people up to speed; the [Global Game Jam](http://www.globalgamejam.c
 
 This year, we had an exciting twist; the Triangle area got a pile of snow this weekend. This much (or any) snow is kind of unusual for the area so naturally everyone panicked and shut down. Unfortunately, the places to close included our site. This made development tricky because everyone kind of scattered and had to work remotely and Mike and I couldn't keep an eye on each team's progress and help out as necessary.
 
-!(filespace/mike/ggjsnow.jpg)
+![](https://content.duelingmonkeys.com/filespace/mike/ggjsnow.jpg)
 _Nick Darnell's alternate Game Jam site_
 
 
@@ -27,7 +27,7 @@ The theme this year was to make a game that centered around the concept of DECEP
 
 The concept that I came up with was a multiplayer game where one player was trying to help a group of underage dudes sneak past security into an adults-only convention and the other player tries to pick the dudes out of a crowd. The first player can purchase changes to their appearance that make them harder to pick out of the crowd, at the cost of risking not bringing enough money into the convention. The second player can net anyone he wants, but netting legal attendees makes the first player have to bring less money to the convention to win.
 
-!/images/games/attentionconvention/attentionconvention7mid.png!
+![](https://content.duelingmonkeys.com/images/games/attentionconvention/attentionconvention7mid.png)
 _Net trap gameplay_
 
 

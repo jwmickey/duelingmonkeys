@@ -7,7 +7,7 @@ avatar: "willow_calm2"
 ---
 A bunch of cool stuff has happened in the past year but the big one that really eclipses the rest is that Amanda gave birth to a beautiful baby girl: I'm super excited to announce Lydia Jo Daly.
 
-!(filespace/mike/lydiajodaly_150926.jpg)
+![](https://content.duelingmonkeys.com/filespace/mike/lydiajodaly_150926.jpg)
 _Adorable onesie courtesy of Colin and April - thank you!_
 
 Here's some vital statistics:

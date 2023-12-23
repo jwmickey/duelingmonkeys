@@ -16,7 +16,7 @@ We covered:
 
 Overall, I think it went really well. We had decent attendance considering that we were in the last time slot of the conference and it's a subject that most game developers probably don't care much about. I'm supposed to post the slides so that anyone who attended the talk can reference them. Hopefully those people waited a few days before visiting my site (or just visited Mike's instead). Here they are:
 
-[Jamming with Games (PDF, 119 KB)](/filespace/mike/jamming-with-games.pdf)
+[Jamming with Games (PDF, 119 KB)](https://content.duelingmonkeys.com/filespace/mike/jamming-with-games.pdf)
 
 There is a lot of additional context in the speaker notes if you want more. It got me fired up to start work on organizing the 2009 Triangle Game Jam.
 
@@ -34,13 +34,8 @@ I keep making allusions to Mangled Metal. This is the sample game that demonstra
 
 Anyway, Mangled Metal is a third person action game set in the [War Machine](http://www.privateerpress.com/WARMACHINE/) universe. The player controls a War Jack - a steam/magic powered metal robot approximately 2~3 meters tall. The warjack walks through a valley/graveyard area pounding on bad guys until he gets to the end where, after pounding all the bad guys, the game abruptly ends.
 
-
-
-!(ttp://www.duelingmonkeys.com/filespace/mike/mangledmetal15_mid.jpg)
+![](http://www.duelingmonkeys.com/filespace/mike/mangledmetal15_mid.jpg)
 _You are probably getting bored of Mangled Metal screenshots by now_
-
-
-
 
 The player can perform light attacks in a combo while moving, make a heavy attack, or a charge attack if running. The player can also cast an area of effect spell. Some of the technology highlights include 3D directional sound, GFx (flash) UI, dynamically destructible environment props, and physics simulation with ragdoll. The combat mechanics, enemy AI, and triggers/events are all driven by scripted behaviors written in Lua.
 
@@ -48,17 +43,14 @@ It is a really useful sample for showing off the new tools in Gamebryo LightSpee
 
 When the project was first starting out, before the artists had ramped up and gotten something they could show, I created a bunch of placeholder art just to get things running. We actually ended up shipping a bunch of my placeholder art with Gamebryo LightSpeed in our samples. I'm a little entertained by that; I never intended for it to be used as part of the product, but that is a sentiment that we express about a large number of components of the engine.
 
-!http://www.duelingmonkeys.com/filespace/mike/mangledmetal2_mid.jpg!
+![](http://www.duelingmonkeys.com/filespace/mike/mangledmetal2_mid.jpg)
 _This is some of my proxy art we ended up shipping_
-
-
-
 
 ### Gamebryo LightSpeed
 
 Gamebryo LightSpeed finally went gold a few days ago. We are now internally working on preparing the final build for distribution to our (rather large number of) evaluators and customers. This marks a huge milestone for our company and yet another accomplishment that I'm glad to have behind me. It seems like there have been a lot of things that I couldn't wait to be over with recently.
 
-!http://www.duelingmonkeys.com/filespace/mike/lightspeedlogo.jpg!
+![](http://www.duelingmonkeys.com/filespace/mike/lightspeedlogo.jpg)
 _Hello, sexy!_
 
 Technically, we (Emergent employees) aren't supposed to be discussing this externally because we haven't announced it to our customers yet. Marketing also wants to make sure that everyone sends the right message about the release. We are also supposed to use a different version of the logo. I guess I just feel like being a rebel today.

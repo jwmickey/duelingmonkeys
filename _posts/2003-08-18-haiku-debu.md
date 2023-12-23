@@ -23,4 +23,4 @@ avatar: "willow_calm"
 
  Today, the fourth day
  I cannot think very clearly
- then my update [sucks](/classic/images/gallery/humor/shcool.jpg).
+ then my update [sucks](https://content.duelingmonkeys.com/gallery/humor/shcool.jpg).

@@ -22,7 +22,7 @@ So, what does Phase 1 complete mean? It means that we have a working prototype t
 
 But you don't have to take my word for it. One of the other nice things about being at phase 1 is that I put up a new entry on the [Games](/games) page for it: [Karma Riot](/games/karmariot). You cand download and play the prototype from there, however, you will need wired 360 controllers for each player.
 
-!(images/games/karmariot/karmariotalpha5.png)
+![](https://content.duelingmonkeys.com/games/karmariot/karmariotalpha5.png)
 _Power slide to victory!_
 
 

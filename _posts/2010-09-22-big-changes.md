@@ -11,7 +11,7 @@ The astute observer will realize that I failed to update Dueling Monkeys in the 
 
 So one day I was enjoying our weekly pick-up volleyball game and out of the blue a cute girl showed up and played with us. I asked her if she would keep playing with us (after all, she was good at volleyball) but she was torn between doing that or going rock climbing. We negotiated a deal where I would go climbing with her another day of the week if she kept playing volleyball. A few weeks later, she asked me out on a date, and then after a few weeks of dating I asked her to be my girlfriend.
 
-!(filespace/mike/mikeandamanda.jpg)
+![](https://content.duelingmonkeys.com/filespace/mike/mikeandamanda.jpg)
 _That's us in the mountains_
 
 ### New Job
@@ -20,7 +20,7 @@ After 6 years of working for [Emergent Game Technologies](http://www.emergent.ne
 
 I'm very excited to announce that I've taken a job offer to work for [Robot Entertainment](http://www.robotentertainment.com). Although I don't know the details of what I'll be working on, I know that the new job will let me make creative contributions and I'll be working on actual games (instead of an engine), both things that I really love but didn't have the chance to do at Emergent.
 
-!/filespace/mike/legorobot500.jpg!
+![](https://content.duelingmonkeys.com/filespace/mike/legorobot500.jpg)
 _Company logo made out of legos - awesome._
 
 My first day is Monday, October 18th. Wish me luck!
@@ -39,7 +39,7 @@ This year's theme was &quot;Placing blocks&quot;; not necessarily original, but 
 
 A team formed around my proposal of a [rogue-like](http://en.wikipedia.org/wiki/Roguelike) where you pick up and put down dungeon tiles instead of using weapons and spells and stuff. Of all of the Game Jam games that I've worked on, or even seen developed, I'm proud to say that this one is probably the most complete and well polished.
 
-[!/filespace/mike/brixplorer500.png!](/filespace/mike/brixplorer.png)
+[![](https://content.duelingmonkeys.com/filespace/mike/brixplorer500.png)](https://content.duelingmonkeys.com/filespace/mike/brixplorer.png)
 _It gets a lot more interesting as you go, trust me. click to see full size_
 
 We used the tiles and sprites from [Angband](http://en.wikipedia.org/wiki/Angband_%28video_game%29). I worked on this with Mike Lee and Brian Sowers. Hopefully sometime in the next month I'll have time to put up a section of the games page for it with more screenshots, instructions, and a download link.

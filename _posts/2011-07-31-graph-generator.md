@@ -21,16 +21,16 @@ Some of the examples above could be accomplished by combining a few generic oper
 
 This first iteration of the tool has you authoring formulas in XML. The tool interface just uses the formula to build a graph and draws the graph. You have some tools for inspecting the tags of the graph as well. In some imaginary future where I keep working on this, I'd put the formula editor on the right panel so that you don't have to deal directly with the XML. Here's some screenshots:
 
-[!(filespace/mike/generator_1_548.png)](/filespace/mike/generator_1.png)
+[![](https://content.duelingmonkeys.com/filespace/mike/generator_1_548.png)](https://content.duelingmonkeys.com/filespace/mike/generator_1.png)
 _A simple Karma Riot track generated. Click to see entire UI_
 
-[!/filespace/mike/generator_2_548.png!](/filespace/mike/generator_2.png)
+[![](https://content.duelingmonkeys.com/filespace/mike/generator_2_548.png)](https://content.duelingmonkeys.com/filespace/mike/generator_2.png)
 _The same track formula with a different seed._
 
-[!/filespace/mike/generator_3_548.png!](/filespace/mike/generator_3.png)
+[![](https://content.duelingmonkeys.com/filespace/mike/generator_3_548.png)](https://content.duelingmonkeys.com/filespace/mike/generator_3.png)
 _A similar formula for creating more difficult tracks._
 
-[!/filespace/mike/generator_4_548.png!](/filespace/mike/generator_4.png)
+[![](https://content.duelingmonkeys.com/filespace/mike/generator_4_548.png)](https://content.duelingmonkeys.com/filespace/mike/generator_4.png)
 _A formula for creating a world to explore_
 
 So what happens next? I think the tool is far enough along to prove the concept and I think I've learned enough lessons, so I'm going to retire it for now and move on. If I feel like having procedural content in a future hobby project, I might come back and make a few new operations and make a graph-to-game-data converter. Honestly, this particular project drug on a lot longer than it should have and I've been suffering from a lack of motivation to work on it so I'll be glad to start something new. This time I think I'll pick something relatively short and easy.

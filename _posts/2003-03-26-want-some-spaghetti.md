@@ -7,4 +7,4 @@ avatar: "willow_calm"
 ---
 Wayne's ladeling privelages have been permanently revoked after [this](/classic/images/pics/spaghetti.jpg) incident. Apparently, he thought it would just be easier to pour out the wet noodles onto the plate when he had a perfectly good ladel there to do it. It's a good thing the counter, sink, and floor was there to catch it.
 
- In other news, someone (who for Sam's sake, I won't mention names) asked me to design them a counter-strike spray paint logo featuring his favorite weapon, the mac 10. I've done this, and I'm so proud of myself for breaking out of my previous artistic paradigm that I've posted it in the gallery. Feel free to enjoy it [here](/classic/images/gallery/art/countersam.jpg).
+ In other news, someone (who for Sam's sake, I won't mention names) asked me to design them a counter-strike spray paint logo featuring his favorite weapon, the mac 10. I've done this, and I'm so proud of myself for breaking out of my previous artistic paradigm that I've posted it in the gallery. Feel free to enjoy it [here](https://content.duelingmonkeys.com/gallery/art/countersam.jpg).

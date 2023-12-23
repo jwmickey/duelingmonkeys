@@ -15,7 +15,7 @@ Fortunately, there is a technical account manager already in China who can stand
 
 In other news, I get to go to China; that's pretty cool. I'll have a few days in the middle in Shanghai where I can hang out with my brother Dave and his family. I really thought I would have had more to say about this, but I really can't get over that first bit of stuff I was talking about so I'll just leave it at that.
 
-!(ttp://www.duelingmonkeys.com/filespace/mike/mangledmetal18_mid.jpg)
+![](http://www.duelingmonkeys.com/filespace/mike/mangledmetal18_mid.jpg)
 _Here is a screenshot that has nothing to do with what I'm talking about_
 
 
@@ -33,7 +33,7 @@ I forgot to mention this last time, but I recently got some feedback on my game 
 
 Wow. Really? I actually would have been a lot happier not having recieved that feedback. At least then I could have continued under the illusion that the judge put more than 30 seconds worth of thought into my game before passing on it. That vague one sentence description could have applied to any entry in the entire festival.
 
-!http://www.duelingmonkeys.com/filespace/mike/mangledmetal17_mid.jpg!
+![](https://content.duelingmonkeys.com/filespace/mike/mangledmetal17_mid.jpg)
 _Here's another out of place screenshot_
 
 

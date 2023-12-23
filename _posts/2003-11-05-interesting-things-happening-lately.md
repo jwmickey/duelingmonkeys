@@ -7,7 +7,7 @@ avatar: "willow_calm"
 ---
 Last night, I found my self staring at my alarm clock thinking: &quot;I'm going to get six hours of sleep tonight! Awesome!&quot; Then I climbed up into my bed and saw that it was neatly made. This caused me to think a bit because I do not normally (read: ever) make my bed.
 
- We had a Halloween get together last friday. Friday night (/saturday morning) I went to bed after trying to wash all of my [makeup](/classic/images/gallery/halloween%202003/haloweengang.jpg) off, but I didn't manage to get it all off, so I made a big, red, mess all over my sheets. I washed my sheets the next day and made my bed with them when they were done.
+ We had a Halloween get together last friday. Friday night (/saturday morning) I went to bed after trying to wash all of my [makeup](https://content.duelingmonkeys.com/gallery/halloween%202003/haloweengang.jpg) off, but I didn't manage to get it all off, so I made a big, red, mess all over my sheets. I washed my sheets the next day and made my bed with them when they were done.
 
  The implication here is that I did not get to sleep in my own bed from then until last night. Why, you might ask? Because I didn't get to sleep. Over the past seven days, I've only gotten 3 nights of sleep. It has been one hellish nightmare, but I think it's almost over.
 

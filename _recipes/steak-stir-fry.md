@@ -23,13 +23,13 @@ categories:
 
 ### Directions
 
-# Slice and dice pepper and onion, put in bowl
-# If you are using an uncut piece of meat, cut it into small strips or cubes
-# Start heating olive oil on medium-high heat in large skillet
-# Add water, black pepper, soy sauce, garlic, ginger, green pepper, and onion
-# Cook on medium-high heat for about 7 - 10 minutes or until peppers and onions are partially cooked.
-# Add steak strips (or cubes) and mushrooms
-# Cook on medium heat until steak is cooked thuroughly or until desired pinkness.
+1. Slice and dice pepper and onion, put in bowl
+1. If you are using an uncut piece of meat, cut it into small strips or cubes
+1. Start heating olive oil on medium-high heat in large skillet
+1. Add water, black pepper, soy sauce, garlic, ginger, green pepper, and onion
+1. Cook on medium-high heat for about 7 - 10 minutes or until peppers and onions are partially cooked.
+1. Add steak strips (or cubes) and mushrooms
+1. Cook on medium heat until steak is cooked thuroughly or until desired pinkness.
 
 ### Comments
 

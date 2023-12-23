@@ -20,13 +20,13 @@ categories:
 
 ### Directions
 
-# in large skillet add just enough water to cover the bottom of the pan, then add the dashi. heat on hi until the water begins to bubble
-# add the whole onion and let simmer until it becomes soft
-# add the chicken breast chunks
-# when the chickin is nearly cooked through, add the sake and sugar. stir well, then add the soy sauce.
-# add the egg evenly to the pan, turn the heat down a bit and cook for 1 to 2 min. DON'T MIX. the egg should be cooked on the bottom, but slightly undercooked on top.
-# divide and serve on white rice
-# the end
+1. in large skillet add just enough water to cover the bottom of the pan, then add the dashi. heat on hi until the water begins to bubble
+1. add the whole onion and let simmer until it becomes soft
+1. add the chicken breast chunks
+1. when the chickin is nearly cooked through, add the sake and sugar. stir well, then add the soy sauce.
+1. add the egg evenly to the pan, turn the heat down a bit and cook for 1 to 2 min. DON'T MIX. the egg should be cooked on the bottom, but slightly undercooked on top.
+1. divide and serve on white rice
+1. the end
 
 ### Comments
 

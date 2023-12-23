@@ -14,11 +14,11 @@ categories:
 
 ### Directions
 
-# Cut up broccoli into desired sizes.
-# Place broccoli into a pot that has a lid.
-# Add water until there is about ï¿½ an inch in the bottom of the pot.
-# Cook on medium heat, stirring occasionally, until at desired consistency. I go for a nice vibrant green color.
-# Drain and serve (or add to another dish).
+1. Cut up broccoli into desired sizes.
+1. Place broccoli into a pot that has a lid.
+1. Add water until there is about ï¿½ an inch in the bottom of the pot.
+1. Cook on medium heat, stirring occasionally, until at desired consistency. I go for a nice vibrant green color.
+1. Drain and serve (or add to another dish).
 
 ### Comments
 

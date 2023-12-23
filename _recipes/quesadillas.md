@@ -19,11 +19,11 @@ categories:
 
 ### Directions
 
-# Saute sliced onion in olive oil on medium heat stirring occasionally.
-# Grate the cheese while the onions are browning
-# Once onions are slightly browned, add in the shrooms and mix well so the olive oil coats them. Turn heat to low.
-# Fill your tortillas with a thin layer of mushrooms and onions and a handful of cheese, then fold in half.
-# Grill or fry the quesadillas in a dry frying pan until cheese is melted
+1. Saute sliced onion in olive oil on medium heat stirring occasionally.
+1. Grate the cheese while the onions are browning
+1. Once onions are slightly browned, add in the shrooms and mix well so the olive oil coats them. Turn heat to low.
+1. Fill your tortillas with a thin layer of mushrooms and onions and a handful of cheese, then fold in half.
+1. Grill or fry the quesadillas in a dry frying pan until cheese is melted
 
 ### Comments
 

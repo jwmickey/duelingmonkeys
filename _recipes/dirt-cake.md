@@ -20,14 +20,14 @@ categories:
 
 ### Directions
 
-# Crush cookies using hands or blender (I use blender)
-# Layer bottom of a large dish (at least 2 inches deep) with half the oreos
-# Beat softened cream cheese, vanilla, sugar, and milk until creamy
-# Add pudding and beat until thickened
-# Pour over bottom layer of cookie crumbs
-# Spread Cool Whip on top
-# Sprinkle with remaining cookie crumbs
-# Keep refridgerated (duh)
+1. Crush cookies using hands or blender (I use blender)
+1. Layer bottom of a large dish (at least 2 inches deep) with half the oreos
+1. Beat softened cream cheese, vanilla, sugar, and milk until creamy
+1. Add pudding and beat until thickened
+1. Pour over bottom layer of cookie crumbs
+1. Spread Cool Whip on top
+1. Sprinkle with remaining cookie crumbs
+1. Keep refridgerated (duh)
 
 ### Comments
 

@@ -20,14 +20,14 @@ categories:
 
 ### Directions
 
-# Preheat oven to 350 degrees.
-# Melt butter in a bowl.
-# Mix butter with onion, celery, and 1/2 cup water.
-# Boil mixture for 5 minutes.
-# In a large bowl, mix corn bread, stuffing, celery soup, and chicken soup.
-# Add butter mixture to large bowl and stir with a fork.
-# Pour mixture into greased broiler pan, *cover* with aluminum foil.
-# Bake at 350 degrees for 1 hour.
+1. Preheat oven to 350 degrees.
+1. Melt butter in a bowl.
+1. Mix butter with onion, celery, and 1/2 cup water.
+1. Boil mixture for 5 minutes.
+1. In a large bowl, mix corn bread, stuffing, celery soup, and chicken soup.
+1. Add butter mixture to large bowl and stir with a fork.
+1. Pour mixture into greased broiler pan, *cover* with aluminum foil.
+1. Bake at 350 degrees for 1 hour.
 
 
 

@@ -21,13 +21,13 @@ categories:
 
 ### Directions
 
-# Go ahead and let your charcoal warm up so it'll be done by the time you have the kabobs prepared.
-# Cut up the steaks into bite-sized (or slightly larger) pieces
-# Quarter the onions, then cut each piece in half, and separate the layers.
-# Quarter the peppers, removing the seeds from inside of course. Cut to bite-sized pieces.
-# Alternate the veggies and separate each one with a piece of steak (on the skewers, duh)
-# lightly sprinkly the steak seasoning of your choice and garlic salt over the constructed kabobs
-# Fill up the grill, depending on your grill size you may have to do two rounds (I did)
+1. Go ahead and let your charcoal warm up so it'll be done by the time you have the kabobs prepared.
+1. Cut up the steaks into bite-sized (or slightly larger) pieces
+1. Quarter the onions, then cut each piece in half, and separate the layers.
+1. Quarter the peppers, removing the seeds from inside of course. Cut to bite-sized pieces.
+1. Alternate the veggies and separate each one with a piece of steak (on the skewers, duh)
+1. lightly sprinkly the steak seasoning of your choice and garlic salt over the constructed kabobs
+1. Fill up the grill, depending on your grill size you may have to do two rounds (I did)
 
 ### Comments
 

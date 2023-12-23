@@ -15,8 +15,8 @@ categories:
 
 ### Directions
 
-# Soak thawed chicken breasts in marinade for 30 mintues to one hour. This marinade only needs this amount of time, so marinading for 8 hours or more is not neccessary and doesn't really help.
-# Cook chicken until center is no longer pink
+1. Soak thawed chicken breasts in marinade for 30 mintues to one hour. This marinade only needs this amount of time, so marinading for 8 hours or more is not neccessary and doesn't really help.
+1. Cook chicken until center is no longer pink
 
 ### Comments
 

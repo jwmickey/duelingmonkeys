@@ -17,11 +17,11 @@ categories:
 
 ### Directions
 
-# put the chicken flat out on a flat baking pan.
-# put cottage cheese on top of the chicken (but not too thick)
-# put peperonis on top of the cottage cheese, and then sprinkle the chedder liberally all over everything
-# bake at 375 for 15-20 min (keep an eye on it)
-# make sure the chicken is cooked all the way through and then enjoy!
+1. put the chicken flat out on a flat baking pan.
+1. put cottage cheese on top of the chicken (but not too thick)
+1. put peperonis on top of the cottage cheese, and then sprinkle the chedder liberally all over everything
+1. bake at 375 for 15-20 min (keep an eye on it)
+1. make sure the chicken is cooked all the way through and then enjoy!
 
 ### Comments
 

@@ -23,11 +23,11 @@ categories:
 
 *Note:* This recipe is meant for 8-12 people, so get one of your slacker friends to help prepare this. First 3 steps can be done simultaneously
 
-# Saute sliced onion in olive oil on medium heat stirring occasionally. Once onions are slightly browned, add in the shrooms and mix well so the olive oil coats them. Turn heat to low.
-# Grate the cheese
-# Fry or broil bacon until slightly crispy and a good amount of that nasty grease drains out
-# Construction of these monsters works best on an assembly line. One person should put a layer of mushrooms and onions, another to add a strip of bacon and a handful of cheese, and one more person to finish them up on a dry frying pan or a George Foreman grill
-# Grill or fry the quesadillas in a dry frying pan until cheese is melted
+1. Saute sliced onion in olive oil on medium heat stirring occasionally. Once onions are slightly browned, add in the shrooms and mix well so the olive oil coats them. Turn heat to low.
+1. Grate the cheese
+1. Fry or broil bacon until slightly crispy and a good amount of that nasty grease drains out
+1. Construction of these monsters works best on an assembly line. One person should put a layer of mushrooms and onions, another to add a strip of bacon and a handful of cheese, and one more person to finish them up on a dry frying pan or a George Foreman grill
+1. Grill or fry the quesadillas in a dry frying pan until cheese is melted
 
 ### Comments
 

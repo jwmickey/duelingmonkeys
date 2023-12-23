@@ -23,21 +23,21 @@ categories:
 
 *Pasta:*
 
-# Follow the directions for the pasta you have chosen.
-# When cooked put into a pan (size dependent on how much you cooked) and add the sauce. You can stir the sauce into the pasta if desired.
+1. Follow the directions for the pasta you have chosen.
+1. When cooked put into a pan (size dependent on how much you cooked) and add the sauce. You can stir the sauce into the pasta if desired.
 
 *Chicken:*
 
-# Preheat oven to 400 deg F.
-# Beat eggs in one bowl.
-# Mix bread crumbs with seasonings (if you didn't get the Italian bread crumbs) and some Parmesan cheese in a second bowl.
-# Wash chicken and pat dry.
-# Dip chicken in the eggs then in the bread crumbs. Make sure to cover it completely. Place on a baking sheet.
-# Place chicken in the preheated oven and cook for 20 min.
-# When the chicken is done take it out of the oven and place them on top of the pasta (which is now in the pan with the sauce).
-# Sprinkle entire dish with mozzarella cheese.
-# Put back into the oven for 5 min, or until the cheese has melted.
-# Serve with Parmesan cheese.
+1. Preheat oven to 400 deg F.
+1. Beat eggs in one bowl.
+1. Mix bread crumbs with seasonings (if you didn't get the Italian bread crumbs) and some Parmesan cheese in a second bowl.
+1. Wash chicken and pat dry.
+1. Dip chicken in the eggs then in the bread crumbs. Make sure to cover it completely. Place on a baking sheet.
+1. Place chicken in the preheated oven and cook for 20 min.
+1. When the chicken is done take it out of the oven and place them on top of the pasta (which is now in the pan with the sauce).
+1. Sprinkle entire dish with mozzarella cheese.
+1. Put back into the oven for 5 min, or until the cheese has melted.
+1. Serve with Parmesan cheese.
 
 ### Comments
 

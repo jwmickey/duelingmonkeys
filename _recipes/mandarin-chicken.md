@@ -21,13 +21,13 @@ categories:
 
 ### Directions
 
-# Coat chicken in flour
-# Heat olive oil and butter in skillet over medium-high heat
-# Add chicken to skillet and cook until meat is white all the way through
-# Remove chicken and set aside
-# Add orange juice, hoisin/soy sauce, and onion
-# Scrape up browned bits from pan and stir
-# Add chicken back to the skillet and cook everything for another 5 minutes
+1. Coat chicken in flour
+1. Heat olive oil and butter in skillet over medium-high heat
+1. Add chicken to skillet and cook until meat is white all the way through
+1. Remove chicken and set aside
+1. Add orange juice, hoisin/soy sauce, and onion
+1. Scrape up browned bits from pan and stir
+1. Add chicken back to the skillet and cook everything for another 5 minutes
 
 ### Comments
 

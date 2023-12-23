@@ -16,9 +16,9 @@ categories:
 
 ### Directions
 
-# Shuck the corn and remove any bad places.
-# Place the corn in some aluminum foil, with a slice or two of butter and a small spoonful of minced garlic (spread these somewhat evenly)
-# Wrap up in foil and grill for about 15-20 minutes, rotating every 5 minutes or so
+1. Shuck the corn and remove any bad places.
+1. Place the corn in some aluminum foil, with a slice or two of butter and a small spoonful of minced garlic (spread these somewhat evenly)
+1. Wrap up in foil and grill for about 15-20 minutes, rotating every 5 minutes or so
 
 ### Comments
 

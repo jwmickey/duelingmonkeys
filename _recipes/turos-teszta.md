@@ -18,12 +18,12 @@ categories:
 
 ### Directions
 
-# Cook the Pasta (when about two or three minutes left Start the Bacon).
-# Fry the bacon or microwave it until it gets extremely crispy.
-# Once crispy, break it into little bits (about fingernail size).
-# Serve Pasta, add a tablespoon of Sour Cream and a tablespoon of Cottage Cheese to a normal serving sized plate of pasta.
-# Mix then lightly spread shredded cheese and bacon bits on top and mix again. (about 1.5 to 2 pieces of bacon per serving).
-# Eat and Enjoy
+1. Cook the Pasta (when about two or three minutes left Start the Bacon).
+1. Fry the bacon or microwave it until it gets extremely crispy.
+1. Once crispy, break it into little bits (about fingernail size).
+1. Serve Pasta, add a tablespoon of Sour Cream and a tablespoon of Cottage Cheese to a normal serving sized plate of pasta.
+1. Mix then lightly spread shredded cheese and bacon bits on top and mix again. (about 1.5 to 2 pieces of bacon per serving).
+1. Eat and Enjoy
 
 ### Comments
 

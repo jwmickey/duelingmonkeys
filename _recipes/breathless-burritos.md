@@ -23,13 +23,13 @@ categories:
 
 ### Directions
 
-# Dice peppers and heat in skillet with olive oil, stirring throughout
-# Brown ground beef in second skillet
-# Mash beans to make a paste like texture
-# Once meat is browned, add beans. Simmer for another few minutes, just long enough to heat the beans
-# Warm tortillias in microwave or oven
-# Assemble burritos to your liking. We like to add sour cream and salsa to the meat and veggies to add variety
-# Enjoy!
+1. Dice peppers and heat in skillet with olive oil, stirring throughout
+1. Brown ground beef in second skillet
+1. Mash beans to make a paste like texture
+1. Once meat is browned, add beans. Simmer for another few minutes, just long enough to heat the beans
+1. Warm tortillias in microwave or oven
+1. Assemble burritos to your liking. We like to add sour cream and salsa to the meat and veggies to add variety
+1. Enjoy!
 
 ### Comments
 

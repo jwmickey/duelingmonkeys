@@ -25,12 +25,12 @@ categories:
 
 ### Directions
 
-# Saute onions and garlic
-# Brown ground beef
-# Boil egg noodles
-# Add veggies to ground beef along with all other ingredients
-# Stir well and let simmer until it is no longer watery consistency
-# Drain noodles and pour sauce over top
+1. Saute onions and garlic
+1. Brown ground beef
+1. Boil egg noodles
+1. Add veggies to ground beef along with all other ingredients
+1. Stir well and let simmer until it is no longer watery consistency
+1. Drain noodles and pour sauce over top
 
 ### Comments
 

@@ -8,7 +8,7 @@ course: "Main Dishes"
 categories: 
   - "American"
 ---
-h3. Ingredients
+### Ingredients
 
 * (4) Sirlion Steaks
 * (2) Green Bell Peppers
@@ -19,7 +19,7 @@ h3. Ingredients
 * Steak Seasoning
 * Garlic Salt
 
-h3. Directions
+### Directions
 
 # Go ahead and let your charcoal warm up so it'll be done by the time you have the kabobs prepared.
 # Cut up the steaks into bite-sized (or slightly larger) pieces
@@ -29,8 +29,8 @@ h3. Directions
 # lightly sprinkly the steak seasoning of your choice and garlic salt over the constructed kabobs
 # Fill up the grill, depending on your grill size you may have to do two rounds (I did)
 
-h3. Comments
+### Comments
 
-"Take a look at this masterpiece":/classic/images/pics/kabobs.jpg (we made more than the picture shows)
+[Take a look at this masterpiece](/classic/images/pics/kabobs.jpg) (we made more than the picture shows)
 
- This was a big mess. I had some people helping me cut up the veggies and steak for the sake of time. We were hungry! Its worth it though, these things were a hit with the friends. I had some extra veggies left over so we had some really healthy ones too. The steak ones aren't too healthy, since the package said one steak had 480 calories and something like 25% of your fat for the day. But then again, those 4 steaks served 5 people way too much food. Alongside the kabobs, we had "Corn on the Cob":/recipes/roasted-corn.html, Sweet Potatoes, and Baked Beans.
+ This was a big mess. I had some people helping me cut up the veggies and steak for the sake of time. We were hungry! Its worth it though, these things were a hit with the friends. I had some extra veggies left over so we had some really healthy ones too. The steak ones aren't too healthy, since the package said one steak had 480 calories and something like 25% of your fat for the day. But then again, those 4 steaks served 5 people way too much food. Alongside the kabobs, we had [Corn on the Cob](/recipes/roasted-corn.html), Sweet Potatoes, and Baked Beans.

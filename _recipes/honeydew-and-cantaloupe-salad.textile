@@ -8,17 +8,17 @@ course: "Salads"
 categories: 
   - "Vegitarian"
 ---
-h3. Ingredients
+### Ingredients
 
 * One cantaloupe melon
 * One honeydew melon
 
-h3. Directions
+### Directions
 
 * Slice melons into cubes
 * Serve mixed in a large bowl
 
-h3. Comments
+### Comments
 
 Cantaloupe and Honeydew are pretty self explanitory, but I figured I'd just remind you how much of a great side it makes.
 

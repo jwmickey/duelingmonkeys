@@ -8,14 +8,14 @@ course: "Breads"
 categories: 
   - "Italian"
 ---
-h3. Ingredients
+### Ingredients
 
 * 1 loaf French Bread
 * 1/2 stick butter
 * Garlic Salt
 * Garlic Powder
 
-h3. Directions
+### Directions
 
 * Cut french bread into 1/2&quot; to 1&quot; thick slices diagonally
 * Warm butter until soft and spreadable
@@ -23,8 +23,8 @@ h3. Directions
 * Lightly sprinkle garlic powder and salt to taste
 * Broil for about 5 minutes
 
-h3. Comments
+### Comments
 
-Tastes great, easy to make, and makes "spaghetti":/recipes/spaghetti.html even better.
+Tastes great, easy to make, and makes [spaghetti](/recipes/spaghetti.html) even better.
 
  Be careful to not add too much garlic salt, its pretty strong stuff.

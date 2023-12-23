@@ -8,7 +8,7 @@ course: "Main Dishes"
 categories: 
   - "Italian"
 ---
-h3. Ingredients
+### Ingredients
 
 * 2 Pizza Crusts
 * 3 Pieces Bonless Skinless Chicken Breasts
@@ -17,15 +17,15 @@ h3. Ingredients
 * Blackening Sauce of your choice
 * 1 Pack Mozzerella Cheese
 
-h3. Directions
+### Directions
 
 Marinate the chicken in the blackening sauce for at least 6 hours, the loger the better.
 
  Fire up your grill (I used good ole' charcoal) and get that chicken nice and tender, and not too dry. You don't want to overcook it at all, because it's going in the oven after you grill it.
 
  I used a store bought crust (pack of 2) for this, but you could make your own if you so desired. Spread the alfredo sauce evenly over both crusts. Add the chicken, diced pepper, and top it all with the cheese. Bake until the crust gets brown and the cheese is melted.
-h3. Comments
+### Comments
 
-Oh man this stuff is good. Beats the hell out of Papa John's and even tops "Digiorno":/recipes/digiorno.html. Isn't the cheapest deal, but it feeds many or can last 2 for several meals.
+Oh man this stuff is good. Beats the hell out of Papa John's and even tops [Digiorno](/recipes/digiorno.html). Isn't the cheapest deal, but it feeds many or can last 2 for several meals.
 
  Thanks to Stephanie.

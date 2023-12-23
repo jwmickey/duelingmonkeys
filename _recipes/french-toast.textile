@@ -8,7 +8,7 @@ course: "Main Dishes"
 categories: 
   - "American"
 ---
-h3. Ingredients
+### Ingredients
 
 * Bread
 * Eggs
@@ -17,7 +17,7 @@ h3. Ingredients
 * Vanilla Extract (Optional)
 * Cinnamon Powder (Optional)
 
-h3. Directions
+### Directions
 
 Much of making french toast is based on how you like it. If you like it sweet, add more sugar. If you like vanilla, add a little more (NOTE: only a little more unless you know what you're doing!). Cinnamon is optional. Some people like to add it into the egg mix, others shake it on after it's cooked. Some even go without it.. how barbaric!
 
@@ -37,7 +37,7 @@ Repeat these for each slice of bread (duh!):
 * Turn it over when you see that the egg around the bottom edge of the toast is cooked (longer if you like it darker).
 * Cook the other side until you think it's done. Flip it to check if you're not sure.
 
-h3. Comments
+### Comments
 
 The best way to get these right is to experiment. Remember that you don't want to use much vanilla. It tends to be very overpowering if you use too much. The larger the batch, the easier it is to make. If you want, you can refrigerate leftovers and they're even great cold.
 

@@ -8,7 +8,7 @@ course: "Main Dishes"
 categories: 
   - "Italian"
 ---
-h3. Ingredients
+### Ingredients
 
 * Chicken breasts, skinless, boneless
 * Pasta: spaghetti, angle hair, or whatever
@@ -19,7 +19,7 @@ h3. Ingredients
 * Parmesan cheese
 * Shredded mozzarella
 
-h3. Directions
+### Directions
 
 *Pasta:*
 
@@ -39,7 +39,7 @@ h3. Directions
 # Put back into the oven for 5 min, or until the cheese has melted.
 # Serve with Parmesan cheese.
 
-h3. Comments
+### Comments
 
 A fairly easy dish, but it can be messy in terms of cleanup required. It takes about 40 min to prepare if you manage to juggle the pasta, chicken, and sauce correctly.
 

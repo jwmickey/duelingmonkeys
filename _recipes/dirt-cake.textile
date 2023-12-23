@@ -8,7 +8,7 @@ course: "Desserts"
 categories: 
   - "American"
 ---
-h3. Ingredients
+### Ingredients
 
 * 1 large package Oreos
 * 8 oz package cream cheese
@@ -18,7 +18,7 @@ h3. Ingredients
 * 2 small instant vanilla puddings
 * 3 cups milk
 
-h3. Directions
+### Directions
 
 # Crush cookies using hands or blender (I use blender)
 # Layer bottom of a large dish (at least 2 inches deep) with half the oreos
@@ -29,6 +29,6 @@ h3. Directions
 # Sprinkle with remaining cookie crumbs
 # Keep refridgerated (duh)
 
-h3. Comments
+### Comments
 
 My grandmother gave me this recipe and I declare it my favorite desert. I have spoken, it is so.

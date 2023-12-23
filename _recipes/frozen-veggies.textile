@@ -8,13 +8,13 @@ course: "Side Dishes"
 categories: 
   - "American"
 ---
-h3. Ingredients
+### Ingredients
 
 
-h3. Directions
+### Directions
 
 
-h3. Comments
+### Comments
 
 Frozen vegetables kick canned vegetables in the pants. For only about 79 cents more, its totally worth it. We like the stuff from Green Giant. Here is a big list of their varieties:
 

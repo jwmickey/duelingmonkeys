@@ -8,7 +8,7 @@ course: "Main Dishes"
 categories: 
   - "Mexican"
 ---
-h3. Ingredients
+### Ingredients
 
 * 10 pack large tortillas ($2)
 * 1/2 pack sliced mushrooms ($1)
@@ -17,7 +17,7 @@ h3. Ingredients
 * 1 onion (varies)
 * 1 tbsp olive oil
 
-h3. Directions
+### Directions
 
 # Saute sliced onion in olive oil on medium heat stirring occasionally.
 # Grate the cheese while the onions are browning
@@ -25,8 +25,8 @@ h3. Directions
 # Fill your tortillas with a thin layer of mushrooms and onions and a handful of cheese, then fold in half.
 # Grill or fry the quesadillas in a dry frying pan until cheese is melted
 
-h3. Comments
+### Comments
 
 We personally reccomend using a George Foreman Grill to melt the cheese. Its quick, easy, and requires less cleanup. This recipe makes enough for 3 to 5 people, unless you think you can hang with Wayne and Willow and finish all 10 in one sitting.
 
- If you like these, be sure to check out our "SUPER QUESADILLAS!":/recipes/super-quesadillas.html
+ If you like these, be sure to check out our [SUPER QUESADILLAS!](/recipes/super-quesadillas.html)

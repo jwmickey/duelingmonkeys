@@ -8,7 +8,7 @@ course: "Main Dishes"
 categories: 
   - "American"
 ---
-h3. Ingredients
+### Ingredients
 
 * 4 - 6 Boneless Skinless Chicken Breasts
 * Pack of Bacon
@@ -16,7 +16,7 @@ h3. Ingredients
 * Sliced Ham
 * Muenster Cheese (or any substitute)
 
-h3. Directions
+### Directions
 
 # Preheat oven to 350 degrees
 # Pound chicken until about 1/4&quot; thick
@@ -27,8 +27,8 @@ h3. Directions
 # Place wrapped chicken side by side in a shallow baking pan
 # Bake for about 40 - 45 minutes or until chicken is cooked and bacon is browned
 
-h3. Comments
+### Comments
 
 Thanks Grandma.
 
- We had these with "Roasted Potatoes in Garlic Sauce":/recipes/ore-ida-potato-products.html and some Fruit Cocktail.
+ We had these with [Roasted Potatoes in Garlic Sauce](/recipes/ore-ida-potato-products.html) and some Fruit Cocktail.

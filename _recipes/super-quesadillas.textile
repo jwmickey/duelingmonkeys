@@ -8,7 +8,7 @@ course: "Main Dishes"
 categories: 
   - "Mexican"
 ---
-h3. Ingredients
+### Ingredients
 
 * 1 package center cut bacon ($5)
 * 2 10-pack large tortillas ($4)
@@ -19,7 +19,7 @@ h3. Ingredients
 * 1 large onion (varies)
 * 1 tbsp olive oil
 
-h3. Directions
+### Directions
 
 *Note:* This recipe is meant for 8-12 people, so get one of your slacker friends to help prepare this. First 3 steps can be done simultaneously
 
@@ -29,11 +29,11 @@ h3. Directions
 # Construction of these monsters works best on an assembly line. One person should put a layer of mushrooms and onions, another to add a strip of bacon and a handful of cheese, and one more person to finish them up on a dry frying pan or a George Foreman grill
 # Grill or fry the quesadillas in a dry frying pan until cheese is melted
 
-h3. Comments
+### Comments
 
 You won't find these in a Healthy Choice package, but thats what makes them sooo good.
 
- This recipe serves a ton of people, so if you're not up for entertaining any guests this time, scale down the proportions according to our "regular quesadillas":/recipes/quesadillas.html.
+ This recipe serves a ton of people, so if you're not up for entertaining any guests this time, scale down the proportions according to our [regular quesadillas](/recipes/quesadillas.html).
 
  The numbers (with the exception of quality) for this meal seem like its too much trouble, but thats mostly because of the biohazardous bacon grease; accounting for the horrible rating in both health and cleanup.
 

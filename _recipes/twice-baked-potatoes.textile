@@ -8,7 +8,7 @@ course: "Side Dishes"
 categories: 
   - "American"
 ---
-h3. Ingredients
+### Ingredients
 
 * 4 Baking Potatoes
 * 6 oz. (1 1/2 cup) pack shredded Cheddar Cheese
@@ -16,7 +16,7 @@ h3. Ingredients
 * 1/2 stick butter
 * 1/2 small package REAL bacon pieces
 
-h3. Directions
+### Directions
 
 * You can either microwave or bake your potatoes in the oven:
 * ** Oven: Bake for 90 minutes at 400 degrees
@@ -27,6 +27,6 @@ h3. Directions
 * Refill potato skins, topping with remaining cheese and bacon pieces
 * Return potatoes to oven (leave in halfs) until cheese is melted
 
-h3. Comments
+### Comments
 
 The portions aren't an exact science, you can adjust them as you want. If you don't like sour cream, don't worry, there's only a hint of flavor and it really does make them better (I'm not a sour cream fan). Baked Potatoes are healthy but not with cheese, butter, and bacon. But who wants potatoes without the good stuff? These make great a great side dish to steak or chicken, or by themselves as appetizers / party snacks.

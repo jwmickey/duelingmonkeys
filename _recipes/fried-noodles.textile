@@ -8,7 +8,7 @@ course: "Main Dishes"
 categories: 
   - "American"
 ---
-h3. Ingredients
+### Ingredients
 
 * 1/3 lb. (1/3 box) angel hair pasta
 * 1 1/2 tbsp. soy sauce
@@ -18,7 +18,7 @@ h3. Ingredients
 * onion powder
 * garlic powder
 
-h3. Directions
+### Directions
 
 * fry bacon in skillet. Remove bacon, but leave grease
 * cook noodles. Angel hair should take about 3-4 minutes in boiling water
@@ -30,6 +30,6 @@ h3. Directions
 * Season lightly with garlic and onion powder; stir in well
 * Remove from heat and serve
 
-h3. Comments
+### Comments
 
 I invented this meal when I could not find any complete meals left in the fridge and decided to get creative. Fortunately, it was a very successful experiment. The original idea was to get something close to lo mein using refrigerated leftover pasta noodles. When I first prepared the meal, I burned the bacon, so I don't know if adding bacon to the meal improves it or not. I do know that cooking things in bacon grease is a delicious and fantastic idea, so I left it in the instructions.

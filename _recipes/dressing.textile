@@ -8,7 +8,7 @@ course: "Side Dishes"
 categories: 
   - "Traditional"
 ---
-h3. Ingredients
+### Ingredients
 
 * 1 pkg. Pepperidge Farm herb dressing mix (small)
 * 2 cups cornbread (crumbled)
@@ -18,7 +18,7 @@ h3. Ingredients
 * 2 cans cream of celery soup
 * 1 can cream of chicken soup
 
-h3. Directions
+### Directions
 
 # Preheat oven to 350 degrees.
 # Melt butter in a bowl.
@@ -32,7 +32,7 @@ h3. Directions
 
 
 
-h3. Comments
+### Comments
 
 If you like your dressing more moist, you might want to add another can of cream of chicken soup to the final mixture before pouring into broiler pan.  Wait until you get it all mixed up before making that decision.
 

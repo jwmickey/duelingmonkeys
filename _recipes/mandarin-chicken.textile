@@ -8,7 +8,7 @@ course: "Main Dishes"
 categories: 
   - "American"
 ---
-h3. Ingredients
+### Ingredients
 
 * 4 Boneless Skinless Chicken Breasts
 * 1/4 cup flour
@@ -19,7 +19,7 @@ h3. Ingredients
 * 11 oz. can mandarin oranges (drained)
 * 1 tablespoon onion
 
-h3. Directions
+### Directions
 
 # Coat chicken in flour
 # Heat olive oil and butter in skillet over medium-high heat
@@ -29,7 +29,7 @@ h3. Directions
 # Scrape up browned bits from pan and stir
 # Add chicken back to the skillet and cook everything for another 5 minutes
 
-h3. Comments
+### Comments
 
 We got a bag of frozen chicken and needed a less boring way to cook it than just grilling it and adding our favorite sauce. (The bags are cheaper too, which is why this recipe only costs 6 bucks). I found a mandarin chicken recipe and modified it somewhat mainly because I didn't have hoisin sauce or cashews. You are supposed to use hoisin sauce for a little spice and add cashews with the onion and orange juice.
 

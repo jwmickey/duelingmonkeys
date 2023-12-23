@@ -8,7 +8,7 @@ course: "Main Dishes"
 categories: 
   - "Eastern European"
 ---
-h3. Ingredients
+### Ingredients
 
 * Bag of Egg Noodles or Tagliatelle
 * Sour Cream
@@ -16,7 +16,7 @@ h3. Ingredients
 * Shredded Swiss or Mozarella Cheese
 * Bacon
 
-h3. Directions
+### Directions
 
 # Cook the Pasta (when about two or three minutes left Start the Bacon).
 # Fry the bacon or microwave it until it gets extremely crispy.
@@ -25,6 +25,6 @@ h3. Directions
 # Mix then lightly spread shredded cheese and bacon bits on top and mix again. (about 1.5 to 2 pieces of bacon per serving).
 # Eat and Enjoy
 
-h3. Comments
+### Comments
 
 I dunno about the price really I mean you should already have bacon, cheese, and sour cream in a normal house. So really it should cost you two bucks to buy some cottage cheese and pasta.

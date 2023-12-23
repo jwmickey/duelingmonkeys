@@ -8,7 +8,7 @@ course: "Main Dishes"
 categories: 
   - "American"
 ---
-h3. Ingredients
+### Ingredients
 
 * 4 cans of Tuna
 * 2 eggs (hard boiled, chop small, no yolk)
@@ -23,7 +23,7 @@ h3. Ingredients
 
  &#42;_optional_
 
-h3. Directions
+### Directions
 
 first you put the tuna in a bowl (after draining all of the fluid out, be sure to drain it well). next add your chopped onion, eggwhite, cubes of chedder, etc. mix that all together a bit, and then add the mayo. i have never actually measured the mayo, so just add a couple spoonfuls and taste it. when it taste good, its done.
 
@@ -31,6 +31,6 @@ first you put the tuna in a bowl (after draining all of the fluid out, be sure t
 
  _this is the end of this portion of the test. please proceed to the nest section._
 
-h3. Comments
+### Comments
 
 ok, if you can't get this right you had better just eat at mcdonalds for the rest of your life. and a short life it would be. you can actually just eat this by itself, or have it cold on sliced bread. any leftovers you can just keep in the fridge and eat anytime. makes for a quick easy lunch.

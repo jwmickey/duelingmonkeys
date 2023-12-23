@@ -8,7 +8,7 @@ course: "Main Dishes"
 categories: 
   - "American"
 ---
-h3. Ingredients
+### Ingredients
 
 * 1.5 lbs. Ground Beef
 * 0.5 cups diced onion
@@ -23,7 +23,7 @@ h3. Ingredients
 * 1 tbsp flour
 * 4 cups egg noodles
 
-h3. Directions
+### Directions
 
 # Saute onions and garlic
 # Brown ground beef
@@ -32,6 +32,6 @@ h3. Directions
 # Stir well and let simmer until it is no longer watery consistency
 # Drain noodles and pour sauce over top
 
-h3. Comments
+### Comments
 
 A classic and tasty meal brought to you by my Granny. It was through serving this meal to guests that I learned how so many people were babies about food with mushrooms and onions in it. Get over it people! You are not allowed to have my Stroganoff!

@@ -8,13 +8,13 @@ course: "Breads"
 categories: 
   - "American"
 ---
-h3. Ingredients
+### Ingredients
 
 
-h3. Directions
+### Directions
 
 
-h3. Comments
+### Comments
 
 These things compliment almost any meal. We've tried most of the 12 flavors below and have no complaints. They're ready in 15 minutes. And they're also a good source of many nutrients and vitamins. Add a half a cup of milk to most mixes and you're ready to go!
 

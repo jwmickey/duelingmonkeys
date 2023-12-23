@@ -8,7 +8,7 @@ course: "Main Dishes"
 categories: 
   - "Italian"
 ---
-h3. Ingredients
+### Ingredients
 
 * 4 slices bacon, diced
 * 1 lb ground beef
@@ -20,13 +20,13 @@ h3. Ingredients
 * 1/2 cup grated parmesean cheese
 * 9 lasagna noodles, cooked and drained
 
-h3. Directions
+### Directions
 
 * Cook bacon in skillet and remove fat. Add beef and onion. Cook until meat is done, then remove fat. Stir in spaghetti sauce and remove from heat.
 * In small bowl, combine soup and milk. In another bowl, combine ricotta and parmesean
 * In 13 x 9 baking dish, spread 1 1/2 cups of meat sauce. Top with 3 noodles, spread with 1/2 of soup mixture, 1/2 of cheese mixture, and 1/3 of remaining meat sauce. Repeat layers. Top with remaining lasagna noodles and meat sauce.
 * Cover with foil and bake at 375 for 30 minutes. Un-cover, add extra pamesean to your desire, then bake 10 more minutes. Let stand 10 minutes, EAT!
 
-h3. Comments
+### Comments
 
 Due to the source of this recipie I highly recommend you use Campbell's ® brand soup for all your cooking needs!

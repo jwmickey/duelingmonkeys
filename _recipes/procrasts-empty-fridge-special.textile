@@ -8,14 +8,14 @@ course: "Main Dishes"
 categories: 
   - "American"
 ---
-h3. Ingredients
+### Ingredients
 
 * chicken breasts (4)
 * cottage cheese
 * peperoni
 * shredded chedder cheese
 
-h3. Directions
+### Directions
 
 # put the chicken flat out on a flat baking pan.
 # put cottage cheese on top of the chicken (but not too thick)
@@ -23,7 +23,7 @@ h3. Directions
 # bake at 375 for 15-20 min (keep an eye on it)
 # make sure the chicken is cooked all the way through and then enjoy!
 
-h3. Comments
+### Comments
 
 i discovered this little dish a while back when there wasn't anything in the fridge but the ingredients above. it turned out pretty good!
 

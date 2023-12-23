@@ -8,17 +8,17 @@ course: "Main Dishes"
 categories: 
   - "American"
 ---
-h3. Ingredients
+### Ingredients
 
 * 8-pack Hot Dogs
 * Cheese
 * 6-pack Canned Cresent Rolls
 
-h3. Directions
+### Directions
 
 Separate the Cresent Rolls and roll a Hot Dog with some cheese of your choice. You'll have two dogs left over, but I'm sure you can figure out a way to make them yummy. Place into oven on an ungreased cookie sheet until rolls are golden brown.
-h3. Comments
+### Comments
 
 This one's pretty quick and easy. Only bad part about cleaning is the pan can be a bit of a pain to clean up if the cheese leaks out on it and burns, which happens almost every time (hey, we like cheese!).
 
- We served these along with "Oreda's Waffle Fries":/recipes/ore-ida-potato-products.html this week
+ We served these along with [Oreda's Waffle Fries](/recipes/ore-ida-potato-products.html) this week

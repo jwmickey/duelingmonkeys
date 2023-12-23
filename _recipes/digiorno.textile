@@ -8,13 +8,13 @@ course: "Main Dishes"
 categories: 
   - "Italian"
 ---
-h3. Ingredients
+### Ingredients
 
 
-h3. Directions
+### Directions
 
 
-h3. Comments
+### Comments
 
 Digiorno is something no college student should be without. I see a lot of people have reservations about frozen foods, and righfully so. I have exparimented with other frozen pizza, and have found them to not really be worth the time. Digiorno, on the other hand is excellent and well worth the cost and time (especially if you are lazy).
 

@@ -8,7 +8,7 @@ course: "Main Dishes"
 categories: 
   - "American"
 ---
-h3. Ingredients
+### Ingredients
 
 * 3 slices bacon
 * 1 or 1 1/2 cups rice (depending on how much you like rice)
@@ -17,7 +17,7 @@ h3. Ingredients
 * 1 clove garlic
 * 1 medium onion, sliced
 
-h3. Directions
+### Directions
 
 *Bacon*
 
@@ -40,6 +40,6 @@ h3. Directions
 
 In a medium casserole dish (or whatever you have available), spread the rice evenly and then add everything in the pan. Top with bacon and serve.
 
-h3. Comments
+### Comments
 
-This is my grandmother's recipe, I really like it. If she cooks it the goodness factor is a 5, but I have only prepared it once so its a 4 at my house. The dish is meant to serve as many people as there are pieces of chicken, so you can adjust accordingly. Willow and myself nearly finished 1 1/2 cups of rice with 5 (relatively smaller) pieces of chicken, but we were really really stuffed, so I don't reccomend doing it. Hope you like it, "let us know":mailto:comments@duelingmonkeys.com of any suggestions you have.
+This is my grandmother's recipe, I really like it. If she cooks it the goodness factor is a 5, but I have only prepared it once so its a 4 at my house. The dish is meant to serve as many people as there are pieces of chicken, so you can adjust accordingly. Willow and myself nearly finished 1 1/2 cups of rice with 5 (relatively smaller) pieces of chicken, but we were really really stuffed, so I don't reccomend doing it. Hope you like it, [let us know](mailto:comments@duelingmonkeys.com) of any suggestions you have.

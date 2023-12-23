@@ -8,7 +8,7 @@ course: "Main Dishes"
 categories: 
   - "American"
 ---
-h3. Ingredients
+### Ingredients
 
 * 12 - 16 oz sirloin steak (strips or whole piece)
 * 1/3 cup soy sauce
@@ -21,7 +21,7 @@ h3. Ingredients
 * 1 teaspoon ground ginger
 * 1 tablespoon minced garlic
 
-h3. Directions
+### Directions
 
 # Slice and dice pepper and onion, put in bowl
 # If you are using an uncut piece of meat, cut it into small strips or cubes
@@ -31,7 +31,7 @@ h3. Directions
 # Add steak strips (or cubes) and mushrooms
 # Cook on medium heat until steak is cooked thuroughly or until desired pinkness.
 
-h3. Comments
+### Comments
 
 I'm sure this would be good with chicken or pork instead of steak. You don't have to be exact with the ingredients; the original recipie called for more stuff but I didn't have it and left it out. I was very pleased with the results.
 

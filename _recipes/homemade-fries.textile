@@ -8,16 +8,16 @@ course: "Side Dishes"
 categories: 
   - "American"
 ---
-h3. Ingredients
+### Ingredients
 
 * 4 or 5 Russet Potatoes (can substitute other kinds)
 * 32 oz bottle Pure Vegetable Oil
 * Salt
 * Seasoned Salt (optional)
 
-h3. Directions
+### Directions
 
-h4. WARNING! Vegetable oil will become very hot and can severly burn you or cause a fire. Be careful!
+#### WARNING! Vegetable oil will become very hot and can severly burn you or cause a fire. Be careful!
 
 # Rinse potatoes
 # If you don't want the skin left on your potatoes, peel them.
@@ -29,7 +29,7 @@ h4. WARNING! Vegetable oil will become very hot and can severly burn you or caus
 # You may want to get just a few out and let them cool just enough to see if they are done.
 # Salt generously. These aren't very good without enough salt. You'll know when it's enough. If you have seasoned salt, use less table salt and add the seasoned salt for a Bojangles like taste, but not so Kick-you-in-the-pants
 
-h3. Comments
+### Comments
 
 Four medium sized potatoes was just enough for three of us, but had we not been eating 2 burgers I'm sure we could have handled more.
 

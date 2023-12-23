@@ -8,7 +8,7 @@ course: "Main Dishes"
 categories: 
   - "American"
 ---
-h3. Ingredients
+### Ingredients
 
 * 1 lb. Bacon
 * (3) 8 oz. cans of Diced Clams
@@ -20,14 +20,14 @@ h3. Ingredients
 * 3 small onions
 * 2 cans Potato Soup with Garlic
 
-h3. Directions
+### Directions
 
 You'll need a big pot for this.
 
  Peel and dice potatoes.. The whole bag! Bring to a boil for about 30 minutes. Cook the bacon to a nice crispy texture and crumble it up into small pieces.
  While the potatoes are boiling, cut up the celery and onion into small pieces.
  Drain potatoes, then add in the potato soup, tomatoes, clams, veggies, etc, etc. Just add everything. The recipe actually calls for 2 tablespoons of pepper, but some whinos are complaining about it, so you might want to add to taste from the suggested amounts given above. Cook everything on low-medium for about 45 minutes, more if you want. I added some garlic powder for a little extra kick.
-h3. Comments
+### Comments
 
 This stuff is great for big gatherings, superbowl, stanley cup, when the power is off (at a friends place) and relatives are visiting. This is the case since mother nature dumped an inch of ice on us and ripped down every power line in sight.
 

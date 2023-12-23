@@ -5,15 +5,15 @@ download:     ""
 contributors: 
   - "Mike Daly"
   - " Shaun Kime"
-thumbnail:    "/images/games/navi/navi_thumb.jpg"
+thumbnail:    "https://content.duelingmonkeys.com/gallery/games/navi/navi_thumb.jpg"
 images: 
-  - "/images/games/navi/navi1mid.jpg"
-  - "/images/games/navi/navi2mid.jpg"
-  - "/images/games/navi/navi3mid.jpg"
-  - "/images/games/navi/navi4mid.jpg"
-  - "/images/games/navi/navi5mid.jpg"
-  - "/images/games/navi/navi6mid.jpg"
-  - "/images/games/navi/navi7mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/navi/navi1mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/navi/navi2mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/navi/navi3mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/navi/navi4mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/navi/navi5mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/navi/navi6mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/navi/navi7mid.jpg"
 summary: "My failed attempt at making a 3d game similar to Star Control 2 Super Melee mode."
 ---
 Navi was the code name for an unnamed project that was to be a space-themed arena shooter akin to Star Control 2 Super Melee. The original idea is that players would have a choice of 5 ships, then also choose between 5 pilots. The ship would determine the primary weapon and the base statistics, while the pilot would provide a secondary weapon and stat modifiers.

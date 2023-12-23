@@ -4,7 +4,7 @@ date:         "2015-05-01"
 download:     "http://www.jodymickey.com/"
 contributors: 
   - "Jody Mickey"
-thumbnail:    "/images/games/memorygame/brain.png"
+thumbnail:    "https://content.duelingmonkeys.com/gallery/games/memorygame/brain.png"
 summary: "The classic flip-card memory game and sliding photo puzzle"
 ---
 These are not your standard games that you have come to expect from Mr. Mike Daly, but rather a couple of simple games you're probably already familiar with.

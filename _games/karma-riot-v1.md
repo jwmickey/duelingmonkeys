@@ -5,14 +5,14 @@ download:     "/downloads/games/karmariot_100111.zip"
 contributors: 
   - "Mike Daly"
   - " Paul Spychala"
-thumbnail:    "/images/games/karmariot/karmariot_thumb.png"
+thumbnail:    "https://content.duelingmonkeys.com/gallery/games/karmariot/karmariot_thumb.png"
 images: 
-  - "/images/games/karmariot/karmariotalpha1.png"
-  - "/images/games/karmariot/karmariotalpha2.png"
-  - "/images/games/karmariot/karmariotalpha3.png"
-  - "/images/games/karmariot/karmariotalpha4.png"
-  - "/images/games/karmariot/karmariotalpha5.png"
-  - "/images/games/karmariot/karmariotalpha6.png"
+  - "https://content.duelingmonkeys.com/gallery/games/karmariot/karmariotalpha1.png"
+  - "https://content.duelingmonkeys.com/gallery/games/karmariot/karmariotalpha2.png"
+  - "https://content.duelingmonkeys.com/gallery/games/karmariot/karmariotalpha3.png"
+  - "https://content.duelingmonkeys.com/gallery/games/karmariot/karmariotalpha4.png"
+  - "https://content.duelingmonkeys.com/gallery/games/karmariot/karmariotalpha5.png"
+  - "https://content.duelingmonkeys.com/gallery/games/karmariot/karmariotalpha6.png"
 summary: "An old school Kart racing game with a few twists, phase 1"
 ---
 Karma Riot is a kind of re-imagining of the classic SNES game Super Mario Kart. I was initially intrigued by the idea because I thought that making racing AI and a procedural course builder would be interesting challenges and even more interesting when combined. I also thought a decent simulation could be created relatively easily.

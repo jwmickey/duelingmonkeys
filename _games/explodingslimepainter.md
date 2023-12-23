@@ -6,13 +6,13 @@ contributors:
   - "Mike Daly"
   - " Michael Noland"
   - " Frank Voelker"
-thumbnail:    "/images/games/explodingslimepainter/explodingslimepainter_thumb.png"
+thumbnail:    "https://content.duelingmonkeys.com/gallery/games/explodingslimepainter/explodingslimepainter_thumb.png"
 images: 
-  - "/images/games/explodingslimepainter/explodingslimepainter_1.jpg"
-  - "/images/games/explodingslimepainter/explodingslimepainter_2.jpg"
-  - "/images/games/explodingslimepainter/explodingslimepainter_3.jpg"
-  - "/images/games/explodingslimepainter/explodingslimepainter_4.jpg"
-  - "/images/games/explodingslimepainter/explodingslimepainter_5.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/explodingslimepainter/explodingslimepainter_1.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/explodingslimepainter/explodingslimepainter_2.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/explodingslimepainter/explodingslimepainter_3.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/explodingslimepainter/explodingslimepainter_4.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/explodingslimepainter/explodingslimepainter_5.jpg"
 summary: "Slam slimes into things to make them explode color everywhere."
 ---
 Exploding Slime Painter was made for the 2012 [Triangle Game Jam](http://www.trianglegamejam.com/). The theme of the Jam was Mad Libs (we did this theme back in [2008](/games/double-beer-blaster.html) as well). The idea was that everyone came with a list of 5 adjectives, 5 nouns, and 5 verbs, we put them all together in a database and had a simple program generate game titles out of them. We had to pitch game concepts based off of the generated titles. This year is actually the first out of 8 game jams that I've attended where I didn't make a game based off of my own proposal (excluding the one where I didn't make a game, but that doesn't count).

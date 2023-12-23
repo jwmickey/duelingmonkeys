@@ -4,15 +4,15 @@ date:         "2010-01-31"
 download:     "/downloads/games/attentionconvention_100131.zip"
 contributors: 
   - "Mike Daly"
-thumbnail:    "/images/games/attentionconvention/attentionconvention_thumb.png"
+thumbnail:    "https://content.duelingmonkeys.com/gallery/games/attentionconvention/attentionconvention_thumb.png"
 images: 
-  - "/images/games/attentionconvention/attentionconvention1.png"
-  - "/images/games/attentionconvention/attentionconvention2.png"
-  - "/images/games/attentionconvention/attentionconvention3.png"
-  - "/images/games/attentionconvention/attentionconvention4.png"
-  - "/images/games/attentionconvention/attentionconvention5.png"
-  - "/images/games/attentionconvention/attentionconvention6.png"
-  - "/images/games/attentionconvention/attentionconvention7.png"
+  - "https://content.duelingmonkeys.com/gallery/games/attentionconvention/attentionconvention1.png"
+  - "https://content.duelingmonkeys.com/gallery/games/attentionconvention/attentionconvention2.png"
+  - "https://content.duelingmonkeys.com/gallery/games/attentionconvention/attentionconvention3.png"
+  - "https://content.duelingmonkeys.com/gallery/games/attentionconvention/attentionconvention4.png"
+  - "https://content.duelingmonkeys.com/gallery/games/attentionconvention/attentionconvention5.png"
+  - "https://content.duelingmonkeys.com/gallery/games/attentionconvention/attentionconvention6.png"
+  - "https://content.duelingmonkeys.com/gallery/games/attentionconvention/attentionconvention7.png"
 summary: "Multiplayer deception game made for the 2010 Global Game Jam"
 ---
 Attention Convention is a game I created in 48 hours for the 2010 [Global Game Jam](http://www.globalgamejam.com). The theme for the jam was to make a game that centered around the concept of DECEPTION and our regional constraint was that the game had to include one of the following things; a SET, a NET, or a PET.

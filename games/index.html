@@ -37,7 +37,7 @@ nav: games
         <div class="description">
             <h4><a href="{{ game.url }}">{{ game.title }}</a></h4>
             <p>
-                <strong>Date:</strong> {{ game.date }},
+                <strong>Year:</strong> {{ game.date | date: "%Y" }},
                 <strong>Contributors:</strong> {{ game.contributors | join:', ' }}
             </p>
             <p>

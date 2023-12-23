@@ -5,12 +5,12 @@ download:     ""
 contributors: 
   - "Mike Daly"
   - " Andy Matange"
-thumbnail:    "/images/games/settlersofcatan/settlersofcatan_thumb.jpg"
+thumbnail:    "https://content.duelingmonkeys.com/gallery/games/settlersofcatan/settlersofcatan_thumb.jpg"
 images: 
-  - "/images/games/settlersofcatan/settlers1.jpg"
-  - "/images/games/settlersofcatan/settlers2.jpg"
-  - "/images/games/settlersofcatan/settlers3.jpg"
-  - "/images/games/settlersofcatan/settlers4.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/settlersofcatan/settlers1.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/settlersofcatan/settlers2.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/settlersofcatan/settlers3.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/settlersofcatan/settlers4.jpg"
 summary: "A simplified port of the Settlers of Catan board game to the Game Boy Advance. AI opponent included."
 ---
 This was a very simple Game Boy Advance game based off of the popular board game Settlers of Catan. Settlers is a pretty simple game; if you want to know the rules, you can just interweb search for them.

@@ -7,11 +7,11 @@ contributors:
   - " Michael Noland"
   - " Mike Daly"
   - " Rett Crocker"
-thumbnail:    "/images/games/sunnyday/sunnyday_thumb.png"
+thumbnail:    "https://content.duelingmonkeys.com/gallery/games/sunnyday/sunnyday_thumb.png"
 images: 
-  - "/images/games/sunnyday/sunnyday1.png"
-  - "/images/games/sunnyday/sunnyday2.png"
-  - "/images/games/sunnyday/sunnyday3.png"
+  - "https://content.duelingmonkeys.com/gallery/games/sunnyday/sunnyday1.png"
+  - "https://content.duelingmonkeys.com/gallery/games/sunnyday/sunnyday2.png"
+  - "https://content.duelingmonkeys.com/gallery/games/sunnyday/sunnyday3.png"
 summary: "A 'music video game' made for the 2009 Triangle Game Jam."
 ---
 A little girl goes for a walk. When the sun shines on her, she is happy and spreads happiness to all those around her. When she is in the shade, she is sad. You control the sun, who wants to make the girl as happy as you can. You do so by positioning the sun so that the clouds beneath you don't end up shadowing the girl.

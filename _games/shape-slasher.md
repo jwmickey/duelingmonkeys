@@ -5,15 +5,15 @@ download:     "/downloads/games/shapeslasher_090118.zip"
 contributors: 
   - "Mike Daly"
   - " Vince Scheib"
-thumbnail:    "/images/games/shapeslasher/shapeslasher_thumb.jpg"
+thumbnail:    "https://content.duelingmonkeys.com/gallery/games/shapeslasher/shapeslasher_thumb.jpg"
 images: 
-  - "/images/games/shapeslasher/shapeslasher1mid.jpg"
-  - "/images/games/shapeslasher/shapeslasher2mid.jpg"
-  - "/images/games/shapeslasher/shapeslasher3mid.jpg"
-  - "/images/games/shapeslasher/shapeslasher4mid.jpg"
-  - "/images/games/shapeslasher/shapeslasher5mid.jpg"
-  - "/images/games/shapeslasher/shapeslasher6mid.jpg"
-  - "/images/games/shapeslasher/shapeslasher7mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/shapeslasher/shapeslasher1mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/shapeslasher/shapeslasher2mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/shapeslasher/shapeslasher3mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/shapeslasher/shapeslasher4mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/shapeslasher/shapeslasher5mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/shapeslasher/shapeslasher6mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/shapeslasher/shapeslasher7mid.jpg"
 summary: "Polygons float on screen and you must slash them into triangles. Made for the 2007 Triangle Game Jam."
 ---
 Shape Slasher is a game where randomly generated irregular convex polygons float on screen and you have to 'slash' them down into shapes that are as close to equilateral triangles as you can get them. To slash, you click and drag with the mouse to determine the two endpoints of a line segment. When you release the mouse, any polygons that are under the segment get clipped into two polygons and slowly seperate. Each level has a time limit in which you must achieve a particular score to pass. As the stages go on, the shapes become more irregular, move faster, get smaller, increase in rotational velocity, and the required score increases. Just for good measure, there are a few bonus and challenge stages thrown in.

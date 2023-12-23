@@ -5,13 +5,13 @@ download:     "/downloads/games/pininrodizo_101209.zip"
 contributors: 
   - "Mike Daly"
   - " Paul Spychala"
-thumbnail:    "/images/games/pininrodizo/pininrodizo_thumb.png"
+thumbnail:    "https://content.duelingmonkeys.com/gallery/games/pininrodizo/pininrodizo_thumb.png"
 images: 
-  - "/images/games/pininrodizo/pininrodizo_101209_1.png"
-  - "/images/games/pininrodizo/pininrodizo_101209_2.png"
-  - "/images/games/pininrodizo/pininrodizo_101209_3.png"
-  - "/images/games/pininrodizo/pininrodizo_101209_4.png"
-  - "/images/games/pininrodizo/pininrodizo_101209_5.png"
+  - "https://content.duelingmonkeys.com/gallery/games/pininrodizo/pininrodizo_101209_1.png"
+  - "https://content.duelingmonkeys.com/gallery/games/pininrodizo/pininrodizo_101209_2.png"
+  - "https://content.duelingmonkeys.com/gallery/games/pininrodizo/pininrodizo_101209_3.png"
+  - "https://content.duelingmonkeys.com/gallery/games/pininrodizo/pininrodizo_101209_4.png"
+  - "https://content.duelingmonkeys.com/gallery/games/pininrodizo/pininrodizo_101209_5.png"
 summary: "Turn-based strategy boiled down to its bare bones"
 ---
 Pinin Rodizo is a simple turn-based strategy game. My motivation for making the game was to try to make a game as simple as possible that still felt strategic and tactical to the player. There are only 5 types of units with each unit capable of destroying exactly two other types of units (and getting destroyed by the other two). There are no hit points or resources to keep track of.

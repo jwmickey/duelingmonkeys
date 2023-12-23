@@ -5,15 +5,15 @@ download:     ""
 contributors: 
   - "Mike Daly"
   - " Kevin Vaughan"
-thumbnail:    "/images/games/sunburn/sunburn_thumb.jpg"
+thumbnail:    "https://content.duelingmonkeys.com/gallery/games/sunburn/sunburn_thumb.jpg"
 images: 
-  - "/images/games/sunburn/sunburn1mid.jpg"
-  - "/images/games/sunburn/sunburn2mid.jpg"
-  - "/images/games/sunburn/sunburn3.jpg"
-  - "/images/games/sunburn/sunburn4.jpg"
-  - "/images/games/sunburn/sunburn5.jpg"
-  - "/images/games/sunburn/sunburn6.jpg"
-  - "/images/games/sunburn/sunburn7.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/sunburn/sunburn1mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/sunburn/sunburn2mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/sunburn/sunburn3.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/sunburn/sunburn4.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/sunburn/sunburn5.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/sunburn/sunburn6.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/sunburn/sunburn7.jpg"
 summary: "An educational UT 2003 mod funded by the EPA."
 ---
 Sunburn was a Unreal Tournament 2003 mod that was intended as an educational game for teaching people about the dangers of sun exposure. You played as a lifeguard who had to run back and forth across a stretch of sunny beach shooting people with globs of sunblock or throwing out umbrellas over top of them. It had some simple obstacles too like the giant crab that would randomly move your umbrellas around and you had to keep going back to the sunblock hut to refill.

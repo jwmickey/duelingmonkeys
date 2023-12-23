@@ -6,15 +6,15 @@ contributors:
   - "Mike Daly"
   - " Michael Lee"
   - " Brian Sowers"
-thumbnail:    "/images/games/brixplorer/brixplorer_thumb.png"
+thumbnail:    "https://content.duelingmonkeys.com/gallery/games/brixplorer/brixplorer_thumb.png"
 images: 
-  - "/images/games/brixplorer/brixplorer1.png"
-  - "/images/games/brixplorer/brixplorer2.png"
-  - "/images/games/brixplorer/brixplorer3.png"
-  - "/images/games/brixplorer/brixplorer4.png"
-  - "/images/games/brixplorer/brixplorer5.png"
-  - "/images/games/brixplorer/brixplorer6.png"
-  - "/images/games/brixplorer/brixplorer7.png"
+  - "https://content.duelingmonkeys.com/gallery/games/brixplorer/brixplorer1.png"
+  - "https://content.duelingmonkeys.com/gallery/games/brixplorer/brixplorer2.png"
+  - "https://content.duelingmonkeys.com/gallery/games/brixplorer/brixplorer3.png"
+  - "https://content.duelingmonkeys.com/gallery/games/brixplorer/brixplorer4.png"
+  - "https://content.duelingmonkeys.com/gallery/games/brixplorer/brixplorer5.png"
+  - "https://content.duelingmonkeys.com/gallery/games/brixplorer/brixplorer6.png"
+  - "https://content.duelingmonkeys.com/gallery/games/brixplorer/brixplorer7.png"
 summary: "A roguelike where you manipulate the dungeon itself rather than fight"
 ---
 Brixplorer was made for the 4th annual [Triangle Game Jam](http://www.trianglegamejam.com). The theme of the jam was &quot;placing blocks&quot; and I decided to try making a roguelike where the random dungeons were filled with monsters and traps, but the main character could not fight. Instead, the player can actually pick up dungeon tiles in their inventory then place them elsewhere.

@@ -4,15 +4,15 @@ date:         "2009-08-07"
 download:     "/downloads/games/dalyhomesinc_090807.zip"
 contributors: 
   - "Mike Daly"
-thumbnail:    "/images/games/dalyhomesinc/dalyhomesinc_thumb.png"
+thumbnail:    "https://content.duelingmonkeys.com/gallery/games/dalyhomesinc/dalyhomesinc_thumb.png"
 images: 
-  - "/images/games/dalyhomesinc/dalyhomesinc1.png"
-  - "/images/games/dalyhomesinc/dalyhomesinc2.png"
-  - "/images/games/dalyhomesinc/dalyhomesinc3.png"
-  - "/images/games/dalyhomesinc/dalyhomesinc4.png"
-  - "/images/games/dalyhomesinc/dalyhomesinc5.png"
-  - "/images/games/dalyhomesinc/dalyhomesinc6.png"
-  - "/images/games/dalyhomesinc/dalyhomesinc7.png"
+  - "https://content.duelingmonkeys.com/gallery/games/dalyhomesinc/dalyhomesinc1.png"
+  - "https://content.duelingmonkeys.com/gallery/games/dalyhomesinc/dalyhomesinc2.png"
+  - "https://content.duelingmonkeys.com/gallery/games/dalyhomesinc/dalyhomesinc3.png"
+  - "https://content.duelingmonkeys.com/gallery/games/dalyhomesinc/dalyhomesinc4.png"
+  - "https://content.duelingmonkeys.com/gallery/games/dalyhomesinc/dalyhomesinc5.png"
+  - "https://content.duelingmonkeys.com/gallery/games/dalyhomesinc/dalyhomesinc6.png"
+  - "https://content.duelingmonkeys.com/gallery/games/dalyhomesinc/dalyhomesinc7.png"
 summary: "A home builder simulator made for my dad's 50th birthday"
 ---
 I created this game based off of the career of my dad, John E Daly. Over the course of his career he was a builder, contractor, developer, and eventually invested in real-estate. I wanted to create a game that embodied a few aspects of his experience:

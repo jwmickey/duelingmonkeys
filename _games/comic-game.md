@@ -4,12 +4,12 @@ date:         "2009-07-06"
 download:     "/downloads/games/comicgame_090706.zip"
 contributors: 
   - "Mike Daly"
-thumbnail:    "/images/games/comicgame/comicgame_thumb.jpg"
+thumbnail:    "https://content.duelingmonkeys.com/gallery/games/comicgame/comicgame_thumb.jpg"
 images: 
-  - "/images/games/comicgame/comicgame1.jpg"
-  - "/images/games/comicgame/comicgame2.jpg"
-  - "/images/games/comicgame/comicgame3.jpg"
-  - "/images/games/comicgame/comicgame4.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/comicgame/comicgame1.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/comicgame/comicgame2.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/comicgame/comicgame3.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/comicgame/comicgame4.jpg"
 summary: "A simple interactive comic viewer."
 ---
 Comc Game is an interactive comic book; kind of like one of the old choose your own adventure stories but you can do more than just branching. Here is an analogy: If an old-school text adventure is like taking a test, playing comic game is like taking a multiple-choice pop quiz where the score doesn't count towards your grade.

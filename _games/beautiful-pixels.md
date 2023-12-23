@@ -8,14 +8,14 @@ contributors:
   - " Nolan Walker"
   - " Andy Jones"
   - " Jody Mickey"
-thumbnail:    "/images/games/beautifulpixels/beautifulpixels_thumb.jpg"
+thumbnail:    "https://content.duelingmonkeys.com/gallery/games/beautifulpixels/beautifulpixels_thumb.jpg"
 images: 
-  - "/images/games/beautifulpixels/beautifulpixels1mid.jpg"
-  - "/images/games/beautifulpixels/beautifulpixels2mid.jpg"
-  - "/images/games/beautifulpixels/beautifulpixels3mid.jpg"
-  - "/images/games/beautifulpixels/beautifulpixels4mid.jpg"
-  - "/images/games/beautifulpixels/beautifulpixels5mid.jpg"
-  - "/images/games/beautifulpixels/beautifulpixels6mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/beautifulpixels/beautifulpixels1mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/beautifulpixels/beautifulpixels2mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/beautifulpixels/beautifulpixels3mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/beautifulpixels/beautifulpixels4mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/beautifulpixels/beautifulpixels5mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/beautifulpixels/beautifulpixels6mid.jpg"
 summary: "My implementation of Vince's idea to make a game where you could mix and match game logic and game renderer."
 ---
 The concept of Beautiful Pixels was to make a simple framework that has two extension points: a visualizer module and a game logic module. Both the game logic and the visualizer only have access to a common object that basically just holds a grid of integers, and a palette. The Game Logic has no way of displaying anything other than by changing the entries in the grid/palette and the visualizer has no idea what is going on in the game logic - it just reads from the grid and renders it however it chooses.

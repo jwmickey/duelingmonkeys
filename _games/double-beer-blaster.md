@@ -6,15 +6,15 @@ contributors:
   - "Mike Daly"
   - " Wes Hunt"
   - " Nick Darnell"
-thumbnail:    "/images/games/doublebeerblaster/doublebeerblaster_thumb.png"
+thumbnail:    "https://content.duelingmonkeys.com/gallery/games/doublebeerblaster/doublebeerblaster_thumb.png"
 images: 
-  - "/images/games/doublebeerblaster/doublebeerblaster1mid.jpg"
-  - "/images/games/doublebeerblaster/doublebeerblaster2mid.jpg"
-  - "/images/games/doublebeerblaster/doublebeerblaster3mid.jpg"
-  - "/images/games/doublebeerblaster/doublebeerblaster4mid.jpg"
-  - "/images/games/doublebeerblaster/doublebeerblaster5mid.jpg"
-  - "/images/games/doublebeerblaster/doublebeerblaster7mid.jpg"
-  - "/images/games/doublebeerblaster/doublebeerblaster8mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/doublebeerblaster/doublebeerblaster1mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/doublebeerblaster/doublebeerblaster2mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/doublebeerblaster/doublebeerblaster3mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/doublebeerblaster/doublebeerblaster4mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/doublebeerblaster/doublebeerblaster5mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/doublebeerblaster/doublebeerblaster7mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/doublebeerblaster/doublebeerblaster8mid.jpg"
 summary: "An arena shooter designed to double as a drinking game. Made for the 2008 Triangle Game Jam."
 ---
 A video game designed specifically to be a drinking game. Double Beer Blaster is a two player game where players take turns with the controller. The player with the controller tries to manipulate the tap around the screen to fill up the floating beer mugs. The other player sits with a beer in each hand. When a mug gets filled in the game, the player sitting out takes a drink. After the round is over, players swap places to inflict sweet revenge.

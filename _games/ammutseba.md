@@ -6,13 +6,13 @@ contributors:
   - "Mike Daly"
   - " Shovaen Patel"
   - " Lori Wilson"
-thumbnail:    "/images/games/ammutseba/ammutseba_thumb.png"
+thumbnail:    "https://content.duelingmonkeys.com/gallery/games/ammutseba/ammutseba_thumb.png"
 images: 
-  - "/images/games/ammutseba/ammutseba_1.jpg"
-  - "/images/games/ammutseba/ammutseba_2.jpg"
-  - "/images/games/ammutseba/ammutseba_3.jpg"
-  - "/images/games/ammutseba/ammutseba_4.jpg"
-  - "/images/games/ammutseba/ammutseba_5.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/ammutseba/ammutseba_1.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/ammutseba/ammutseba_2.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/ammutseba/ammutseba_3.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/ammutseba/ammutseba_4.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/ammutseba/ammutseba_5.jpg"
 summary: "Guide a cosmic tentril around stars so that Ammutseba can devour them"
 ---
 Ammutseba is based off of my earlier Game Jam Game [Slither](/games/slither.html). The earlier game requires a 360 controller to play and has you guiding a fixed length snake around. I felt like the line construction part of the gameplay had promise but that the 'catch your tail' gameplay wasn't really fun so this version was an attempt to see if a mouse-driven control scheme could be fun. I also added random puck distribution, time-based scoring, and fixed a pile of scoring bugs (though some still remain).

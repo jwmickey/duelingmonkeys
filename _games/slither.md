@@ -6,13 +6,13 @@ contributors:
   - "Mike Daly"
   - " Shovaen Patel"
   - " Lori Wilson"
-thumbnail:    "/images/games/slither/slither_thumb.png"
+thumbnail:    "https://content.duelingmonkeys.com/gallery/games/slither/slither_thumb.png"
 images: 
-  - "/images/games/slither/slither7.jpg"
-  - "/images/games/slither/slither8.jpg"
-  - "/images/games/slither/slither9.jpg"
-  - "/images/games/slither/slither10.jpg"
-  - "/images/games/slither/slither11.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/slither/slither7.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/slither/slither8.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/slither/slither9.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/slither/slither10.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/slither/slither11.jpg"
 summary: "As the Oroboros, enclose the right discs before eating your tail"
 ---
 Slither was made for the 2012 [Global Game Jam](http://globalgamejam.org/jam). The theme was simply an image of the [Oroboros](http://en.wikipedia.org/wiki/Oroboros) which I thought was pretty cool because it led to a lot of neat ideas.

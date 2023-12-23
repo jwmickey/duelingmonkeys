@@ -6,14 +6,14 @@ contributors:
   - "Mike Daly"
   - " Vince Scheib"
   - " Nolan Walker"
-thumbnail:    "/images/games/orbital/orbital_thumb.jpg"
+thumbnail:    "https://content.duelingmonkeys.com/gallery/games/orbital/orbital_thumb.jpg"
 images: 
-  - "/images/games/orbital/orbital1mid.jpg"
-  - "/images/games/orbital/orbital2mid.jpg"
-  - "/images/games/orbital/orbital3mid.jpg"
-  - "/images/games/orbital/orbital4mid.jpg"
-  - "/images/games/orbital/orbital5mid.jpg"
-  - "/images/games/orbital/orbital6mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/orbital/orbital1mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/orbital/orbital2mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/orbital/orbital3mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/orbital/orbital4mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/orbital/orbital5mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/orbital/orbital6mid.jpg"
 summary: "A pong style game where you use gravity to slingshot the puck."
 ---
 Orbital is a simple pong style game. Each player gets a bumper that they can move anywhere on their half of the screen. While either player is holding the A button, their bumper attracts the puck using gravity that falls off at an inverse square rate. If the puck touches a player's bumper, it will damage it so players must use gravity to make their shots or they will eventually get destroyed which gives their opponent a point, although players can still block a fast shot with their bumper if necessary.

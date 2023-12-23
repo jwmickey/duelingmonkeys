@@ -6,7 +6,7 @@ nav: games
     <img src="{{ page.thumbnail }}" class="pull-right" width="64" height="64">
     <h3 class="news-title">{{ page.title }}</h3>
     <dl class="dl-horizontal">
-        <dt>Date:</dt><dd>{{ page.date }}</dd>
+        <dt>Year:</dt><dd>{{ page.date | date: "%Y" }}</dd>
         <dt>Contributors:</dt><dd>{{ page.contributors | join:', ' }}</dd>
         <dt>Download:</dt><dd><a href="{{ page.download }}">{{ page.download }}</a></dd>
     </dl>

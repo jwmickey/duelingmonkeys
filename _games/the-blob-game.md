@@ -4,15 +4,15 @@ date:         "2001-07-20"
 download:     "/downloads/games/theblobgame_090118.zip"
 contributors: 
   - "Mike Daly"
-thumbnail:    "/images/games/theblobgame/theblobgame_thumb.jpg"
+thumbnail:    "https://content.duelingmonkeys.com/gallery/games/theblobgame/theblobgame_thumb.jpg"
 images: 
-  - "/images/games/theblobgame/theblobgame1mid.jpg"
-  - "/images/games/theblobgame/theblobgame2mid.jpg"
-  - "/images/games/theblobgame/theblobgame3mid.jpg"
-  - "/images/games/theblobgame/theblobgame4mid.jpg"
-  - "/images/games/theblobgame/theblobgame5mid.jpg"
-  - "/images/games/theblobgame/theblobgame6mid.jpg"
-  - "/images/games/theblobgame/theblobgame7mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/theblobgame/theblobgame1mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/theblobgame/theblobgame2mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/theblobgame/theblobgame3mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/theblobgame/theblobgame4mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/theblobgame/theblobgame5mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/theblobgame/theblobgame6mid.jpg"
+  - "https://content.duelingmonkeys.com/gallery/games/theblobgame/theblobgame7mid.jpg"
 summary: "Isometric action game where you run around and punch jelly"
 ---
 The Blob Game is a simple game where you just run around in an isometric 2d tile map and when you are adjacent to one of the randomly generating bouncing jellies, you punch it and get a point. You have to get a certain number of points to progress to the next stage.

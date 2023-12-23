@@ -5,15 +5,15 @@ download:     "/downloads/games/karmariot_100712.zip"
 contributors: 
   - "Mike Daly"
   - " Paul Spychala"
-thumbnail:    "/images/games/karmariotv2/karmariotv2_thumb.png"
+thumbnail:    "https://content.duelingmonkeys.com/gallery/games/karmariotv2/karmariotv2_thumb.png"
 images: 
-  - "/images/games/karmariotv2/karmariotbeta1.png"
-  - "/images/games/karmariotv2/karmariotbeta2.png"
-  - "/images/games/karmariotv2/karmariotbeta3.png"
-  - "/images/games/karmariotv2/karmariotbeta4.png"
-  - "/images/games/karmariotv2/karmariotbeta5.png"
-  - "/images/games/karmariotv2/karmariotbeta6.png"
-  - "/images/games/karmariotv2/karmariotbeta7.png"
+  - "https://content.duelingmonkeys.com/gallery/games/karmariotv2/karmariotbeta1.png"
+  - "https://content.duelingmonkeys.com/gallery/games/karmariotv2/karmariotbeta2.png"
+  - "https://content.duelingmonkeys.com/gallery/games/karmariotv2/karmariotbeta3.png"
+  - "https://content.duelingmonkeys.com/gallery/games/karmariotv2/karmariotbeta4.png"
+  - "https://content.duelingmonkeys.com/gallery/games/karmariotv2/karmariotbeta5.png"
+  - "https://content.duelingmonkeys.com/gallery/games/karmariotv2/karmariotbeta6.png"
+  - "https://content.duelingmonkeys.com/gallery/games/karmariotv2/karmariotbeta7.png"
 summary: "An old school Kart racing game with a few twists, phase 2"
 ---
 Karma Riot is a multiplayer Kart Racing game heavily inspired by Super Mario Kart for the SNES. I spent the last quarter of 2009 working on a prototype for the game, which can be found here: [Karma Riot phase 1](/games/karma-riot-v1.html).

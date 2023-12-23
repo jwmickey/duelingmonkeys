@@ -4,13 +4,13 @@ date:         "2010-02-04"
 download:     "/downloads/games/mabud_100204.zip"
 contributors: 
   - "Mike Daly"
-thumbnail:    "/images/games/mabud/mabud_thumb.png"
+thumbnail:    "https://content.duelingmonkeys.com/gallery/games/mabud/mabud_thumb.png"
 images: 
-  - "/images/games/mabud/mabud1.png"
-  - "/images/games/mabud/mabud2.png"
-  - "/images/games/mabud/mabud3.png"
-  - "/images/games/mabud/mabud4.png"
-  - "/images/games/mabud/mabud5.png"
+  - "https://content.duelingmonkeys.com/gallery/games/mabud/mabud1.png"
+  - "https://content.duelingmonkeys.com/gallery/games/mabud/mabud2.png"
+  - "https://content.duelingmonkeys.com/gallery/games/mabud/mabud3.png"
+  - "https://content.duelingmonkeys.com/gallery/games/mabud/mabud4.png"
+  - "https://content.duelingmonkeys.com/gallery/games/mabud/mabud5.png"
 summary: "Mindless button mashing game created out of spite"
 ---
 So one of my co-workers was very excited about the release of [Aliens vs Predator](http://www.sega.com/games/aliens-vs-predator/) and wanted to get other people around the office interested. Since a lot of people in the office like [Smash Bros](http://www.smashbros.com/en_us/), he decided to claim that AVP was just like Smash Bros because both consist of randomly mashing buttons until things died and paper rock scissors.

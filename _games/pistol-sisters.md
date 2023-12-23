@@ -4,13 +4,13 @@ date:         "2014-06-16"
 download:     "/filespace/mike/pistolsisters_140616"
 contributors: 
   - "Mike Daly"
-thumbnail:    "/images/games/pistolsisters/pistolsisters_thumb.png"
+thumbnail:    "https://content.duelingmonkeys.com/gallery/games/pistolsisters/pistolsisters_thumb.png"
 images: 
-  - "/images/games/pistolsisters/pistolsisters_1.png"
-  - "/images/games/pistolsisters/pistolsisters_2.png"
-  - "/images/games/pistolsisters/pistolsisters_3.png"
-  - "/images/games/pistolsisters/pistolsisters_4.png"
-  - "/images/games/pistolsisters/pistolsisters_concept_1.png"
+  - "https://content.duelingmonkeys.com/gallery/games/pistolsisters/pistolsisters_1.png"
+  - "https://content.duelingmonkeys.com/gallery/games/pistolsisters/pistolsisters_2.png"
+  - "https://content.duelingmonkeys.com/gallery/games/pistolsisters/pistolsisters_3.png"
+  - "https://content.duelingmonkeys.com/gallery/games/pistolsisters/pistolsisters_4.png"
+  - "https://content.duelingmonkeys.com/gallery/games/pistolsisters/pistolsisters_concept_1.png"
 summary: "Control two jetpacking mercenaries at once flank enemies in this shmup"
 ---
 Pistol Sisters is an idea I had a few years ago for a game that would use multi-touch controls in a unique way. The idea was to provide controls that did not require you to put your fingers in the way of what you wanted to look at and provided a 1:1 positional mapping (as opposed to directional controls, which map to velocity).

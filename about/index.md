@@ -2,13 +2,13 @@
 layout: page
 title: "About Us"
 ---
-h3. About the Dueling Monkeys
+### About the Dueling Monkeys
 
 The Dueling Monkeys are a team of two people; Mike "Willow" Daly and Jody "Wayne" Mickey. Why they are on a team, and what that team hopes to accomplish is a mystery. By combining Wayne's talent to create webpages and Willow's talent for using a spellchecker and Photoshop's flood fill tool, they created this webpage to be their home on the internet.
 
-You can read more about our "site history":/about/history.html, or continue below for vague bios.
+You can read more about our [site history](/about/history.html), or continue below for vague bios.
 
-h4. Mike Daly (aka Willow Monkey)
+#### Mike Daly (aka Willow Monkey)
 
 Vital Statistics:
 
@@ -29,7 +29,7 @@ In the time I spend not staring at a computer monitor I enjoy rock climbing, vol
 Feel entitled to e-mail me at mike at duelingmonkeys dot com.
 
 
-h4. Jody Mickey (aka Jody Monkey)
+#### Jody Mickey (aka Jody Monkey)
 
 Vital Statistics
 

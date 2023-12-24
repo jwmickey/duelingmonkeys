@@ -2,7 +2,7 @@
 layout: page
 title: "Site History"
 ---
-h3. The History of Dueling Monkeys
+### The History of Dueling Monkeys
 
 It was the year 2002, and Mike and Jody were bored. I was learning PHP and needed a project. Mike was probably just really really bored. I remember it very clearly. I went to Mike's room to suggest that we start a website and as I hung by my arms from his bunk-bed/desk, we started campaigning for a good domain.
 
@@ -10,11 +10,11 @@ That campaign was about as successfull as John McCain's. What the hell does this
 
 I'm pretty sure there was an even uglier version that I first made, but no record of it survived the dozen or so hard drive formats over the years. Here is a screenshot of our first "about us" page.
 
-h4. Version 1
+#### Version 1
 
 At some point we decided to have something really unique. My friends, we made great success. Sadly, the navigation didn't make any sense. You had to mouse over the links before you knew what they were. The layout was quite narrow, which was fine except for viewing images. I got the bright idea to use Flickr's API for our gallery and at some point it broke. We added links to things that didn't exist and never ended up being added. Some parts of the site we hadn't updated in years. It was time for an overhaul. Take a look and you might agree:
 
-h4. Version 2
+#### Version 2
 
 And so, what you see today is what we are hoping is a fast loading, easy to navigate, and not-quite-so-busy website that focuses on what we actually do these days. For this version we've added a games section to showcase Mike's masterpieces. The articles section is gone because it's far outdated. We are keeping the cooking section although you people need to add to it! The gallery is back to the original tried and true method: find images in a folder. The Flickr idea had potential, but was really just an extension to what they already offer and I don't have the patience to figure out why it stopped working. We hope you like the way our site looks, but if not you can always just go for the newest data via RSS. We have feeds for both news and the forum.
 

@@ -10,9 +10,9 @@ That campaign was about as successfull as John McCain's. What the hell does this
 
 I'm pretty sure there was an even uglier version that I first made, but no record of it survived the dozen or so hard drive formats over the years. Here is a screenshot of our first "about us" page.
 
-#### Version 1
+#### The Orbs
 
-At some point we decided to have something really unique. My friends, we made great success. Sadly, the navigation didn't make any sense. You had to mouse over the links before you knew what they were. The layout was quite narrow, which was fine except for viewing images. I got the bright idea to use Flickr's API for our gallery and at some point it broke. We added links to things that didn't exist and never ended up being added. Some parts of the site we hadn't updated in years. It was time for an overhaul. Take a look and you might agree:
+At some point we decided to have something really unique. My friends, we made great success. Sadly, the navigation didn't make any sense. You had to mouse over the links before you knew what they were. The layout was quite narrow, which was fine except for viewing images. I got the bright idea to use Flickr's API for our gallery and at some point it broke. We added links to things that didn't exist and never ended up being added. Some parts of the site we hadn't updated in years. It was time for an overhaul. Take a look and you might agree: [The Orb Design](/about/orbs.html)
 
 #### Version 2
 

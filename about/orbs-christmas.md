@@ -1,5 +1,5 @@
 ---
-layout: curly
+layout: orbs
 title: "Site History - Orb Design"
 theme: christmas
 ---

@@ -1,0 +1,148 @@
+---
+---
+<!DOCTYPE html> 
+<html>
+    <head>
+        <title>Movie Maker</title>
+        <style>
+        body, html {
+			font-family: verdana;
+			font-size: 9px;
+            background-color: #333;
+		}
+
+        #wrap {
+            position: relative;
+            margin: 20px auto;
+            width: 300px;
+            height: 400px;
+        }
+		
+		h1, h2 {
+			width: 100%;
+			text-align: center;
+			color: #000;
+			font-size: 32px;
+		}
+		h2 {
+			font-size: 24px;
+		}
+		
+		#layer1 h1 {
+			position: absolute;
+			bottom: 28px;
+			color: #FFF;
+			z-index: 5;
+			text-shadow: 1px 1px #fff;
+		}
+		
+		#layer1 h2 {
+			font-size: 18px;
+			position: absolute;
+            bottom: 0;
+			width: 100%;
+			text-align: center;
+            color: #FFF;
+            text-shadow: 1px 1px #fff;
+		}
+		
+		#layer2 h1, #layer2 h2 {
+			position: absolute;
+			top: 0;  left:0;
+			width: 100%;
+			margin: 0;  padding: 2px;
+			text-align: center;
+			color: #FFF;
+		}
+		
+		#wrap, #layer1, #layer2 {
+			background-position: bottom left;
+            background-repeat: no-repeat;
+		}
+		
+		#layer1, #layer2, #layer3, #layer4 {
+			position: absolute;
+            top: 0; left: 0; bottom: 0; right: 0;
+		}
+
+        #text {
+            width: 280px;
+            margin: 0 auto;
+            padding: 10px;
+            background-color: rgba(255,255,255,0.25);;
+        }
+
+        .draw {
+            font-size:14px;
+            text-align:center;
+        }
+        </style> 
+    </head>
+    <body> 
+        <div id="wrap">
+			<div id="layer1">
+				<h1 id="movie-title"></h1>
+				<h2 id="movie-subtitle"></h2>
+            </div>
+			<div id="layer2">
+				<h2 id="actor-name"></h2>
+            </div>
+		</div>
+		<br/>
+		<div id="text">
+			<div class="draw">
+                <button id="again">AGAIN!</button>
+            </div>
+			<p>
+                Want to save this one for later?  As of now the only way is to use your keyboard's
+			    "Print Screen" button, open up MS Paint, paste and crop, and then save.<br/><br/>
+			    After we get this thing working pretty well we'll have a link to save the settings for the
+			    current movie poster.
+            </p>
+            <p>
+                <strong>A note from the future</strong>.  This "project" is super old.  So old that to
+                 get the text shadow effect to work I had to draw the same text twice, but one offset 
+                 by a pixel - because text-shadow did not exist!  Originally the generation was done in PHP 
+                 but to ressurect this from the dead in 2023 it has been converted to JS.  Otherwise 
+                 this silly thing is as it was twenty-some years ago, including the crude "screenshot" 
+                 instructions above.
+            </p>
+            <p>
+                <a href="/">Back to the site</a>
+            </p>
+		</div>
+
+        <script type="module">
+        import { generate } from './moviemaker.js';
+        const IMG_PREFIX = 'https://content.duelingmonkeys.com/moviemaker/';
+
+        document.getElementById('again').addEventListener('click', draw);
+        
+        function draw() {
+            const { title, subtitle, actorImage, actor, feature, background, textColor } = generate();
+
+            if (subtitle.length) {
+                document.getElementById('movie-subtitle').style.display = 'block';
+            } else {
+                document.getElementById('movie-subtitle').style.display = 'none';
+            }
+            
+            el('movie-title').style.color = textColor;
+            el('movie-title').innerText = title;
+            el('movie-subtitle').innerText = subtitle;
+            setImage('wrap', background);
+            setImage('layer2', actorImage);
+        }
+
+        function el(elemId) {
+            return document.getElementById(elemId);
+        }
+
+        function setImage(elemId, path) {
+            document.getElementById(elemId).style.backgroundImage = 'url(' + IMG_PREFIX + path + ')';
+        }
+
+        draw();
+        </script>
+    </body>
+</html>

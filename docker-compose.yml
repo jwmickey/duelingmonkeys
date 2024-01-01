@@ -1,0 +1,14 @@
+version: '3.3'
+
+services:
+  dev: 
+    build: .
+    entrypoint: jekyll s --host 0.0.0.0
+    ports:
+      - "4000:4000"
+    volumes:
+      - "$PWD:/site"
+      - gems:/var/lib/gems
+
+volumes:
+  gems: 

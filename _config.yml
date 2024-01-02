@@ -7,12 +7,11 @@ plugins_dir: _plugins
 
 gems:
   - jekyll-gallery-generator
-  - jekyll-textile-converter
 
 # Build settings
 markdown: kramdown
 
-exclude: ['tools', 'bower_components', 'Gemfile', 'Gemfile.lock', 'bower.json', 'Vagrantfile', 'provision.sh', 'README.md', 'vendor']
+exclude: ['Gemfile', 'Gemfile.lock', 'bower.json', 'Dockerfile', 'docker-compose.yml', 'provision.sh', 'README.md', 'vendor']
 
 gallery:
   # path to the gallery

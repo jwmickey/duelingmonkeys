@@ -7,7 +7,7 @@ title: Gallery
 <div id="gallery-app">
     <div id="gallery-index" class="galleries"></div>
     <div id="gallery-detail" style="display:none">
-        <p><a href="#" id="gallery-back" onclick="goToIndex(); return false;">&larr; Back to Galleries</a></p>
+        <p><a href="#" id="gallery-back">&larr; Back to Galleries</a></p>
         <h3 id="gallery-title"></h3>
         <div id="gallery-images" class="gallery-grid"></div>
     </div>
@@ -17,9 +17,9 @@ title: Gallery
 <div id="gallery-lightbox">
     <div class="lightbox-content">
         <img id="lightbox-img" src="" alt="">
-        <button class="lightbox-prev" onclick="event.stopPropagation(); navLightbox(-1)" title="Previous">&lsaquo;</button>
-        <button class="lightbox-next" onclick="event.stopPropagation(); navLightbox(1)" title="Next">&rsaquo;</button>
-        <button class="lightbox-close" onclick="event.stopPropagation(); closeLightbox()" title="Close">&times;</button>
+        <button class="lightbox-prev" title="Previous">&lsaquo;</button>
+        <button class="lightbox-next" title="Next">&rsaquo;</button>
+        <button class="lightbox-close" title="Close">&times;</button>
     </div>
 </div>
 
@@ -198,10 +198,6 @@ function showIndex() {
     el.innerHTML = html;
 }
 
-function goToIndex() {
-    window.location.hash = '';
-}
-
 function showGallery(gallery) {
     document.getElementById('gallery-index').style.display = 'none';
     document.getElementById('gallery-detail').style.display = '';
@@ -215,11 +211,20 @@ function showGallery(gallery) {
         var full = S3_BASE + '/' + gallery.name + '/' + img;
         var thumb = full;
         currentImages.push(full);
-        html += '<a href="' + full + '" onclick="openLightbox(' + i + '); return false;">'
+        html += '<a href="' + full + '" data-index="' + i + '">'
             + '<img src="' + thumb + '" alt="' + img + '" loading="lazy">'
             + '</a>';
     }
     document.getElementById('gallery-images').innerHTML = html;
+    
+    // Add click handlers to gallery images
+    var links = document.querySelectorAll('#gallery-images a');
+    for (var i = 0; i < links.length; i++) {
+        links[i].addEventListener('click', function (e) {
+            e.preventDefault();
+            openLightbox(parseInt(this.getAttribute('data-index')));
+        });
+    }
 }
 
 function openLightbox(index) {
@@ -257,6 +262,28 @@ document.addEventListener('click', function (e) {
     if (lightbox.classList.contains('active') && e.target === lightbox) {
         closeLightbox();
     }
+});
+
+// Handle lightbox button clicks
+document.querySelector('.lightbox-prev').addEventListener('click', function (e) {
+    e.stopPropagation();
+    navLightbox(-1);
+});
+
+document.querySelector('.lightbox-next').addEventListener('click', function (e) {
+    e.stopPropagation();
+    navLightbox(1);
+});
+
+document.querySelector('.lightbox-close').addEventListener('click', function (e) {
+    e.stopPropagation();
+    closeLightbox();
+});
+
+// Handle back to gallery index
+document.getElementById('gallery-back').addEventListener('click', function (e) {
+    e.preventDefault();
+    window.location.hash = '';
 });
 
 init();

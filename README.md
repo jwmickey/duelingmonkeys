@@ -81,7 +81,7 @@ Every pull request automatically:
 - Pull requests: `https://pr-{PR-NUMBER}.duelingmonkeys.com`
 - Feature branches: `https://branch-{BRANCH-NAME}.duelingmonkeys.com` (non-alphanumeric characters like `/` are converted to `-`)
 
-Previews are automatically cleaned up when a PR is closed.
+Previews are automatically cleaned up when a PR is closed or when a feature branch is deleted.
 
 ### Production Deployment
 
@@ -116,8 +116,8 @@ Merging to `main` automatically:
 - Requires: `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY` secrets
 
 ### cleanup-preview.yml
-- Triggers when a PR is closed
-- Removes preview deployment from server
+- Triggers when a PR is closed or a feature branch is deleted
+- Removes preview deployment from server (PR and feature branch previews)
 - Cleans up disk space automatically
 
 ## Required Secrets (Repository Settings)

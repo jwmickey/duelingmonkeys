@@ -24,7 +24,7 @@ jobs:
         if: github.ref == 'refs/heads/main' && github.event_name == 'push'
         uses: burnett01/rsync-deployments@7.0.1
         with:
-          switches: -avz --delete
+          switches: -avz --delete-after
           path: _site/
           remote_path: ${{ secrets.DEPLOY_PATH }}/live
           remote_host: ${{ secrets.DEPLOY_HOST }}
@@ -35,7 +35,7 @@ jobs:
         if: github.event_name == 'pull_request'
         uses: burnett01/rsync-deployments@7.0.1
         with:
-          switches: -avz --delete
+          switches: -avz --delete-after
           path: _site/
           remote_path: ${{ secrets.DEPLOY_PATH }}/preview/pr-${{ github.event.pull_request.number }}
           remote_host: ${{ secrets.DEPLOY_HOST }}
@@ -58,7 +58,7 @@ jobs:
         if: github.ref != 'refs/heads/main' && github.event_name == 'push'
         uses: burnett01/rsync-deployments@7.0.1
         with:
-          switches: -avz --delete
+          switches: -avz --delete-after
           path: _site/
           remote_path: ${{ secrets.DEPLOY_PATH }}/preview/branch-${{ github.ref_name }}
           remote_host: ${{ secrets.DEPLOY_HOST }}

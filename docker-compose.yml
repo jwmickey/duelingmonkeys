@@ -1,14 +1,12 @@
-version: '3.3'
-
 services:
   dev: 
     build: .
-    entrypoint: jekyll s --host 0.0.0.0 -w --drafts --future
+    entrypoint: bash -c "cd /site && bundle exec jekyll s --host 0.0.0.0 -w --drafts --future"
     ports:
       - "4000:4000"
     volumes:
       - "$PWD:/site"
-      - gems:/var/lib/gems
+      - bundle_cache:/usr/local/bundle
 
 volumes:
-  gems: 
+  bundle_cache:

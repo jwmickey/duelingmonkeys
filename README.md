@@ -79,7 +79,7 @@ Every pull request automatically:
 
 **Preview URLs:**
 - Pull requests: `https://pr-{PR-NUMBER}.duelingmonkeys.com`
-- Feature branches: `https://branch-{BRANCH-NAME}.duelingmonkeys.com`
+- Feature branches: `https://branch-{BRANCH-NAME}.duelingmonkeys.com` (non-alphanumeric characters like `/` are converted to `-`)
 
 Previews are automatically cleaned up when a PR is closed.
 
@@ -132,6 +132,21 @@ For deployments to work, add these GitHub secrets:
 - `AWS_SECRET_ACCESS_KEY`: For gallery sync workflow
 
 ## Troubleshooting
+
+**Docker `compose up` fails with `Bundler::GemNotFound`?**
+```bash
+docker compose down
+docker compose run --rm --entrypoint bash dev -lc 'cd /site && bundle lock --add-platform aarch64-linux && bundle install'
+docker compose up -d
+docker compose logs --tail=120 dev
+```
+
+If needed, force a clean rebuild:
+```bash
+docker compose down -v
+docker compose build --no-cache
+docker compose up -d
+```
 
 **Build fails locally?**
 ```bash

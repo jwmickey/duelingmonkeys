@@ -1,0 +1,38 @@
+name: Cleanup Preview Deployment
+
+on:
+  pull_request:
+    types: [closed]
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Remove PR preview
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.DEPLOY_HOST }}
+          username: ${{ secrets.DEPLOY_USER }}
+          key: ${{ secrets.DEPLOY_SSH_KEY }}
+          script: |
+            PREVIEW_DIR="${{ secrets.DEPLOY_PATH }}/preview/pr-${{ github.event.pull_request.number }}"
+            
+            if [ -d "$PREVIEW_DIR" ]; then
+              echo "Removing preview: $PREVIEW_DIR"
+              rm -rf "$PREVIEW_DIR"
+              echo "✅ Preview cleanup complete"
+            else
+              echo "ℹ️ Preview directory not found (already cleaned up?)"
+            fi
+
+      - name: Comment PR about cleanup
+        if: github.event.pull_request.merged == false
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `🧹 Preview has been removed`
+            });

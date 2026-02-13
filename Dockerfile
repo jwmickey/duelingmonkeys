@@ -3,7 +3,7 @@ FROM ubuntu:jammy
 RUN apt-get update && apt-get upgrade -y && \
     apt-get install ruby-full build-essential zlib1g-dev curl git nodejs npm libmagickwand-dev -y
 
-RUN gem install jekyll bundler
+RUN gem install jekyll bundler aws-sdk-s3
 
 EXPOSE 4000
 

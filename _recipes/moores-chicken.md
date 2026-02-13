@@ -1,5 +1,5 @@
 ---
-title:  "Moore\'s Chicken"
+title:  "Moore's Chicken"
 author: "Jody"
 cook_time: ""
 prep_time: ""

@@ -20,20 +20,12 @@ module Jekyll
 
     def generate(site)
       if site.layouts.key? 'news_archive'
-        @posts = []
-        @year = site.posts[0].date.year;
-        site.posts.each do |post|
-          if (post.date.year != @year)
-            site.pages << NewsArchivePage.new(site, site.source, 'news', @year, @posts)
-            @posts = []
-          else
-            @posts << post
-          end
-          @year = post.date.year
-        end
+        posts = site.posts.docs
+        return if posts.empty?
 
-        if (@posts.length)
-          site.pages << NewsArchivePage.new(site, site.source, 'news', @year, @posts)
+        posts_by_year = posts.group_by { |post| post.date.year }
+        posts_by_year.each do |year, year_posts|
+          site.pages << NewsArchivePage.new(site, site.source, 'news', year, year_posts)
         end
       end
     end

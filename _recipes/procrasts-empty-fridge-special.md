@@ -1,5 +1,5 @@
 ---
-title:  "Procrast\'s Empty Fridge Special"
+title:  "Procrast's Empty Fridge Special"
 author: "Wesley"
 cook_time: ""
 prep_time: ""

@@ -54,9 +54,11 @@ title: Gallery
         display: none;
         align-items: center;
         justify-content: center;
+        pointer-events: none;
     }
     #gallery-lightbox.active {
         display: flex;
+        pointer-events: auto;
     }
     .lightbox-content {
         position: relative;
@@ -237,6 +239,12 @@ function openLightbox(index) {
 function closeLightbox() {
     document.getElementById('gallery-lightbox').classList.remove('active');
     document.body.style.overflow = '';
+    // Clear the image src to prevent any potential display issues
+    setTimeout(function() {
+        if (!document.getElementById('gallery-lightbox').classList.contains('active')) {
+            document.getElementById('lightbox-img').src = '';
+        }
+    }, 300);
 }
 
 function navLightbox(dir) {

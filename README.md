@@ -79,7 +79,7 @@ Every pull request automatically:
 
 **Preview URLs:**
 - Pull requests: `https://pr-{PR-NUMBER}.duelingmonkeys.com`
-- Feature branches: `https://branch-{BRANCH-NAME}.duelingmonkeys.com`
+- Feature branches: `https://branch-{BRANCH-NAME}.duelingmonkeys.com` (non-alphanumeric characters like `/` are converted to `-`)
 
 Previews are automatically cleaned up when a PR is closed.
 

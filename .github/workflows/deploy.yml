@@ -54,13 +54,20 @@ jobs:
               body: `🔍 **Preview URL**: https://pr-${{ github.event.pull_request.number }}.duelingmonkeys.com`
             });
 
+      - name: Sanitize feature branch name
+        if: github.ref != 'refs/heads/main' && github.event_name == 'push'
+        id: sanitize_branch
+        run: |
+          SAFE_BRANCH=$(echo "${GITHUB_REF_NAME}" | sed 's#[^A-Za-z0-9._-]#-#g')
+          echo "safe_branch=${SAFE_BRANCH}" >> "$GITHUB_OUTPUT"
+
       - name: Deploy feature branch preview
         if: github.ref != 'refs/heads/main' && github.event_name == 'push'
         uses: burnett01/rsync-deployments@7.0.1
         with:
           switches: -avz --delete-after
           path: _site/
-          remote_path: ${{ secrets.DEPLOY_PATH }}/preview/branch-${{ github.ref_name }}
+          remote_path: ${{ secrets.DEPLOY_PATH }}/preview/branch-${{ steps.sanitize_branch.outputs.safe_branch }}
           remote_host: ${{ secrets.DEPLOY_HOST }}
           remote_user: ${{ secrets.DEPLOY_USER }}
           remote_key: ${{ secrets.DEPLOY_SSH_KEY }}

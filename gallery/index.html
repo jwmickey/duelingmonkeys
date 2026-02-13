@@ -181,7 +181,7 @@ function showIndex() {
     for (var i = 0; i < galleriesData.galleries.length; i++) {
         var g = galleriesData.galleries[i];
         html += '<a href="#' + g.name + '"'
-            + ' style="background-image:url(\'' + S3_BASE + '/' + g.name + '/thumbs/' + g.cover + '\')">'
+            + ' style="background-image:url(\'' + S3_BASE + '/' + g.name + '/' + g.cover + '\')">'
             + '<h3>' + g.title + '</h3>'
             + '</a>';
     }
@@ -199,7 +199,7 @@ function showGallery(gallery) {
     for (var i = 0; i < gallery.images.length; i++) {
         var img = gallery.images[i];
         var full = S3_BASE + '/' + gallery.name + '/' + img;
-        var thumb = S3_BASE + '/' + gallery.name + '/thumbs/' + img;
+        var thumb = full;
         currentImages.push(full);
         html += '<a href="' + full + '" onclick="openLightbox(' + i + '); return false;">'
             + '<img src="' + thumb + '" alt="' + img + '" loading="lazy">'

@@ -24,7 +24,8 @@ module Jekyll
         return if posts.empty?
 
         posts_by_year = posts.group_by { |post| post.date.year }
-        posts_by_year.each do |year, year_posts|
+        posts_by_year.keys.sort.reverse.each do |year|
+          year_posts = posts_by_year[year].sort_by { |post| -post.date.to_time.to_i }
           site.pages << NewsArchivePage.new(site, site.source, 'news', year, year_posts)
         end
       end

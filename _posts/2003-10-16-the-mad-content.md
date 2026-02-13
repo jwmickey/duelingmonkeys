@@ -12,8 +12,9 @@ Consider yourselves lucky this friday. Us here at the dueling monkeys have been 
  Jerks.
 
  Secondly, credit for this next item goes to wesley. He brought his cool little japanese digital camera to the climbing wall with us this past weekend, and we were able to capture some of it in the form of short quicktime movies. I hope you enjoy them. First is [yours truly performing a dynamic climbing maneuver](https://content.duelingmonkeys.com/filespace/wesley/mikesuperdyno.mov)!
- 
-Man, that's fun stuff. Then we have [Wesley performing the same move](https://content.duelingmonkeys.com/filespace/wesley/davedyno.mov). Then [me managing a difficult traversal](https://content.duelingmonkeys.com/filespace/wesley/miketraverse.mov). Isn't it cool? Yes.
+ Man, that's fun stuff.
+ Then we have [Wesley performing the same move](https://content.duelingmonkeys.com/filespace/wesley/davedyno.mov).
+ Then [me managing a difficult traversal](https://content.duelingmonkeys.com/filespace/wesley/miketraverse.mov). Isn't it cool? Yes.
 
  And just to point out how that first move is actually really easy and not dangerous at all, I have [this](https://content.duelingmonkeys.com/filespace/wesley/mikedynofake.mov), but don't tell anyone.
 

@@ -47,7 +47,6 @@ jobs:
           aws s3 cp _tools/gallery/galleries.json \
             s3://content.duelingmonkeys.com/gallery/galleries.json \
             --content-type application/json \
-            --acl public-read \
             --cache-control "max-age=300"  # 5 min cache
 
       - name: Summary

@@ -78,8 +78,8 @@ Every pull request automatically:
 3. Posts a comment with the preview link
 
 **Preview URLs:**
-- Pull requests: `https://pr-{PR-NUMBER}.preview.duelingmonkeys.com`
-- Feature branches: `https://branch-{BRANCH-NAME}.preview.duelingmonkeys.com`
+- Pull requests: `https://pr-{PR-NUMBER}.duelingmonkeys.com`
+- Feature branches: `https://branch-{BRANCH-NAME}.duelingmonkeys.com`
 
 Previews are automatically cleaned up when a PR is closed.
 

@@ -219,8 +219,8 @@ function showGallery(gallery) {
     
     // Add click handlers to gallery images
     var links = document.querySelectorAll('#gallery-images a');
-    for (var i = 0; i < links.length; i++) {
-        links[i].addEventListener('click', function (e) {
+    for (var j = 0; j < links.length; j++) {
+        links[j].addEventListener('click', function (e) {
             e.preventDefault();
             openLightbox(parseInt(this.getAttribute('data-index')));
         });

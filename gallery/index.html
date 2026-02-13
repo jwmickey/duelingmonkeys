@@ -163,7 +163,7 @@ function init() {
 
 function route() {
     if (window.location.hash && window.location.hash.length > 1) {
-        var name = window.location.hash.slice(1);
+        var name = decodeURIComponent(window.location.hash.slice(1));
         var gallery = findGallery(name);
         if (gallery) {
             showGallery(gallery);

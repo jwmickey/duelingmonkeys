@@ -133,6 +133,21 @@ For deployments to work, add these GitHub secrets:
 
 ## Troubleshooting
 
+**Docker `compose up` fails with `Bundler::GemNotFound`?**
+```bash
+docker compose down
+docker compose run --rm --entrypoint bash dev -lc 'cd /site && bundle lock --add-platform aarch64-linux && bundle install'
+docker compose up -d
+docker compose logs --tail=120 dev
+```
+
+If needed, force a clean rebuild:
+```bash
+docker compose down -v
+docker compose build --no-cache
+docker compose up -d
+```
+
 **Build fails locally?**
 ```bash
 bundle install --redownload

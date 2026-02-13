@@ -1,0 +1,33 @@
+---
+layout: posts
+title:  "Survey Says..."
+date:   2009-09-04 00:17:01
+author: "Mike Daly"
+avatar: "willow_calm2"
+---
+So here are the tallies to the poll I took last update, including the votes of some people I talked too offline:
+
+* Mario Kart: 6
+* Release Connexus: 3
+* Skills of an Artist: 2
+* Release Orbital: 1
+* Comic Game: 0
+* Slack off: 0
+
+Therefore, I will begin working on a Kart racing game soon. Stay tuned to see how things are progressing.
+
+### Morning Hair
+
+sometimes when I wake up in the morning my hair is very poofy. Sometimes I take pictures with my crappy digital camera. It's no [spinning beard picture](/2008/12/16/farewell-beard.html) but it's still pretty funny to look at:
+
+![](https://content.duelingmonkeys.com/filespace/mike/morninghair.jpg)
+_It seemed a lot crazier at the time_
+
+
+
+
+### Opus 17
+
+I sat down with MUSAGI again earlier this week and wrote up a new piece of music. Please enjoy [Opus 17](https://content.duelingmonkeys.com/filespace/mike/Opus17.mp3) (if you can).
+
+Oh yeah, it's also my birthday. I'm now 27. This will be my last birthday that is a whole cube number for a while

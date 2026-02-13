@@ -1,0 +1,66 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches: [main, 'feature/**']
+  pull_request:
+    branches: [main]
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+
+      - name: Build Jekyll site
+        run: JEKYLL_ENV=production bundle exec jekyll build
+
+      - name: Deploy to production
+        if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+        uses: burnett01/rsync-deployments@7.0.1
+        with:
+          switches: -avz --delete-after
+          path: _site/
+          remote_path: ${{ secrets.DEPLOY_PATH }}/live
+          remote_host: ${{ secrets.DEPLOY_HOST }}
+          remote_user: ${{ secrets.DEPLOY_USER }}
+          remote_key: ${{ secrets.DEPLOY_SSH_KEY }}
+
+      - name: Deploy PR preview
+        if: github.event_name == 'pull_request'
+        uses: burnett01/rsync-deployments@7.0.1
+        with:
+          switches: -avz --delete-after
+          path: _site/
+          remote_path: ${{ secrets.DEPLOY_PATH }}/preview/pr-${{ github.event.pull_request.number }}
+          remote_host: ${{ secrets.DEPLOY_HOST }}
+          remote_user: ${{ secrets.DEPLOY_USER }}
+          remote_key: ${{ secrets.DEPLOY_SSH_KEY }}
+
+      - name: Comment PR with preview link
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `🔍 **Preview URL**: https://pr-${{ github.event.pull_request.number }}.duelingmonkeys.com`
+            });
+
+      - name: Deploy feature branch preview
+        if: github.ref != 'refs/heads/main' && github.event_name == 'push'
+        uses: burnett01/rsync-deployments@7.0.1
+        with:
+          switches: -avz --delete-after
+          path: _site/
+          remote_path: ${{ secrets.DEPLOY_PATH }}/preview/branch-${{ github.ref_name }}
+          remote_host: ${{ secrets.DEPLOY_HOST }}
+          remote_user: ${{ secrets.DEPLOY_USER }}
+          remote_key: ${{ secrets.DEPLOY_SSH_KEY }}

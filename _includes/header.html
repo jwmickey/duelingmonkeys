@@ -1,27 +1,22 @@
-<nav class="navbar navbar-default" role="navigation">
-    <div class="container">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header navbar-right">
-            <button type="button" class="dm-navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+<nav class="navbar" role="navigation">
+    <div class="navbar-inner">
+        <div class="navbar-logo">
+            <!-- <button type="button" class="dm-navbar-toggle">
                 <span class="sr-only">Toggle navigation</span>
                 <div class="logo"></div>
-            </button>
-            <a class="navbar-brand" href="/"><ul class="list-inline">
-                <li>Dueling</li>
-                <li class="hidden-xs"><div class="logo"></div></li>
-                <li>Monkeys</li>
-            </ul></a>
+            </button> -->
+            <a class="navbar-brand" href="/">
+                <div>Dueling</div>
+                <div class="hidden-xs"><div class="logo"></div></div>
+                <div>Monkeys</div>
+            </a>
         </div>
 
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav">
-                <li{% if page.nav == 'blog' %} class="active"{% endif %}><a href="/">Blog</a></li>
-                <li{% if page.nav == 'photos' %} class="active"{% endif %}><a href="/gallery/">Gallery</a></li>
-                <li{% if page.nav == 'games' %} class="active"{% endif %}><a href="/games/">Games</a></li>
-                <li{% if page.nav == 'about' %} class="active"{% endif %}><a href="/about/">About</a></li>
-            </ul>
-
-        </div><!-- /.navbar-collapse -->
-    </div><!-- /.container-fluid -->
+        <ul class="nav navbar-nav">
+            <li{% if page.nav == 'blog' %} class="active"{% endif %}><a href="/">Blog</a></li>
+            <li{% if page.nav == 'photos' %} class="active"{% endif %}><a href="/gallery/">Gallery</a></li>
+            <li{% if page.nav == 'games' %} class="active"{% endif %}><a href="/games/">Games</a></li>
+            <li{% if page.nav == 'about' %} class="active"{% endif %}><a href="/about/">About</a></li>
+        </ul>
+    </div>
 </nav>

@@ -1,0 +1,56 @@
+name: Sync Gallery Manifest
+
+# Trigger options:
+# 1. Manual trigger via GitHub UI whenever you add/remove images from S3
+# 2. Optional: Schedule to run daily to catch any S3 changes
+on:
+  workflow_dispatch:  # Manual trigger
+  # Uncomment to run automatically on a schedule:
+  # schedule:
+  #   - cron: '0 2 * * *'  # 2 AM UTC daily
+
+jobs:
+  update-manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+
+      - name: Install aws-sdk-s3 gem
+        run: gem install aws-sdk-s3
+
+      - name: Generate gallery manifest from S3
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: us-east-1  # Change to your bucket's region
+        run: |
+          cd _tools/gallery
+          ruby list.rb > galleries.json
+          cat galleries.json  # Show what was generated
+
+      - name: Upload manifest to S3
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: us-east-1
+        run: |
+          # Install AWS CLI if not available
+          which aws || (curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip" && \
+                        unzip -q awscliv2.zip && \
+                        sudo ./aws/install)
+          
+          # Upload the manifest
+          aws s3 cp _tools/gallery/galleries.json \
+            s3://content.duelingmonkeys.com/gallery/galleries.json \
+            --content-type application/json \
+            --acl public-read \
+            --cache-control "max-age=300"  # 5 min cache
+
+      - name: Summary
+        run: |
+          echo "✅ Gallery manifest regenerated and uploaded to S3"
+          echo "View at: https://content.duelingmonkeys.com/gallery/galleries.json"

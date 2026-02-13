@@ -1,0 +1,58 @@
+.navbar {
+    background-color: #000000;
+    position: relative;
+    margin-bottom: 22px;
+
+    .navbar-inner {
+        position: relative;
+        max-width: 1140px;
+        min-height: 60px;
+        margin: 0 auto;
+        padding: 0 15px;
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: space-between;
+    }
+
+    .navbar-logo {
+        order: 2;
+    }
+
+    .navbar-brand {
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+    }
+
+    div.logo {
+        background: url('/images/DMLogo150.svg') center center no-repeat;
+        border-radius: 50%;
+        height: $navbar-height;
+        width: $navbar-height;
+        background-size: 50px 50px;
+    }
+
+    a {
+        color: #0099FF;
+    }
+
+    ul {
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        li {
+            a {
+                position: relative;
+                display: block;
+                padding: 10px 15px;
+                font-size: 22px;
+                text-decoration: none;
+            }
+        }
+    }
+}

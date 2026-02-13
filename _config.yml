@@ -3,33 +3,12 @@ title: Dueling Monkeys
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.duelingmonkeys.com" # the base hostname & protocol for your site
 comments: true
-plugins: _plugins
-
-gems:
-  - jekyll-gallery-generator
+plugins_dir: _plugins
 
 # Build settings
 markdown: kramdown
 
-exclude: ['Gemfile', 'Gemfile.lock', 'bower.json', 'Vagrantfile', 'provision.sh', 'README.md', 'vendor']
-
-gallery:
-  # path to the gallery
-  dir: gallery
-  # title for gallery index
-  title: "Gallery"
-  # title prefix for gallery page. title=title_prefix+gallery_name
-  title_prefix: "Gallery: "
-  # field to control sorting of galleries for the index page
-  # (possible values are: title, date_time, best_image)
-  sort_field: "date_time"
-  # sizes for thumbnails
-  thumbnail_size:
-    x: 250
-    y: 250
-  galleries:
-    china:
-      best_image: daveimg_0500.jpg
+exclude: ['.ruby-version', 'Gemfile', 'Gemfile.lock', 'Gemfile.lock.backup', 'Dockerfile', 'docker-compose.yml', 'provision.sh', 'README.md', 'vendor']
 
 collections:
   games:

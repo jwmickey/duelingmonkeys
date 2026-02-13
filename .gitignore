@@ -4,7 +4,6 @@ _galleries
 .vagrant
 .idea
 photos
-bower_components
-gallery
 vendor
 .bundle
+tmp/

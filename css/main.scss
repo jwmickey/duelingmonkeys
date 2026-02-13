@@ -20,9 +20,11 @@ $font-size-base: 16px;
 $link-color: #000000;
 $link-hover-color: #FFFFFF;
 $link-hover-decoration: underline;
+$screen-sm-min: 640px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+  "nav",
   "base",
   "syntax-highlighting"
 ;
@@ -70,7 +72,7 @@ a.navbar-brand {
 }
 
 .dm-navbar-toggle {
-  @extend .navbar-toggle;
+  @extend .navbar-toggle !optional;
 
   margin: 0;
   padding: 0;
@@ -130,14 +132,7 @@ div.monkey {
   background: url('/images/DMLogo150.svg') center center no-repeat;
   border-radius: 50%;
 }
-div.logo {
-  @extend .monkey;
 
-  height: $navbar-height;
-  width: $navbar-height;
-  display: inline-block;
-  background-size: 50px 50px;
-}
 
 div.touch-logo {
   @extend .logo;

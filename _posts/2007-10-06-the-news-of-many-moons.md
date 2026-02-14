@@ -15,7 +15,7 @@ I've been moved into my new house for a few months now and I never got around to
 * My [bedroom](https://content.duelingmonkeys.com/gallery/willow/house01.jpg) is pretty much the same as always
 * The best [couch](https://content.duelingmonkeys.com/gallery/willow/house04.jpg) ever
 * My fun [stuff](https://content.duelingmonkeys.com/gallery/willow/house05.jpg)
-* [Front left and](https://content.duelingmonkeys.com/gallery/willow/house06.jpg"front) right":images/gallery/willow/house07.jpg
+* [Front left](https://content.duelingmonkeys.com/gallery/willow/house06.jpg) and [front right](https://content.duelingmonkeys.com/gallery/willow/house07.jpg)
 * [the back](https://content.duelingmonkeys.com/gallery/willow/house08.jpg)
 
 ### Shape Slasher

@@ -213,7 +213,7 @@ function showGallery(gallery) {
         var full = S3_BASE + '/' + gallery.name + '/' + img;
         var thumb = full;
         currentImages.push(full);
-        html += '<a href="' + full + '" data-index="' + i + '">'
+        html += '<a href="#" data-index="' + i + '" data-gallery-image="true">'
             + '<img src="' + thumb + '" alt="' + img + '" loading="lazy">'
             + '</a>';
     }
@@ -224,6 +224,7 @@ function showGallery(gallery) {
     for (var j = 0; j < links.length; j++) {
         links[j].addEventListener('click', function (e) {
             e.preventDefault();
+            e.stopImmediatePropagation();
             openLightbox(parseInt(this.getAttribute('data-index')));
         });
     }

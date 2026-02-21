@@ -25,6 +25,7 @@ require "json"
 BUCKET = "content.duelingmonkeys.com"
 PREFIX = "gallery"
 IMAGE_EXTENSIONS = %w[.jpg .jpeg .png .gif .webp]
+EXCLUDED_GALLERIES = %w[games]
 
 def generate_manifest
   s3 = Aws::S3::Bucket.new(BUCKET)
@@ -38,6 +39,7 @@ def generate_manifest
 
     gallery_name = parts[1]
     next if gallery_name.nil? || gallery_name.empty?
+    next if EXCLUDED_GALLERIES.include?(gallery_name)
     next if parts[2] == "thumbs"
 
     ext = File.extname(parts.last).downcase

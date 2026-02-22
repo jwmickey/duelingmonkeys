@@ -56,3 +56,14 @@
         }
     }
 }
+
+@media (max-width: $screen-sm-min) {
+    .hidden-xs {
+        display: none !important;
+    }
+
+    .navbar ul li a {
+        padding: 10px 8px;
+        font-size: 16px;
+    }
+}
